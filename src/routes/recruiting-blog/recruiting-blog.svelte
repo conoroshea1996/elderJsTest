@@ -1,11 +1,24 @@
 <script>
+  import { request } from 'http';
+
   import { tweened } from 'svelte/motion';
   import { clickOutside } from '../../actions/clickOutside';
+
+  // grab page number from layout
+  let pageNumber = 1;
   const pageSize = 10;
+  let totalPages;
+  let filteredPosts = [];
+  let displayPosts = [];
+
   const paginate = (posts) => {
     // make deep copy so we can mutate categories
     var postToShow = posts.slice(0, pageNumber * pageSize);
     return postToShow;
+  };
+
+  const getTotalPages = (posts) => {
+    totalPages = Math.round(posts.length / pageSize);
   };
 
   export let data, helpers;
@@ -69,7 +82,7 @@
               <a
                 on:click={() => console.log('x')}
                 class:text-gray-900={blogCategories.includes(option.value)}
-                href={`${option.value}`}>
+                href={`/recruiting-blog/${option.value}`}>
                 {option.display}
               </a>
             {:else}
@@ -136,7 +149,8 @@
 
 <!-- Current: "ring-2 ring-offset-2 ring-indigo-500", Default: "focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500" -->
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
-  {#each data.markdown.blog as { frontmatter, slug }, i}
+  {#each data.blogs as { frontmatter, slug }, i}
+    {JSON.stringify(frontmatter)}
     {#if i % pageSize === 0}
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
         <a href={slug}>
