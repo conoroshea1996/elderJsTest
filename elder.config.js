@@ -31,10 +31,10 @@ module.exports = {
       port: 8080,
       reload: false, // if you are having issues with reloading not working, change to true.
     },
-    '@elderjs/plugin-seo-check': {
-      display: ['errors'], // If the errors are too verbose remove 'warnings'
-      //writeLocation: './report.json', // if you want to write a report of errors
-    },
+    // '@elderjs/plugin-seo-check': {
+    //   display: ['errors'], // If the errors are too verbose remove 'warnings'
+    //   //writeLocation: './report.json', // if you want to write a report of errors
+    // },
   },
   shortcodes: { closePattern: '}}', openPattern: '{{' },
 };
