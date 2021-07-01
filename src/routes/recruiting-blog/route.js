@@ -22,16 +22,6 @@ module.exports = {
     { category: '' },
   ],
 
-  request: ({ request }) => {
-    let params;
-
-    if (request.req) {
-      params = JSON.parse(JSON.stringify(request.req.query));
-    }
-
-    console.log(params, 'REQUEST');
-  },
-
   data: ({ data, request }) => {
     const queryParams = request.req ? request.req.query : {};
 
@@ -48,24 +38,18 @@ module.exports = {
     // sort blogs by date
     data.blogs = data.blogs.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
-    if (data.category.length > 0) {
+    if (data.category.length > 0 && !queryParams.s) {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    } else if (data.category.length > 0 && queryParams.s) {
+    } else if (data.category && queryParams.s) {
       // check for any category and also the title
       data.blogs = data.blogs.filter(
         (p) =>
           p.frontmatter.categories.includes(data.category) &&
           p.frontmatter.title.toLowerCase().includes(queryParams.s.toLowerCase()),
       );
+    } else if (!data.category && queryParams.s) {
+      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(queryParams.s.toLowerCase()));
     }
-
-    // if (data.category && !params.s) {
-    //   data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    // }
-
-    // if (!data.category && params.s) {
-    //   data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(params.s.toLowerCase()));
-    // }
 
     return {
       data,
