@@ -22,14 +22,20 @@ module.exports = {
     { category: '' },
   ],
 
-  request: ({ query }) => {},
+  request: ({ request }) => {
+    let params;
+
+    if (request.req) {
+      params = JSON.parse(JSON.stringify(request.req.query));
+    }
+
+    console.log(params, 'REQUEST');
+  },
 
   data: ({ data, request }) => {
-    const urlSearchParams = new URLSearchParams(request.url);
+    const queryParams = request.req ? request.req.query : {};
 
     // params.s for search
-    const params = JSON.parse(JSON.stringify(request.req.query));
-
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
     // in our Svelte template.
@@ -44,28 +50,27 @@ module.exports = {
 
     if (data.category.length > 0) {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    }
-
-    if (data.category && params.s) {
+    } else if (data.category.length > 0 && queryParams.s) {
       // check for any category and also the title
       data.blogs = data.blogs.filter(
         (p) =>
           p.frontmatter.categories.includes(data.category) &&
-          p.frontmatter.title.toLowerCase().includes(params.s.toLowerCase()),
+          p.frontmatter.title.toLowerCase().includes(queryParams.s.toLowerCase()),
       );
     }
 
-    if (data.category && !params.s) {
-      data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    }
+    // if (data.category && !params.s) {
+    //   data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
+    // }
 
-    if (!data.category && params.s) {
-      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(params.s.toLowerCase()));
-    }
+    // if (!data.category && params.s) {
+    //   data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(params.s.toLowerCase()));
+    // }
 
     return {
       data,
       category: request.category,
+      x: queryParams,
     };
   },
 };

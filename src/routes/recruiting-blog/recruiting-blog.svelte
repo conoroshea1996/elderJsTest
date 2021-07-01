@@ -1,6 +1,4 @@
 <script>
-  import { request } from 'http';
-
   import { tweened } from 'svelte/motion';
   import { clickOutside } from '../../actions/clickOutside';
 
@@ -71,7 +69,7 @@
   });
 </script>
 
-{data.s}
+{JSON.stringify(data.x)}
 <div class="py-2 lg:py-4 border-b border-t border-gray-200 lg:flex items-center sm:justify-between relative">
   <div class="flex sm:mt-0 max-w-7xl mx-auto px-10">
     <div class="w-full">
