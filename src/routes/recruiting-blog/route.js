@@ -9,7 +9,7 @@ module.exports = {
       return '/recruiting-blog/';
     }
   }, // because we want more control we use a function for our permalink.
-  // the all function returns an array of all of the 'request' objects of a route. Since this is the homepage, there is only one.
+
   all: async () => [
     { category: 'recruiting-strategy' },
     { category: 'culture-branding' },
@@ -22,8 +22,14 @@ module.exports = {
     { category: '' },
   ],
 
+  request: ({ query }) => {},
+
   data: ({ data, request }) => {
-    console.log(request._parsedUrl);
+    const urlSearchParams = new URLSearchParams(request.url);
+
+    // params.s for search
+    const params = JSON.parse(JSON.stringify(request.req.query));
+
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
     // in our Svelte template.
@@ -40,10 +46,22 @@ module.exports = {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
     }
 
-    // I want to grab query here and filter blogs but title :string;
-    // if(request){
+    if (data.category && params.s) {
+      // check for any category and also the title
+      data.blogs = data.blogs.filter(
+        (p) =>
+          p.frontmatter.categories.includes(data.category) &&
+          p.frontmatter.title.toLowerCase().includes(params.s.toLowerCase()),
+      );
+    }
 
-    // }
+    if (data.category && !params.s) {
+      data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
+    }
+
+    if (!data.category && params.s) {
+      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(params.s.toLowerCase()));
+    }
 
     return {
       data,

@@ -71,6 +71,7 @@
   });
 </script>
 
+{data.s}
 <div class="py-2 lg:py-4 border-b border-t border-gray-200 lg:flex items-center sm:justify-between relative">
   <div class="flex sm:mt-0 max-w-7xl mx-auto px-10">
     <div class="w-full">
@@ -152,7 +153,7 @@
   {#each data.blogs as { frontmatter, slug }, i}
     {#if i % pageSize === 0}
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
-        <a href="/{slug}">
+        <a href={slug}>
           <div class="relative h-full overflow-hidden rounded-lg">
             <img
               loading="lazy"
@@ -176,7 +177,7 @@
       </div>
     {:else if i % pageSize === 1}
       <div class="relative col-span-1 lg:col-span-3 rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href={slug} class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -200,7 +201,7 @@
       </div>
     {:else if i % pageSize === 2 || i % pageSize === 3 || i % pageSize === 4}
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href={slug} class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -224,7 +225,7 @@
       </div>
     {:else if i % pageSize === 5}
       <div class="relative col-span-1 lg:col-span-4 rounded-md h-80">
-        <a href="/{slug}">
+        <a href={slug}>
           <div class="relative h-full overflow-hidden rounded-lg">
             <img
               loading="lazy"
@@ -248,7 +249,7 @@
       </div>
     {:else if i % pageSize === 6}
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href={slug} class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -272,7 +273,7 @@
       </div>
     {:else if i % pageSize === 7 || i % pageSize === 8 || i % pageSize === 9}
       <div class="relative col-span-1 lg:col-span-2  rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href={slug} class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"

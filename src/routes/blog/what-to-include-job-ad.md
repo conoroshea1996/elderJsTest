@@ -1,13 +1,13 @@
 ---
-title: 'What to include in a job ad'
-date: '2018-03-16'
+title: "What to include in a job ad"
+date: "2018-03-16"
 categories:
-  - 'recruiting-strategy'
-slug: 'what-to-include-job-ad'
-seoTitle: 'What to include in a job ad | HireHive Recruiting Software'
-seoDescription: 'Job ads can be challenging to write. At HireHive we have listed a few tips to make that task a whole lot easier. Learn how to write a killer job ad with us!'
-author: 'Orla-Hodnett'
-coverImage: '/images/woman-hand-smartphone-desk.jpg'
+  - "recruiting-strategy"
+slug: "what-to-include-job-ad"
+seoTitle: "What to include in a job ad | HireHive Recruiting Software"
+seoDescription: "Job ads can be challenging to write. At HireHive we have listed a few tips to make that task a whole lot easier. Learn how to write a killer job ad with us!"
+author: "Orla-Hodnett"
+coverImage: "/images/woman-hand-smartphone-desk.jpg"
 ---
 
 _Job ads can be challenging to write. Here's a few tips on what to include in a job ad to make that task a whole lot easier._
@@ -42,7 +42,7 @@ Job ads can often be very similar. While there's some advantage to a predictable
 
 Being able to succinctly explain the role, your organisation, and what you are looking for is at the core of a good job ad.
 
-#### Typical tasks
+#### **Typical tasks**
 
 Closely related to required skills is typical tasks. Again, to get suitable candidates or applications you have to make the requirements of the role clearly understood. Typical tasks give a clear insight of [how your company works](https://hirehive.com/should-your-company-culture-change-your-approach-to-recruiting/) and what would be expected of the successful candidate.
 
