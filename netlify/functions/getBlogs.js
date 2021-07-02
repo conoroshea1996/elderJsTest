@@ -11,10 +11,7 @@ exports.handler = function (event, context, callback) {
   axios
     .get(`https://youthful-mccarthy-ab0370.netlify.app/recruiting-blog?s=${s}`)
     .then((body) => {
-      callback(null, {
-        statusCode: 200,
-        body: body,
-      });
+      console.log(body);
     })
     .catch((ex) => callback(ex));
 };
