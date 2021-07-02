@@ -32,8 +32,8 @@
   //     return true;
   //   });
 
-  let isDark = false;
-  let isHomePage = true;
+  export let isDark = false;
+  export let isHomePage = false;
 </script>
 
 <div class="transition-colors duration-500" class:dark-mode={isDark} class:light-mode={!isDark}>
