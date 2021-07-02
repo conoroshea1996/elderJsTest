@@ -49,6 +49,8 @@
   let widthBarSearch = tweened(0, {
     duration: 250,
   });
+
+
 </script>
 
 <style>

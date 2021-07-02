@@ -82,7 +82,6 @@
           <li class="px-3 animate-fade hidden lg:block" class:fade-out={$widthBarSearch}>
             {#if option.value}
               <a
-                on:click={() => alert('x')}
                 class:text-gray-900={activeCategory == option.value || blogCategories.includes(option.value)}
                 href={`/recruiting-blog/${option.value}`}>
                 {option.display}
