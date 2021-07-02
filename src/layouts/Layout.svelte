@@ -86,8 +86,7 @@
   }
 </style>
 
-{request.req.url}
-<Navbar hydrate-client={{ preload: true }} />
+<Navbar hydrate-client={{ preload: true, url: request.permalink }} />
 
 {@html templateHtml}
 

@@ -32,10 +32,13 @@
   //     return true;
   //   });
 
-  export let isDark = false;
+  export let url;
   export let isHomePage = false;
+
+  const isDark = url === 'plans';
 </script>
 
+{url}
 <div class="transition-colors duration-500" class:dark-mode={isDark} class:light-mode={!isDark}>
   <div>
     <div class="relative">
