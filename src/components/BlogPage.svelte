@@ -58,7 +58,7 @@
   });
 
   const test = async (e) => {
-    if (e.keyCode == 13) {
+    if (e.key === 'Enter') {
       await fetch('https://youthful-mccarthy-ab0370.netlify.app/.netlify/functions/getBlogs?s=top');
     }
   };
