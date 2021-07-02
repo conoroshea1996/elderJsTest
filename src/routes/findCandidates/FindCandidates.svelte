@@ -7,12 +7,12 @@
   <div class="mx-auto max-w-5xl py-14  sm:pt-16 lg:pt-20 lg:pb-28">
     <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-12">
       <div class="z-10 px-2">
-        <p class="mt-4 tracking-tight text-gray-500 font-medium sm:mt-5 lg:mt-6">
-          $_("findCandidatesFeaturePage.subHeading")}
+        <p class="mt-4 tracking-tight text-gray-500 font-medium sm:mt-5 lg:mt-6">Hire</p>
+        <h1 class="mt-6 text-white text-5xl font-bold max-w-xl">Find and attract candidates</h1>
+        <p class="mt-8 text-white">
+          The first step in the hiring process is getting your job in front <br /> of as many potential candidates as
+          possible and getting <br /> the word out there.
         </p>
-        <h1 class="mt-6 text-white text-5xl font-bold max-w-xl">$_("findCandidatesFeaturePage.heading")}</h1>
-
-        <p class="mt-8 text-white">@html $_('findCandidatesFeaturePage.info')}</p>
       </div>
     </div>
   </div>

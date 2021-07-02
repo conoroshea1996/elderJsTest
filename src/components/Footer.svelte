@@ -1,0 +1,102 @@
+<footer class="border-t border-gray-200 px-4" aria-labelledby="footerHeading">
+  <h2 id="footerHeading" class="sr-only">Footer</h2>
+  <div class="max-w-7xl mx-auto pt-12 pb-8  lg:py-20 ">
+    <div class="xl:grid xl:grid-cols-3 xl:gap-8 px-4">
+      <div class="space-y-8 xl:col-span-1">
+        <img class="block h-8 w-auto" src="/assets/Logo.svg" alt="Workflow" />
+        <p class="text-gray-500 text-base">Helping you find and hire the best <br /> candidates for you company.</p>
+        <div class="flex space-x-6">
+          <a href="https://www.facebook.com/HireHiveATS/" class="text-gray-900 hover:text-gray-800"
+            ><span class="sr-only">Facebook</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
+              ><path
+                fill-rule="evenodd"
+                d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
+                clip-rule="evenodd" /></svg
+            ></a>
+
+          <a href="https://www.twitter.com/hirehive" class="text-gray-900 hover:text-gray-800"
+            ><span class="sr-only">Twitter</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
+              ><path
+                d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" /></svg
+            ></a>
+
+          <a href="https://www.linkedin.com/company/hirehive-io/" class="text-gray-900 hover:text-gray-800"
+            ><span class="sr-only">linkedin</span>
+            <svg class="h-6 w-6" viewBox="1.5 4.5 16 16"
+              ><path
+                d="M2.5,20.5h3V10.021h-3V20.5z M13.586,9.844c-1.805,0-2.635,0.959-3.086,1.656v-1.479h-3
+        c0.043,0.958,0,10.479,0,10.479h3l0.022-5.842c0-0.309,0.02-0.611,0.11-0.832c0.246-0.613,0.93-1.326,1.868-1.326
+        c1.23,0,2,0.625,2,2v6h3v-5.996C17.5,11.363,15.822,9.844,13.586,9.844z" /><path
+                d="M3.975,8.5h0.018C4.921,8.5,5.5,7.889,5.5,7.125C5.483,6.343,4.922,5.75,4.011,5.75
+        C3.096,5.75,2.5,6.343,2.5,7.125C2.499,7.889,3.08,8.5,3.975,8.5z" /></svg
+            ></a>
+        </div>
+      </div>
+      <div class="mt-12 grid grid-cols-2 gap-8 xl:mt-0 xl:col-span-2">
+        <div class="md:grid md:grid-cols-2 md:gap-8">
+          <div>
+            <h1 class="text-sm  text-gray-500 tracking-wider uppercase">Features</h1>
+            <ul class="mt-4 space-y-4">
+              <li>
+                <a href="/recruiting-features/find-candidates" class="text-base text-gray-900 hover:text-gray-800"
+                  >Find candidates</a>
+              </li>
+              <li>
+                <a href="/recruiting-features/manage-applications" class="text-base text-gray-900 hover:text-gray-800"
+                  >Manage applications</a>
+              </li>
+              <li>
+                <a href="/recruiting-features/assess-candidates" class="text-base text-gray-900 hover:text-gray-800"
+                  >Assess candidates</a>
+              </li>
+              <li>
+                <a href="/recruiting-features/analyse-reports" class="text-base text-gray-900 hover:text-gray-800"
+                  >Analyse reports</a>
+              </li>
+            </ul>
+          </div>
+          <div class="mt-12 md:mt-0">
+            <h1 class="text-sm text-gray-500 tracking-wider uppercase">Support</h1>
+            <ul class="mt-4 space-y-4">
+              <li><a href="/plans" class="text-base text-gray-900 hover:text-gray-800">Pricing</a></li>
+              <li>
+                <a href="https://help.hirehive.com/" class="text-base text-gray-900 hover:text-gray-800">Help Center</a>
+              </li>
+              <li><a href="#" class="text-base text-gray-900 hover:text-gray-800">Resources</a></li>
+              <li><a href="/recruiting-software-faqs" class="text-base text-gray-900 hover:text-gray-800">FAQ</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="md:grid md:grid-cols-2 md:gap-8">
+          <div>
+            <h1 class="text-sm  text-gray-500 tracking-wider uppercase">company</h1>
+            <ul class="mt-4 space-y-4">
+              <li><a href="/about-hirehive" class="text-base text-gray-900 hover:text-gray-800">About</a></li>
+              <li><a href="/customers" class="text-base text-gray-900 hover:text-gray-800">Customers</a></li>
+              <li><a href="/blog" class="text-base text-gray-900 hover:text-gray-800">Blog</a></li>
+              <li><a href="#" class="text-base text-gray-900 hover:text-gray-800">Updates</a></li>
+            </ul>
+          </div>
+          <div class="mt-12 md:mt-0">
+            <h1 class="text-sm text-gray-500 tracking-wider uppercase">Legal</h1>
+            <ul class="mt-4 space-y-4">
+              <li>
+                <a
+                  href="/eu-general-data-protection-regulation-gdpr"
+                  class="text-base text-gray-900 hover:text-gray-800">GDPR</a>
+              </li>
+              <li><a href="/security" class="text-base text-gray-900 hover:text-gray-800">Security</a></li>
+              <li><a href="/privacy-policy" class="text-base text-gray-900 hover:text-gray-800">Privacy</a></li>
+              <li><a href="/terms-of-service" class="text-base text-gray-900 hover:text-gray-800">Terms</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-gray-200 pt-8">
+      <p class="text-sm text-gray-500">© 2021 Hirehive - Recruiting Software. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

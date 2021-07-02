@@ -2,17 +2,18 @@
   import FeaturesCard from '../../components/FeaturesCard.svelte';
 </script>
 
-<div class="bg-yellow-500 relative">
+<div class="bg-yello-500 relative">
   <img class="absolute inset-0 h-full w-full object-fill" src="/assets/AssessCandidatesBackground.png" alt="" />
   <div class="mx-auto max-w-5xl py-14  sm:pt-16 lg:pt-20 lg:pb-28">
     <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-12">
       <div class="z-10 px-2 text-gray-900">
-        <p class="mt-4 tracking-tight text-gray-500 font-medium sm:mt-5 lg:mt-6">
-          $_('assessCandidatesFeaturePage.subHeading')}
+        <p class="mt-4 tracking-tight text-gray-500 font-medium sm:mt-5 lg:mt-6">Hire</p>
+        <h1 class="mt-6 text-5xl font-bold max-w-xl">Assess candidates</h1>
+        <p class="mt-8">
+          Easily set up phone, online or on-site interviews and invite attendees from across your organisation. Keep
+          track of candidate feedback from all team members for informative hiring decisions. Add unlimited users to
+          your hiring team for collaborative hiring. Easily share a candidate’s profile with team members.
         </p>
-        <h1 class="mt-6 text-5xl font-bold max-w-xl">$_('assessCandidatesFeaturePage.heading')}</h1>
-
-        <p class="mt-8">$_('assessCandidatesFeaturePage.info')}</p>
       </div>
     </div>
   </div>

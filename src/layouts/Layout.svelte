@@ -1,6 +1,6 @@
 <script>
+  import Footer from '../components/Footer.svelte';
   import Navbar from '../components/Navbar.svelte';
-
   export let templateHtml, settings, request;
 </script>
 
@@ -86,8 +86,8 @@
   }
 </style>
 
-<Navbar hydrate-client={{ preload: true, url: request.permalink }} />
+<Navbar hydrate-client={{ preload: true, currentUrl: request.permalink }} />
 
 {@html templateHtml}
 
-<div class="footer">Built with ❤ and <a href="https://elderguide.com/tech/elderjs/">Elder.js</a></div>
+<Footer />

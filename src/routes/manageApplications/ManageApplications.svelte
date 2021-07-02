@@ -2,7 +2,7 @@
   import FeaturesCard from '../../components/FeaturesCard.svelte';
 </script>
 
-<div class="bg-gray-900 relative">
+<div class="bg-yello-500 relative">
   <img class="absolute inset-0 h-full w-full object-fill" src="/assets/ManageApplicationBackground.png" alt="" />
   <div class="mx-auto max-w-5xl py-14  sm:pt-16 lg:pt-20 lg:pb-28">
     <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-12">

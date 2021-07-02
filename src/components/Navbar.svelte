@@ -3,9 +3,9 @@
 
   import { clickOutside } from '../actions/clickOutside';
 
-  //   $: urls = _urls.map((urlOptions) => ({
-  //     name: urlOptions.name,
-  //     active: !!$isActive(urlOptions.url, true) && !featuresMenuOpen,
+  //   $: currentUrls = _currentUrls.map((currentUrlOptions) => ({
+  //     name: currentUrlOptions.name,
+  //     active: !!$isActive(currentUrlOptions.currentUrl, true) && !featuresMenuOpen,
   //   }));
 
   let featuresMenuOpen = false;
@@ -20,7 +20,7 @@
     mobileMenuOpen = false;
   };
 
-  //   $beforeUrlChange((event, store) => {
+  //   $beforecurrentUrlChange((event, store) => {
   //     // close menus before changing route
   //     if (mobileMenuOpen) {
   //       mobileMenuOpen = false;
@@ -32,13 +32,12 @@
   //     return true;
   //   });
 
-  export let url;
-  export let isHomePage = false;
-
-  const isDark = url === 'plans';
+  export let currentUrl;
+  export let isHomePage = currentUrl === '/';
+  const isDark =
+    currentUrl === '/plans/' || (currentUrl.includes('/customers/') && currentUrl.length > '/customers/'.length);
 </script>
 
-{url}
 <div class="transition-colors duration-500" class:dark-mode={isDark} class:light-mode={!isDark}>
   <div>
     <div class="relative">
@@ -78,25 +77,24 @@
           <nav class="hidden lg:flex lg:flex-1 justify-center">
             <div>
               <button
-                on:click={() => (featuresMenuOpen = !featuresMenuOpen)}
                 type="button"
+                on:click={() => (featuresMenuOpen = !featuresMenuOpen)}
                 class="group inline-flex items-center text-base font-medium focus:outline-none focus:ring-2 focus:ring-offset-2"
                 class:text-blue-500={featuresMenuOpen && !isDark}
                 class:text-white={featuresMenuOpen && isDark}
-                aria-expanded="false">
-                <span>[('Navbar.features.name')}</span>
+                aria-expanded="false"
+                ><span>Features</span>
                 <svg
                   class="text-gray-500 ml-2 h-5 w-5 group-hover:text-gray-500"
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
                   fill="currentColor"
-                  aria-hidden="true">
-                  <path
+                  aria-hidden="true"
+                  ><path
                     fill-rule="evenodd"
                     d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-                    clip-rule="evenodd" />
-                </svg>
-              </button>
+                    clip-rule="evenodd" /></svg
+                ></button>
 
               {#if featuresMenuOpen}
                 <div
@@ -110,8 +108,8 @@
                         href="/recruiting-features/find-candidates"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
-                          : 'hover:bg-gray-50'}">
-                        <div class="flex md:h-full lg:flex-col">
+                          : 'hover:bg-gray-50'}"
+                        ><div class="flex md:h-full lg:flex-col">
                           <div class="flex-shrink-0">
                             <div
                               class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-navy text-white sm:h-12 sm:w-12">
@@ -120,25 +118,21 @@
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
-                                stroke="currentColor">
-                                <path
+                                stroke="currentColor"
+                                ><path
                                   stroke-linecap="round"
                                   stroke-linejoin="round"
                                   stroke-width="2"
-                                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                              </svg>
+                                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
                             </div>
                           </div>
                           <div class="ml-4 md:flex-1 md:flex md:flex-col md:justify-between lg:ml-0 lg:mt-4">
                             <div>
-                              <p class="text-base font-medium {isDark ? 'text-white' : 'text-gray-900'}">
-                                [('Navbar.features.findCandidates.name')}
-                              </p>
-                              <p class="mt-1 text-sm">[('Navbar.features.findCandidates.info')}</p>
+                              <p class="text-base font-medium text-gray-900">Find candidates</p>
+                              <p class="mt-1 text-sm">Reach a wider audience with automated posting.</p>
                             </div>
                             <p class="mt-2 text-sm font-medium text-blue-500 lg:mt-4">
-                              [('LearnMore')}
-                              <span aria-hidden="true">&rarr;</span>
+                              Learn More <span aria-hidden="true">→</span>
                             </p>
                           </div>
                         </div>
@@ -172,13 +166,12 @@
                           <div class="ml-4 md:flex-1 md:flex md:flex-col md:justify-between lg:ml-0 lg:mt-4">
                             <div>
                               <p class="text-base font-medium {isDark ? 'text-white' : 'text-gray-900'}">
-                                [('Navbar.features.manageApplications.name')}
+                                Manage applications
                               </p>
-                              <p class="mt-1 text-sm">[('Navbar.features.manageApplications.info')}</p>
+                              <p class="mt-1 text-sm">Move your candidates through a clear hiring pipeline.</p>
                             </div>
                             <p class="mt-2 text-sm font-medium text-blue-500 lg:mt-4">
-                              [('LearnMore')}
-                              <span aria-hidden="true">&rarr;</span>
+                              Learn More<span aria-hidden="true">→</span>
                             </p>
                           </div>
                         </div>
@@ -210,13 +203,14 @@
                           <div class="ml-4 md:flex-1 md:flex md:flex-col md:justify-between lg:ml-0 lg:mt-4">
                             <div>
                               <p class="text-base font-medium {isDark ? 'text-white' : 'text-gray-900'}">
-                                [('Navbar.features.assessCandidates.name')}
+                                Assess candidates
                               </p>
-                              <p class="mt-1 text-sm">[('Navbar.features.assessCandidates.info')}</p>
+                              <p class="mt-1 text-sm">
+                                Add unlimited users to your hiring team for collaborative hiring.
+                              </p>
                             </div>
                             <p class="mt-2 text-sm font-medium text-blue-500 lg:mt-4">
-                              [('LearnMore')}
-                              <span aria-hidden="true">&rarr;</span>
+                              Learn More<span aria-hidden="true">→</span>
                             </p>
                           </div>
                         </div>
@@ -244,13 +238,14 @@
                           <div class="ml-4 md:flex-1 md:flex md:flex-col md:justify-between lg:ml-0 lg:mt-4">
                             <div>
                               <p class="text-base font-medium {isDark ? 'text-white' : 'text-gray-900'}">
-                                [('Navbar.features.analyseReports.name')}
+                                Analyse reports
                               </p>
-                              <p class="mt-1 text-sm">[('Navbar.features.analyseReports.info')}</p>
+                              <p class="mt-1 text-sm">
+                                Review data and make informed data driven recruiting decisions.
+                              </p>
                             </div>
                             <p class="mt-2 text-sm font-medium text-blue-500 lg:mt-4">
-                              [('LearnMore')}
-                              <span aria-hidden="true">&rarr;</span>
+                              Learn More<span aria-hidden="true">→</span>
                             </p>
                           </div>
                         </div>
@@ -293,14 +288,23 @@
               {/if}
             </div>
 
-            <a href="/plans" class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize">
+            <a
+              href="/plans"
+              class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
+              class:text-white={currentUrl === '/plans/'}>
               plans
             </a>
-            <a href="/customers" class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize">
+            <a
+              href="/customers"
+              class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
+              class:text-blue-500={currentUrl === '/customers/'}>
               Customers
             </a>
-            <a href="/recruiting-blog" class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
-              >Blog
+            <a
+              href="/recruiting-blog"
+              class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
+              class:text-blue-500={currentUrl === '/blog/'}>
+              Blog
             </a>
             <a
               href="https://help.hirehive.com/"
@@ -367,7 +371,7 @@
               <div class="mt-6">
                 <nav class="grid gap-y-8">
                   <a
-                    href="/[('Navbar.features.findCandidates.url')}"
+                    href="/[('Navbar.features.findCandidates.currentUrl')}"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-yellow-400 text-gray-900 sm:h-12 sm:w-12">
@@ -390,7 +394,7 @@
                   </a>
 
                   <a
-                    href="/[('Navbar.features.manageApplications.url')}"
+                    href="/[('Navbar.features.manageApplications.currentUrl')}"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-blue-500 text-white sm:h-12 sm:w-12">
@@ -414,7 +418,7 @@
                     </span>
                   </a>
                   <a
-                    href="/[('Navbar.features.assessCandidates.url')}"
+                    href="/[('Navbar.features.assessCandidates.currentUrl')}"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-navy text-white sm:h-12 sm:w-12">
@@ -436,7 +440,7 @@
                     </span>
                   </a>
                   <a
-                    href="/[('Navbar.features.analyseReports.url')}"
+                    href="/[('Navbar.features.analyseReports.currentUrl')}"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-yellow-500 text-white sm:h-12 sm:w-12">
@@ -454,7 +458,7 @@
             </div>
             <div class="py-6 px-5 space-y-6">
               <div class="grid grid-cols-2 gap-y-4 gap-x-8">
-                {#each urls as { name, path, active, href }, i}
+                {#each currentUrls as { name, path, active, href }, i}
                   <a
                     {href}
                     class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize {isDark

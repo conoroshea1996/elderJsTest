@@ -2,17 +2,17 @@
   import FeaturesCard from '../../components/FeaturesCard.svelte';
 </script>
 
-<div class="bg-yellow-500 relative">
+<div class="bg-yello-500 relative">
   <img class="absolute inset-0 h-full w-full object-fill" src="/assets/AnalyseReportsBackground.png" alt="" />
   <div class="mx-auto max-w-5xl py-14  sm:pt-16 lg:pt-20 lg:pb-28">
     <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-12">
       <div class="z-10 px-2 text-gray-900">
-        <p class="mt-4 tracking-tight text-gray-500 font-medium sm:mt-5 lg:mt-6">
-          $_('analyseReportsFeaturePage.subHeading')}
+        <p class="mt-4 tracking-tight text-gray-500 font-medium sm:mt-5 lg:mt-6">Hire</p>
+        <h1 class="mt-6 text-5xl font-bold max-w-xl">Analyse reports</h1>
+        <p class="mt-8">
+          Track and analyse all recruiting data within HireHive. Review data and make informed data driven recruiting
+          decisions. Take manual data entry out of recruiting compliance.
         </p>
-        <h1 class="mt-6 text-5xl font-bold max-w-xl">$_('analyseReportsFeaturePage.heading')}</h1>
-
-        <p class="mt-8">$_('analyseReportsFeaturePage.info')}</p>
       </div>
     </div>
   </div>

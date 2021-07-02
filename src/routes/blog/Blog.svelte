@@ -35,7 +35,10 @@
             <div class="flex lg:hidden justify-start col-span-1 py-4">
               <div class="flex-shrink-0">
                 <a href="#">
-                  <img class="h-10 w-10 rounded-full" src="/author/{frontmatter.author}.png" alt={frontmatter.author} />
+                  <img
+                    class="h-10 w-10 rounded-full"
+                    src="images/author/{frontmatter.author}.png"
+                    alt={frontmatter.author} />
                 </a>
               </div>
               <div class="ml-3">
@@ -58,9 +61,10 @@
 
             <div class="hidden lg:flex justify-end col-span-1 ">
               <div class="flex-shrink-0">
-                <a href="#">
-                  <img class="h-10 w-10 rounded-full" src="/author/{frontmatter.author}.png" alt={frontmatter.author} />
-                </a>
+                <img
+                  class="h-10 w-10 rounded-full"
+                  src="images/author/{frontmatter.author}.png"
+                  alt={frontmatter.author} />
               </div>
               <div class="ml-3">
                 <p class="text-sm font-medium text-gray-900">
@@ -89,11 +93,10 @@
 
         <div class="col-span-1 flex justify-end self-start relative">
           <div class="bg-gray-50 p-6 rounded-md w-full lg:w-9/12 lg:absolute left-1/2">
-            <h1 transition:slide for="NewsLetter" class="text-gray-500 font-extrabold uppercase text-sm">
-              Success check your email
-            </h1>
-            <div transition:slide>
-              <h1 for="NewsLetter" class="text-gray-500 font-extrabold uppercase text-sm">$_('Newsletter.heading')</h1>
+            <div style="">
+              <h1 for="NewsLetter" class="text-gray-500 font-extrabold uppercase text-sm">
+                Subscribe to our Monthly newsletter
+              </h1>
               <form
                 class="mt-6 sm:flex justify-center"
                 name="blogNewsletter"
@@ -105,15 +108,14 @@
                   class="w-full placeholder-gray-500 shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:max-w-xs border border-gray-300 rounded-md px-2"
                   type="email"
                   name="email"
-                  placeholder="$_('Newsletter.search')" />
-                <input type="hidden" name="honeypot" tabIndex={-1} autoComplete="off" />
+                  placeholder="Enter your email" />
+                <input type="hidden" name="honeypot" tabindex="-1" autocomplete="off" />
                 <input type="hidden" name="form-name" value="blogNewsletter" />
                 <div class="mt-3 rounded-md shadow sm:mt-0 sm:ml-3 sm:flex-shrink-0">
                   <button
                     type="submit"
-                    class="w-full flex items-center justify-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
-                    Submitting... ('Newsletter.button')
-                  </button>
+                    class="w-full flex items-center justify-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                    >Subscribe</button>
                 </div>
               </form>
             </div>
