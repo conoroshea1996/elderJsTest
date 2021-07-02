@@ -1,7 +1,7 @@
 <script>
   import Navbar from '../components/Navbar.svelte';
 
-  export let templateHtml, settings;
+  export let templateHtml, settings, request;
 </script>
 
 <style global lang="postcss">
@@ -87,7 +87,7 @@
 </style>
 
 <h1>Bonjour France</h1>
-<Navbar hydrate-client={{ preload: true }} />
+<Navbar hydrate-client={{ preload: true, currentUrl: request.permalink }} />
 
 {@html templateHtml}
 
