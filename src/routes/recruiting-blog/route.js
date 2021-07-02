@@ -6,7 +6,7 @@ module.exports = {
     if (request.category) {
       return `/recruiting-blog/${request.category}`;
     } else {
-      return '/recruiting-blog/';
+      return '/recruiting-blog';
     }
   }, // because we want more control we use a function for our permalink.
 
