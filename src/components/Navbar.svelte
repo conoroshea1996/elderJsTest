@@ -3,13 +3,6 @@
 
   import { clickOutside } from '../actions/clickOutside';
 
-  //   $: isDark = $page.meta.darkPage;
-  //   $: isHomePage = $page.meta.homePage;
-
-  const _urls = [];
-
-  const urls = [];
-
   //   $: urls = _urls.map((urlOptions) => ({
   //     name: urlOptions.name,
   //     active: !!$isActive(urlOptions.url, true) && !featuresMenuOpen,
@@ -40,7 +33,6 @@
   //   });
 
   let isDark = false;
-
   let isHomePage = true;
 </script>
 
@@ -50,7 +42,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6">
         <div class="flex items-center justify-between py-6">
           <div class="flex justify-start lg:w-0 lg:flex-1">
-            <a href="#">
+            <a href="/">
               <span class="sr-only">Hirehive Recruiting software</span>
               {#if isDark}
                 <img class="h-8 w-auto sm:h-10" src="/assets/LogoDark.png" alt="" />
@@ -107,12 +99,12 @@
                 <div
                   use:clickOutside={() => (featuresMenuOpen = false)}
                   transition:slide={{ duration: 350 }}
-                  class="absolute z-50 mt-8 transform px-2 sm:px-0 lg:ml-0 lg:left-1/2 lg:-translate-x-1/2 w-full">
+                  class="absolute z-50 mt-8 transform px-2 sm:px-0 lg:ml-0 lg:left-1/2 lg:-translate-x-1/2 w-full bg-white">
                   <div class="w-full" class:dark-mode={isDark} class:light-mode={!isDark}>
                     <div
                       class="max-w-7xl mx-auto grid gap-y-6 px-4 py-6 sm:grid-cols-2 sm:gap-8 sm:px-6 sm:py-8 lg:grid-cols-4 lg:px-8 lg:py-12 xl:py-16">
                       <a
-                        href="/[('Navbar.features.findCandidates.url')}"
+                        href="/recruiting-features/find-candidates"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -150,7 +142,7 @@
                       </a>
 
                       <a
-                        href="/[('Navbar.features.manageApplications.url')}"
+                        href="/recruiting-features/manage-applications"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -190,7 +182,7 @@
                       </a>
 
                       <a
-                        href="/[('Navbar.features.assessCandidates.url')}"
+                        href="/recruiting-features/assess-candidates"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -228,7 +220,7 @@
                       </a>
 
                       <a
-                        href="/[('Navbar.features.analyseReports.url')}"
+                        href="/recruiting-features/analyse-reports"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -298,16 +290,20 @@
               {/if}
             </div>
 
-            {#each urls as { name, path, active, href }, i}
-              <a
-                {href}
-                class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
-                class:text-blue-500={active && !isDark}
-                class:text-white={active && isDark}
-                use:prefetch>
-                {name}
-              </a>
-            {/each}
+            <a href="/plans" class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize">
+              plans
+            </a>
+            <a href="/customers" class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize">
+              Customers
+            </a>
+            <a href="/recruiting-blog" class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
+              >Blog
+            </a>
+            <a
+              href="https://help.hirehive.com/"
+              class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize">
+              Support
+            </a>
           </nav>
           <div class="hidden lg:flex items-center justify-end space-x-6 lg:flex-1 lg:w-0">
             <a
@@ -339,7 +335,7 @@
             class:light-mode={!isDark}>
             <div class="pt-5 pb-6 px-5">
               <div class="flex items-center justify-between">
-                <a href="#">
+                <a href="/">
                   {#if isDark}
                     <img class="h-8 w-auto " src="/assets/LogoDark.png" alt="" />
                   {:else}

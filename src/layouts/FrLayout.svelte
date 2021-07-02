@@ -86,6 +86,7 @@
   }
 </style>
 
+<h1>Bonjour France</h1>
 <Navbar hydrate-client={{ preload: true }} />
 
 {@html templateHtml}

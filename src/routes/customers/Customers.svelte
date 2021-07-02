@@ -32,7 +32,7 @@
         </div>
         <div>
           <a
-            href="#"
+            href="/customers/{data.mainStory.slug}"
             class="mt-14 align-self bg-blue-500 border border-transparent rounded-md shadow px-5 py-2 inline-flex items-center text-base font-medium text-white hover:bg-blue-400">
             Read the story
           </a>
