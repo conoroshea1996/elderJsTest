@@ -1,6 +1,6 @@
 <script>
-  import Accordion from '../Accordion.svelte';
-  import AccordionItem from '../AccordionItem.svelte';
+  import Accordion from './Accordion.svelte';
+  import AccordionItem from './AccordionItem.svelte';
   const openChatSupport = () => {
     Beacon('open');
     Beacon('navigate', '/ask/message/');
