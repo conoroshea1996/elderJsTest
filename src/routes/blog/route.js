@@ -16,7 +16,6 @@ module.exports = {
     const blogIndex = data.markdown.blog.findIndex((p) => p.frontmatter.title === request) + 1;
     data.ReadAlsoBlogs = data.markdown.blog.slice(blogIndex, blogIndex + numberofReadAlsos);
 
-    console.log(data.ReadAlsoBlogs);
     return { data };
   },
   all: () => [],
