@@ -1,6 +1,6 @@
 <script>
-  import Navbar from '../components/Navbar.svelte';
-
+  import FrNavbar from '../components/Navbar/FrNavbar.svelte';
+  import FrFooter from '../components/Footer/FrFooter.svelte';
   export let templateHtml, settings, request;
 </script>
 
@@ -73,9 +73,8 @@
   @tailwind utilities;
 </style>
 
-<h1>Bonjour France</h1>
-<Navbar hydrate-client={{ preload: true, currentUrl: request.permalink }} />
+<FrNavbar hydrate-client={{ preload: true, currentUrl: request.permalink }} />
 
 {@html templateHtml}
 
-<div class="footer">Built with ❤ and <a href="https://elderguide.com/tech/elderjs/">Elder.js</a></div>
+<FrFooter />

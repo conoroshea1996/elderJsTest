@@ -74,7 +74,7 @@
           type="button"
           class="absolute bg-white border bottom-0 font-medium inline-flex items-center px-4 py-2 sm:px-9 sm:py-4 right-1/2 rounded-full shadow-md text-gray-900 transform translate-x-1/2 translate-y-1/2 focus:outline-none">
           <img class="-ml-1 mr-2 h-8 w-8" src="/assets/Play.svg" alt="play" />
-          <span class="text-lg font-medium"> [('home.watch')} </span>
+          <span class="text-lg font-medium">Watch: HireHive in 90 seconds </span>
         </button>
       </div>
     </div>
