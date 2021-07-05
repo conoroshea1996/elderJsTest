@@ -3,6 +3,8 @@
   import { tweened } from 'svelte/motion';
 
   export let activeCategory;
+
+  export let blogCategoriesForBlog = [];
   let blogCategories = [
     {
       display: 'All',
@@ -49,8 +51,6 @@
   let widthBarSearch = tweened(0, {
     duration: 250,
   });
-
-
 </script>
 
 <style>
@@ -71,8 +71,7 @@
           <li class="px-3 animate-fade hidden lg:block" class:fade-out={$widthBarSearch}>
             {#if option.value}
               <a
-                on:click={() => console.log('x')}
-                class:text-gray-900={activeCategory == option.value || blogCategories.includes(option.value)}
+                class:text-gray-900={activeCategory == option.value || blogCategoriesForBlog.includes(option.value)}
                 href={`/recruiting-blog/${option.value}`}>
                 {option.display}
               </a>
@@ -115,7 +114,7 @@
               class:bg-white={$widthBarSearch}
               class:pl-10={$widthBarSearch}
               placeholder="search blogs"
-              on:keydown={(e) => console.log(e)} />
+              on:keydown={(e) => test(e)} />
 
             {#if $widthBarSearch}
               <div

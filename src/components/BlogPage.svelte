@@ -1,6 +1,7 @@
 <script>
   import { clickOutside } from '../actions/clickOutside';
   import { tweened } from 'svelte/motion';
+  import BlogNavigation from './BlogNavigation.svelte';
   export let helpers;
 
   // grab page number from layout
@@ -74,80 +75,7 @@
   }
 </style>
 
-<div class="py-2 lg:py-4 border-b border-t border-gray-200 lg:flex items-center sm:justify-between relative">
-  <div class="flex sm:mt-0 max-w-7xl mx-auto px-10">
-    <div class="w-full">
-      <ul
-        class="flex text-sm justify-end lg:justify-center items-center text-gray-500 font-rozanonva font-bold flex-wrap uppercase">
-        {#each blogCategories as option}
-          <li class="px-3 animate-fade hidden lg:block" class:fade-out={$widthBarSearch}>
-            {#if option.value}
-              <a
-                class:text-gray-900={activeCategory == option.value || blogCategories.includes(option.value)}
-                href={`/recruiting-blog/${option.value}`}>
-                {option.display}
-              </a>
-            {:else}
-              <a class="px-3" href="/recruiting-blog" class:text-gray-900={!activeCategory}>
-                {option.display}
-              </a>
-            {/if}
-          </li>
-        {/each}
-
-        <div class="w-full lg:w-1 z-10" use:clickOutside={() => widthBarSearch.set(0)}>
-          <div
-            class="relative rounded-md shadow-sm float-right {$widthBarSearch ? '-right-6' : ''}"
-            style="width:{$widthBarSearch}px;">
-            <div
-              class="absolute inset-y-0 left-0 flex items-center cursor-pointer"
-              on:click={() => widthBarSearch.set(320)}>
-              <svg
-                class="h-5 w-5 text-gray-900"
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor">
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-            </div>
-
-            <input
-              type="text"
-              name="search"
-              id="search"
-              class="block bg-transparent  sm:text-sm w-full border-gray-900 box-border h-8 outline-none font-sans"
-              autocomplete="off"
-              class:border-b={$widthBarSearch}
-              class:bg-white={$widthBarSearch}
-              class:pl-10={$widthBarSearch}
-              placeholder="search blogs"
-              on:keydown={(e) => test(e)} />
-
-            {#if $widthBarSearch}
-              <div
-                class="absolute inset-y-0 right-0 flex items-center cursor-pointer"
-                on:click={() => widthBarSearch.set(0)}>
-                <svg
-                  class="h-5 w-5 text-gray-900"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              </div>
-            {/if}
-          </div>
-        </div>
-      </ul>
-    </div>
-  </div>
-</div>
+<BlogNavigation {activeCategory} />
 
 <!-- Current: "ring-2 ring-offset-2 ring-indigo-500", Default: "focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500" -->
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
@@ -301,76 +229,25 @@
 </div>
 
 <div class="bg-navy py-16 my-8">
-  <h1 on:click={() => {}} class="text-center text-white text text-3xl font-bold cursor-pointer">$_('Loadmore')</h1>
+  <h1 on:click={() => {}} class="text-center text-white text text-3xl font-bold cursor-pointer">Load more</h1>
 </div>
 
 <div class="bg-white py-20 px-4">
   <div class=" max-w-7xl  mx-auto  lg:flex lg:items-center lg:justify-between">
     <h2 class="text-2xl font-bold text-gray-900 font-rozanonva sm:text-3xl">
-      <!-- {@html $_('blog.cta.heading')} -->
+      Thousands of businesses rely upon HireHive <br /> to help them find and hire the best candidates.
     </h2>
     <div class="mt-8 flex lg:mt-0 items-center lg:flex-shrink-0">
       <button
-        class="bg-blue-500 rounded-md inline-flex items-center ml-10 px-3 py-2 border border-transparent bg-transparent text-white text-lg">
-        $_('SignUp')}
-        <svg
+        class="bg-blue-500 rounded-md inline-flex items-center ml-10 px-3 py-2 border border-transparent bg-transparent text-white text-lg"
+        >Sign Up <svg
           class="h-5 w-5 ml-4 mt-1"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-        </svg>
-      </button>
-    </div>
-  </div>
-
-  <div id="companies-banner" class="mx-auto max-w-7xl box-border py-12 lg:pb-24 lg:pt-32">
-    <div class="grid grid-cols-2 gap-8  lg:grid-cols-6">
-      <div class="col-span-1 flex self-center">
-        <img src="/assets/logoCurrencyfairLightGray.svg" loading="lazy" alt="Currency Fair" />
-      </div>
-
-      <div class="col-span-1 flex self-center">
-        <img src="/assets/logoLufthansaInTouchLightGray.svg" loading="lazy" alt="lufthansaintouch" />
-      </div>
-
-      <div class="col-span-1 flex self-center">
-        <img src="/assets/logoFireLightGray.svg" alt="fire" loading="lazy" />
-      </div>
-
-      <div class="col-span-1 flex   self-center">
-        <img src="/assets/logoBluefaceLightGray.svg" alt="bordbia" loading="lazy" />
-      </div>
-
-      <div class="col-span-1 flex self-center">
-        <img src="/assets/logoStormLightGray.svg" alt="bordbia" loading="lazy" />
-      </div>
-
-      <div class="col-span-1 flex lg:justify-center self-center">
-        <img src="/assets/logoBearingpointLightGray.svg" alt="bearingpoint" loading="lazy" />
-      </div>
-    </div>
-  </div>
-</div>
-<!-- Current: "ring-2 ring-offset-2 ring-indigo-500", Default: "focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500" -->
-
-<div class="bg-white py-20 px-4">
-  <div class=" max-w-7xl  mx-auto  lg:flex lg:items-center lg:justify-between">
-    <h2 class="text-2xl font-bold text-gray-900 font-rozanonva sm:text-3xl" />
-    <div class="mt-8 flex lg:mt-0 items-center lg:flex-shrink-0">
-      <button
-        class="bg-blue-500 rounded-md inline-flex items-center ml-10 px-3 py-2 border border-transparent bg-transparent text-white text-lg">
-        $_('SignUp')}
-        <svg
-          class="h-5 w-5 ml-4 mt-1"
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-        </svg>
-      </button>
+          stroke="currentColor"
+          ><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg
+        ></button>
     </div>
   </div>
 

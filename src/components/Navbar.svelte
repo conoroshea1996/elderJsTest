@@ -279,7 +279,7 @@
                               stroke-width="2"
                               d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                           </svg>
-                          <span class="ml-3 {isDark ? 'text-white ' : 'text-gray-900'}">[('Navbar.watch')}</span>
+                          <span class="ml-3 {isDark ? 'text-white ' : 'text-gray-900'}">Watch HireHive in 90 secs</span>
                         </a>
                       </div>
                     </div>

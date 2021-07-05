@@ -1,4 +1,8 @@
-<div id="signUp" class="py-20 px-4">
+<script>
+  export let isLightGray;
+</script>
+
+<div id="signUp" class="py-20 px-4" class:bg-gray-50={isLightGray}>
   <div class="max-w-3xl mx-auto">
     <h1 class="text-4xl text-gray-900 font-bold text-center">
       Join over 1,000 companies who streamlined their hiring process with HireHive

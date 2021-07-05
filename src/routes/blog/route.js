@@ -11,7 +11,14 @@ module.exports = {
 
   // This is telling the simple markdown plugin, which route to control.
 
-  data: {},
+  data: ({ data, request }) => {
+    const numberofReadAlsos = 3;
+    const blogIndex = data.markdown.blog.findIndex((p) => p.frontmatter.title === request) + 1;
+    data.ReadAlsoBlogs = data.markdown.blog.slice(blogIndex, blogIndex + numberofReadAlsos);
+
+    console.log(data.ReadAlsoBlogs);
+    return { data };
+  },
   all: () => [],
   permalink: '/:slug/',
 };

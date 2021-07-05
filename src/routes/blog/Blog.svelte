@@ -1,4 +1,7 @@
 <script>
+  import SignUpCta from '../../components/SignUpCta.svelte';
+  import BlogNavigation from '../../components/BlogNavigation.svelte';
+
   export let data, request; // data is mainly being populated from the @elderjs/plugin-markdown
   const { html, frontmatter } = data;
 </script>
@@ -11,7 +14,7 @@
   {/if}
 </svelte:head>
 
-<!-- <BlogNavigatior {blogCategories} /> -->
+<BlogNavigation hydrate-client={{ blogCategoriesForBlog: frontmatter.categories }} />
 
 <div class="min-h-screen">
   <div class="relative overflow-hidden">
@@ -127,20 +130,49 @@
 
   <div class="bg-navy py-16">
     <div class="max-w-5xl mx-auto lg:flex lg:items-center lg:justify-between px-4">
-      <h2 class="text-1xl font-bold tracking-tight text-white sm:text-3xl font-rozanonva">@html $_('Cta.heading')</h2>
+      <h2 class="text-1xl font-bold tracking-tight text-white sm:text-3xl font-rozanonva">
+        <span class="text-yellow-400"> Arrange a product tour today </span> and start using <br /> recruiting software
+        that helps you find and hire <br /> the best candidates.
+      </h2>
       <div class="mt-8 flex lg:mt-0 items-center lg:flex-shrink-0">
         <button
           class="bg-blue-500 rounded-md inline-flex items-center ml-10 px-3 py-2 border border-transparent bg-transparent text-white text-lg">
-          $_('TryItForFree')
+          Try It For Free
         </button>
       </div>
     </div>
   </div>
 
   <div class="pt-24 pb-20 max-w-5xl mx-auto px-4">
-    <h1 class="text-gray-500 text-5xl">$_('ReadAlso')</h1>
-    <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 mx-auto" />
+    <h1 class="text-gray-500 text-5xl">Read also</h1>
+    <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 mx-auto">
+      {#each data.ReadAlsoBlogs as { frontmatter, slug }}
+        <div class="relative col-span-1 lg:col-span-2 rounded-md">
+          <a href="/{slug}" class="flex flex-col overflow-hidden">
+            <div class="flex-shrink-0">
+              <img
+                loading="lazy"
+                class="h-48 w-full object-cover rounded-lg"
+                src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
+                alt={frontmatter.slug} />
+            </div>
+            <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+              <div class="flex-1">
+                <p class="text-sm font-medium text-gray-500 capitalize">
+                  {frontmatter.categories.map((c) => c.replace(/-/g, ' ')).join(' | ')}
+                </p>
+                <div href="#" class="block mt-2">
+                  <h1 class="text-gray-900">
+                    {frontmatter.title}
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      {/each}
+    </div>
   </div>
 </div>
 
-<!-- <SignUpCta isLightGray /> -->
+<SignUpCta hydrate-client={{ isLightGray: true }} />
