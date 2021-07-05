@@ -1,5 +1,5 @@
 <script>
-  import FAQ from '../../components/FAQ/FAQ.svelte';
+  import FAQ from '../../components/FAQ.svelte';
   import PricingPlans from '../../components/PricingPlans.svelte';
 </script>
 

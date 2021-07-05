@@ -1,5 +1,5 @@
 <script>
-  import FrNavbar from '../components/Navbar/FrNavbar.svelte';
+  import FrNavbar from '../components/FrNavbar.svelte';
   import FrFooter from '../components/FrFooter.svelte';
   export let templateHtml, settings, request;
 </script>

@@ -1,7 +1,7 @@
 <script>
   import { slide } from 'svelte/transition';
 
-  import { clickOutside } from '../../actions/clickOutside';
+  import { clickOutside } from '../actions/clickOutside';
 
   //   $: currentUrls = _currentUrls.map((currentUrlOptions) => ({
   //     name: currentUrlOptions.name,

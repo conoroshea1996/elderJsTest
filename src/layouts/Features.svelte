@@ -1,5 +1,5 @@
 <script>
-  import Footer from '../components/Footer/Footer.svelte';
+  import Footer from '../components/Footer.svelte';
   import Navbar from '../components/Navbar.svelte';
   export let templateHtml, settings, request;
 </script>

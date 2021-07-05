@@ -1,6 +1,6 @@
 <script>
   import FeaturesCard from '../../components/FeaturesCard.svelte';
-  import FeaturesPanel from '../../components/FeaturesPanel/FeaturesPanel.svelte';
+  import FeaturesPanel from '../../components/FeaturesPanel.svelte';
   import FrFeaturesPanel from '../../components/FRFeaturesPanel.svelte';
   import SignUpCta from '../../components/SignUpCta.svelte';
 

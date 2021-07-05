@@ -1,5 +1,5 @@
 <script>
-  import BlogNavigation from './Blog/FRBlogNavigation.svelte';
+  import BlogNavigation from './FRBlogNavigation.svelte';
   export let helpers;
 
   // grab page number from layout

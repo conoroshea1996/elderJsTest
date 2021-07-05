@@ -1,5 +1,5 @@
 <script>
-  import BlogPage from '../../components/Blog/BlogPage.svelte';
+  import BlogPage from '../../components/BlogPage.svelte';
 
   // grab page number from layout
   let pageNumber = 1;
