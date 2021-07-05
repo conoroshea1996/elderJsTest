@@ -1,6 +1,6 @@
 <script>
   import FAQ from '../../components/FAQ/FAQ.svelte';
-  import PricingPlans from '../../components/Plans/PricingPlans.svelte';
+  import PricingPlans from '../../components/PricingPlans.svelte';
 </script>
 
 <PricingPlans hydrate-client={{}} />

@@ -1,5 +1,5 @@
 <script>
-  import FrBlogPage from '../../components/Blog/FRBlogPage.svelte';
+  import FrBlogPage from '../../components/FRBlogPage.svelte';
   export let data, helpers;
 </script>
 

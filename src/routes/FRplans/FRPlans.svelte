@@ -1,5 +1,5 @@
 <script>
-  import Frfaq from '../../components/FAQ/FRFAQ.svelte';
+  import Frfaq from '../../components/FRFAQ.svelte';
   import FRPricingPlans from '../../components/Plans/FRPricingPlans.svelte';
 </script>
 

@@ -1,6 +1,6 @@
 <script>
   import FeaturesCard from '../../components/FeaturesCard.svelte';
-  import FrFeaturesPanel from '../../components/FeaturesPanel/FrFeaturesPanel.svelte';
+  import FrFeaturesPanel from '../../components/FRFeaturesPanel.svelte';
 
   export let request;
 </script>

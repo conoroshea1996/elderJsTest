@@ -1,7 +1,7 @@
 <script>
   import FeaturesCard from '../../components/FeaturesCard.svelte';
   import FeaturesPanel from '../../components/FeaturesPanel/FeaturesPanel.svelte';
-  import FrFeaturesPanel from '../../components/FeaturesPanel/FrFeaturesPanel.svelte';
+  import FrFeaturesPanel from '../../components/FRFeaturesPanel.svelte';
   import SignUpCta from '../../components/SignUpCta.svelte';
 
   export let request;
