@@ -1,6 +1,6 @@
 <script>
   import FeaturesCard from '../../components/FeaturesCard.svelte';
-  import FrFeaturesPanel from '../../components/FeaturesPanel/FrFeaturesPanel.svelte';
+  import FRFeaturesPanel from '../../components/FeaturesPanel/FRFeaturesPanel.svelte';
   export let request;
 </script>
 
@@ -168,4 +168,4 @@
   </div>
 </div>
 
-<FrFeaturesPanel hydrate-client={{ url: request.permalink }} />
+<FRFeaturesPanel hydrate-client={{ url: request.permalink }} />
