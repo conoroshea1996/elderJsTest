@@ -1,3 +1,5 @@
+const { hookInterface, hookEntityDefinitions } = require('@elderjs/elderjs');
+
 module.exports = {
   // WARNING: Here be dragons and magic of all sorts.
 
@@ -11,7 +13,14 @@ module.exports = {
 
   // This is telling the simple markdown plugin, which route to control.
 
-  data: {},
+  data: ({ data }) => {
+    // The data function populates what data should be in available in our Svelte template.
+    // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
+    // in our Svelte template.
+    data.hookInterface = hookInterface;
+    data.hookEntityDefinitions = hookEntityDefinitions;
+    return data;
+  },
   all: () => [{ slug: 'recruiting-features/find-candidates' }],
   permalink: '/:slug/',
 };

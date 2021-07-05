@@ -77,11 +77,13 @@
       @apply text-center block -mt-6 text-sm text-gray-500;
     }
     .customer-story > h4 {
-      @apply text-gray-900 text-3xl;
+      @apply text-gray-900 text-3xl my-4;
     }
-
     .customer-story * blockquote > p {
-      @apply text-gray-900 text-xl;
+      @apply text-gray-900 text-xl my-2;
+    }
+    .customer-story > p {
+      @apply my-2;
     }
   }
 </style>

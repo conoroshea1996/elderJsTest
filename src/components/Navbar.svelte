@@ -318,13 +318,13 @@
               class="whitespace-nowrap text-base font-medium border bg-white  py-2 px-4 rounded-md {isDark
                 ? 'text-white bg-opacity-10 border-transparent'
                 : 'text-gray-500'}">
-              [('LogIn')}
+              Log In
             </a>
             {#if !isHomePage}
               <a
                 href="https://my.hirehive.io/register"
                 class="whitespace-nowrap border border-transparent rounded-md shadow-sm py-2 px-4 inline-flex items-center justify-center text-base font-medium text-white bg-blue-500">
-                [('TryItForFree')}
+                Try It For Free
               </a>
             {/if}
           </div>

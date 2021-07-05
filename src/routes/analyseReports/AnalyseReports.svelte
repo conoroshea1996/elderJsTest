@@ -1,5 +1,8 @@
 <script>
   import FeaturesCard from '../../components/FeaturesCard.svelte';
+  import FeaturesPanel from '../../components/FeaturesPanel/FeaturesPanel.svelte';
+
+  export let request;
 </script>
 
 <div class="bg-yello-500 relative">
@@ -23,7 +26,7 @@
   <div class="relative py-12 mt-8">
     <div class="text-center">
       <h2 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
-        $_('analyseReportsFeaturePage.Analytics.title')}
+        Recruiting analytics & detailed reports
       </h2>
     </div>
     <div class="mt-12 px-4 lg:px-0 mx-auto flex flex-col lg:flex-row gap-12 lg:max-w-none">
@@ -31,9 +34,13 @@
 
       <FeaturesCard>
         <svelte:fragment slot="text">
-          <p class="text-xl font-semibold text-gray-900 mt-2">$_('analyseReportsFeaturePage.Analytics.Track.title')}</p>
-          <p class="mt-3 text-base text-gray-500">$_('analyseReportsFeaturePage.Analytics.Track.description')}</p>
-          <p class="mt-3 text-base text-gray-500">$_('analyseReportsFeaturePage.Analytics.Track.descriptionTwo')}</p>
+          <p class="text-xl font-semibold text-gray-900 mt-2">Track application sources</p>
+          <p class="mt-3 text-base text-gray-500">
+            Find out where your candidates are coming from and what channels are performing best.
+          </p>
+          <p class="mt-3 text-base text-gray-500">
+            Get detailed information for specific jobs and see your conversion rate of applications.
+          </p>
         </svelte:fragment>
 
         <svelte:fragment slot="image">
@@ -43,13 +50,14 @@
 
       <FeaturesCard>
         <svelte:fragment slot="text">
-          <p class="text-xl font-semibold text-gray-900 mt-2">
-            $_('analyseReportsFeaturePage.Analytics.Reports.title')}
-          </p>
+          <p class="text-xl font-semibold text-gray-900 mt-2">Progress reports</p>
 
-          <p class="mt-3 text-base text-gray-500">$_('analyseReportsFeaturePage.Analytics.Reports.description')}</p>
+          <p class="mt-3 text-base text-gray-500">
+            See where your candidates are at. Select a job and date range and get detailed information on how many
+            candidates are at each stage of the hiring process.
+          </p>
           <p class="text-sm font-medium text-blue-500 mt-2">
-            <a href="#" class="hover:underline"> $_('ReadMore')} </a>
+            <a href="#" class="hover:underline">Read more </a>
           </p>
         </svelte:fragment>
 
@@ -65,11 +73,16 @@
     <div
       class="space-y-4 sm:grid sm:grid-cols-1 sm:gap-6 sm:space-y-0 lg:grid-cols-2 lg:gap-12 border border-gray-100 overflow-hidden rounded-lg">
       <div class="p-12">
-        <h2 class="text-xl font-extrabold text-gray-900 my-4">$_('analyseReportsFeaturePage.Export.title')}</h2>
+        <h2 class="text-xl font-extrabold text-gray-900 my-4">Candidate export and advanced hiring data reports</h2>
 
-        <p class="my-4 text-base text-gray-500">$_('analyseReportsFeaturePage.Export.description')}</p>
+        <p class="my-4 text-base text-gray-500">
+          Want to continue working with your data in Excel? No problem, easily export all candidate data to a .csv file.
+        </p>
 
-        <p class="my-4 text-base text-gray-500">$_('analyseReportsFeaturePage.Export.descriptionTwo')}</p>
+        <p class="my-4 text-base text-gray-500">
+          US companies that meet certain criteria are required to submit an EEO-1 report each year. HireHive helps you
+          automate this process and allows you to review and export all data collected.
+        </p>
       </div>
 
       <div class="px-6 bg-yellow-100">
@@ -81,12 +94,10 @@
   <!-- Section -->
   <div class="relative py-12 mt-8">
     <div class="text-center">
-      <h2 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
-        $_('analyseReportsFeaturePage.Compliance.title')}
-      </h2>
+      <h2 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">Recruitment Compliance Reports</h2>
 
       <p class="mt-3 max-w-3xl mx-auto text-lg text-gray-500 sm:mt-4">
-        $_('analyseReportsFeaturePage.Compliance.subHeading')}
+        Take manual data entry out of recruiting compliance
       </p>
     </div>
     <div class="mt-12 px-4 lg:px-0 mx-auto flex flex-col lg:flex-row gap-12 lg:max-w-none">
@@ -96,12 +107,13 @@
           <div class="bg-white p-6 flex flex-col justify-between">
             <div class="px-10">
               <div class="block mt-2">
-                <p class="text-xl font-semibold text-gray-900 mt-2">
-                  $_('analyseReportsFeaturePage.Compliance.EEO.title')}
-                </p>
-                <p class="mt-3 text-base text-gray-500">$_('analyseReportsFeaturePage.Compliance.EEO.description')}</p>
+                <p class="text-xl font-semibold text-gray-900 mt-2">EEO and OFCCP</p>
                 <p class="mt-3 text-base text-gray-500">
-                  $_('analyseReportsFeaturePage.Compliance.EEO.descriptionTwo')}
+                  If your organisation has more than 15+ staff in the USA or you’re a contractor or subcontractor for
+                  the US government, you will need to comply with the EEO laws and OFCCP regulations.
+                </p>
+                <p class="mt-3 text-base text-gray-500">
+                  With HireHive you can collect and track your hiring data, to automatically create compliance reports.
                 </p>
               </div>
             </div>
@@ -114,14 +126,15 @@
           <div class="bg-white p-6 flex flex-col justify-between">
             <div class="px-10">
               <div class="block mt-2">
-                <p class="text-xl font-semibold text-gray-900 mt-2">
-                  $_('analyseReportsFeaturePage.Compliance.CollectData.title')}
+                <p class="text-xl font-semibold text-gray-900 mt-2">Collecting data</p>
+                <p class="mt-3 text-base text-gray-500">
+                  Setting up your company for the EEO survey and including OFCCP reports is just a simple switch in your
+                  account settings.
                 </p>
                 <p class="mt-3 text-base text-gray-500">
-                  $_('analyseReportsFeaturePage.Compliance.CollectData.description')}
-                </p>
-                <p class="mt-3 text-base text-gray-500">
-                  $_('analyseReportsFeaturePage.Compliance.CollectData.descriptionTwo')}
+                  Then each time you post a job with HireHive your company careers site will display an Equal
+                  Opportunity Employer disclaimer at the bottom of your site. Candidates will have the option to fill
+                  out the voluntary EEO survey immediately after applying for a job.
                 </p>
               </div>
             </div>
@@ -135,12 +148,11 @@
         <div class="bg-white p-6 flex flex-col justify-between">
           <div class="px-10">
             <div class="block mt-2">
-              <p class="text-xl font-semibold text-gray-900 mt-2">
-                $_('analyseReportsFeaturePage.Compliance.Automate.title')}
-              </p>
+              <p class="text-xl font-semibold text-gray-900 mt-2">Automated Hiring Compliance Reports</p>
 
               <p class="mt-3 text-base text-gray-500">
-                $_('analyseReportsFeaturePage.Compliance.Automate.description')}
+                HireHive stores the data submitted by your candidates and hiring teams to produce compliant reports.
+                View these reports within HireHive, or export your data into a .csv format.
               </p>
             </div>
           </div>
@@ -149,3 +161,5 @@
     </div>
   </div>
 </div>
+
+<FeaturesPanel hydrate-client={{ url: request.permalink }} />

@@ -71,19 +71,6 @@
   }
 
   @tailwind utilities;
-
-  @layer components {
-    .customer-story * em {
-      @apply text-center block -mt-6 text-sm text-gray-500;
-    }
-    .customer-story > h4 {
-      @apply text-gray-900 text-3xl;
-    }
-
-    .customer-story * blockquote > p {
-      @apply text-gray-900 text-xl;
-    }
-  }
 </style>
 
 <h1>Bonjour France</h1>

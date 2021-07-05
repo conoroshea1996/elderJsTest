@@ -40,7 +40,7 @@
 
     <div class="lg:overflow-hidden py-14">
       <div class="mx-auto max-w-5xl grid grid-cols-1 lg:grid-cols-5 px-4">
-        <div class="prose prose-xl customer-story col-span-1 lg:col-span-3">
+        <div class="prose-xl customer-story col-span-1 lg:col-span-3">
           {@html html}
         </div>
       </div>
