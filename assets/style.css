@@ -1,6 +1,0 @@
-.dark-mode {
-  @apply bg-gray-900 text-gray-500;
-}
-.light-mode {
-  @apply bg-white text-gray-500;
-}

@@ -1,7 +1,6 @@
 <script>
-  import Accordion from '../../components/Accordion.svelte';
-  import AccordionItem from '../../components/AccordionItem.svelte';
   import PricingPlansSection from '../../components/PricingPlansSection.svelte';
+  import FAQ from '../../components/FAQ.svelte';
 </script>
 
 <PricingPlansSection hydrate-client={{}} />
@@ -2812,92 +2811,4 @@
 </div>
 
 <!-- FAQs -->
-<div>
-  <div class="max-w-7xl mx-auto py-12 sm:py-16">
-    <h1 class="text-center text-3xl text-gray-900 sm:text-4xl">$_("FAQ.heading")}</h1>
-    <div class="grid grid-cols-1 lg:grid-cols-2 mt-8">
-      <div class="col-span-1 px-4">
-        <dl class="mt-6 space-y-4 divide-y divide-gray-200">
-          <h3 class="text-gray-500 font-bold font-rozanonva">$_("FAQ.general.name")}</h3>
-          <Accordion allowMultiple>
-            <AccordionItem let:isActive>
-              <div slot="accordion_item_activation">
-                <dt class="text-lg py-5" class:border-b={!isActive} class:border-gray-200={!isActive}>
-                  <button
-                    type="button"
-                    class="text-left w-full flex justify-between items-start text-gray-500"
-                    aria-expanded={isActive}>
-                    <span class="font-medium text-gray-900 text-lg"> q.question} </span>
-                    <span class="h-7 flex items-center">
-                      <svg
-                        class="rotate-0 h-6 w-6 transform"
-                        class:-rotate-180={isActive}
-                        xmlns="http://www.w3.org/2000/svg"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        aria-hidden="true">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                      </svg>
-                    </span>
-                  </button>
-                </dt>
-              </div>
-              <div slot="accordion_item_content">
-                <dd class="pr-12 pb-2" class:border-b={isActive} class:border-gray-200={isActive}>
-                  <p class="text-base text-gray-500">q.answer}</p>
-                </dd>
-              </div>
-            </AccordionItem>
-          </Accordion>
-        </dl>
-      </div>
-
-      <div class="col-span-1 px-4">
-        <dl class="mt-6 space-y-4 divide-y divide-gray-200">
-          <h3 class="text-gray-500 font-bold font-rozanonva">$_("FAQ.pricing.name")}</h3>
-          <Accordion allowMultiple>
-            <AccordionItem let:isActive>
-              <div slot="accordion_item_activation">
-                <dt class="text-lg py-5" class:border-b={!isActive} class:border-gray-200={!isActive}>
-                  <button
-                    type="button"
-                    class="text-left w-full flex justify-between items-start text-gray-500"
-                    aria-expanded={isActive}>
-                    <span class="font-medium text-gray-900"> q.question} </span>
-                    <span class="h-7 flex items-center">
-                      <svg
-                        class="rotate-0 h-6 w-6 transform"
-                        class:-rotate-180={isActive}
-                        xmlns="http://www.w3.org/2000/svg"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        aria-hidden="true">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                      </svg>
-                    </span>
-                  </button>
-                </dt>
-              </div>
-
-              <div slot="accordion_item_content">
-                <dd class="pr-12 pb-2" class:border-b={isActive} class:border-gray-200={isActive}>
-                  <p class="text-base text-gray-500">@html q.answer}</p>
-                </dd>
-              </div>
-            </AccordionItem>
-          </Accordion>
-        </dl>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="max-w-7xl mx-auto py-12 sm:py-16 ">
-  <h1 class="text-center text-3xl font-bold text-gray-900 ">$_("FAQ.Cta.heading")}</h1>
-  <h2 class="text-center font-medium text-gray-500 pt-8">
-    <span class="text-blue-500 cursor-pointer" on:click> $_("ContactUs")} </span>
-    $_("FAQ.Cta.subheading")}
-  </h2>
-</div>
+<FAQ hydrate-client={{}} />

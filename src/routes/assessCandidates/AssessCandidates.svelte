@@ -1,6 +1,7 @@
 <script>
   import FeaturesCard from '../../components/FeaturesCard.svelte';
   import FeaturesPanel from '../../components/FeaturesPanel/FeaturesPanel.svelte';
+  import SignUpCta from '../../components/SignUpCta.svelte';
 
   export let request;
 </script>
@@ -218,3 +219,5 @@
 </div>
 
 <FeaturesPanel hydrate-client={{ url: request.permalink }} />
+
+<SignUpCta />
