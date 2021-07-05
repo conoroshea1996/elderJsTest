@@ -1,6 +1,6 @@
 <script>
   import SignUpCta from '../../components/SignUpCta.svelte';
-  import BlogNavigation from '../../components/BlogNavigation.svelte';
+  import BlogNavigation from '../../components/Blog/BlogNavigation.svelte';
 
   export let data, request; // data is mainly being populated from the @elderjs/plugin-markdown
   const { html, frontmatter } = data;

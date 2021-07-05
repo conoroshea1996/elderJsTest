@@ -1,7 +1,5 @@
 <script>
-  import { clickOutside } from '../actions/clickOutside';
-  import { tweened } from 'svelte/motion';
-  import BlogNavigation from './BlogNavigation.svelte';
+  import BlogNavigation from './FRBlogNavigation.svelte';
   export let helpers;
 
   // grab page number from layout
@@ -11,59 +9,6 @@
 
   export let blogs;
   export let activeCategory;
-
-  let blogCategories = [
-    {
-      display: 'All',
-      value: null,
-    },
-    {
-      display: 'Strategy',
-      value: 'recruiting-strategy',
-    },
-    {
-      display: 'Culture & Branding',
-      value: 'culture-branding',
-    },
-    {
-      display: 'Social',
-      value: 'social-recruiting',
-    },
-    {
-      display: 'Remote Hiring',
-      value: 'remote-hiring',
-    },
-    {
-      display: 'Compliance & Data',
-      value: 'compliance-and-data',
-    },
-    {
-      display: 'Infographics',
-      value: 'infographics',
-    },
-    {
-      display: 'Events',
-      value: 'hr-events-and-people',
-    },
-    {
-      display: 'Updates',
-      value: 'hirehive-updates',
-    },
-    {
-      display: 'Guides',
-      value: 'Guides',
-    },
-  ];
-
-  let widthBarSearch = tweened(0, {
-    duration: 250,
-  });
-
-  const test = async (e) => {
-    if (e.key === 'Enter') {
-      await fetch('https://youthful-mccarthy-ab0370.netlify.app/.netlify/functions/getBlogs?s=top');
-    }
-  };
 </script>
 
 <style>
@@ -82,7 +27,7 @@
   {#each blogs as { frontmatter, slug }, i}
     {#if i % pageSize === 0}
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
-        <a href="/{slug}">
+        <a href="/fr/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
             <img
               loading="lazy"
@@ -106,7 +51,7 @@
       </div>
     {:else if i % pageSize === 1}
       <div class="relative col-span-1 lg:col-span-3 rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href="/fr/{slug}" class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -130,7 +75,7 @@
       </div>
     {:else if i % pageSize === 2 || i % pageSize === 3 || i % pageSize === 4}
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href="/fr/{slug}" class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -154,7 +99,7 @@
       </div>
     {:else if i % pageSize === 5}
       <div class="relative col-span-1 lg:col-span-4 rounded-md h-80">
-        <a href="/{slug}">
+        <a href="/fr/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
             <img
               loading="lazy"
@@ -178,7 +123,7 @@
       </div>
     {:else if i % pageSize === 6}
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href="/fr/{slug}" class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -202,7 +147,7 @@
       </div>
     {:else if i % pageSize === 7 || i % pageSize === 8 || i % pageSize === 9}
       <div class="relative col-span-1 lg:col-span-2  rounded-md">
-        <a href="/{slug}" class="flex flex-col overflow-hidden">
+        <a href="/fr/{slug}" class="flex flex-col overflow-hidden">
           <div class="flex-shrink-0">
             <img
               loading="lazy"
@@ -229,18 +174,20 @@
 </div>
 
 <div class="bg-navy py-16 my-8">
-  <h1 on:click={() => {}} class="text-center text-white text text-3xl font-bold cursor-pointer">Load more</h1>
+  <h1 on:click={() => {}} class="text-center text-white text text-3xl font-bold cursor-pointer">Voir plus</h1>
 </div>
 
 <div class="bg-white py-20 px-4">
   <div class=" max-w-7xl  mx-auto  lg:flex lg:items-center lg:justify-between">
     <h2 class="text-2xl font-bold text-gray-900 font-rozanonva sm:text-3xl">
-      Thousands of businesses rely upon HireHive <br /> to help them find and hire the best candidates.
+      HireHive aide des centaines d'entreprise <br />
+      à trouver et embaucher les meilleurs candidats. S'inscrire
     </h2>
     <div class="mt-8 flex lg:mt-0 items-center lg:flex-shrink-0">
       <button
-        class="bg-blue-500 rounded-md inline-flex items-center ml-10 px-3 py-2 border border-transparent bg-transparent text-white text-lg"
-        >Sign Up <svg
+        class="bg-blue-500 rounded-md inline-flex items-center ml-10 px-3 py-2 border border-transparent bg-transparent text-white text-lg">
+        S'inscrire
+        <svg
           class="h-5 w-5 ml-4 mt-1"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"

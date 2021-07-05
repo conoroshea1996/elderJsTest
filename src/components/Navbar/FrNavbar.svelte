@@ -43,7 +43,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6">
         <div class="flex items-center justify-between py-6">
           <div class="flex justify-start lg:w-0 lg:flex-1">
-            <a href="/">
+            <a href="/fr">
               <span class="sr-only">Hirehive Recruiting software</span>
               {#if isDark}
                 <img class="h-8 w-auto sm:h-10" src="/assets/LogoDark.png" alt="" />
@@ -104,7 +104,7 @@
                     <div
                       class="max-w-7xl mx-auto grid gap-y-6 px-4 py-6 sm:grid-cols-2 sm:gap-8 sm:px-6 sm:py-8 lg:grid-cols-4 lg:px-8 lg:py-12 xl:py-16">
                       <a
-                        href="/recruiting-features/find-candidates"
+                        href="/fr/fonctionnalites/provenance-des-candidatures"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}"
@@ -140,7 +140,7 @@
                       </a>
 
                       <a
-                        href="/recruiting-features/manage-applications"
+                        href="/fr/fonctionnalites/gerer-des-applications"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -181,7 +181,7 @@
                       </a>
 
                       <a
-                        href="/recruiting-features/assess-candidates"
+                        href="/fr/fonctionnalites/evaluer-les-candidats"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -221,7 +221,7 @@
                       </a>
 
                       <a
-                        href="/recruiting-features/analyse-reports"
+                        href="/fr/fonctionnalites/rapports-detailles-et-analyse-des-donnees"
                         class="-m-3 p-3 flex flex-col justify-between rounded-lg transition ease-in-out duration-150 {isDark
                           ? 'hover:bg-gray-800'
                           : 'hover:bg-gray-50'}">
@@ -295,14 +295,14 @@
             </div>
 
             <a
-              href="/tarifs"
+              href="/fr/tarifs"
               class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
               class:text-white={currentUrl === '/fr/tarifs/'}>
               tarifs
             </a>
 
             <a
-              href="/blog"
+              href="/fr/blog"
               class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
               class:text-blue-500={currentUrl === '/fr/blog/'}>
               Blog
@@ -367,7 +367,7 @@
               <div class="mt-6">
                 <nav class="grid gap-y-8">
                   <a
-                    href="/[('Navbar.features.findCandidates.currentUrl')}"
+                    href="/fr/fonctionnalites/provenance-des-candidatures"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-yellow-400 text-gray-900 sm:h-12 sm:w-12">
@@ -390,7 +390,7 @@
                   </a>
 
                   <a
-                    href="/[('Navbar.features.manageApplications.currentUrl')}"
+                    href="/fr/fonctionnalites/gerer-des-applications"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-blue-500 text-white sm:h-12 sm:w-12">
@@ -414,7 +414,7 @@
                     </span>
                   </a>
                   <a
-                    href="/[('Navbar.features.assessCandidates.currentUrl')}"
+                    href="/fr/fonctionnalites/evaluer-les-candidats"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-navy text-white sm:h-12 sm:w-12">
@@ -436,7 +436,7 @@
                     </span>
                   </a>
                   <a
-                    href="/[('Navbar.features.analyseReports.currentUrl')}"
+                    href="/fr/fonctionnalites/rapports-detailles-et-analyse-des-donnees"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-yellow-500 text-white sm:h-12 sm:w-12">
@@ -454,17 +454,15 @@
             </div>
             <div class="py-6 px-5 space-y-6">
               <div class="grid grid-cols-2 gap-y-4 gap-x-8">
-                {#each currentUrls as { name, path, active, href }, i}
-                  <a
-                    {href}
-                    class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize {isDark
-                      ? 'text-gray-300'
-                      : 'text-gray-500'}"
-                    class:text-blue-500={active && !isDark}
-                    class:text-white={active && isDark}>
-                    {name}
-                  </a>
-                {/each}
+                <a
+                  href="/fr/tarifs"
+                  class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
+                  >tarifs
+                </a><a
+                  href="/fr/blog"
+                  class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
+                  >blog
+                </a>
               </div>
               <div>
                 <a

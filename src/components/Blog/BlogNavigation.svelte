@@ -1,5 +1,5 @@
 <script>
-  import { clickOutside } from '../actions/clickOutside';
+  import { clickOutside } from '../../actions/clickOutside';
   import { tweened } from 'svelte/motion';
 
   export let activeCategory;

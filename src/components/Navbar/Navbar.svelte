@@ -458,17 +458,23 @@
             </div>
             <div class="py-6 px-5 space-y-6">
               <div class="grid grid-cols-2 gap-y-4 gap-x-8">
-                {#each currentUrls as { name, path, active, href }, i}
-                  <a
-                    {href}
-                    class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize {isDark
-                      ? 'text-gray-300'
-                      : 'text-gray-500'}"
-                    class:text-blue-500={active && !isDark}
-                    class:text-white={active && isDark}>
-                    {name}
-                  </a>
-                {/each}
+                <a
+                  href="/plans"
+                  class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
+                  >plans
+                </a><a
+                  href="/customers"
+                  class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
+                  >customers
+                </a><a
+                  href="/blog"
+                  class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
+                  >blog
+                </a><a
+                  href="https://help.hirehive.com/"
+                  class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
+                  >support
+                </a>
               </div>
               <div>
                 <a

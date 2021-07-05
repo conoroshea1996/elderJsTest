@@ -1,9 +1,9 @@
 <script>
-  import PricingPlansSection from '../../components/PricingPlansSection.svelte';
-  import FAQ from '../../components/FAQ.svelte';
+  import FAQ from '../../components/FAQ/FAQ.svelte';
+  import PricingPlans from '../../components/Plans/PricingPlans.svelte';
 </script>
 
-<PricingPlansSection hydrate-client={{}} />
+<PricingPlans hydrate-client={{}} />
 
 <div class="max-w-2xl mx-auto bg-white py-16 sm:px-6 lg:max-w-7xl lg:px-4">
   <h1 class="text-center text-4xl pb-16">Feature Comparsion</h1>

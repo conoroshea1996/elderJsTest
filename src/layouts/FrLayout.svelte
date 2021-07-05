@@ -73,6 +73,38 @@
   @tailwind utilities;
 </style>
 
+<svelte:head>
+  <script type="text/javascript">
+    let scrolled = false;
+    !(function (e, t, n) {
+      function a() {
+        if (scrolled) return;
+        setTimeout(() => {
+          var e = t.getElementsByTagName('script')[0],
+            n = t.createElement('script');
+          (n.type = 'text/javascript'),
+            (n.async = !0),
+            (n.src = 'https://beacon-v2.helpscout.net'),
+            e.parentNode.insertBefore(n, e);
+        }, 2000);
+        scrolled = true;
+      }
+      if (
+        ((e.Beacon = n = function (t, n, a) {
+          e.Beacon.readyQueue.push({ method: t, options: n, data: a });
+        }),
+        (n.readyQueue = []),
+        'complete' === t.readyState)
+      )
+        return a();
+      e.attachEvent ? e.attachEvent('onscroll', a) : e.addEventListener('scroll', a, !1);
+    })(window, document, window.Beacon || function () {});
+  </script>
+  <script type="text/javascript">
+    window.Beacon('init', '8fdc3c1c-da31-425b-b542-802054cfc09f');
+  </script>
+</svelte:head>
+
 <FrNavbar hydrate-client={{ preload: true, currentUrl: request.permalink }} />
 
 {@html templateHtml}
