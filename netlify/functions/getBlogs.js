@@ -6,19 +6,19 @@ const bodyParser = require('body-parser');
 const sirv = require('sirv');
 const dev = process.env.NODE_ENV === 'development';
 
-// const { Elder } = require('@elderjs/elderjs');
-// const elder = new Elder({ context: 'server' });
+const { Elder } = require('@elderjs/elderjs');
+const elder = new Elder({ context: 'server' });
 
-// const server = polka();
-// server.use(cors());
-// server.use(compression({ level: 6 }));
-// server.use(bodyParser.urlencoded({ extended: false }), bodyParser.json());
-// server.use(elder.server);
-// server.use(sirv(elder.settings.distDir, { dev }));
+const server = polka();
+server.use(cors());
+server.use(compression({ level: 6 }));
+server.use(bodyParser.urlencoded({ extended: false }), bodyParser.json());
+server.use(elder.server);
+server.use(sirv(elder.settings.distDir, { dev }));
 
 exports.handler = function (event, context, callback) {
-  return {
-    statusCode: 200,
-    body: JSON.stringify({ message: 'Function Called' }),
-  };
+  console.log(event, 'Event');
+  console.log(context, 'Context');
+
+  return server.get('/recruiting-blog');
 };
