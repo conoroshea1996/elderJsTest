@@ -2,6 +2,12 @@
   command = "npm run build"
   publish = "public/"
 
+[[redirects]]
+  from = "/recruiting-blog/"
+  to = "/.netlify/functions/getBlogs"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/_elderjs/*"
   [headers.values]
@@ -9,7 +15,3 @@
       public,
       max-age=31536000,
       immutable'''
-
-[[redirects]]
-  from = "/plans"
-  to = "/customers"
