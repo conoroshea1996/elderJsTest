@@ -1,5 +1,5 @@
 const { Elder, Page } = require('@elderjs/elderjs');
-const config = require('./elder.config');
+const config = require('./elder.config.js');
 const elder = new Elder({ context: 'server', configOptions: config });
 
 module.exports = async function renderElderPage(permalink, data = {}) {
