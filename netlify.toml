@@ -11,6 +11,5 @@
       immutable'''
 
 [[redirects]]
-  from = "/recruiting-blog*"
-  to = "/.netlify/functions/getBlogs"
-  status = 200
+  from = "/plans"
+  to = "/customers"
