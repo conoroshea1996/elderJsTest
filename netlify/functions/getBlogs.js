@@ -13,9 +13,9 @@ server.use(cors());
 server.use(compression({ level: 6 }));
 server.use(bodyParser.urlencoded({ extended: false }), bodyParser.json());
 
-app.get('/recruiting-blog', (req, res) => {
+server.get('/recruiting-blog', (req, res) => {
   // console.log('params', req.params);
-  const html = '<h1> Generated On Serve </h1> ';
+  const html = '<h1> Generated On Server </h1> ';
   res.html(html);
 });
 
