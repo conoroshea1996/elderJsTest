@@ -7,7 +7,7 @@ module.exports = {
   locations: {
     rootDir: path.resolve(__dirname, '../getBlogs'),
     srcFolder: './src/',
-    assets: './public/dist/static/',
+    assets: './public/',
     public: './public/',
     svelte: {
       ssrComponents: './___ELDER___/compiled/',
