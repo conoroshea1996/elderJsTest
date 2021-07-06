@@ -8,7 +8,7 @@
     "build": "node ./src/cleanPublic.js && npm run build:rollup && npm run build:html",
     "build:rollup": "rollup -c",
     "build:html": "node ./src/build.js",
-    "postbuild": "ncp elder.config.prod.js functions/lib/elder.config.js && ncp src functions/getBlogs/src && ncp ___ELDER___ functions/getBlogs/___ELDER___",
+    "postbuild": "mkdirp functions/getBlogs/public/dist && ncp elder.config.prod.js functions/lib/elder.config.js && ncp src functions/getBlogs/src && ncp ___ELDER___ functions/getBlogs/___ELDER___ && ncp public functions/getBlogs/public/dist",
     "dev": "rollup  -c -w --no-watch.clearScreen",
     "serve": "node ./src/cleanPublic.js && npm run build:rollup && SET NODE_ENV=production node ./src/server.js",
     "esbuild": "node esbuild",
