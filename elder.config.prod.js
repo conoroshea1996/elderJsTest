@@ -5,8 +5,8 @@ module.exports = {
   origin: '', // TODO: update this.
   lang: 'en',
   rootDir: path.resolve(__dirname, '../getBlogs'),
-  distDir: '/var/task/functions/getBlogs/public',
-  srcDir: '/var/task/functions/getBlogs/src',
+  distDir: '/public',
+  srcDir: 'src',
   build: {},
   prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
   server: {},
