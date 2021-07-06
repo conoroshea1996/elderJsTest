@@ -17,8 +17,7 @@ app.get('/recruiting-blog', (req, res) => {
   // console.log('params', req.params);
   const html = '<h1> Generated On Server </h1>';
 
-  console.log(html);
-  res.html(html);
+  res.send(html);
 });
 
 exports.handler = serverless(app);
