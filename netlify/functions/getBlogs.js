@@ -1,16 +1,22 @@
 require('dotenv').config();
-const axios = require('axios');
+const polka = require('polka');
+const cors = require('cors');
+const compression = require('compression');
+const bodyParser = require('body-parser');
+const sirv = require('sirv');
+const dev = process.env.NODE_ENV === 'development';
+
+const { Elder } = require('@elderjs/elderjs');
+const elder = new Elder({ context: 'server' });
+
+const server = polka();
+server.use(cors());
+server.use(compression({ level: 6 }));
+server.use(bodyParser.urlencoded({ extended: false }), bodyParser.json());
+server.use(elder.server);
+server.use(sirv(elder.settings.distDir, { dev }));
 
 exports.handler = function (event, context, callback) {
-  const s = event.queryStringParameters.s;
-
-  axios
-    .get(`https://youthful-mccarthy-ab0370.netlify.app/recruiting-blog?s=${s}`)
-    .then((body) => {
-      return {
-        statusCode: 200,
-        body: body.data,
-      };
-    })
-    .catch((ex) => callback(ex));
+  console.log(event, 'EVENT');
+  console.log(context, 'EVENT');
 };

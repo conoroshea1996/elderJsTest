@@ -9,3 +9,8 @@
       public,
       max-age=31536000,
       immutable'''
+
+[[redirects]]
+  from = "/recruiting-blog*"
+  to = "/.netlify/functions/getBlogs"
+  status = 200
