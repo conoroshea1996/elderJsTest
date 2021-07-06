@@ -7,6 +7,7 @@ exports.handler = async (event) => {
       blog: [],
     },
   };
+
   const html = await renderElderPage('/recruiting-blog/', data);
 
   return {
