@@ -12,14 +12,14 @@ module.exports = async function renderElderPage(permalink, extraData) {
 
   const dataHook = {
     hook: 'data',
-    name: 'add Extra data',
+    name: 'addSomethingToData',
     description: 'Use this hook to add a key to the "data" object on the "home" route. ',
     priority: 50,
     run: async ({ request, data }) => {
       return {
         data: {
           ...data,
-          ...extraData,
+          testingHooks: true,
         },
       };
     },
