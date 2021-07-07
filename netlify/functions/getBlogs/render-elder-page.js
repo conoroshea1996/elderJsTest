@@ -3,7 +3,7 @@ const config = require('./elder.config');
 
 const elder = new Elder({ context: 'server', ...config });
 
-module.exports = async function renderElderPage(permalink, data) {
+module.exports = async function renderElderPage(permalink, extraData) {
   await elder.bootstrap();
   const request = elder.serverLookupObject['/recruiting-blog/'];
   console.log(request, 'Request');
@@ -18,9 +18,13 @@ module.exports = async function renderElderPage(permalink, data) {
     name: 'addData',
     description: 'Adds custom data to data object',
     priority: 1,
-    run: (opts) => {
+
+    run: async ({ request, data }) => {
       return {
-        data: { ...opts.data, search: 'top' },
+        data: {
+          ...data,
+          search: 'top',
+        },
       };
     },
   };
