@@ -4,11 +4,11 @@ const path = require('path');
 module.exports = {
   origin: '', // TODO: update this.
   lang: 'en',
-  srcDir: 'src',
-  distDir: 'public',
-  rootDir: path.resolve(__dirname, '../getBlogs'),
+  srcDir: './getBlogs/src',
+  distDir: './getBlogs/public',
+  rootDir: path.resolve(__dirname, '../'),
   build: {},
-  prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
+  prefix: path.resolve(__dirname, '../getBlogs'), // If you want your site to be built within a sub folder within your `distDir` you can use this.
   server: {},
   props: {
     hydration: 'hybrid',
