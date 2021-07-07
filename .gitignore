@@ -4,8 +4,8 @@
 /build/
 .DS_Store
 
-/functions/node_modules
-/functions/getblogs/___ELDER___
-/functions/getblogs/public/*
-/functions/getblogs/src
+/netlify/functions/node_modules
+/netlify/functions/getblogs/___ELDER___
+/netlify/functions/getblogs/public/*
+/netlify/functions/getblogs/src
 
