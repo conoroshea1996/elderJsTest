@@ -5,14 +5,13 @@ const elder = new Elder({ context: 'server', ...config });
 
 module.exports = async function renderElderPage(permalink, data = {}) {
   await elder.bootstrap();
-  const request = elder.serverLookupObject[permalink];
-
-  console.log(elder, 'ELDER');
+  const request = elder.serverLookupObject['/recruiting-blog/'];
   console.log(request, 'Request');
   // console.log('elder locations', elder.settings.locations);
 
-  const route = elder.routes[request.route];
+  const route = elder.routes['recruitingBlog'];
 
+  console.log(route, 'ROUTE');
   const dataHook = {
     hook: 'data',
     name: 'addData',
