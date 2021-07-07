@@ -51,6 +51,12 @@
   let widthBarSearch = tweened(0, {
     duration: 250,
   });
+
+  const search = (e) => {
+    if (e.key === 'Enter') {
+      window.location.href = `https://youthful-mccarthy-ab0370.netlify.app/recruiting-blog?s=${e.target.value}`;
+    }
+  };
 </script>
 
 <style>
@@ -114,7 +120,7 @@
               class:bg-white={$widthBarSearch}
               class:pl-10={$widthBarSearch}
               placeholder="search blogs"
-              on:keydown={(e) => test(e)} />
+              on:keydown={(e) => search(e)} />
 
             {#if $widthBarSearch}
               <div
