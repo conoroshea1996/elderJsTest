@@ -22,7 +22,7 @@ module.exports = {
     { category: '' },
   ],
 
-  data: ({ data, request }) => {
+  data: ({ data, request, query }) => {
     // params.s for search
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
@@ -30,24 +30,24 @@ module.exports = {
     data.hookInterface = hookInterface;
     data.hookEntityDefinitions = hookEntityDefinitions;
     data.category = request.category;
-    const search = data.search ? data.search : null;
+    data.search = query.search;
 
     data.blogs = data.markdown.blog;
 
     // sort blogs by date
     data.blogs = data.blogs.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
-    if (data.category.length > 0 && !search) {
+    if (data.category.length > 0 && !data.search) {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    } else if (data.category && search) {
+    } else if (data.category && data.search) {
       // check for any category and also the title
       data.blogs = data.blogs.filter(
         (p) =>
           p.frontmatter.categories.includes(data.category) &&
-          p.frontmatter.title.toLowerCase().includes(search.toLowerCase()),
+          p.frontmatter.title.toLowerCase().includes(data.search.toLowerCase()),
       );
-    } else if (!data.category && search) {
-      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(search.toLowerCase()));
+    } else if (!data.category && data.search) {
+      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(data.search.toLowerCase()));
     }
 
     return {
