@@ -1,9 +1,7 @@
 const { Elder, Page, getConfig } = require('@elderjs/elderjs');
 const config = require('./elder.config');
 
-console.log(config);
 const elder = new Elder({ context: 'server', ...config });
-console.log(elder);
 
 module.exports = async function renderElderPage(permalink, data = {}) {
   await elder.bootstrap();
@@ -13,13 +11,14 @@ module.exports = async function renderElderPage(permalink, data = {}) {
 
   const route = elder.routes[request.route];
 
+  console.log(elder.hooks, 'ELDER HOOKS');
+
   const dataHook = {
     hook: 'data',
     name: 'addData',
     description: 'Adds custom data to data object',
     priority: 50,
     run: (opts) => {
-      console.log(opts, 'OPTS');
       return {
         data: { ...opts.data, ...data },
       };
