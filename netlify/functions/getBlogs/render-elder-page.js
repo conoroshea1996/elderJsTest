@@ -20,7 +20,7 @@ module.exports = async function renderElderPage(permalink, data) {
     priority: 1,
     run: (opts) => {
       return {
-        data: { ...opts.data, ...data },
+        data: { ...opts.data, search: 'top' },
       };
     },
   };
