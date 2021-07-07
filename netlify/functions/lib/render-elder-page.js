@@ -1,7 +1,5 @@
 const { Elder, Page, getConfig } = require('@elderjs/elderjs');
 const config = require('./elder.config');
-const markdown = require('@elderjs/plugin-markdown');
-markdown.config.routes = ['blog', 'textPages', 'FRblog', 'customer'];
 
 const elder = new Elder({ context: 'server', ...config });
 
@@ -26,7 +24,6 @@ module.exports = async function renderElderPage(permalink, data = {}) {
   };
 
   elder.hooks.push(dataHook);
-  elder.
   // console.log(elder.hooks, 'ELDER HOOKS');
 
   const page = new Page({
