@@ -13,4 +13,4 @@
   <BlogPage hydrate-client={{ blogs: data.blogs, activeCategory: data.category }} />
 {/if}
 
-{JSON.stringify(data.searchBlogs)}
+<BlogPage hydrate-client={{ blogs: data.searchBlogs, activeCategory: data.category }} />
