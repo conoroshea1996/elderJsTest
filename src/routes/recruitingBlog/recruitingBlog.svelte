@@ -9,4 +9,4 @@
   export let data, helpers;
 </script>
 
-<BlogPage hydrate-client={{ blogs: data.searchBlogs, activeCategory: data.category }} />
+<BlogPage hydrate-client={{ blogs: data.blogs, activeCategory: data.category }} />
