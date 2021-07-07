@@ -32,7 +32,6 @@ module.exports = async function renderElderPage(permalink, data) {
     ...elder,
     request,
     route,
-    query: { ...data },
   });
 
   return await page.html();
