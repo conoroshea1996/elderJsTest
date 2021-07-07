@@ -7,6 +7,8 @@ module.exports = async function renderElderPage(permalink, data = {}) {
   await elder.bootstrap();
   const request = elder.serverLookupObject[permalink];
 
+  console.log(elder, 'ELDER');
+  console.log(request, 'Request');
   // console.log('elder locations', elder.settings.locations);
 
   const route = elder.routes[request.route];
