@@ -22,10 +22,8 @@ module.exports = {
     { category: '' },
   ],
 
-  data: ({ data, request, query }) => {
-    console.log(data, 'DATA FOR ROUTE');
-    console.log(request, 'DATA FOR ROUTE');
-    console.log(query, 'DATA FOR ROUTE');
+  data: ({ data, request }) => {
+    console.log(data.search, 'SEARCH');
     // params.s for search
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
@@ -41,14 +39,7 @@ module.exports = {
 
     if (data.category.length > 0 && !data.search) {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    } else if (data.category && data.search) {
-      // check for any category and also the title
-      data.blogs = data.blogs.filter(
-        (p) =>
-          p.frontmatter.categories.includes(data.category) &&
-          p.frontmatter.title.toLowerCase().includes(data.search.toLowerCase()),
-      );
-    } else if (!data.category && data.search) {
+    } else if (data.category.length === 0 && data.search) {
       data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(data.search.toLowerCase()));
     }
 
