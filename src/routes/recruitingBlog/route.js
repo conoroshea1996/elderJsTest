@@ -23,8 +23,6 @@ module.exports = {
   ],
 
   data: ({ data, request }) => {
-    console.log(data, 'SEARCH');
-    console.log(data.testingHooks, 'testingHooks');
     // params.s for search
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
