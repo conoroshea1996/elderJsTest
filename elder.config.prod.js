@@ -1,7 +1,8 @@
 require('dotenv').config();
 const path = require('path');
 let markdownPlugin = require('@elderjs/plugin-markdown');
-markdownPlugin.config.routes = ['blog', 'textPages', 'FRblog', 'customer'];
+
+console.log(markdownPlugin, 'Mark Down plugin');
 
 module.exports = {
   origin: '', // TODO: update this.
@@ -27,7 +28,9 @@ module.exports = {
     // disable: ['elderWriteHtmlFileToPublic'], // this is used to disable internal hooks. Uncomment this hook to disabled writing your files during build.
   },
   plugins: {
-    markdownPlugin,
+    '@elderjs/plugin-markdown': {
+      routes: ['blog', 'textPages', 'FRblog', 'customer'],
+    },
     // '@elderjs/plugin-seo-check': {
     //   display: ['errors'], // If the errors are too verbose remove 'warnings'
     //   //writeLocation: './report.json', // if you want to write a report of errors
