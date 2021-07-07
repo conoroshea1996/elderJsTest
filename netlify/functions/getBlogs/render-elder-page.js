@@ -28,13 +28,13 @@ module.exports = async function renderElderPage(permalink, data = {}) {
   elder.hooks.push(dataHook);
   // console.log(elder.hooks, 'ELDER HOOKS');
 
+  console.log(data, 'DATA FOR PAGE');
   const page = new Page({
     ...elder,
     request,
     route,
+    data: { ...data },
   });
-
-  console.log(page.data, 'PAGE DATA');
 
   return await page.html();
 };
