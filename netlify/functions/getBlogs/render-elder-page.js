@@ -12,7 +12,7 @@ module.exports = async function renderElderPage(permalink, extraData) {
 
   const dataHook = {
     hook: 'data',
-    name: 'addSomethingToData',
+    name: 'add Extra data',
     description: 'Use this hook to add a key to the "data" object on the "home" route. ',
     priority: 50,
     run: async ({ request, data }) => {
@@ -27,12 +27,10 @@ module.exports = async function renderElderPage(permalink, extraData) {
 
   elder.hooks.push(dataHook);
 
-  console.log(elder.hooks, 'ELDER HOOKS');
-
   const page = new Page({
-    ...elder,
     request,
     route,
+    ...elder,
   });
 
   return await page.html();

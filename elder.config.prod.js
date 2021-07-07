@@ -26,14 +26,14 @@ module.exports = {
   hooks: {
     // disable: ['elderWriteHtmlFileToPublic'], // this is used to disable internal hooks. Uncomment this hook to disabled writing your files during build.
   },
-  plugins: {
-    '@elderjs/plugin-markdown': {
-      routes: ['blog', 'textPages', 'FRblog', 'customer'],
-    },
-    // '@elderjs/plugin-seo-check': {
-    //   display: ['errors'], // If the errors are too verbose remove 'warnings'
-    //   //writeLocation: './report.json', // if you want to write a report of errors
-    // },
-  },
+  // plugins: {
+  //   '@elderjs/plugin-markdown': {
+  //     routes: ['blog', 'textPages', 'FRblog', 'customer'],
+  //   },
+  //   // '@elderjs/plugin-seo-check': {
+  //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
+  //   //   //writeLocation: './report.json', // if you want to write a report of errors
+  //   // },
+  // },
   shortcodes: { closePattern: '}}', openPattern: '{{' },
 };
