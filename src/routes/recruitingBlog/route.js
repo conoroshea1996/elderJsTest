@@ -31,15 +31,13 @@ module.exports = {
     data.hookEntityDefinitions = hookEntityDefinitions;
     data.category = request.category;
 
-    data.blogs = data.markdown.blog;
+    data.categoryBlogs = data.markdown.blog;
 
     // sort blogs by date
-    data.blogs = data.blogs.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+    data.categoryBlogs = data.categoryBlogs.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
-    if (data.category.length > 0 && !data.search) {
-      data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    } else if (data.category.length === 0 && data.search) {
-      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(data.search.toLowerCase()));
+    if (data.category.length > 0) {
+      data.categoryBlogs = data.categoryBlogs.filter((p) => p.frontmatter.categories.includes(data.category));
     }
 
     return {

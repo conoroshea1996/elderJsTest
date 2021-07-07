@@ -9,7 +9,9 @@
   export let data, helpers;
 </script>
 
-{#if data.search}
-  {data.search}
+{#if data.categoryBlogs && !data.searchBlogs}
+  <BlogPage hydrate-client={{ blogs: data.categoryBlogs, activeCategory: data.category }} />
 {/if}
-<BlogPage hydrate-client={{ blogs: data.blogs, activeCategory: data.category }} />
+{#if data.searchBlogs}
+  <BlogPage hydrate-client={{ blogs: data.searchBlogs, activeCategory: data.category }} />
+{/if}
