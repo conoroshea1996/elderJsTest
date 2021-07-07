@@ -1,12 +1,14 @@
 require('dotenv').config();
 const path = require('path');
+const markdownPlugin = require('@elderjs/plugin-markdown');
+console.log(markdownPlugin);
 
 module.exports = {
   origin: '', // TODO: update this.
   lang: 'en',
-  srcDir: './getBlogs/src',
-  distDir: './getBlogs/public',
-  rootDir: path.resolve(__dirname, '../'),
+  srcDir: 'src',
+  distDir: 'public',
+  rootDir: path.resolve(__dirname, '../getBlogs'),
   build: {},
   prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
   server: {},

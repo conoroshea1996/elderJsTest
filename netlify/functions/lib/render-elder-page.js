@@ -7,7 +7,7 @@ module.exports = async function renderElderPage(permalink, data = {}) {
   await elder.bootstrap();
   const request = elder.serverLookupObject[permalink];
 
-  console.log('elder locations', elder.settings.locations);
+  // console.log('elder locations', elder.settings.locations);
 
   const route = elder.routes[request.route];
 
@@ -25,7 +25,7 @@ module.exports = async function renderElderPage(permalink, data = {}) {
 
   elder.hooks.push(dataHook);
 
-  console.log(elder.hooks, 'ELDER HOOKS');
+  // console.log(elder.hooks, 'ELDER HOOKS');
 
   const page = new Page({
     ...elder,
