@@ -23,8 +23,6 @@ module.exports = {
   ],
 
   data: ({ data, request }) => {
-    const search = data.search ? data.search : null;
-
     // params.s for search
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
@@ -32,6 +30,7 @@ module.exports = {
     data.hookInterface = hookInterface;
     data.hookEntityDefinitions = hookEntityDefinitions;
     data.category = request.category;
+    const search = data.search ? data.search : null;
 
     data.blogs = data.markdown.blog;
 

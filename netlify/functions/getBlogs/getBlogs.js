@@ -8,8 +8,6 @@ exports.handler = async (event) => {
     search: event.queryStringParameters['s'],
   };
 
-  console.log(data);
-
   const html = await renderElderPage('/recruiting-blog/', data);
 
   return {

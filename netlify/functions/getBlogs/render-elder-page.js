@@ -12,6 +12,7 @@ module.exports = async function renderElderPage(permalink, data = {}) {
   const route = elder.routes['recruitingBlog'];
 
   console.log(route, 'ROUTE');
+
   const dataHook = {
     hook: 'data',
     name: 'addData',
@@ -32,6 +33,8 @@ module.exports = async function renderElderPage(permalink, data = {}) {
     request,
     route,
   });
+
+  console.log(page.data, 'PAGE DATA');
 
   return await page.html();
 };
