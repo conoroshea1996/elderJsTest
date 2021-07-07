@@ -10,27 +10,29 @@ module.exports = async function renderElderPage(permalink, extraData) {
 
   const route = elder.routes['recruitingBlog'];
 
-  let routeData = { ...extraData };
-
   const dataHook = {
     hook: 'data',
-    name: 'addData',
-    description: 'Adds custom data to data object',
+    name: 'addSomethingToData',
+    description: 'Use this hook to add a key to the "data" object on the "home" route. ',
     priority: 50,
     run: async ({ request, data }) => {
-      routeData = { ...routeData, data };
+      return {
+        data: {
+          ...data,
+          ...extraData,
+        },
+      };
     },
   };
 
   elder.hooks.push(dataHook);
-  // console.log(elder.hooks, 'ELDER HOOKS');
 
-  console.log(routeData);
+  console.log(elder.hooks, 'ELDER HOOKS');
+
   const page = new Page({
     ...elder,
     request,
     route,
-    data: routeData,
   });
 
   return await page.html();
