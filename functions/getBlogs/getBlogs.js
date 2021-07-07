@@ -2,9 +2,10 @@ require('dotenv').config();
 const renderElderPage = require('../lib/render-elder-page');
 
 exports.handler = async (event) => {
-  console.log(event, 'EVENT');
+  // we need to populate the data here manually the markdown hook doesn't seem to populate this data for us
+  const data = {};
 
-  const html = await renderElderPage('/recruiting-blog/');
+  const html = await renderElderPage('/recruiting-blog/', data);
 
   return {
     statusCode: 200,

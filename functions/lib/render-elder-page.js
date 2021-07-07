@@ -12,6 +12,7 @@ module.exports = async function renderElderPage(permalink, data = {}) {
   console.log('elder locations', elder.settings.locations);
 
   const route = elder.routes[request.route];
+
   const dataHook = {
     hook: 'data',
     name: 'addData',
@@ -23,13 +24,13 @@ module.exports = async function renderElderPage(permalink, data = {}) {
       };
     },
   };
+
   elder.hooks.push(dataHook);
 
   const page = new Page({
     ...elder,
     request,
     route,
-    data: { ...data },
   });
 
   return await page.html();
