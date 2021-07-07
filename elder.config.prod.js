@@ -8,7 +8,7 @@ module.exports = {
   distDir: './getBlogs/public',
   rootDir: path.resolve(__dirname, '../'),
   build: {},
-  prefix: path.resolve(__dirname, '../getBlogs'), // If you want your site to be built within a sub folder within your `distDir` you can use this.
+  prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
   server: {},
   props: {
     hydration: 'hybrid',
