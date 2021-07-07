@@ -6,36 +6,31 @@ const elder = new Elder({ context: 'server', ...config });
 module.exports = async function renderElderPage(permalink, extraData) {
   await elder.bootstrap();
   const request = elder.serverLookupObject['/recruiting-blog/'];
-  console.log(request, 'Request');
   // console.log('elder locations', elder.settings.locations);
 
   const route = elder.routes['recruitingBlog'];
 
-  console.log(route, 'ROUTE');
+  let routeData = { ...extraData };
 
   const dataHook = {
     hook: 'data',
     name: 'addData',
     description: 'Adds custom data to data object',
-    priority: 1,
-
+    priority: 50,
     run: async ({ request, data }) => {
-      return {
-        data: {
-          ...data,
-          search: 'top',
-        },
-      };
+      routeData = { ...routeData, data };
     },
   };
 
   elder.hooks.push(dataHook);
   // console.log(elder.hooks, 'ELDER HOOKS');
 
+  console.log(routeData);
   const page = new Page({
     ...elder,
     request,
     route,
+    data: routeData,
   });
 
   return await page.html();
