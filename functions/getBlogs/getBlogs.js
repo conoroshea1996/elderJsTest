@@ -2,13 +2,9 @@ require('dotenv').config();
 const renderElderPage = require('../lib/render-elder-page');
 
 exports.handler = async (event) => {
-  const data = {
-    markdown: {
-      blog: [],
-    },
-  };
+  console.log(event, 'EVENT');
 
-  const html = await renderElderPage('/recruiting-blog/', data);
+  const html = await renderElderPage('/recruiting-blog/');
 
   return {
     statusCode: 200,

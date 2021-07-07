@@ -23,7 +23,7 @@ module.exports = {
   ],
 
   data: ({ data, request }) => {
-    const queryParams = request.req ? request.req.query : {};
+    const search = data.search ? data.search : null;
 
     // params.s for search
     // The data function populates what data should be in available in our Svelte template.
@@ -38,23 +38,22 @@ module.exports = {
     // sort blogs by date
     data.blogs = data.blogs.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
-    if (data.category.length > 0 && !queryParams.s) {
+    if (data.category.length > 0 && !search) {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
-    } else if (data.category && queryParams.s) {
+    } else if (data.category && search) {
       // check for any category and also the title
       data.blogs = data.blogs.filter(
         (p) =>
           p.frontmatter.categories.includes(data.category) &&
-          p.frontmatter.title.toLowerCase().includes(queryParams.s.toLowerCase()),
+          p.frontmatter.title.toLowerCase().includes(search.toLowerCase()),
       );
-    } else if (!data.category && queryParams.s) {
-      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(queryParams.s.toLowerCase()));
+    } else if (!data.category && search) {
+      data.blogs = data.blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(search.toLowerCase()));
     }
 
     return {
       data,
       category: request.category,
-      x: queryParams,
     };
   },
 };
