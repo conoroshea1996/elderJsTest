@@ -16,16 +16,17 @@ module.exports = async function renderElderPage(permalink, extraData) {
     description: 'Use this hook to add a key to the "data" object on the "home" route. ',
     priority: 50,
     run: async ({ request, data }) => {
-      // if (extraData.search) {
-      //   data.markdown.blog = data.markdown.blog.filter((p) =>
-      //     p.frontmatter.title.toLowerCase().includes(extraData.search.toLowerCase()),
-      //   );
-      // }
+      let blogSearchResults;
+      if (extraData.search) {
+        blogSearchResults = data.markdown.blog.filter((p) =>
+          p.frontmatter.title.toLowerCase().includes(extraData.search.toLowerCase()),
+        );
+      }
 
       return {
         data: {
           ...data,
-          blogs: [],
+          blogs: blogSearchResults,
         },
       };
     },
