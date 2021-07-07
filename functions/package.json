@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@elderjs/elderjs": "^1.5.5",
     "@elderjs/plugin-markdown": "^1.1.6"
   }
 }
