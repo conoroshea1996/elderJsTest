@@ -8,7 +8,7 @@ module.exports = {
   lang: 'en',
   srcDir: 'src',
   distDir: 'public',
-  rootDir: path.resolve(__dirname, '../getBlogs'),
+  rootDir: path.resolve(__dirname),
   build: {},
   prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
   server: {},
