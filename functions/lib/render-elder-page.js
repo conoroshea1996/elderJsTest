@@ -18,7 +18,6 @@ module.exports = async function renderElderPage(permalink, data = {}) {
     description: 'Adds custom data to data object',
     priority: 50,
     run: (opts) => {
-      console.log(opts.data);
       return {
         data: { ...opts.data, ...data },
       };
