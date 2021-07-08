@@ -12,7 +12,6 @@
 
   export let blogs;
   export let activeCategory;
-  export let search;
 
   let blogsToShow = [];
 
@@ -63,10 +62,6 @@
     duration: 250,
   });
 
-  if (search) {
-    blogs = blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(search.toLowerCase()));
-  }
-
   const paginate = (posts, pageNumber) => {
     // make deep copy so we can mutate categories
     var postToShow = posts.slice(0, pageNumber * pageSize);
@@ -91,7 +86,6 @@
 </style>
 
 <BlogNavigation {activeCategory} />
-{totalPages}
 <!-- Current: "ring-2 ring-offset-2 ring-indigo-500", Default: "focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500" -->
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
   {#each blogsToShow as { frontmatter, slug }, i}

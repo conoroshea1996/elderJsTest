@@ -11,4 +11,4 @@
 </script>
 
 <!-- Gives out about this -->
-<BlogPage hydrate-client={{ blogs: data.blogs, search: data.search, activeCategory: data.category }} />
+<BlogPage hydrate-client={{ blogs: data.blogs, activeCategory: data.category }} />
