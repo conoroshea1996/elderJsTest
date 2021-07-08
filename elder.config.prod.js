@@ -13,8 +13,8 @@ module.exports = {
   prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
   server: {},
   props: {
-    hydration: 'hybrid',
-    compress: false,
+    hydration: 'html',
+    compress: true,
   },
   debug: {
     stacks: false, // output details of the stack consolidation process.

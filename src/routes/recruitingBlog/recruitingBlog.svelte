@@ -10,5 +10,8 @@
   export let data, helpers;
 </script>
 
+<BlogNavigation hydrate-client={{ activeCategory: data.category }} />
+
 <!-- Gives out about this -->
-<BlogPage hydrate-client={{ activeCategory: data.category, blogs: data.blogs, search: data.search }} />
+<BlogPage hydrate-client={{ blogs: data.category, search: data.search, activeCategory: data.category }}>
+
