@@ -31,7 +31,17 @@ module.exports = {
     data.hookEntityDefinitions = hookEntityDefinitions;
     data.category = request.category;
 
-    data.blogs = data.markdown.blog;
+    data.blogs = data.markdown.blog.map((c) => {
+      return {
+        slug: c.slug,
+        frontmatter: {
+          coverImage: c.frontmatter.coverImage,
+          categories: c.frontmatter.categories,
+          title: c.frontmatter.title,
+          date: c.frontmatter.date,
+        },
+      };
+    });
 
     // sort blogs by date
     data.blogs = data.blogs.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));

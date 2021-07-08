@@ -15,53 +15,6 @@
 
   let blogsToShow = [];
 
-  let blogCategories = [
-    {
-      display: 'All',
-      value: null,
-    },
-    {
-      display: 'Strategy',
-      value: 'recruiting-strategy',
-    },
-    {
-      display: 'Culture & Branding',
-      value: 'culture-branding',
-    },
-    {
-      display: 'Social',
-      value: 'social-recruiting',
-    },
-    {
-      display: 'Remote Hiring',
-      value: 'remote-hiring',
-    },
-    {
-      display: 'Compliance & Data',
-      value: 'compliance-and-data',
-    },
-    {
-      display: 'Infographics',
-      value: 'infographics',
-    },
-    {
-      display: 'Events',
-      value: 'hr-events-and-people',
-    },
-    {
-      display: 'Updates',
-      value: 'hirehive-updates',
-    },
-    {
-      display: 'Guides',
-      value: 'Guides',
-    },
-  ];
-
-  let widthBarSearch = tweened(0, {
-    duration: 250,
-  });
-
   const paginate = (posts, pageNumber) => {
     // make deep copy so we can mutate categories
     var postToShow = posts.slice(0, pageNumber * pageSize);
@@ -97,7 +50,7 @@
               loading="lazy"
               class="absoulte inset-0 h-full w-full object-cover"
               src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={frontmatter.slug} />
+              alt={slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -121,7 +74,7 @@
               loading="lazy"
               class="h-56 w-full object-cover rounded-lg"
               src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={frontmatter.slug} />
+              alt={slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -145,7 +98,7 @@
               loading="lazy"
               class="h-48 w-full object-cover rounded-lg"
               src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
-              alt={frontmatter.slug} />
+              alt={slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -169,7 +122,7 @@
               loading="lazy"
               class="absoulte inset-0 h-full w-full object-cover"
               src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={frontmatter.slug} />
+              alt={slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -193,7 +146,7 @@
               loading="lazy"
               class="h-48 w-full object-cover rounded-lg"
               src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
-              alt={frontmatter.slug} />
+              alt={slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -217,7 +170,7 @@
               loading="lazy"
               class="h-48 w-full object-cover rounded-lg"
               src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={frontmatter.slug} />
+              alt={slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
