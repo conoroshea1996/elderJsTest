@@ -25,7 +25,7 @@ module.exports = async function renderElderPage(permalink, extraData) {
       return {
         data: {
           ...data,
-          searchBlogs: allBlogs,
+          blogs: allBlogs,
         },
       };
     },
