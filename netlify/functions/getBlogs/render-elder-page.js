@@ -17,7 +17,7 @@ module.exports = async function renderElderPage(permalink, extraData) {
     description: 'Use this hook to add a key to the "data" object on the "home" route. ',
     priority: 50,
     run: async ({ request, data }) => {
-      let blogs = data.markdown.blogs.map((c) => {
+      data.markdown.blogs = data.markdown.blogs.map((c) => {
         return {
           slug: c.slug,
           frontmatter: {
@@ -30,13 +30,14 @@ module.exports = async function renderElderPage(permalink, extraData) {
       });
 
       if (extraData.search) {
-        blogs = blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(extraData.toLowerCase()));
+        data.markdown.blogs = data.markdown.blogs.filter((p) =>
+          p.frontmatter.title.toLowerCase().includes(extraData.toLowerCase()),
+        );
       }
 
       return {
         data: {
-          ...data,
-          blogs: blogs,
+          blogs: data.markdown.blogs,
         },
       };
     },
