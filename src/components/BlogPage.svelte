@@ -1,4 +1,6 @@
 <script>
+  import { onMount } from 'svelte';
+
   import { tweened } from 'svelte/motion';
   import BlogNavigation from './BlogNavigation.svelte';
   export let helpers;
@@ -10,6 +12,9 @@
 
   export let blogs;
   export let activeCategory;
+  export let search;
+
+  let blogsToShow = [];
 
   let blogCategories = [
     {
@@ -57,6 +62,23 @@
   let widthBarSearch = tweened(0, {
     duration: 250,
   });
+
+  if (search) {
+    blogs = blogs.filter((p) => p.frontmatter.title.toLowerCase().includes(search.toLowerCase()));
+  }
+
+  const paginate = (posts, pageNumber) => {
+    // make deep copy so we can mutate categories
+    var postToShow = posts.slice(0, pageNumber * pageSize);
+    return postToShow;
+  };
+
+  const getTotalPages = (posts) => {
+    totalPages = Math.round(posts.length / pageSize);
+  };
+
+  $: blogsToShow = paginate(blogs, pageNumber);
+  getTotalPages(blogs);
 </script>
 
 <style>
@@ -69,10 +91,10 @@
 </style>
 
 <BlogNavigation {activeCategory} />
-
+{totalPages}
 <!-- Current: "ring-2 ring-offset-2 ring-indigo-500", Default: "focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500" -->
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
-  {#each blogs as { frontmatter, slug }, i}
+  {#each blogsToShow as { frontmatter, slug }, i}
     {#if i % pageSize === 0}
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
         <a href="/{slug}">
@@ -221,9 +243,13 @@
   {/each}
 </div>
 
-<div class="bg-navy py-16 my-8">
-  <h1 on:click={() => {}} class="text-center text-white text text-3xl font-bold cursor-pointer">Load more</h1>
-</div>
+{#if totalPages > 1 && pageNumber < totalPages}
+  <div class="bg-navy py-16 my-8">
+    <h1 on:click={() => pageNumber++} class="text-center text-white text text-3xl font-bold cursor-pointer">
+      Load more
+    </h1>
+  </div>
+{/if}
 
 <div class="bg-white py-20 px-4">
   <div class=" max-w-7xl  mx-auto  lg:flex lg:items-center lg:justify-between">
