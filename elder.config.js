@@ -1,6 +1,6 @@
 require('dotenv').config();
 module.exports = {
-  origin: '', // TODO: update this.
+  origin: 'https://youthful-mccarthy-ab0370.netlify.app/', // TODO: update this.
   lang: 'en',
   srcDir: 'src',
   distDir: 'public',
@@ -31,6 +31,21 @@ module.exports = {
       port: 8080,
       reload: false, // if you are having issues with reloading not working, change to true.
     },
+    // '@elderjs/plugin-images': {
+    //   debug: true,
+    //   folders: [
+    //     {
+    //       src: '/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+    //       output: '/images/', // where files should be put within the distDir defined in your elder.config.js.
+    //     },
+    //   ],
+    // },
+    // '@elderjs/plugin-sitemap': {
+    //   origin: 'https://youthful-mccarthy-ab0370.netlify.app/',
+    //   exclude: [], // an array of permalinks or permalink prefixes. So you can do ['500'] and it will match /500**
+    //   routeDetails: {},
+    //   lastUpdate: {}, // configurable last update for each route type.
+    // },
     // '@elderjs/plugin-seo-check': {
     //   display: ['errors'], // If the errors are too verbose remove 'warnings'
     //   //writeLocation: './report.json', // if you want to write a report of errors
