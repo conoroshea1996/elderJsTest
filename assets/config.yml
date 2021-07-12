@@ -1,0 +1,312 @@
+# run the command below and set `local_backend: true` for local development
+# npx netlify-cms-proxy-server
+local_backend: true
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+# publish_mode: editorial_workflow # didn't work when testing locally...
+media_folder: 'static/images' # Media files will be stored in the repo under static/images/uploads
+public_folder: 'images' # The src attribute for uploaded media will begin with /images/uploads
+publish_mode: editorial_workflow
+collections:
+  - name: 'blog'
+    label: 'Blogs'
+    folder: 'src/routes/blog'
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}'
+    fields:
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+        default: ''
+        date_format: 'DD.MM.YYYY' # e.g. 24.12.2021
+        format: 'LLL'
+        picker_utc: true
+
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'title', name: 'title', widget: 'string' }
+      - { label: 'Blog Intro', name: 'blogIntro', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Seo Title', name: 'seoTitle', widget: 'string' }
+      - { label: 'Seo Description', name: 'seoDescription', widget: 'string' }
+
+      - label: 'Cover Image'
+        name: 'coverImage'
+        widget: 'image'
+        media_folder: '/assets/images'
+        public_folder: '/images'
+
+      - label: 'Author'
+        name: 'author'
+        multiple: false
+        options:
+          - { label: 'Maëlle De Francesco', value: 'Maëlle-De-Francesco' }
+          - { label: 'Albena Krasteva', value: 'Albena-Krasteva' }
+          - { label: "Chelsea O'Connor", value: 'Chelsea-O-Connor' }
+          - { label: 'Dave Hall', value: 'Dave-Hall' }
+          - { label: 'HireHive Team', value: 'HireHive-Team' }
+          - { label: 'John Dennehy', value: 'John-Dennehy' }
+          - { label: 'Orla Hodnett', value: 'Orla-Hodnett' }
+          - { label: 'Pamela Weaver', value: 'Pamela-Weaver' }
+          - { label: 'Rachel Hill', value: 'Rachel-Hill' }
+          - { label: 'Siobhan Hasner', value: 'Siobhan-Hasner' }
+
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'select'
+        multiple: true
+        options:
+          - { label: 'Recruitment Strategy', value: 'recruiting-strategy' }
+          - { label: 'Recruitment Strategy', value: 'recruiting-strategy' }
+          - { label: 'Hr Events And People', value: 'hr-events-and-people' }
+          - { label: 'Culture Branding', value: 'culture-branding' }
+          - { label: 'How To', value: 'how-to' }
+          - { label: 'Choosing An Ats', value: 'choosing-an-ats' }
+          - { label: 'Hirehive Updates', value: 'hirehive-updates' }
+          - { label: 'Social Recruiting', value: 'social-recruiting' }
+          - { label: 'Compliance And Data', value: 'compliance-and-data' }
+          - { label: 'Infographics', value: 'infographics' }
+          - { label: 'Remote Hiring', value: 'remote-hiring' }
+
+      - label: 'Tags'
+        name: 'tags'
+        widget: 'select'
+        multiple: true
+        options:
+          - { label: 'Ats', value: 'ats' }
+          - { label: 'Hiring', value: 'hiring' }
+          - { label: 'Recruiting', value: 'recruiting' }
+          - { label: 'Recruiting Software', value: 'recruiting-software' }
+          - { label: 'Summer Slowdown', value: 'summer-slowdown' }
+          - { label: 'Millennials', value: 'millennials' }
+          - { label: 'Applying For Jobs', value: 'applying-for-jobs' }
+          - { label: 'Recruitment Online', value: 'recruitment-online' }
+          - { label: 'Hiring Techniques', value: 'hiring-techniques' }
+          - { label: 'Full Scale Recruiting', value: 'full-scale-recruiting' }
+          - { label: 'Recruiting Solutions', value: 'recruiting-solutions' }
+          - { label: 'Social Media', value: 'social-media' }
+          - { label: 'Social Recruiting', value: 'social-recruiting' }
+          - { label: 'Recruitment Tracker', value: 'recruitment-tracker' }
+          - { label: 'Rejecting Candidates', value: 'rejecting-candidates' }
+          - { label: 'Recruiting Team Software', value: 'recruiting-team-software' }
+          - { label: 'Stripe', value: 'stripe' }
+          - { label: 'Recruitment Management System', value: 'recruitment-management-system' }
+          - { label: 'Marketing', value: 'marketing' }
+          - { label: 'Recruiting Marketing', value: 'recruiting-marketing' }
+          - { label: 'Job Posting Software', value: 'job-posting-software' }
+          - { label: 'Eeoc Compliance', value: 'eeoc-compliance' }
+          - { label: 'Employee Referral Scheme', value: 'employee-referral-scheme' }
+          - { label: 'Employee Referrals', value: 'employee-referrals' }
+          - { label: 'Employee Referrals Software', value: 'employee-referrals-software' }
+          - { label: 'Career Path', value: 'career-path' }
+          - { label: 'Employee Development', value: 'employee-development' }
+          - { label: 'Applicants', value: 'applicants' }
+          - { label: 'Employer Brand', value: 'employer-brand' }
+          - { label: 'Resume Database Software', value: 'resume-database-software' }
+          - { label: 'Workable Alternative', value: 'workable-alternative' }
+          - { label: 'Gdpr', value: 'gdpr' }
+          - { label: 'Online Recruitment Software', value: 'online-recruitment-software' }
+          - { label: 'Recruiting Strategy', value: 'recruiting-strategy' }
+          - { label: 'Job Listing Software', value: 'job-listing-software' }
+          - { label: 'Recruiting System', value: 'recruiting-system' }
+          - { label: 'Ats Recruitment', value: 'ats-recruitment' }
+          - { label: 'Applicant Tracking Software', value: 'applicant-tracking-software' }
+          - { label: 'Reports', value: 'reports' }
+          - { label: 'Ats Comparison', value: 'ats-comparison' }
+          - { label: 'Candidate Tracking', value: 'candidate-tracking' }
+          - { label: 'Competition', value: 'competition' }
+          - { label: 'Hirehive', value: 'hirehive' }
+          - { label: 'Hiring Software Pricing', value: 'hiring-software-pricing' }
+          - { label: 'Human Resource Management', value: 'human-resource-management' }
+          - { label: 'Recruiting Management Software', value: 'recruiting-management-software' }
+          - { label: 'Taleo Alternatives', value: 'taleo-alternatives' }
+          - { label: 'Icims Alternatives', value: 'icims-alternatives' }
+          - { label: 'Interview Scheduling', value: 'interview-scheduling' }
+          - { label: 'September', value: 'september' }
+          - { label: 'Hiring Interns', value: 'hiring-interns' }
+          - { label: 'Internships', value: 'internships' }
+          - { label: 'Recruitingsoftware', value: 'recruitingsoftware' }
+          - { label: 'Summer Internships', value: 'summer-internships' }
+          - { label: 'Hiring Strategy', value: 'hiring-strategy' }
+          - { label: 'Multilingual Employees', value: 'multilingual-employees' }
+          - { label: 'Finding Candidates', value: 'finding-candidates' }
+          - { label: 'Social Recruiting Strategy', value: 'social-recruiting-strategy' }
+          - { label: 'Productivity', value: 'productivity' }
+          - { label: 'Recruitment Web Site Software', value: 'recruitment-web-site-software' }
+          - { label: 'Interview Schedule Software', value: 'interview-schedule-software' }
+          - { label: 'Employee Tracking Software', value: 'employee-tracking-software' }
+          - { label: 'Online Recruiting', value: 'online-recruiting' }
+          - { label: 'Tech Recruiting Software', value: 'tech-recruiting-software' }
+          - { label: 'Recruiting Strategies', value: 'recruiting-strategies' }
+          - { label: 'Recruiting Tools', value: 'recruiting-tools' }
+          - { label: 'Recruitment Tools', value: 'recruitment-tools' }
+          - { label: 'Social Media Recruiting', value: 'social-media-recruiting' }
+          - { label: 'Social Recruiting Tools', value: 'social-recruiting-tools' }
+          - { label: 'Speeding Up The Recruiting Process', value: 'speeding-up-the-recruiting-process' }
+          - { label: 'Eeoc Recruiting', value: 'eeoc-recruiting' }
+          - { label: 'Ats System', value: 'ats-system' }
+          - { label: 'Ats Systems', value: 'ats-systems' }
+          - { label: 'Online Hiring Software', value: 'online-hiring-software' }
+          - { label: 'Recruiter Skills', value: 'recruiter-skills' }
+          - { label: 'Hr Software', value: 'hr-software' }
+          - { label: 'Employee Retention Rate', value: 'employee-retention-rate' }
+          - { label: 'Employee Retention Rates', value: 'employee-retention-rates' }
+          - { label: 'Online Recruitment', value: 'online-recruitment' }
+          - { label: 'Startup', value: 'startup' }
+          - { label: 'Hiring Tools', value: 'hiring-tools' }
+          - { label: 'Canva', value: 'canva' }
+          - { label: 'Hotjar', value: 'hotjar' }
+          - { label: 'Remote', value: 'remote' }
+          - { label: 'Remote Work', value: 'remote-work' }
+          - { label: 'Trello', value: 'trello' }
+          - { label: 'Project Management', value: 'project-management' }
+          - { label: 'Job Posting', value: 'job-posting' }
+
+  - name: 'frenchblog'
+    label: 'French Blogs'
+    folder: 'src/routes/FRblog'
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}'
+    fields:
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+        default: ''
+        date_format: 'DD.MM.YYYY' # e.g. 24.12.2021
+        format: 'LLL'
+        picker_utc: true
+
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+      - label: 'Cover Image'
+        name: 'coverImage'
+        widget: 'image'
+        media_folder: '/static/fr/images'
+        public_folder: '/fr/images'
+
+      - label: 'Author'
+        name: 'author'
+        multiple: false
+        options:
+          - { label: 'Maëlle-De-Francesco', value: 'Maëlle-De-Francesco' }
+          - { label: 'Albena-Krasteva', value: 'Albena-Krasteva' }
+          - { label: 'Chelsea-O-Connor', value: 'Chelsea-O-Connor' }
+          - { label: 'Dave-Hall', value: 'Dave-Hall' }
+          - { label: 'HireHive-Team', value: 'HireHive-Team' }
+          - { label: 'John-Dennehy', value: 'John-Dennehy' }
+          - { label: 'Orla-Hodnett', value: 'Orla-Hodnett' }
+          - { label: 'Pamela-Weaver', value: 'Pamela-Weaver' }
+          - { label: 'Rachel-Hill', value: 'Rachel-Hill' }
+
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'select'
+        multiple: true
+        options:
+          - { label: 'Recruitment Strategy', value: 'recruiting-strategy' }
+          - { label: 'Recruitment Strategy', value: 'recruiting-strategy' }
+          - { label: 'Hr Events And People', value: 'hr-events-and-people' }
+          - { label: 'Culture Branding', value: 'culture-branding' }
+          - { label: 'How To', value: 'how-to' }
+          - { label: 'Choosing An Ats', value: 'choosing-an-ats' }
+          - { label: 'Hirehive Updates', value: 'hirehive-updates' }
+          - { label: 'Social Recruiting', value: 'social-recruiting' }
+          - { label: 'Compliance And Data', value: 'compliance-and-data' }
+          - { label: 'Infographics', value: 'infographics' }
+          - { label: 'Remote Hiring', value: 'remote-hiring' }
+
+      - label: 'Tags'
+        name: 'tags'
+        widget: 'select'
+        multiple: true
+        options:
+          - { label: 'Ats', value: 'ats' }
+          - { label: 'Hiring', value: 'hiring' }
+          - { label: 'Recruiting', value: 'recruiting' }
+          - { label: 'Recruiting Software', value: 'recruiting-software' }
+          - { label: 'Summer Slowdown', value: 'summer-slowdown' }
+          - { label: 'Millennials', value: 'millennials' }
+          - { label: 'Applying For Jobs', value: 'applying-for-jobs' }
+          - { label: 'Recruitment Online', value: 'recruitment-online' }
+          - { label: 'Hiring Techniques', value: 'hiring-techniques' }
+          - { label: 'Full Scale Recruiting', value: 'full-scale-recruiting' }
+          - { label: 'Recruiting Solutions', value: 'recruiting-solutions' }
+          - { label: 'Social Media', value: 'social-media' }
+          - { label: 'Social Recruiting', value: 'social-recruiting' }
+          - { label: 'Recruitment Tracker', value: 'recruitment-tracker' }
+          - { label: 'Rejecting Candidates', value: 'rejecting-candidates' }
+          - { label: 'Recruiting Team Software', value: 'recruiting-team-software' }
+          - { label: 'Stripe', value: 'stripe' }
+          - { label: 'Recruitment Management System', value: 'recruitment-management-system' }
+          - { label: 'Marketing', value: 'marketing' }
+          - { label: 'Recruiting Marketing', value: 'recruiting-marketing' }
+          - { label: 'Job Posting Software', value: 'job-posting-software' }
+          - { label: 'Eeoc Compliance', value: 'eeoc-compliance' }
+          - { label: 'Employee Referral Scheme', value: 'employee-referral-scheme' }
+          - { label: 'Employee Referrals', value: 'employee-referrals' }
+          - { label: 'Employee Referrals Software', value: 'employee-referrals-software' }
+          - { label: 'Career Path', value: 'career-path' }
+          - { label: 'Employee Development', value: 'employee-development' }
+          - { label: 'Applicants', value: 'applicants' }
+          - { label: 'Employer Brand', value: 'employer-brand' }
+          - { label: 'Resume Database Software', value: 'resume-database-software' }
+          - { label: 'Workable Alternative', value: 'workable-alternative' }
+          - { label: 'Gdpr', value: 'gdpr' }
+          - { label: 'Online Recruitment Software', value: 'online-recruitment-software' }
+          - { label: 'Recruiting Strategy', value: 'recruiting-strategy' }
+          - { label: 'Job Listing Software', value: 'job-listing-software' }
+          - { label: 'Recruiting System', value: 'recruiting-system' }
+          - { label: 'Ats Recruitment', value: 'ats-recruitment' }
+          - { label: 'Applicant Tracking Software', value: 'applicant-tracking-software' }
+          - { label: 'Reports', value: 'reports' }
+          - { label: 'Ats Comparison', value: 'ats-comparison' }
+          - { label: 'Candidate Tracking', value: 'candidate-tracking' }
+          - { label: 'Competition', value: 'competition' }
+          - { label: 'Hirehive', value: 'hirehive' }
+          - { label: 'Hiring Software Pricing', value: 'hiring-software-pricing' }
+          - { label: 'Human Resource Management', value: 'human-resource-management' }
+          - { label: 'Recruiting Management Software', value: 'recruiting-management-software' }
+          - { label: 'Taleo Alternatives', value: 'taleo-alternatives' }
+          - { label: 'Icims Alternatives', value: 'icims-alternatives' }
+          - { label: 'Interview Scheduling', value: 'interview-scheduling' }
+          - { label: 'September', value: 'september' }
+          - { label: 'Hiring Interns', value: 'hiring-interns' }
+          - { label: 'Internships', value: 'internships' }
+          - { label: 'Recruitingsoftware', value: 'recruitingsoftware' }
+          - { label: 'Summer Internships', value: 'summer-internships' }
+          - { label: 'Hiring Strategy', value: 'hiring-strategy' }
+          - { label: 'Multilingual Employees', value: 'multilingual-employees' }
+          - { label: 'Finding Candidates', value: 'finding-candidates' }
+          - { label: 'Social Recruiting Strategy', value: 'social-recruiting-strategy' }
+          - { label: 'Productivity', value: 'productivity' }
+          - { label: 'Recruitment Web Site Software', value: 'recruitment-web-site-software' }
+          - { label: 'Interview Schedule Software', value: 'interview-schedule-software' }
+          - { label: 'Employee Tracking Software', value: 'employee-tracking-software' }
+          - { label: 'Online Recruiting', value: 'online-recruiting' }
+          - { label: 'Tech Recruiting Software', value: 'tech-recruiting-software' }
+          - { label: 'Recruiting Strategies', value: 'recruiting-strategies' }
+          - { label: 'Recruiting Tools', value: 'recruiting-tools' }
+          - { label: 'Recruitment Tools', value: 'recruitment-tools' }
+          - { label: 'Social Media Recruiting', value: 'social-media-recruiting' }
+          - { label: 'Social Recruiting Tools', value: 'social-recruiting-tools' }
+          - { label: 'Speeding Up The Recruiting Process', value: 'speeding-up-the-recruiting-process' }
+          - { label: 'Eeoc Recruiting', value: 'eeoc-recruiting' }
+          - { label: 'Ats System', value: 'ats-system' }
+          - { label: 'Ats Systems', value: 'ats-systems' }
+          - { label: 'Online Hiring Software', value: 'online-hiring-software' }
+          - { label: 'Recruiter Skills', value: 'recruiter-skills' }
+          - { label: 'Hr Software', value: 'hr-software' }
+          - { label: 'Employee Retention Rate', value: 'employee-retention-rate' }
+          - { label: 'Employee Retention Rates', value: 'employee-retention-rates' }
+          - { label: 'Online Recruitment', value: 'online-recruitment' }
+          - { label: 'Startup', value: 'startup' }
+          - { label: 'Hiring Tools', value: 'hiring-tools' }
+          - { label: 'Canva', value: 'canva' }
+          - { label: 'Hotjar', value: 'hotjar' }
+          - { label: 'Remote', value: 'remote' }
+          - { label: 'Remote Work', value: 'remote-work' }
+          - { label: 'Trello', value: 'trello' }
+          - { label: 'Project Management', value: 'project-management' }
+          - { label: 'Job Posting', value: 'job-posting' }

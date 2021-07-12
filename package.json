@@ -5,10 +5,9 @@
   "main": "./src/build.js",
   "scripts": {
     "start": "npm run dev",
-    "build": "node ./src/cleanPublic.js && npm run build:rollup && npm run build:html && npm run build:admin",
+    "build": "node ./src/cleanPublic.js && npm run build:rollup && npm run build:html",
     "build:rollup": "rollup -c",
     "build:html": "node ./src/build.js",
-    "build:admin": "ncp src/routes/admin public/admin",
     "prebuild": "cd netlify/functions/getBlogs && npm i",
     "postbuild": "mkdirp netlify/functions/getBlogs/public/ && ncp elder.config.prod.js netlify/functions/getBlogs/elder.config.js && ncp src netlify/functions/getBlogs/src && ncp ___ELDER___ netlify/functions/getBlogs/___ELDER___ && ncp public/_elderjs netlify/functions/getBlogs/public/_elderjs",
     "dev": "rollup  -c -w --no-watch.clearScreen",
