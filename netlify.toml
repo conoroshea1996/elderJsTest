@@ -11,6 +11,20 @@
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  buildDir = "public"
+  filePath = "fr/sitemap.xml"
+  exclude = [
+    '*/fr'
+  ]
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  buildDir = "public"
+  exclude = [
+    'fr/**'
+  ]
 
 [[headers]]
   for = "/_elderjs/*"
