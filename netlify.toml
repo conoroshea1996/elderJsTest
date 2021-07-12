@@ -3,8 +3,8 @@
   publish = "public/"
 
 [[redirects]]
-  from = "/recruiting-blog/"
-  to = "/.netlify/functions/getBlogs"
+  from = "/recruiting-blog search=:search"
+  to = "/.netlify/functions/getBlogs?search=:search"
   force=true
   status = 200
 
