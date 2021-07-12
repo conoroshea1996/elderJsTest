@@ -3,8 +3,9 @@
   publish = "public/"
 
 [[redirects]]
-  from = "/recruiting-blog search=:search"
-  to = "/.netlify/functions/getBlogs?search=:search"
+  from = "/recruiting-blog"
+  query = {search = ":search"} # apply this rule for /old-path?search=example
+  to = "/.netlify/functions/getBlogs/?search=:search"
   force=true
   status = 200
 
