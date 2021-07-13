@@ -183,7 +183,7 @@ collections:
       - label: 'Cover Image'
         name: 'coverImage'
         widget: 'image'
-        media_folder: '/static/fr/images'
+        media_folder: '/assets/fr/images'
         public_folder: '/fr/images'
 
       - label: 'Author'
