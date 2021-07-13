@@ -1,6 +1,6 @@
 require('dotenv').config();
 module.exports = {
-  origin: 'https://youthful-mccarthy-ab0370.netlify.app/', // TODO: update this.
+  origin: '', // TODO: update this.
   lang: 'en',
   srcDir: 'src',
   distDir: 'public',
@@ -40,16 +40,16 @@ module.exports = {
     //     },
     //   ],
     // },
-    // '@elderjs/plugin-sitemap': {
-    //   origin: 'https://youthful-mccarthy-ab0370.netlify.app/',
-    //   exclude: [], // an array of permalinks or permalink prefixes. So you can do ['500'] and it will match /500**
-    //   routeDetails: {},
-    //   lastUpdate: {}, // configurable last update for each route type.
-    // },
+    '@elderjs/plugin-sitemap': {
+      origin: 'https://youthful-mccarthy-ab0370.netlify.app',
+      exclude: [], // an array of permalinks or permalink prefixes. So you can do ['500'] and it will match /500**
+      routeDetails: {},
+      lastUpdate: {}, // configurable last update for each route type.
+    },
     // '@elderjs/plugin-seo-check': {
     //   display: ['errors'], // If the errors are too verbose remove 'warnings'
     //   //writeLocation: './report.json', // if you want to write a report of errors
     // },
   },
-  shortcodes: { closePattern: '}}', openPattern: '{{' },
+  shortcodes: { closePattern: '@@', openPattern: '@@' },
 };
