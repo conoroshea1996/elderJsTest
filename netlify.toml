@@ -9,6 +9,13 @@
   force=true
   status = 200
 
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  exclude = [
+    "/fr/*",
+  ]
+
 [[headers]]
   for = "/_elderjs/*"
   [headers.values]
