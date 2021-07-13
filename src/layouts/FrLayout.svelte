@@ -74,6 +74,9 @@
 </style>
 
 <svelte:head>
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="icon" href="/assets/hirehive.ico" type="image/x-icon" />
+
   <script type="text/javascript">
     let scrolled = false;
     !(function (e, t, n) {
