@@ -205,8 +205,8 @@
         </p>
       </div>
 
-      <div class="px-6 bg-gray-100">
-        <!-- <img class="mx-auto" src="/assets/AgendaAtAGlance.png" alt="" /> -->
+      <div class="bg-gray-100">
+        <img class="w-full object-fill" src="/assets/CvParsing.png" alt="" />
       </div>
     </div>
   </div>
@@ -236,10 +236,7 @@
         </svelte:fragment>
 
         <svelte:fragment slot="image">
-          <img
-            class="w-full object-fill h-full"
-            src="/assets/RecruiterCandidatePortal.png"
-            alt="Recruiter Candidate Portal" />
+          <img class="w-full object-fill h-full" src="/assets/HiringPipeline.png" alt="Hiring Pipeline" />
         </svelte:fragment>
       </FeaturesCard>
 
@@ -259,7 +256,7 @@
         </svelte:fragment>
 
         <svelte:fragment slot="image">
-          <img class="w-full object-fill" src="/assets/DuplicateFlagging.png" alt="Flag Duplicate applications" />
+          <img class="w-full object-fill" src="/assets/CreateDatabase.png" alt="Flag Duplicate applications" />
         </svelte:fragment>
       </FeaturesCard>
       <FeaturesCard>
@@ -278,7 +275,10 @@
         </svelte:fragment>
 
         <svelte:fragment slot="image">
-          <img class="w-full object-fill" src="/assets/DuplicateFlagging.png" alt="Flag Duplicate applications" />
+          <img
+            class="w-full object-fill"
+            src="/assets/CandidateManagementProfiles.png"
+            alt="Manage Candidate Profiles" />
         </svelte:fragment>
       </FeaturesCard>
       <FeaturesCard>
@@ -296,7 +296,7 @@
         </svelte:fragment>
 
         <svelte:fragment slot="image">
-          <img class="w-full object-fill" src="/assets/DuplicateFlagging.png" alt="Flag Duplicate applications" />
+          <img class="w-full object-fill" src="/assets/StreamlinedCommunication.png" alt="StreamLinedCommunication" />
         </svelte:fragment>
       </FeaturesCard>
     </div>
@@ -326,8 +326,8 @@
         <svelte:fragment slot="image">
           <img
             class="w-full object-fill h-full"
-            src="/assets/RecruiterCandidatePortal.png"
-            alt="Recruiter Candidate Portal" />
+            src="/assets/HireInDifferentLanguages.png"
+            alt="Hire In different Languages" />
         </svelte:fragment>
       </FeaturesCard>
 
@@ -350,7 +350,7 @@
         </svelte:fragment>
 
         <svelte:fragment slot="image">
-          <img class="w-full object-fill" src="/assets/DuplicateFlagging.png" alt="Flag Duplicate applications" />
+          <img class="w-full object-fill" src="/assets/MultiOfficeHiring.png" alt="Flag Duplicate applications" />
         </svelte:fragment>
       </FeaturesCard>
     </div>

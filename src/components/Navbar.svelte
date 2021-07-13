@@ -303,7 +303,7 @@
             <a
               href="/recruiting-blog"
               class="text-base font-medium rounded-md px-6 inline-flex items-center capitalize"
-              class:text-blue-500={currentUrl === '/blog/'}>
+              class:text-blue-500={currentUrl === '/recruiting-blog/'}>
               Blog
             </a>
             <a
@@ -371,7 +371,7 @@
               <div class="mt-6">
                 <nav class="grid gap-y-8">
                   <a
-                    href="/[('Navbar.features.findCandidates.currentUrl')}"
+                    href="/recruiting-features/find-candidates"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-yellow-400 text-gray-900 sm:h-12 sm:w-12">
@@ -394,7 +394,7 @@
                   </a>
 
                   <a
-                    href="/[('Navbar.features.manageApplications.currentUrl')}"
+                    href="/recruiting-features/manage-applications"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-blue-500 text-white sm:h-12 sm:w-12">
@@ -418,7 +418,7 @@
                     </span>
                   </a>
                   <a
-                    href="/[('Navbar.features.assessCandidates.currentUrl')}"
+                    href="/recruiting-features/assess-candidates"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-navy text-white sm:h-12 sm:w-12">
@@ -440,7 +440,7 @@
                     </span>
                   </a>
                   <a
-                    href="/[('Navbar.features.analyseReports.currentUrl')}"
+                    href="/recruiting-features/analyse-reports"
                     class="-m-3 p-3 flex items-center rounded-md {isDark ? 'hover:bg-gray-800' : 'hover:bg-gray-50'}">
                     <div
                       class="inline-flex items-center justify-center h-10 w-10 rounded-md bg-yellow-500 text-white sm:h-12 sm:w-12">
@@ -467,7 +467,7 @@
                   class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
                   >customers
                 </a><a
-                  href="/blog"
+                  href="/recruiting-blog"
                   class="rounded-md px-6 inline-flex items-center text-lg font-bold capitalize text-gray-500"
                   >blog
                 </a><a
