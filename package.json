@@ -9,7 +9,8 @@
     "build:rollup": "rollup -c",
     "build:html": "node ./src/build.js",
     "prebuild": "cd netlify/functions/getBlogs && npm i",
-    "postbuild": "mkdirp netlify/functions/getBlogs/public/ && ncp elder.config.prod.js netlify/functions/getBlogs/elder.config.js && ncp src netlify/functions/getBlogs/src && ncp ___ELDER___ netlify/functions/getBlogs/___ELDER___ && ncp public/_elderjs netlify/functions/getBlogs/public/_elderjs",
+    "postbuild": "mkdirp netlify/functions/getBlogs/public/ && ncp elder.config.prod.js netlify/functions/getBlogs/elder.config.js && ncp src netlify/functions/getBlogs/src && ncp ___ELDER___ netlify/functions/getBlogs/___ELDER___ && ncp public/_elderjs netlify/functions/getBlogs/public/_elderjs && build:sitemap",
+    "build:sitemap": "node test.js",
     "dev": "rollup  -c -w --no-watch.clearScreen",
     "serve": "node ./src/cleanPublic.js && npm run build:rollup && SET NODE_ENV=production node ./src/server.js",
     "esbuild": "node esbuild",
@@ -44,6 +45,7 @@
     "polka": "^0.5.2",
     "serverless-http": "^2.7.0",
     "sirv": "^1.0.11",
+    "sitemap-generator": "^8.5.1",
     "svelte": "^3.38.3",
     "svelte-preprocess": "^4.6.9",
     "tailwindcss": "^2.2.4"

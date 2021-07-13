@@ -9,8 +9,7 @@
   force=true
   status = 200
 
-[[plugins]]
-package = "@netlify/plugin-sitemap"
+
 
 [[headers]]
   for = "/_elderjs/*"
