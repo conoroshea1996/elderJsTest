@@ -9,8 +9,6 @@
   force=true
   status = 200
 
-
-
 [[headers]]
   for = "/_elderjs/*"
   [headers.values]
