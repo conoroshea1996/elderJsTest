@@ -18,11 +18,12 @@ const postData = async (url, body) => {
 };
 // https://api.convertkit.com/v3/forms/<form_id>/subscribe
 exports.handler = async function (event, context) {
-  console.log(event);
+  let body = JSON.parse(event.body);
+  let data = body.payload.data;
+  console.log(data, 'DATA');
 
-  let data = new URLSearchParams(event.body);
-  const formName = data.get('form-name');
-  let email = data.get('email');
+  let email = data.email;
+  let formName = data.form_name;
 
   if (formName == blogPostNewsLetter.formName) {
     email = email.toLowerCase();
