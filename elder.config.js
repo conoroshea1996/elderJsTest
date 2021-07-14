@@ -32,7 +32,7 @@ module.exports = {
       reload: false, // if you are having issues with reloading not working, change to true.
     },
     '@elderjs/plugin-images': {
-      debug: true,
+      debug: false,
       folders: [
         {
           src: 'assets/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
