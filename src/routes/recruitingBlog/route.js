@@ -22,7 +22,7 @@ module.exports = {
     { category: '' },
   ],
 
-  data: ({ data, request }) => {
+  data: ({ data, request, helpers }) => {
     // params.s for search
     // The data function populates what data should be in available in our Svelte template.
     // Since we will be listing out Elder.js's hooks, we make sure to populate that on the data object so it can be looped through
@@ -35,7 +35,10 @@ module.exports = {
       return {
         slug: c.slug,
         frontmatter: {
-          coverImage: c.frontmatter.coverImage,
+          coverImage: helpers.images.picture(c.frontmatter.coverImage.toLowerCase(), {
+            class: 'object-cover',
+            alt: c.slug,
+          }),
           categories: c.frontmatter.categories,
           title: c.frontmatter.title,
           date: c.frontmatter.date,
@@ -50,8 +53,10 @@ module.exports = {
       data.blogs = data.blogs.filter((p) => p.frontmatter.categories.includes(data.category));
     }
 
+    console.log(helpers, 'HELPERS');
     return {
       data,
+      helpers,
       category: request.category,
     };
   },
