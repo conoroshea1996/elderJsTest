@@ -1,13 +1,13 @@
 ---
-title: "Your guide to using recruitment agencies to help you hire"
-date: "2017-04-21"
+title: 'Your guide to using recruitment agencies to help you hire'
+date: '2017-04-21'
 categories:
-  - "recruiting-strategy"
-slug: "using-recruitment-agencies-hire"
-seoTitle: "Your guide to using recruitment agencies to help you hire"
-seoDescription: "Although there are many recruitment agencies available, do you actually need the help of a recruitment agency? Before deciding, read this quick guide."
-author: "Orla-Hodnett"
-coverImage: "/images/fly.jpg"
+  - 'recruiting-strategy'
+slug: 'using-recruitment-agencies-hire'
+seoTitle: 'Your guide to using recruitment agencies to help you hire'
+seoDescription: 'Although there are many recruitment agencies available, do you actually need the help of a recruitment agency? Before deciding, read this quick guide.'
+author: 'Orla-Hodnett'
+coverImage: '/images/fly.jpg'
 ---
 
 While technology has made hiring simpler for [smaller organisations](http://hirehive.io/blog/recruiting-software-small-businesses/) \- with recruiting software and applicant tracking systems - there is sometimes the need for extra manpower in your recruiting efforts. Many organisations will opt for the help of a recruitment agency or many recruitment agencies.

@@ -1,13 +1,13 @@
 ---
-title: "HireHive, the best alternative to Google Hire"
-date: "2020-08-28"
+title: 'HireHive, the best alternative to Google Hire'
+date: '2020-08-28'
 categories:
-  - "choosing-an-ats"
-slug: "hirehive-google-hire"
-seoTitle: ""
-seoDescription: "Google is sunsetting their Google Hire product, but HireHive is a great alternative to the platform. HireHive has the same main features and costs less."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/mantas-hesthaven-_g1WdcKcV3w-unsplash.jpg"
+  - 'choosing-an-ats'
+slug: 'hirehive-google-hire'
+seoTitle: ''
+seoDescription: 'Google is sunsetting their Google Hire product, but HireHive is a great alternative to the platform. HireHive has the same main features and costs less.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/mantas-hesthaven-_g1WdcKcV3w-unsplash.jpg'
 ---
 
 A year back, Google Hire announced that they are sunsetting their ATS. If you are still trying to figure out what you're going to do with all your recruitment data and to find new software to manage your recruitment process, keep reading. Google Hire let you down, but I can promise that HireHive won't. Here are a few reasons why:

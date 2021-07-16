@@ -1,13 +1,13 @@
 ---
 title: "How to find any passive candidate's email address"
-date: "2017-03-31"
+date: '2017-03-31'
 categories:
-  - "recruiting-strategy"
-slug: "how-to-find-any-passive-candidates-email-address"
+  - 'recruiting-strategy'
+slug: 'how-to-find-any-passive-candidates-email-address'
 seoTitle: "How to find any passive candidate's email address"
 seoDescription: "Ever Had A Candidate You really Want to Contact but don't have their email address? Find out How You Can Get it With our Help!"
-author: "Orla-Hodnett"
-coverImage: "/images/email-address-2.png"
+author: 'Orla-Hodnett'
+coverImage: '/images/email-address-2.png'
 ---
 
 We can often impress ourselves with our Internet stalking skills. Have you managed to find an ex-boyfriend’s MySpace page from 2005? Found your sister’s teenage LiveJournal to mock her mercilessly? Found your new colleague's LinkedIn page under her maiden name?

@@ -1,15 +1,15 @@
 ---
-title: "5 things to consider when creating employee referrals programs"
-date: "2016-09-26"
+title: '5 things to consider when creating employee referrals programs'
+date: '2016-09-26'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "employee-referrals"
-slug: "employee-referrals-rewards-program"
-seoTitle: "5 things to keep in mind when creating employee referrals programs"
-seoDescription: "You’ll probably need a bit more than just a carrot and a stick, but setting up an employee referrals rewards program is still pretty straight-forward."
-author: "Orla-Hodnett"
-coverImage: "/images/employee-referrals-e1474890871516.jpg"
+  - 'employee-referrals'
+slug: 'employee-referrals-rewards-program'
+seoTitle: '5 things to keep in mind when creating employee referrals programs'
+seoDescription: 'You’ll probably need a bit more than just a carrot and a stick, but setting up an employee referrals rewards program is still pretty straight-forward.'
+author: 'Orla-Hodnett'
+coverImage: '/images/employee-referrals-e1474890871516.jpg'
 ---
 
 Employee referrals are one of the most effective ways of hiring. Higher quality hires, reduced time to hire and an increased retention rate are three of the [main arguments for it](http://hirehive.io/blog/employee-referrals-team-can-help-you-grow/) and they’re probably enough to win that debate. An employee referral program needs a little bit of organisation and, of course, the efforts of your employees need to be rewarded.
@@ -20,7 +20,7 @@ Setting up a process for [employee referrals](https://hirehive.com/recruiting-fe
 
 HireHive is a useful tool to use in your referrals program, as it actually helps you to [set one up](http://hirehive.io/recruiting-features/employee-referral-tracking/). Online recruiting software can help you track the process from start to finish and will help with any future referrals campaigns.
 
-This is part of our [Social Recruiting](http://hirehive.io/social-recruiting/ "Social Media ") series
+This is part of our [Social Recruiting](http://hirehive.io/social-recruiting/ 'Social Media ') series
 
 #### Monetary rewards
 

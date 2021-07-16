@@ -1,13 +1,13 @@
 ---
-title: "Why Recruiting Software could change the way you recruit"
-date: "2016-02-01"
+title: 'Why Recruiting Software could change the way you recruit'
+date: '2016-02-01'
 categories:
-  - "choosing-an-ats"
-slug: "recruiting-software-change-recruit"
-seoTitle: ""
-seoDescription: "Recruiting Software (also know as ATS) are now used by a diverse range of businesses to make recruiting more efficient and to improve candidate, as well as the recruiter experience. How can they change the way you recruit?"
-author: "Orla-Hodnett"
-coverImage: "/images/Diving-in.jpg"
+  - 'choosing-an-ats'
+slug: 'recruiting-software-change-recruit'
+seoTitle: ''
+seoDescription: 'Recruiting Software (also know as ATS) are now used by a diverse range of businesses to make recruiting more efficient and to improve candidate, as well as the recruiter experience. How can they change the way you recruit?'
+author: 'Orla-Hodnett'
+coverImage: '/images/Diving-in.jpg'
 ---
 
 95%+ of Fortune 500 companies are [using them](http://www.wsj.com/articles/SB10001424052970204624204577178941034941330). Applicants are gearing their [applications towards them](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands). They’re scalable, they’re easy to use, they’re customisable and they’re pretty.

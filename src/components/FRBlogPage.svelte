@@ -1,5 +1,6 @@
 <script>
   import BlogNavigation from './FRBlogNavigation.svelte';
+
   export let helpers;
 
   // grab page number from layout
@@ -171,10 +172,6 @@
       </div>
     {/if}
   {/each}
-</div>
-
-<div class="bg-navy py-16 my-8">
-  <h1 on:click={() => {}} class="text-center text-white text text-3xl font-bold cursor-pointer">Voir plus</h1>
 </div>
 
 <div class="bg-white py-20 px-4">

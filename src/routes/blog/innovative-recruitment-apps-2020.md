@@ -1,24 +1,24 @@
 ---
-title: "Innovative Recruitment Apps for 2020"
-date: "2019-12-16"
+title: 'Innovative Recruitment Apps for 2020'
+date: '2019-12-16'
 categories:
-  - "social-recruiting"
-slug: "innovative-recruitment-apps-2020"
-seoTitle: ""
+  - 'social-recruiting'
+slug: 'innovative-recruitment-apps-2020'
+seoTitle: ''
 seoDescription: "Everybody loves using apps. Why shouldn't recruiters use some apps to help with their recruitment process? Here is our selection for 2020."
-author: "HireHive-Team"
-coverImage: "/images/photo-1484349296292-552da537bd3a.jpg"
+author: 'HireHive-Team'
+coverImage: '/images/photo-1484349296292-552da537bd3a.jpg'
 ---
 
 Back in 2017, we shared this post of apps that helped shape the future of the recruitment industry. We’re grateful that the article still shows up on the first page of Google when you search for recruiting apps, but we also know that the industry is changing rapidly and some information may be a little outdated. We thought we would revisit these apps and check out a few more to give you insight on the evolving technology that influences recruiting today. You’ll see a couple of familiar names in this list along with more apps we believe can reinvigorate the recruitment industry.
 
-[![Shapr logo](/images/Shapr-logo-403x400.png "Shapr logo")](http://shapr.co/)
+[![shapr logo](/images/shapr-logo-403x400.png)](http://shapr.co/)
 
 ### [Shapr](http://Shapr.co): _"Swipe for one minute a day. Build your dream network on Shapr."_
 
 In 2017, we included Shapr as a networking tool that could easily be used for recruitment. That premise holds true and we still believe it can be a great place to source new talent. Set up in a format similar to a dating app, Shapr allows professionals to connect with one another by establishing specific criteria as well as location. It’s perfect to set up those connections without the formality of a traditional job search. Modern-day networking, 101.
 
-[![Linkup logo](/images/LinkUpLogoWhiteOnNavy-400x400.png "Linkup logo")](https://www.linkup.com/)
+[![linkup logo](/images/linkuplogowhiteonnavy-400x400.png)](https://www.linkup.com/)
 
 ### [LinkUp](https://www.linkup.com/): _"\_\_With verified, up-to-date job listings directly from employer websites, we create a premium experience for job seekers, employers, and data seekers alike."_
 

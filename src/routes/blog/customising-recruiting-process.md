@@ -1,13 +1,13 @@
 ---
-title: "Customizing your recruiting process (and online recruiting software)"
-date: "2016-11-08"
+title: 'Customizing your recruiting process (and online recruiting software)'
+date: '2016-11-08'
 categories:
-  - "recruiting-strategy"
-slug: "customising-recruiting-process"
-seoTitle: "Customizing your recruiting process (and online recruiting software)"
-seoDescription: "To beat the competition, you have to stand out from the crowd. For recruiters, a recruiting system is the best thing to do. We give tips to customize it!"
-author: "Orla-Hodnett"
-coverImage: "/images/online-recruiting-software.jpg"
+  - 'recruiting-strategy'
+slug: 'customising-recruiting-process'
+seoTitle: 'Customizing your recruiting process (and online recruiting software)'
+seoDescription: 'To beat the competition, you have to stand out from the crowd. For recruiters, a recruiting system is the best thing to do. We give tips to customize it!'
+author: 'Orla-Hodnett'
+coverImage: '/images/online-recruiting-software.jpg'
 ---
 
 Remember when bedazzling was a thing? For a brief time in the 90s, you weren't a pre-teen girl worth your salt if you hadn't embellished a t-shirt or hat with rhinestones or glitter. Tell me please, what's stopping us from doing this in recruiting?

@@ -1,13 +1,13 @@
 ---
-title: "Should your company culture change your recruiting approach?"
-date: "2016-02-08"
+title: 'Should your company culture change your recruiting approach?'
+date: '2016-02-08'
 categories:
-  - "culture-branding"
-slug: "company-culture-approach-recruiting"
-seoTitle: "Should your company culture change your recruiting approach?"
-seoDescription: "Want to avoid a culture clash? Learn 4 ways you can recruit and retain candidates who share your company culture values today."
-author: "Orla-Hodnett"
-coverImage: "/images/clash.jpg"
+  - 'culture-branding'
+slug: 'company-culture-approach-recruiting'
+seoTitle: 'Should your company culture change your recruiting approach?'
+seoDescription: 'Want to avoid a culture clash? Learn 4 ways you can recruit and retain candidates who share your company culture values today.'
+author: 'Orla-Hodnett'
+coverImage: '/images/clash.jpg'
 ---
 
 A culture clash is expensive. Very expensive. The Society for Human Resource management claims it could cost up to 50/60% of an individual’s annual earnings.

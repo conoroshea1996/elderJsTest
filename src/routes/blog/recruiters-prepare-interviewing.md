@@ -1,13 +1,13 @@
 ---
-title: "Recruiting freaky Friday: how can recruiters prepare for interviewing?"
-date: "2016-04-08"
+title: 'Recruiting freaky Friday: how can recruiters prepare for interviewing?'
+date: '2016-04-08'
 categories:
-  - "recruiting-strategy"
-slug: "recruiters-prepare-interviewing"
-seoTitle: ""
-seoDescription: "Time to turn the tables: how much of an impact does the interviewer have on the recruiting process? Learn how to prepare for interviewing!"
-author: "Orla-Hodnett"
-coverImage: "/images/Office.jpg"
+  - 'recruiting-strategy'
+slug: 'recruiters-prepare-interviewing'
+seoTitle: ''
+seoDescription: 'Time to turn the tables: how much of an impact does the interviewer have on the recruiting process? Learn how to prepare for interviewing!'
+author: 'Orla-Hodnett'
+coverImage: '/images/Office.jpg'
 ---
 
 Interviews are famously stressful situations for many candidates. It’s very easy to blame a candidate’s nervousness or preparation for passing them over for a position. But how much can the interviewer do to alleviate the situation? The way you go about the job of interviewing can sway the direction very strongly one way or another. Interview time is invaluable to the recruiting process, so it’s imperative to [get the very best](http://www.recruitingblogs.com/profiles/blogs/5-ways-a-recruiter-can-improve) out of those few minutes.

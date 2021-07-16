@@ -1,13 +1,13 @@
 ---
-title: "Automation deliberation"
-date: "2017-03-06"
+title: 'Automation deliberation'
+date: '2017-03-06'
 categories:
-  - "recruiting-strategy"
-slug: "automation-deliberation"
-seoTitle: ""
-seoDescription: "Automation is a word that tends to make people nervous, but using your online recruiting software, you can make serious gains."
-author: "Orla-Hodnett"
-coverImage: "/images/robot-2.jpg"
+  - 'recruiting-strategy'
+slug: 'automation-deliberation'
+seoTitle: ''
+seoDescription: 'Automation is a word that tends to make people nervous, but using your online recruiting software, you can make serious gains.'
+author: 'Orla-Hodnett'
+coverImage: '/images/robot-2.jpg'
 ---
 
 Automation tends to raise the hackles on many people, and that is understandable. However, automation does not mean taking the human out of human resources.

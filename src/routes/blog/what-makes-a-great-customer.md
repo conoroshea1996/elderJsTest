@@ -1,15 +1,15 @@
 ---
-title: "What makes a great customer?"
-date: "2016-07-21"
+title: 'What makes a great customer?'
+date: '2016-07-21'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "online-recruitment"
-slug: "what-makes-a-great-customer"
-seoTitle: "What makes a great customer? | Online recruitment"
-seoDescription: "We have lots of really great customers who are using HireHive to manage their recruitment; like charity: water, Engineers Without Borders and Kaplan."
-author: "Siobhan-Hasner"
-coverImage: "/images/Charity-Water.jpg"
+  - 'online-recruitment'
+slug: 'what-makes-a-great-customer'
+seoTitle: 'What makes a great customer? | Online recruitment'
+seoDescription: 'We have lots of really great customers who are using HireHive to manage their recruitment; like charity: water, Engineers Without Borders and Kaplan.'
+author: 'Siobhan-Hasner'
+coverImage: '/images/Charity-Water.jpg'
 ---
 
 Great customers like [charity: water](http://www.charitywater.org/about/jobs/), [Engineers Without Borders](http://www.ewb-usa.org/work-with-us/volunteer/) and [Kaplan International](http://careers.kaplaninternational.com/jobs/?_ga=1.83779158.1938760210.1469115120).

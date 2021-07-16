@@ -1,13 +1,13 @@
 ---
-title: "Remote working and how it can help you attract top talent"
-date: "2018-07-06"
+title: 'Remote working and how it can help you attract top talent'
+date: '2018-07-06'
 categories:
-  - "culture-branding"
-slug: "remote-working"
-seoTitle: "Remote working and how it can help you attract top talent"
-seoDescription: "Remote working along with working from home is an essential part of our values at HireHive. We have gathered examples of other companies & their solutions."
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1515005177478-00b9ef97bfa1.jpg"
+  - 'culture-branding'
+slug: 'remote-working'
+seoTitle: 'Remote working and how it can help you attract top talent'
+seoDescription: 'Remote working along with working from home is an essential part of our values at HireHive. We have gathered examples of other companies & their solutions.'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1515005177478-00b9ef97bfa1.jpg'
 ---
 
 _Here at HireHive, we value flexibility. It’s a very important part of our culture: We all have flexible working hours and as long as our work is done, we can choose the hours that work best for us. In addition to this, we also strongly believe in remote working and working from home. All of us have the opportunity to work from home, and let’s be honest, who doesn’t love to work in their pyjamas or out in the sun from time to time?! Having flexible working hours and a remote working policy can greatly improve your employees’ well being. If you are not convinced yet just keep reading!_
@@ -76,7 +76,7 @@ What we discovered is that different options suited different people and we foun
 
 Recently I spent time in Italy and worked from a great co-working space for three days and spent two days in a small cafe with great wifi and even better coffee. My calendar didn’t really change, most of my meetings were online anyway and we had our team meetings using Google Hangouts. There are of course some challenges in providing this type of work flexibility. There needs to be trust and continuous communication between employees and management but for us finding employees we trust and communicate well with is part of our hiring process anyway - whether they are working from an office or from a cafe.
 
-![remote working](/images/Working-from-Italy-Siobhan.jpg)
+![remote working](/images/working-from-italy-siobhan.jpg)
 
 _**Maëlle, our Business Development and Digital Marketing Specialist, says:**_
 

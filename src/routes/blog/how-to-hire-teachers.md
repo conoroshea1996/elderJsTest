@@ -1,13 +1,13 @@
 ---
-title: "Hello, Mr. Chips: hiring for schools"
-date: "2016-05-03"
+title: 'Hello, Mr. Chips: hiring for schools'
+date: '2016-05-03'
 categories:
-  - "recruiting-strategy"
-slug: "how-to-hire-teachers"
-seoTitle: ""
-seoDescription: "When hiring teachers, you have a responsibility to find the right person. Here are a few tips for managing the recruiting process for schools."
-author: "Orla-Hodnett"
-coverImage: "/images/Teacher.jpg"
+  - 'recruiting-strategy'
+slug: 'how-to-hire-teachers'
+seoTitle: ''
+seoDescription: 'When hiring teachers, you have a responsibility to find the right person. Here are a few tips for managing the recruiting process for schools.'
+author: 'Orla-Hodnett'
+coverImage: '/images/Teacher.jpg'
 ---
 
 Teaching is not just a job, it's a vocation. The job of recruiting for a school is a singular task. When hiring for a teaching position, there are [dozens of considerations](http://www.educationworld.com/a_admin/admin/admin071.shtml) to keep in mind. You've got to find someone who can adhere to the curriculum, prepare students for exams, foster a love for their subject in their students and will always have a wittier comeback than a cheeky student… all without the help of a HR department.

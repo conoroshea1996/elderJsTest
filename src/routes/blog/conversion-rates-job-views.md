@@ -1,13 +1,13 @@
 ---
-title: "How important are conversion rates?"
-date: "2016-06-18"
+title: 'How important are conversion rates?'
+date: '2016-06-18'
 categories:
-  - "recruiting-strategy"
-slug: "conversion-rates-job-views"
-seoTitle: "Job Conversions | How important are conversion rates for jobs | HireHive"
+  - 'recruiting-strategy'
+slug: 'conversion-rates-job-views'
+seoTitle: 'Job Conversions | How important are conversion rates for jobs | HireHive'
 seoDescription: "In your 'Reports' you will find information on your view to application conversion rate. But how important is this metric really and how can you improve it? Find out in more detail."
-author: "Siobhan-Hasner"
-coverImage: "/images/Chemical-Reactions.jpg"
+author: 'Siobhan-Hasner'
+coverImage: '/images/Chemical-Reactions.jpg'
 ---
 
 The conversion rate is taken from the total number of applications for specific jobs divided by the total number of views\*.

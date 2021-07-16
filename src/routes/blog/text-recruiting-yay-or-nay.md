@@ -1,13 +1,13 @@
 ---
-title: "Text Recruiting: Yay or Nay?"
-date: "2017-05-16"
+title: 'Text Recruiting: Yay or Nay?'
+date: '2017-05-16'
 categories:
-  - "social-recruiting"
-slug: "text-recruiting-yay-or-nay"
-seoTitle: "Text Recruiting: Yay or Nay?"
-seoDescription: "Have you thought about adding text recruiting to your recruitment cycle, but feel wary? We weigh up the yays and nays of this process"
-author: "Rachel-Hill"
-coverImage: "/images/texting.jpg"
+  - 'social-recruiting'
+slug: 'text-recruiting-yay-or-nay'
+seoTitle: 'Text Recruiting: Yay or Nay?'
+seoDescription: 'Have you thought about adding text recruiting to your recruitment cycle, but feel wary? We weigh up the yays and nays of this process'
+author: 'Rachel-Hill'
+coverImage: '/images/texting.jpg'
 ---
 
 Often, recruiters will use only phone and email to communicate with candidates throughout the recruiting cycle. However, texting could be a valuable addition at certain stages of recruiting. While text recruiting doesn’t suit every business, it does have certain advantages.
@@ -20,7 +20,7 @@ From millennials to fully-fledged adults, texting is popular amongst all generat
 
 Having said this, young adults are far more attached to their smartphones and may be more responsive to text recruiting. Older generations are more prone to viewing the practice as unprofessional. It is best to test all markets and adapt your strategy based on the results.
 
-\[caption id="attachment_10892" align="alignnone" width="500"\]![text recruiting](/images/old-people.gif) Credit: GIPHY\[/caption\]
+<img src="/images/old-people.gif" alt="text recruiting"/>
 
 #### **Higher response rate**
 
@@ -62,7 +62,7 @@ In the same way as you send a professional email to a candidate, you must be pro
 
 Etiquette also means respecting your candidate’s time and texting them at a regular work hour. Texting outside of regular working hours is inappropriate and casts a negative light on your company. You must always remember the credibility of your company.
 
-\[caption id="attachment_10894" align="alignnone" width="500"\]![text recruiting](/images/etiquette.gif) Credit: GIPHY\[/caption\]
+<img src="/images/etiquette.gif" alt="text recruiting"/>
 
 #### **Legality issues**
 

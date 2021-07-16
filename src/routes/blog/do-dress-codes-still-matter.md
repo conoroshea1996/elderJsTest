@@ -1,13 +1,13 @@
 ---
-title: "Do dress codes still matter?"
-date: "2017-11-17"
+title: 'Do dress codes still matter?'
+date: '2017-11-17'
 categories:
-  - "culture-branding"
-slug: "do-dress-codes-still-matter"
-seoTitle: "Do dress codes still matter? - HireHive Recruiting Software"
-seoDescription: "The attitude to dress codes is changing. Some companies still enforce them, others abandon them. It can be hard to hit the right tone with dress codes."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-404159.jpg"
+  - 'culture-branding'
+slug: 'do-dress-codes-still-matter'
+seoTitle: 'Do dress codes still matter? - HireHive Recruiting Software'
+seoDescription: 'The attitude to dress codes is changing. Some companies still enforce them, others abandon them. It can be hard to hit the right tone with dress codes.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-404159.jpg'
 ---
 
 _The attitude to dress codes is changing radically. Some companies still enforce them, others abandon them all together. It can be hard to hit the right tone with dress codes, but I think we can all agree on one thing: no sweatpants._

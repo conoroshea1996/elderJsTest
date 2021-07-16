@@ -1,17 +1,17 @@
 ---
 title: "Applying for jobs doesn't have to be so bad"
-date: "2017-06-18"
+date: '2017-06-18'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "applying-for-jobs"
-  - "ats"
-  - "recruiting-software"
-slug: "applying-for-jobs-doesnt-have-to-be-so-bad"
+  - 'applying-for-jobs'
+  - 'ats'
+  - 'recruiting-software'
+slug: 'applying-for-jobs-doesnt-have-to-be-so-bad'
 seoTitle: "Applying for jobs doesn't have to be so bad I HireHive Recruiting"
-seoDescription: "Why is applying for jobs so painful? Why are application forms so long? Why not make it easier and hire happier candidates with our 6 tips!"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo.jpeg"
+seoDescription: 'Why is applying for jobs so painful? Why are application forms so long? Why not make it easier and hire happier candidates with our 6 tips!'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo.jpeg'
 ---
 
 Applying for jobs can be pretty tough, so as a recruiter you must do all you can to make it easy on the candidate. If your candidate has a [good experience](https://hirehive.com/blog/good-candidate-experience-secret-happy-hire/) from the beginning to the end of the recruiting process, there is a much greater likelihood of making a hire.

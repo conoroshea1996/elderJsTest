@@ -1,13 +1,13 @@
 ---
-title: "Why your workspace is important"
-date: "2017-11-11"
+title: 'Why your workspace is important'
+date: '2017-11-11'
 categories:
-  - "culture-branding"
-slug: "why-your-workspace-is-important"
-seoTitle: "Workspace: why is it so important? | HireHive ATS Software"
-seoDescription: "The workspace can really impact the way you work and even your ability to appeal to candidates. What can you do to create the right atmosphere for work?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-416343.jpg"
+  - 'culture-branding'
+slug: 'why-your-workspace-is-important'
+seoTitle: 'Workspace: why is it so important? | HireHive ATS Software'
+seoDescription: 'The workspace can really impact the way you work and even your ability to appeal to candidates. What can you do to create the right atmosphere for work?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-416343.jpg'
 ---
 
 _The office environment can drastically impact the way you work and even your ability to appeal to candidates. What can you do to create the right atmosphere for work?_

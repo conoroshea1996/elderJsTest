@@ -1,15 +1,15 @@
 ---
 title: "Planning for Q4. What's your recruiting strategy going to be?"
-date: "2016-09-06"
+date: '2016-09-06'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruiting-strategy"
-slug: "recruiting-strategy-planning-q4"
-seoTitle: "Planning for Q4 and your recruiting strategy"
-seoDescription: "You’ve got hiring software, you’ve got a diverse team and you’ve got your budget for Q4. But, what next for your recruiting strategy?"
-author: "Orla-Hodnett"
-coverImage: "/images/q4-e1473157449145.jpg"
+  - 'recruiting-strategy'
+slug: 'recruiting-strategy-planning-q4'
+seoTitle: 'Planning for Q4 and your recruiting strategy'
+seoDescription: 'You’ve got hiring software, you’ve got a diverse team and you’ve got your budget for Q4. But, what next for your recruiting strategy?'
+author: 'Orla-Hodnett'
+coverImage: '/images/q4-e1473157449145.jpg'
 ---
 
 The first day back to work after a holiday is always a challenge. You have dozens of emails to get through, you learn that you’ve missed out on two pizza Fridays and you’ve been assigned projects while you were away.
@@ -24,7 +24,7 @@ Though you might be overwhelmed by the task at hand, the first sensible step whe
 
 You should also take this opportunity to work out a timeline of what needs to be achieved and when. Work out your main objectives and when they need to be ready for. The recruiting process has many steps and requirements, which need to be outlined and [prepared for](http://www.eremedia.com/ere/the-20-principles-of-strategic-recruiting/).
 
-This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ "Recruiting Strategy") series
+This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ 'Recruiting Strategy') series
 
 #### Posting jobs
 

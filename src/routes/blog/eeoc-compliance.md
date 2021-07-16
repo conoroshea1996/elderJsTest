@@ -1,15 +1,15 @@
 ---
-title: "The what, how and why of EEOC compliance"
-date: "2016-06-07"
+title: 'The what, how and why of EEOC compliance'
+date: '2016-06-07'
 categories:
-  - "compliance-and-data"
+  - 'compliance-and-data'
 tags:
-  - "eeoc-compliance"
-slug: "eeoc-compliance"
-seoTitle: "EEOC Compliance - The What, How & Why of EEOC | Hirehive"
-seoDescription: "The EEOC defends the workplace rights of employees. EEOC Compliance is more than supporting this and how important is it to stay fully compliant? Find out how important it is too stay fully compliant."
-author: "Orla-Hodnett"
-coverImage: "/images/diversity.jpg"
+  - 'eeoc-compliance'
+slug: 'eeoc-compliance'
+seoTitle: 'EEOC Compliance - The What, How & Why of EEOC | Hirehive'
+seoDescription: 'The EEOC defends the workplace rights of employees. EEOC Compliance is more than supporting this and how important is it to stay fully compliant? Find out how important it is too stay fully compliant.'
+author: 'Orla-Hodnett'
+coverImage: '/images/diversity.jpg'
 ---
 
 EEOC compliance ensures that organisations foster diversity, equality and workplace rights. Diversity enriches any company and your workforce is likely to reflect this. An inclusive, happy workplace sees greater retention and job satisfaction, so the motivation is clear. If you’re doing everything right when hiring, good job!

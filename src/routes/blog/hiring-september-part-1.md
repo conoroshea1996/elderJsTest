@@ -1,13 +1,13 @@
 ---
-title: "Best practice for hiring in September: Part 1"
-date: "2017-09-04"
+title: 'Best practice for hiring in September: Part 1'
+date: '2017-09-04'
 categories:
-  - "recruiting-strategy"
-slug: "hiring-september-part-1"
-seoTitle: "Hiring for the September period : Part 1 | September hiring"
-seoDescription: "September hiring is always a busy time, which is why you need to be ready. See our 3 tips to ensure you make the best hires possible:"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-355302.jpeg"
+  - 'recruiting-strategy'
+slug: 'hiring-september-part-1'
+seoTitle: 'Hiring for the September period : Part 1 | September hiring'
+seoDescription: 'September hiring is always a busy time, which is why you need to be ready. See our 3 tips to ensure you make the best hires possible:'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-355302.jpeg'
 ---
 
 _Recruiting silly season is fast approaching. Your team, timing and recruiting software solution might be the key to making top hires._

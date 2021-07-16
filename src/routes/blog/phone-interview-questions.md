@@ -1,13 +1,13 @@
 ---
-title: "Oh, hello! The ultimate phone interview questions"
-date: "2016-11-15"
+title: 'Oh, hello! The ultimate phone interview questions'
+date: '2016-11-15'
 categories:
-  - "recruiting-strategy"
-slug: "phone-interview-questions"
-seoTitle: "Phone interview questions - HireHive Recruiting Software"
-seoDescription: "Phone interview questions are tough, but an essential part of the screening process. See our 10 sample questions to ensure the best results."
-author: "Orla-Hodnett"
-coverImage: "/images/phone-interview.jpg"
+  - 'recruiting-strategy'
+slug: 'phone-interview-questions'
+seoTitle: 'Phone interview questions - HireHive Recruiting Software'
+seoDescription: 'Phone interview questions are tough, but an essential part of the screening process. See our 10 sample questions to ensure the best results.'
+author: 'Orla-Hodnett'
+coverImage: '/images/phone-interview.jpg'
 ---
 
 Phone interview questions are tough for recruiter and job-seeker alike, but they are often a necessary part of the recruiting process. By using phone screening, you can effectively narrow your pool of candidates from what your recruiting software has filtered, and get information that just cannot be gleaned from a CV.

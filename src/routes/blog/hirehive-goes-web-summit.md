@@ -1,13 +1,13 @@
 ---
-title: "HireHive goes to Web Summit"
-date: "2018-10-31"
+title: 'HireHive goes to Web Summit'
+date: '2018-10-31'
 categories:
-  - "hr-events-and-people"
-slug: "hirehive-goes-web-summit"
-seoTitle: "Web Summit - HireHive 2018 in Lisbon Tech Recruitment"
-seoDescription: "It’s that time of year again - it’s time for The Web Summit. We are looking forward to one of the best tech conferences of the year."
-author: "HireHive-Team"
-coverImage: "/images/rsz_dsc_2527.jpg"
+  - 'hr-events-and-people'
+slug: 'hirehive-goes-web-summit'
+seoTitle: 'Web Summit - HireHive 2018 in Lisbon Tech Recruitment'
+seoDescription: 'It’s that time of year again - it’s time for The Web Summit. We are looking forward to one of the best tech conferences of the year.'
+author: 'HireHive-Team'
+coverImage: '/images/rsz_dsc_2527.jpg'
 ---
 
 It’s that time of year again - it’s time for The Web Summit. At HireHive we have been attending the Web Summit since the early days when there were 1500 attendees (we were a startup exhibitor once upon a time...) when it was still in Dublin and a much smaller affair. In 2017 59,115 people attended.
@@ -16,7 +16,7 @@ We have continued to attend since it moved to Lisbon and it’s always an import
 
 ### Time to talk
 
-![Web summit talks](/images/rsz_dsc_2492-711x400.jpg)
+![web summit talks](/images/rsz_dsc_2492-711x400.jpg)
 
 Web Summit has grown into something huge - with [‘tracks’](https://websummit.com/tracks) covering all topics from SAAS to Money, from Sport to Marketing. Some of the interesting talks for us this year are:
 
@@ -33,4 +33,4 @@ The talks are great and provide a really good insight into various businesses an
 
 Will you be at this years Web Summit? We'd love to meet you - just get in touch.
 
-![See you at Web Summit](/images/Screenshot-2018-10-31-at-4.51.05-PM-468x400.png)
+![see you at web summit](/images/screenshot-2018-10-31-at-4.51.05-pm-468x400.png)

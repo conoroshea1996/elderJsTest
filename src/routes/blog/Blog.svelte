@@ -40,7 +40,7 @@
                 <a href="#">
                   <img
                     class="h-10 w-10 rounded-full"
-                    src="images/author/{frontmatter.author}.png"
+                    src="/images/author/{frontmatter.author}.png"
                     alt={frontmatter.author} />
                 </a>
               </div>
@@ -66,7 +66,7 @@
               <div class="flex-shrink-0">
                 <img
                   class="h-10 w-10 rounded-full"
-                  src="images/author/{frontmatter.author}.png"
+                  src="/images/author/{frontmatter.author}.png"
                   alt={frontmatter.author} />
               </div>
               <div class="ml-3">

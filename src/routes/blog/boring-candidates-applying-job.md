@@ -1,13 +1,13 @@
 ---
-title: "Are you boring your candidates out of applying for a job?"
-date: "2018-02-02"
+title: 'Are you boring your candidates out of applying for a job?'
+date: '2018-02-02'
 categories:
-  - "recruiting-strategy"
-slug: "boring-candidates-applying-job"
-seoTitle: "Application process: Are you boring your candidates out of applying?"
-seoDescription: "Is your application process too long or boring? It could cause candidates to abandon their application before completing it. Recruiting software can help!"
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1447523264591-68112eb55c23.jpg"
+  - 'recruiting-strategy'
+slug: 'boring-candidates-applying-job'
+seoTitle: 'Application process: Are you boring your candidates out of applying?'
+seoDescription: 'Is your application process too long or boring? It could cause candidates to abandon their application before completing it. Recruiting software can help!'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1447523264591-68112eb55c23.jpg'
 ---
 
 _Is your application process too long or boring? Recruiting software may be the way to keep your candidates interested._

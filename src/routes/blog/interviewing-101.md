@@ -1,13 +1,13 @@
 ---
-title: "Interviewing 101"
-date: "2018-08-15"
+title: 'Interviewing 101'
+date: '2018-08-15'
 categories:
-  - "recruiting-strategy"
-slug: "interviewing-101"
-seoTitle: "Interviewing Tool with HireHive Recruitment Software"
-seoDescription: "This month we released an update to our interviewing tool in HireHive and it got us thinking about all the interviews we’ve had ourselves."
-author: "Siobhan-Hasner"
-coverImage: "/images/prince-abid-653908-unsplash.jpg"
+  - 'recruiting-strategy'
+slug: 'interviewing-101'
+seoTitle: 'Interviewing Tool with HireHive Recruitment Software'
+seoDescription: 'This month we released an update to our interviewing tool in HireHive and it got us thinking about all the interviews we’ve had ourselves.'
+author: 'Siobhan-Hasner'
+coverImage: '/images/prince-abid-653908-unsplash.jpg'
 ---
 
 This month we released an update to our interviewing tool in HireHive. It got us thinking about all the interviews we’ve had ourselves at various companies and also the interviews that have taken place at HireHive.
@@ -18,7 +18,7 @@ We updated our [interview schedule tool](https://hirehive.com/recruiting-feature
 
 This was a widely requested update and something we were really excited to release! We’re all about efficient interviewing so that you can focus on growing your team.
 
-![interview set up HireHive](/images/image-1.png)
+![interview set up hirehive](/images/image-1.png)
 
 We wanted to make sure that the set up for this was as easy as possible. When setting up an interview for the first time all you have to do is click ‘Connect Calendar’, choose your calendar and you’re all set up. You can then get your colleagues to do the same. The available times will then sync into HireHive automatically. We use a free/busy calendar so that information on what you are actually doing is never displayed. The agenda will just show you as ‘Busy’ if you have another appointment set up in your calendar.
 

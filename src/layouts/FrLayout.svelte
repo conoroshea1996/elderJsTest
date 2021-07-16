@@ -69,6 +69,9 @@
   blockquote p:first-of-type::before {
     content: none !important;
   }
+  picture img {
+    @apply w-full;
+  }
 
   @tailwind utilities;
 </style>

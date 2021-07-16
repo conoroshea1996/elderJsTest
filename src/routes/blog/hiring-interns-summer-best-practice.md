@@ -1,28 +1,28 @@
 ---
-title: "Hiring interns for the summer: best practice"
-date: "2017-07-07"
+title: 'Hiring interns for the summer: best practice'
+date: '2017-07-07'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "ats"
-  - "hiring"
-  - "hiring-interns"
-  - "internships"
-  - "recruiting"
-  - "recruitingsoftware"
-  - "summer-internships"
-slug: "hiring-interns-summer-best-practice"
-seoTitle: "Hiring interns for the summer: best practice - HireHive"
-seoDescription: "Thinking about hiring interns to deal with the summer rush? Before you do, take a look at our quick best practice guide for hiring interns."
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-140945.jpeg"
+  - 'ats'
+  - 'hiring'
+  - 'hiring-interns'
+  - 'internships'
+  - 'recruiting'
+  - 'recruitingsoftware'
+  - 'summer-internships'
+slug: 'hiring-interns-summer-best-practice'
+seoTitle: 'Hiring interns for the summer: best practice - HireHive'
+seoDescription: 'Thinking about hiring interns to deal with the summer rush? Before you do, take a look at our quick best practice guide for hiring interns.'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-140945.jpeg'
 ---
 
 Summer is a particularly busy time for B2C companies with customers spending more money than they usually would. To deal with the summer rush, some companies take to hiring interns. While the internship model can benefit companies, it can also benefit students who are free and looking for relevant and practical work experience.
 
 However, internships often get a bad rep from both sides with employers complaining of unproductive employees and interns complaining about exploitative companies. Nobody is perfect, but how can you ensure the internship experience is beneficial for you and the potential intern(s) ?
 
-![hiring interns](/images/Happy-intern-vs.-sad-intern-1-e1499266212233.png)
+![hiring interns](/images/happy-intern-vs.-sad-intern-1-e1499266212233.png)
 
 #### **Knowing the difference between an intern and an employee**
 
@@ -32,7 +32,7 @@ You should know that there is very little difference between hiring interns and 
 
 It is worth keeping in mind though, that interns have [less experience](https://www.entrepreneur.com/article/179332) than seasoned employees. For many, it may be their first corporate role. This means they may need some extra care and attention at the beginning. Nonetheless, you should still look for the same characteristics and traits as you would from regular employees.To facilitate interns' lack of experience, ensure you have a patient and dedicated leader in place.
 
-![hiring interns](/images/Intern-e1499266536668.png)
+![hiring interns](/images/intern-e1499266536668.png)
 
 #### **Choosing the right interns**
 

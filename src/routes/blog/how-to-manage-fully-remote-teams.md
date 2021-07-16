@@ -1,13 +1,13 @@
 ---
-title: "Managing Remote Teams - How to Successfully Manage Fully Remote Teams"
-date: "2020-06-03"
+title: 'Managing Remote Teams - How to Successfully Manage Fully Remote Teams'
+date: '2020-06-03'
 categories:
-  - "recruiting-strategy"
-slug: "how-to-manage-fully-remote-teams"
-seoTitle: "Best Tips On Successfully Managing Remote Teams | HireHive"
-seoDescription: "Managing remote teams. All around the world, the nature of work is changing. Companies now need to allow their team to work remotely, but that might bring some new challenges. We explore how to successfully manage remote teams wherever your team is located."
-author: "HireHive-Team"
-coverImage: "/images/peter-aschoff-q1k0Pmea9nU-unsplash.jpg"
+  - 'recruiting-strategy'
+slug: 'how-to-manage-fully-remote-teams'
+seoTitle: 'Best Tips On Successfully Managing Remote Teams | HireHive'
+seoDescription: 'Managing remote teams. All around the world, the nature of work is changing. Companies now need to allow their team to work remotely, but that might bring some new challenges. We explore how to successfully manage remote teams wherever your team is located.'
+author: 'HireHive-Team'
+coverImage: '/images/peter-aschoff-q1k0Pmea9nU-unsplash.jpg'
 ---
 
 All around the world, the nature of work is changing. Jobs that once filled bustling office buildings where employees gathered around the water cooler are now being done from home. And even as whole nations begin to emerge from the effects of COVID-19, many companies are sticking with remote work for the foreseeable future. Large international corporations, such as Google, have implemented a work from home policy through at least the end of 2020.

@@ -1,13 +1,13 @@
 ---
-title: "5 Recruitment Events to visit in the USA in 2017"
-date: "2017-01-27"
+title: '5 Recruitment Events to visit in the USA in 2017'
+date: '2017-01-27'
 categories:
-  - "hr-events-and-people"
-slug: "5-recruitment-hr-events-visit-usa-2017"
-seoTitle: "5 Recruitment Events to visit in the USA in 2017 -HireHive"
+  - 'hr-events-and-people'
+slug: '5-recruitment-hr-events-visit-usa-2017'
+seoTitle: '5 Recruitment Events to visit in the USA in 2017 -HireHive'
 seoDescription: "Learn about 5 of the best recruitment events and conferences taking place in the USA this 2017 from HireHive - 'Hiring Made Easy'"
-author: "Rachel-Hill"
-coverImage: "/images/4285680521_23a568c108_b.jpg"
+author: 'Rachel-Hill'
+coverImage: '/images/4285680521_23a568c108_b.jpg'
 ---
 
 With this in mind, we have compiled a list of 5 of the best recruitment conferences all taking place this year - this time in the US! So if you are looking to attend a recruitment conference this year, we recommend making it one of these five.

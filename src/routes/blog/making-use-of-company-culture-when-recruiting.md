@@ -1,13 +1,13 @@
 ---
-title: "Making use of company culture when recruiting"
-date: "2018-03-05"
+title: 'Making use of company culture when recruiting'
+date: '2018-03-05'
 categories:
-  - "culture-branding"
-slug: "making-use-of-company-culture-when-recruiting"
-seoTitle: ""
-seoDescription: "Company culture might be they key to making effective hires. A recruiting software can help incorporate your company culture in your recruiting efforts."
-author: "Orla-Hodnett"
-coverImage: "/images/art6.jpeg"
+  - 'culture-branding'
+slug: 'making-use-of-company-culture-when-recruiting'
+seoTitle: ''
+seoDescription: 'Company culture might be they key to making effective hires. A recruiting software can help incorporate your company culture in your recruiting efforts.'
+author: 'Orla-Hodnett'
+coverImage: '/images/art6.jpeg'
 ---
 
 _Company culture might be the key to making effective hires. How can you incorporate culture in your recruiting efforts and how can recruiting software help?_

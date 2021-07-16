@@ -1,13 +1,13 @@
 ---
-title: "Monitoring employees - how much is too much?"
-date: "2017-11-24"
+title: 'Monitoring employees - how much is too much?'
+date: '2017-11-24'
 categories:
-  - "culture-branding"
-slug: "monitoring-employees"
-seoTitle: "Monitoring employees - how much is too much? | HireHive"
-seoDescription: "How do you strike the right balance when it comes to monitoring employees? It can help ensure team welfare, but it can also impact your company culture."
-author: "Orla-Hodnett"
-coverImage: "/images/girl-sea-binoculars-vacation-160514.jpg"
+  - 'culture-branding'
+slug: 'monitoring-employees'
+seoTitle: 'Monitoring employees - how much is too much? | HireHive'
+seoDescription: 'How do you strike the right balance when it comes to monitoring employees? It can help ensure team welfare, but it can also impact your company culture.'
+author: 'Orla-Hodnett'
+coverImage: '/images/girl-sea-binoculars-vacation-160514.jpg'
 ---
 
 _How do you strike the right balance when it comes to monitoring employees? It can help ensure the welfare of your team at work, but it can impact your company culture. How much is too much?_

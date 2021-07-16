@@ -1,13 +1,13 @@
 ---
-title: "HireHive Cluster"
-date: "2018-02-20"
+title: 'HireHive Cluster'
+date: '2018-02-20'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-cluster"
-seoTitle: "HireHive Cluster | HireHive Recruiting Software ATS"
-seoDescription: "HireHive Cluster is a feature designed to help franchises or companies hiring in different locations manage their recruitment."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/pexels-photo-346696.jpeg"
+  - 'hirehive-updates'
+slug: 'hirehive-cluster'
+seoTitle: 'HireHive Cluster | HireHive Recruiting Software ATS'
+seoDescription: 'HireHive Cluster is a feature designed to help franchises or companies hiring in different locations manage their recruitment.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/pexels-photo-346696.jpeg'
 ---
 
 _HireHive Cluster is a feature designed to help franchises or companies hiring in different locations manage their recruitment. How does it work, exactly? Well, it's pretty easy: there is one master account, and several sub accounts that can be managed by a super user._
@@ -18,7 +18,7 @@ The HireHive master account will allow you to manage all the sub accounts for y
 
 Your HireHive Cluster master account has access to all the sub accounts. These sub accounts are listed in the master account's dashboard to give an overview. Here you will see information on the number of published jobs and the number of candidates received in the past 30 days so you get a quick insight into activity across all accounts.
 
-![HireHive Cluster master account](/images/Cluster-list.jpg "HireHive Cluster master account")
+![hirehive cluster master account](/images/cluster-list.jpg)
 
 #### **Customisation of the sub accounts**
 

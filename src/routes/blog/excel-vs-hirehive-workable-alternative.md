@@ -1,15 +1,15 @@
 ---
-title: "HireHive candidate management software vs. Excel"
-date: "2016-02-15"
+title: 'HireHive candidate management software vs. Excel'
+date: '2016-02-15'
 categories:
-  - "hirehive-updates"
+  - 'hirehive-updates'
 tags:
-  - "workable-alternative"
-slug: "excel-vs-hirehive-workable-alternative"
-seoTitle: "Workable alternative | HireHive Recruiting Software vs. Excel"
-seoDescription: "Excel is great, but not an ideal candidate management tool. See why Workable alternative, HireHive works far better than Excel."
-author: "HireHive-Team"
-coverImage: "/images/Excel-v-HH.jpg"
+  - 'workable-alternative'
+slug: 'excel-vs-hirehive-workable-alternative'
+seoTitle: 'Workable alternative | HireHive Recruiting Software vs. Excel'
+seoDescription: 'Excel is great, but not an ideal candidate management tool. See why Workable alternative, HireHive works far better than Excel.'
+author: 'HireHive-Team'
+coverImage: '/images/Excel-v-HH.jpg'
 ---
 
 How can recruiting software make Excel work better for you… or even replace it?

@@ -1,13 +1,13 @@
 ---
-title: "How recruiting software can help your recruiting strategy"
-date: "2017-09-29"
+title: 'How recruiting software can help your recruiting strategy'
+date: '2017-09-29'
 categories:
-  - "choosing-an-ats"
-slug: "recruiting-software-can-help-recruiting-strategy"
-seoTitle: "How recruiting software can help your recruiting strategy"
-seoDescription: "Your recruiting strategy may contain many strands, but is your recruiting software solution the best way to keep them all together?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-355175.jpeg"
+  - 'choosing-an-ats'
+slug: 'recruiting-software-can-help-recruiting-strategy'
+seoTitle: 'How recruiting software can help your recruiting strategy'
+seoDescription: 'Your recruiting strategy may contain many strands, but is your recruiting software solution the best way to keep them all together?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-355175.jpeg'
 ---
 
 _Your recruiting strategy may contain many strands, but is your recruiting software solution the best way to keep them all together?_

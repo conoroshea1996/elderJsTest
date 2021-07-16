@@ -1,13 +1,13 @@
 ---
-title: "Why video interviewing is the future of recruitment"
-date: "2017-04-24"
+title: 'Why video interviewing is the future of recruitment'
+date: '2017-04-24'
 categories:
-  - "recruiting-strategy"
-slug: "video-interviews-future-recruitment"
-seoTitle: "Why video interviews are the future of recruitment I HireHive"
-seoDescription: "With outdated recruitment methods and the rise of freelance work, video interviews are becoming more prevalent among recruiters everywhere."
-author: "Rachel-Hill"
-coverImage: "/images/video-camera.jpg"
+  - 'recruiting-strategy'
+slug: 'video-interviews-future-recruitment'
+seoTitle: 'Why video interviews are the future of recruitment I HireHive'
+seoDescription: 'With outdated recruitment methods and the rise of freelance work, video interviews are becoming more prevalent among recruiters everywhere.'
+author: 'Rachel-Hill'
+coverImage: '/images/video-camera.jpg'
 ---
 
 Of course, video interviewing is not as ideal as face-to-face interviews. However, in some cases, (i.e. when hiring multilingual candidates) video interviews are better for both the candidate and the recruiter. The latest figures speak for themselves with [42%](https://targetjobs.co.uk/careers-advice/interview-types/323741-how-graduate-recruiters-use-video-interviews) of AGR members revealing that they use video interviews in their recruiting process. So why are video interviews the future of your recruitment strategy?
@@ -20,7 +20,7 @@ You can either set up a live interview using [Skype](https://www.skype.com/en/),
 
 If your company is suited to hiring freelance or remote workers, you may want to take inspiration from an Australian company called [Envato](https://envato.com/). This company uses Google Hangouts and other screen sharing apps to interview freelancers. In this case, video interviewing may be the only place employer and candidate meet - ever!
 
-\[caption id="attachment_10684" align="alignnone" width="700"\][![video interviews video interviewing](/images/Envato.jpg)](https://envato.com/) **Office envy:** The Envato Offices in Melbourne, Australia. **Source:** soyouknowbetter.com\[/caption\]
+\[caption id="attachment_10684" align="alignnone" width="700"\][![video interviews video interviewing](/images/envato.jpg)](https://envato.com/) **Office envy:** The Envato Offices in Melbourne, Australia. **Source:** soyouknowbetter.com\[/caption\]
 
 #### **Hire Faster**
 

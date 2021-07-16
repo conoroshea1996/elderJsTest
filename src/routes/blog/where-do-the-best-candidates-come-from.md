@@ -1,13 +1,13 @@
 ---
-title: "Where do the best candidates come from?"
-date: "2017-04-06"
+title: 'Where do the best candidates come from?'
+date: '2017-04-06'
 categories:
-  - "recruiting-strategy"
-slug: "where-do-the-best-candidates-come-from"
-seoTitle: "Your best candidates..where do they come from? - HireHive Recruiting"
-seoDescription: "Do you know where your Best Candidates are coming from? Solving this Puzzle can help you Better Focus Your Recruiting Efforts and save money."
-author: "Orla-Hodnett"
-coverImage: "/images/compass.jpg"
+  - 'recruiting-strategy'
+slug: 'where-do-the-best-candidates-come-from'
+seoTitle: 'Your best candidates..where do they come from? - HireHive Recruiting'
+seoDescription: 'Do you know where your Best Candidates are coming from? Solving this Puzzle can help you Better Focus Your Recruiting Efforts and save money.'
+author: 'Orla-Hodnett'
+coverImage: '/images/compass.jpg'
 ---
 
 Knowing where your best candidates are looking for roles is a key part of the puzzle in recruiting. With the broad range of possibilities open to a recruiter, it can be very tough to know where to stretch, or to know which will offer you the best return on investment.

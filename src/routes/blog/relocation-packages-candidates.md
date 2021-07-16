@@ -1,13 +1,13 @@
 ---
-title: "Offering relocation packages to far-flung candidates"
-date: "2017-10-05"
+title: 'Offering relocation packages to far-flung candidates'
+date: '2017-10-05'
 categories:
-  - "recruiting-strategy"
-slug: "relocation-packages-candidates"
-seoTitle: "Offering relocation packages to far-flung candidates: Some tips"
-seoDescription: "Have you found the perfect candidate for a role only to discover they live far away? Relocation packages may be the perfect incentive tool."
-author: "Rachel-Hill"
-coverImage: "/images/aircraft-landing-reach-injection-47044.jpeg"
+  - 'recruiting-strategy'
+slug: 'relocation-packages-candidates'
+seoTitle: 'Offering relocation packages to far-flung candidates: Some tips'
+seoDescription: 'Have you found the perfect candidate for a role only to discover they live far away? Relocation packages may be the perfect incentive tool.'
+author: 'Rachel-Hill'
+coverImage: '/images/aircraft-landing-reach-injection-47044.jpeg'
 ---
 
 _Have you found the perfect candidate for a role only to discover they live far away? Relocation packages may be the perfect incentive tool._

@@ -1,13 +1,13 @@
 ---
-title: "Changing your strategy when hiring for nonprofit organisations"
-date: "2016-04-04"
+title: 'Changing your strategy when hiring for nonprofit organisations'
+date: '2016-04-04'
 categories:
-  - "recruiting-strategy"
-slug: "hiring-nonprofit-organisations"
-seoTitle: "Changing your strategy when hiring for nonprofit organisations"
-seoDescription: "When recruiting for nonprofit organisations, recruiters face some extra competition when seeking top talent. How can you modify your strategy?"
-author: "Orla-Hodnett"
-coverImage: "/images/Charity.jpg"
+  - 'recruiting-strategy'
+slug: 'hiring-nonprofit-organisations'
+seoTitle: 'Changing your strategy when hiring for nonprofit organisations'
+seoDescription: 'When recruiting for nonprofit organisations, recruiters face some extra competition when seeking top talent. How can you modify your strategy?'
+author: 'Orla-Hodnett'
+coverImage: '/images/Charity.jpg'
 ---
 
 While there’s a lot of competition for talent the nonprofit sector faces a greater struggle. With limited resources and irregular patterns of hiring, the usual rules of recruiting don’t always apply in the charity sector. While recruiting requires creativity, you’ll need to ramp up your imagination skills to make the most of what you have to hand. Transparency and cost-effectiveness are of the utmost importance when recruiting in the charity sector, so it’s essential to get things right.

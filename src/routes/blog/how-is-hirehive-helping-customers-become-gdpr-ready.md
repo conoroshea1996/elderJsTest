@@ -1,13 +1,13 @@
 ---
-title: "How is HireHive helping customers become GDPR ready"
-date: "2018-03-13"
+title: 'How is HireHive helping customers become GDPR ready'
+date: '2018-03-13'
 categories:
-  - "compliance-and-data"
-slug: "how-is-hirehive-helping-customers-become-gdpr-ready"
-seoTitle: "How is HireHive helping customers become GDPR ready"
-seoDescription: "GDPR is coming into effect on May 25th and affects every company doing business in the EU. HireHive is committed to helping our customers become GDPR ready."
-author: "Siobhan-Hasner"
-coverImage: "/images/europe-3220293_960_720.jpg"
+  - 'compliance-and-data'
+slug: 'how-is-hirehive-helping-customers-become-gdpr-ready'
+seoTitle: 'How is HireHive helping customers become GDPR ready'
+seoDescription: 'GDPR is coming into effect on May 25th and affects every company doing business in the EU. HireHive is committed to helping our customers become GDPR ready.'
+author: 'Siobhan-Hasner'
+coverImage: '/images/europe-3220293_960_720.jpg'
 ---
 
 #### **How is HireHive helping customers become GDPR ready?**
@@ -24,7 +24,7 @@ _Please note that while HireHive has consulted with legal professionals regardin
 
 ### **How is HireHive helping customers become GDPR compliant?**
 
-![Banner test3](/images/Banner-test3.png)
+![banner test3](/images/banner-test3.png)
 
 #### **Is HireHive adding any features that will help companies with their GDPR compliance efforts?**
 

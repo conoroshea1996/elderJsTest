@@ -1,13 +1,13 @@
 ---
-title: "5 ways you can improve your recruiting process"
-date: "2017-01-23"
+title: '5 ways you can improve your recruiting process'
+date: '2017-01-23'
 categories:
-  - "recruiting-strategy"
-slug: "improve-recruiting-processes"
-seoTitle: "5 ways you can improve your recruiting process I HireHive"
+  - 'recruiting-strategy'
+slug: 'improve-recruiting-processes'
+seoTitle: '5 ways you can improve your recruiting process I HireHive'
 seoDescription: "A reliable recruiting process always cuts a task in half..that's why we have compiled 5 ways that you can improve your recruiting process today."
-author: "Orla-Hodnett"
-coverImage: "/images/recruiting-tips.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/recruiting-tips.jpg'
 ---
 
 _A reliable recruiting process always cuts a task in half… except for the creative process. That is painfully slow. A good recruiting software solution helps too._

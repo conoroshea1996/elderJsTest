@@ -1,15 +1,15 @@
 ---
-title: "Hiring candidates is not a competition, but I’m winning"
-date: "2016-08-30"
+title: 'Hiring candidates is not a competition, but I’m winning'
+date: '2016-08-30'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "human-resource-management"
-slug: "win-hiring-candidates"
-seoTitle: ""
-seoDescription: "Healthy competition gives you a buzz, so why aren’t you incorporating it when hiring candidates?"
-author: "Orla-Hodnett"
-coverImage: "/images/hiring_candidates.jpg"
+  - 'human-resource-management'
+slug: 'win-hiring-candidates'
+seoTitle: ''
+seoDescription: 'Healthy competition gives you a buzz, so why aren’t you incorporating it when hiring candidates?'
+author: 'Orla-Hodnett'
+coverImage: '/images/hiring_candidates.jpg'
 ---
 
 Everyone loves a bit of competition. We all pick up speed on the footpath to overtake other pedestrians. We all love it when our kids get better grades at school than our friends’ progeny. There’s nothing better than spotting the last parking space at the shopping centre. It’s only human to thrive on a bit of competition and why should it be any different when competing against other organisations for top candidates?
@@ -24,7 +24,7 @@ One smart move is researching your competition. Knowing what competitive edge si
 
 You don’t need to be [overly aggressive](http://www.eremedia.com/ere/opposition-research-provides-a-competitive-advantage-in-recruiting-and-retention/) in your research of the opposition - you don’t need to hang out in the shrubbery or dig through rubbish bins – you just need to understand what similar organisations can offer candidates. It will improve your ability to appeal to candidates, as well as improving retention of existing employees.
 
-This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ "Recruiting Strategy") series
+This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ 'Recruiting Strategy') series
 
 #### Counter strike
 

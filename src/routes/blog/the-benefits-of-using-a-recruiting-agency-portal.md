@@ -1,13 +1,13 @@
 ---
-title: "The benefits of using a recruiting agency portal"
-date: "2017-05-23"
+title: 'The benefits of using a recruiting agency portal'
+date: '2017-05-23'
 categories:
-  - "hirehive-updates"
-slug: "the-benefits-of-using-a-recruiting-agency-portal"
-seoTitle: "The benefits of using a recruiting agency portal I HireHive Recruiting"
-seoDescription: "Do you find it difficult to integrate recruiters into your hiring process? With an agency portal, integration is easy and there are many benefits."
-author: "Rachel-Hill"
-coverImage: "/images/garden-path-way-park.jpg"
+  - 'hirehive-updates'
+slug: 'the-benefits-of-using-a-recruiting-agency-portal'
+seoTitle: 'The benefits of using a recruiting agency portal I HireHive Recruiting'
+seoDescription: 'Do you find it difficult to integrate recruiters into your hiring process? With an agency portal, integration is easy and there are many benefits.'
+author: 'Rachel-Hill'
+coverImage: '/images/garden-path-way-park.jpg'
 ---
 
 With their depth of industry-specific knowledge and numerous connections, [recruitment and staffing agencies](http://hirehive.io/blog/3-benefits-partnering-recruitment-agency/) allow organisations to tap into a wide pool of active and passive candidates in half the time and effort. In most cases, agencies are an extension of your internal hiring efforts, helping you garner the best candidates.

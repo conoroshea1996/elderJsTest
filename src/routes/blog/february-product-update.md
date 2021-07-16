@@ -1,13 +1,13 @@
 ---
-title: "February product update - New support section, job notes & reordering categories"
-date: "2018-03-06"
+title: 'February product update - New support section, job notes & reordering categories'
+date: '2018-03-06'
 categories:
-  - "hirehive-updates"
-slug: "february-product-update"
-seoTitle: "February product update | HireHive Recruiting Software"
-seoDescription: "What happened in the Hive during those past few weeks? Find out the changes we have made in the past few weeks in our February product update!"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/pexels-photo-529926.jpeg"
+  - 'hirehive-updates'
+slug: 'february-product-update'
+seoTitle: 'February product update | HireHive Recruiting Software'
+seoDescription: 'What happened in the Hive during those past few weeks? Find out the changes we have made in the past few weeks in our February product update!'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/pexels-photo-529926.jpeg'
 ---
 
 What happened in the Hive during those past few weeks? It's time for our February product update!
@@ -16,7 +16,7 @@ What happened in the Hive during those past few weeks? It's time for our Februar
 
 This feature was hugely requested by our customers. And we heard them! You can now drag and drop your job categories and your candidate pipeline to reflect your workflow order. You now have even more options to customise your process within HireHive.
 
-![](/images/Reordering+job+categories.gif)
+<img src="/images/reordering+job+categories.gif"/>
 
 #### **Restricted Job notes** 
 

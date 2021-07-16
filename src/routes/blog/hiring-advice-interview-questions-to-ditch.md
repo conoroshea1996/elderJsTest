@@ -1,15 +1,15 @@
 ---
-title: "Interview questions you should think about ditching"
-date: "2016-07-05"
+title: 'Interview questions you should think about ditching'
+date: '2016-07-05'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "interview-scheduling"
-slug: "hiring-advice-interview-questions-to-ditch"
-seoTitle: "Interview questions you should think about ditching"
-seoDescription: "You expect candidates to research your company. Don’t be surprised that they also research the questions you’re likely to ask them when hiring."
-author: "Pamela-Weaver"
-coverImage: "/images/Interrogation.jpg"
+  - 'interview-scheduling'
+slug: 'hiring-advice-interview-questions-to-ditch'
+seoTitle: 'Interview questions you should think about ditching'
+seoDescription: 'You expect candidates to research your company. Don’t be surprised that they also research the questions you’re likely to ask them when hiring.'
+author: 'Pamela-Weaver'
+coverImage: '/images/Interrogation.jpg'
 ---
 
 From advice on the strength of a handshake to how long you should maintain eye contact, there’s no shortage of “interview advice” for candidates.

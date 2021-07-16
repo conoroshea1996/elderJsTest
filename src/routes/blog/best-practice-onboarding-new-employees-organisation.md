@@ -1,13 +1,13 @@
 ---
-title: "Best practice for onboarding new employees in your organisation"
-date: "2017-08-17"
+title: 'Best practice for onboarding new employees in your organisation'
+date: '2017-08-17'
 categories:
-  - "culture-branding"
-slug: "best-practice-onboarding-new-employees-organisation"
-seoTitle: "Best practice for onboarding new employees in your organisation"
+  - 'culture-branding'
+slug: 'best-practice-onboarding-new-employees-organisation'
+seoTitle: 'Best practice for onboarding new employees in your organisation'
 seoDescription: "Check out our step-by-step guide on best practice onboarding - from an employee's first day to their first year in the workplace."
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-96419.jpeg"
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-96419.jpeg'
 ---
 
 _You work so hard on perfecting your recruitment process that you sometimes fall short on the employee onboarding process._
@@ -30,7 +30,7 @@ New hires also have a lot of questions before arriving at their new job. These i
 
 While it is important for you to prepare the new hire, you must also prepare your workplace. First of all, send out an email reminder to all staff notifying them of new hires - it is important for seasoned employees to make new hires feel welcome. Also ensure that desks, work phones & passwords are set up with corresponding instructions alongside. Again, this saves time and shows you are serious about the onboarding process.
 
-![onboarding](/images/Envato-e1502959497344.jpg)
+![onboarding](/images/envato-e1502959497344.jpg)
 
 Ensure office is ready for new hire.
 

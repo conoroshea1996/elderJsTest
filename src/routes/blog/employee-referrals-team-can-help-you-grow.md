@@ -1,15 +1,15 @@
 ---
-title: "Employee referrals: your team can help you grow"
-date: "2015-08-17"
+title: 'Employee referrals: your team can help you grow'
+date: '2015-08-17'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "employee-referrals-software"
-slug: "employee-referrals-team-can-help-you-grow"
-seoTitle: "Your team can help you grow | Employee referrals software"
+  - 'employee-referrals-software'
+slug: 'employee-referrals-team-can-help-you-grow'
+seoTitle: 'Your team can help you grow | Employee referrals software'
 seoDescription: "We disscuss what an employee referrals scheme and how it encourages a company's existing employees to help select and recruit suitable candidates."
-author: "HireHive-Team"
-coverImage: "/images/shutterstock_131096951.jpg"
+author: 'HireHive-Team'
+coverImage: '/images/shutterstock_131096951.jpg'
 ---
 
 What is an employee referral scheme?
@@ -44,6 +44,6 @@ Version1 is one of the fastest growing IT services companies in Western Europe. 
 
 “We saw social referral as a game-changer in recruitment,” says Jarlath Dooley, HR Director. “Firstly, there are huge cost savings as we do not require a recruitment agency, but, more importantly referrals are undoubtedly better hires. Great people know other great people.”
 
-> [![Version1](/images/Version1-0414.jpg)](http://hirehive.io/wp-content/uploads/sites/1/2015/07/Version1-0414.jpg)
+> [![version1](/images/version1-0414.jpg)](http://hirehive.io/wp-content/uploads/sites/1/2015/07/Version1-0414.jpg)
 
 100 referred candidates came through in the first week of the campaign and the momentum has continued. Following the successful hire of 15 people from the first referrals campaign Version1 have more than 20 referral campaigns running at any one time.

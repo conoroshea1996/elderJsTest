@@ -1,13 +1,13 @@
 ---
-title: "Logiciel de recrutement : une plateforme tout-en-un pour les recruteurs"
-date: "2017-08-01"
+title: 'Logiciel de recrutement : une plateforme tout-en-un pour les recruteurs'
+date: '2017-08-01'
 categories:
-  - "choisir-son-ats"
-slug: "logiciel-de-recrutement-une-plateforme-tout-en-un-pour-les-recruteurs"
-seoTitle: ""
-seoDescription: ""
-author: "Maëlle-De-Francesco"
-coverImage: "/fr/images/pexels-photo-492755-623x249.jpeg"
+  - 'choisir-son-ats'
+slug: 'logiciel-de-recrutement-une-plateforme-tout-en-un-pour-les-recruteurs'
+seoTitle: ''
+seoDescription: ''
+author: 'Maëlle-De-Francesco'
+coverImage: '/fr/images/pexels-photo-492755-623x249.jpeg'
 ---
 
 #### Les logiciels de recrutement sont les tout-en-un du recrutement : ils rassemblent tout ce qu'il vous faut sur une seule et même plateforme.
@@ -48,7 +48,7 @@ Avec le GDPR et les autres lois concernant la protection des données qui se pro
 
 Ce type d’outils est également parfait pour rassembler un feedback sur les candidats. Si des candidats non retenus estiment que vous les avez injustement disqualifiés, ils peuvent vous demander de leur donner un feedback détaillé. Remplir des formulaires ou des fiches de feedback dans votre logiciel de recrutement signifie que vous avez ces données à votre disposition pour les transférer facilement au candidat.
 
-![scorecard-e1501154932277](/fr/images/scorecard-e1501154932277.gif)
+<img src="/fr/images/scorecard-e1501154932277.gif" alt="scorecard-e1501154932277"/>
 
 #### **5\. Il vous permet de garder une base de données ordonnée**
 

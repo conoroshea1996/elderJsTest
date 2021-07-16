@@ -1,13 +1,13 @@
 ---
-title: "How HireHive can help you hire multilingual candidates"
-date: "2017-09-20"
+title: 'How HireHive can help you hire multilingual candidates'
+date: '2017-09-20'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-can-help-hire-multilingual-candidates"
-seoTitle: "How HireHive can help you hire multilingual candidates"
-seoDescription: "Do you want to expand your company into the global market and acquire more customers? Hiring multilingual candidates may be the first step forward."
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-269850.jpeg"
+  - 'hirehive-updates'
+slug: 'hirehive-can-help-hire-multilingual-candidates'
+seoTitle: 'How HireHive can help you hire multilingual candidates'
+seoDescription: 'Do you want to expand your company into the global market and acquire more customers? Hiring multilingual candidates may be the first step forward.'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-269850.jpeg'
 ---
 
 _Do you want to expand your company into the global market and acquire more customers? [Hiring multilingual candidates](https://hirehive.com/recruiting-features/multilingual-hiring/) may be the first step forward._

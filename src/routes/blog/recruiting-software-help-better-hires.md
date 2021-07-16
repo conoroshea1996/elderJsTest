@@ -1,13 +1,13 @@
 ---
-title: "5 ways recruiting software can help you make better hires"
-date: "2016-09-27"
+title: '5 ways recruiting software can help you make better hires'
+date: '2016-09-27'
 categories:
-  - "choosing-an-ats"
-slug: "recruiting-software-help-better-hires"
-seoTitle: "5 ways recruiting software can help you make better hires"
-seoDescription: "Does your hiring strategy need a serious upgrade? Find out 5 ways recruiting software can help you make better hiring decisions"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo.jpg"
+  - 'choosing-an-ats'
+slug: 'recruiting-software-help-better-hires'
+seoTitle: '5 ways recruiting software can help you make better hires'
+seoDescription: 'Does your hiring strategy need a serious upgrade? Find out 5 ways recruiting software can help you make better hiring decisions'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo.jpg'
 ---
 
 Self-help books. Running marathons. Meal prep. We're all looking for new ways to do the things we do every day, but somehow better - better than the Joneses next door. You may already have an effective process of recruiting, but how can you improve it? Recruiting software is your trump card. Here's how you can truly embarrass the competition using online recruiting software.
@@ -22,7 +22,7 @@ Online recruiting software can greatly improve the experience of communicating w
 
 When you get to the interviewing stage, there is so much to consider about candidates. You have likely been through their CV, references, skills tests and maybe even a phone interview. You will be weighing up all pros and cons and where the candidate’s strengths lie. On top of that, you have to gather your candidates together, hiring managers and anyone who should attend the interview, getting them to decide on appropriate times.
 
-![Schedule_setup](/images/Schedule_setup.png)
+![schedule_setup](/images/schedule_setup.png)
 
 Recruiting software can help you schedule interviews, which is the most significant logistical challenge you will face. [HireHive](https://my.hirehive.io/Register)’s scheduling tool is integrated with Outlook and Gmail, which is always helpful. Not only that, but it will automatically inform any and all participants, if an interview changes in any way. That’s taken care of anyway \*takes a hard-earned coffee break\*
 
@@ -30,7 +30,7 @@ Recruiting software can help you schedule interviews, which is the most signific
 
 Learning from past experiences and mistakes is very useful. The borderline obsession with the concept of data in industry is justified. If you can quantify your successes and failures in recruiting, this information will vastly improve any future recruiting efforts.
 
-![Reports](/images/Reports.jpg)
+![reports](/images/reports.jpg)
 
 Recruiting software allows recruiters to automatically pull reports on various aspects of the hiring process. Rather than fiddling with excel sheets or having to do any manual work, at the click of a button, you can generate reports offering huge insight.
 

@@ -1,13 +1,13 @@
 ---
-title: "The importance of tracking recruiting data"
-date: "2018-02-26"
+title: 'The importance of tracking recruiting data'
+date: '2018-02-26'
 categories:
-  - "compliance-and-data"
-slug: "the-importance-of-tracking-recruiting-data"
-seoTitle: "Tracking recruiting data and why it is hugely important | HireHive"
-seoDescription: "Tracking recruiting data is the key to making efficient and effective hires. Recruiting software will help you gather and learn from these insights."
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1502570149819-b2260483d302.jpg"
+  - 'compliance-and-data'
+slug: 'the-importance-of-tracking-recruiting-data'
+seoTitle: 'Tracking recruiting data and why it is hugely important | HireHive'
+seoDescription: 'Tracking recruiting data is the key to making efficient and effective hires. Recruiting software will help you gather and learn from these insights.'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1502570149819-b2260483d302.jpg'
 ---
 
 _Recruiting data is the key to making efficient and effective hires. Recruiting software will help you gather and learn from these insights._

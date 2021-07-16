@@ -1,13 +1,13 @@
 ---
-title: "How to give feedback to candidates"
-date: "2017-03-13"
+title: 'How to give feedback to candidates'
+date: '2017-03-13'
 categories:
-  - "recruiting-strategy"
-slug: "how-give-feedback-candidates"
-seoTitle: "How to give feedback to candidates"
-seoDescription: "Learn how to give feedback to candidates throughout your recruitment process with the help of recruitment software HireHive!"
-author: "Orla-Hodnett"
-coverImage: "/images/megaphone.jpg"
+  - 'recruiting-strategy'
+slug: 'how-give-feedback-candidates'
+seoTitle: 'How to give feedback to candidates'
+seoDescription: 'Learn how to give feedback to candidates throughout your recruitment process with the help of recruitment software HireHive!'
+author: 'Orla-Hodnett'
+coverImage: '/images/megaphone.jpg'
 ---
 
 Nobody wants to tell a well-prepared, qualified candidate who just missed the cut, that they have been unsuccessful. The only way to avoid this situation is to hire everyone..and I'd like to see you justify that one to finance. They probably won't care that your candidate volunteers on the weekends and used to work in fashion.

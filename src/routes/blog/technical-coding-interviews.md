@@ -1,13 +1,13 @@
 ---
-title: "The benefits of using video chat for technical and coding interviews"
-date: "2017-10-20"
+title: 'The benefits of using video chat for technical and coding interviews'
+date: '2017-10-20'
 categories:
-  - "social-recruiting"
-slug: "technical-coding-interviews"
-seoTitle: "The benefits of using video chat for technical and coding interviews"
-seoDescription: "Skype interviews might not seem like the most intuitive way of conducting coding interviews, but how can they benefit your recruiting process?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-270366.jpeg"
+  - 'social-recruiting'
+slug: 'technical-coding-interviews'
+seoTitle: 'The benefits of using video chat for technical and coding interviews'
+seoDescription: 'Skype interviews might not seem like the most intuitive way of conducting coding interviews, but how can they benefit your recruiting process?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-270366.jpeg'
 ---
 
 _Skype interviews might not seem like the most intuitive way of conducting coding interviews, but how can they benefit your recruiting process?_

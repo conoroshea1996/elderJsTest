@@ -1,21 +1,21 @@
 ---
-title: "Why we use Trello for project management"
-date: "2017-06-22"
+title: 'Why we use Trello for project management'
+date: '2017-06-22'
 categories:
-  - "hirehive-updates"
+  - 'hirehive-updates'
 tags:
-  - "project-management"
-  - "trello"
-slug: "why-we-use-trello-for-project-management"
-seoTitle: "Why we use Trello for project management"
-seoDescription: "HireHive needed an easy-to-use project management solution to keep up with tasks. Learn why Trello ticks all the boxes for us."
-author: "Rachel-Hill"
-coverImage: "/images/startup-photos.jpg"
+  - 'project-management'
+  - 'trello'
+slug: 'why-we-use-trello-for-project-management'
+seoTitle: 'Why we use Trello for project management'
+seoDescription: 'HireHive needed an easy-to-use project management solution to keep up with tasks. Learn why Trello ticks all the boxes for us.'
+author: 'Rachel-Hill'
+coverImage: '/images/startup-photos.jpg'
 ---
 
 At first, I used ‘sticky notes’ on my computer. While this was okay at first, I soon became overwhelmed with too many notes on my home screen. In an effort to control the chaos, I started colour coding notes. Although I was able to keep track of my various tasks, it just looked well..messy. Plus, I was terrified the notes would disappear into thin air. I also couldn’t look at my tasks if I was in a different location.
 
-![Trello](/images/night-office-shirt-mail.jpg)
+![trello](/images/night-office-shirt-mail.jpg)
 
 So then I moved onto my old friend Google Docs. I started using different documents for different kinds of tasks and processes and organising these documents into folders. Again, this was okay but..messy. The only strong advantage was I knew everything was backed up and I could access my information from anywhere. However, I disliked having to click into separate files. I needed greater visibility on my processes.
 
@@ -27,13 +27,13 @@ Finding a good project management software was tougher than I thought. I guess t
 
 One of my teammates said she uses [Trello](https://trello.com/). I gave it a go and liked it instantly for a number of reasons:
 
-![Trello](/images/trello-e1497948089862.jpg)
+![trello](/images/trello-e1497948089862.jpg)
 
 #### **Simple to set up**
 
 I may overuse the above word, but simplicity and user experience are extremely important in any product. Nobody wants to spend hours going through a help section to get started (although the help section is very good). On joining, Trello provided multiple visual clues that guide you through using the platform. They also provide a welcome board that gives you ideas on how to use it.
 
-![Trello](/images/welcome-board-e1498125885744.png)
+![trello](/images/welcome-board-e1498125885744.png)
 
 You have a choice to either set up your own boards or create team boards where you can collaborate with work colleagues. Both options are easy to set up and give you greater visibility and transparency on tasks. There is also a business team option that gives you more security and administrative control.
 
@@ -46,7 +46,7 @@ Another great thing about Trello is that there are no hard and fast rules to usi
 - Calls
 - Other
 
-![Trello](/images/boards-1-e1498128793661.png)
+![trello](/images/boards-1-e1498128793661.png)
 
 Within each list I have different cards that vary depending on my tasks. To avoid my dashboard getting cluttered, at the end of the week I group Monday - Friday into one larger board. For example boards ‘Monday 19th June - 23rd June’ all go into the board ‘June Week 3’. Over time, I will then group all the June boards into one larger board again.
 

@@ -1,13 +1,13 @@
 ---
-title: "Employer branding case study: charity:water"
-date: "2017-07-24"
+title: 'Employer branding case study: charity:water'
+date: '2017-07-24'
 categories:
-  - "culture-branding"
-slug: "employer-branding-case-study-charitywater"
-seoTitle: "Employer branding case study: charity:water"
-seoDescription: "Employer branding is the product of authentically sharing your identity as an employer. Charity:water have achieved this, but how?"
-author: "Orla-Hodnett"
-coverImage: "/images/charity_water_pouring.jpg"
+  - 'culture-branding'
+slug: 'employer-branding-case-study-charitywater'
+seoTitle: 'Employer branding case study: charity:water'
+seoDescription: 'Employer branding is the product of authentically sharing your identity as an employer. Charity:water have achieved this, but how?'
+author: 'Orla-Hodnett'
+coverImage: '/images/charity_water_pouring.jpg'
 ---
 
 _A great employer brand is the product of authentically sharing your identity as an employer. One of our customers, charity:water have achieved this, but how?_

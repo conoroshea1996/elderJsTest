@@ -1,13 +1,13 @@
 ---
-title: "How to get the best out of a small HR team"
-date: "2016-04-19"
+title: 'How to get the best out of a small HR team'
+date: '2016-04-19'
 categories:
-  - "recruiting-strategy"
-slug: "how-to-get-the-best-out-of-a-small-hr-team"
-seoTitle: "How to get the best out of a small HR team | HireHive"
-seoDescription: "You may have a small HR team, but that doesn’t mean they cannot make a big impact. See our top three tips for making the most out of them:"
-author: "Siobhan-Hasner"
-coverImage: "/images/Miniature-Workers.jpg"
+  - 'recruiting-strategy'
+slug: 'how-to-get-the-best-out-of-a-small-hr-team'
+seoTitle: 'How to get the best out of a small HR team | HireHive'
+seoDescription: 'You may have a small HR team, but that doesn’t mean they cannot make a big impact. See our top three tips for making the most out of them:'
+author: 'Siobhan-Hasner'
+coverImage: '/images/Miniature-Workers.jpg'
 ---
 
 A small HR team carries a serious burden in an organisation. Various tasks that larger organisations have the benefit of delegating to sub-sets within HR, often pile up. A smaller HR team will have to balance everything from recruiting candidates, performance review, benefits, training and even termination. The temptation to outsource is obvious, but sticking it out earlier on can make a huge difference to an organisation.

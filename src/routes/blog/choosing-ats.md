@@ -1,13 +1,13 @@
 ---
-title: "Choosing an ATS & The Benefts For Recruiting"
-date: "2016-11-08"
+title: 'Choosing an ATS & The Benefts For Recruiting'
+date: '2016-11-08'
 categories:
-  - "choosing-an-ats"
-slug: "choosing-ats"
-seoTitle: "Choosing an ATS & The Benefits of Using ATS for Recruiting | HireHive"
-seoDescription: "An ATS is the easiest way to manage your recruiting project. What makes this tool so suited to successful, efficient recruiting? We explore all the measurable benefits when choosing an ATS."
-author: "Orla-Hodnett"
-coverImage: "/images/shutterstock_175644863.jpg"
+  - 'choosing-an-ats'
+slug: 'choosing-ats'
+seoTitle: 'Choosing an ATS & The Benefits of Using ATS for Recruiting | HireHive'
+seoDescription: 'An ATS is the easiest way to manage your recruiting project. What makes this tool so suited to successful, efficient recruiting? We explore all the measurable benefits when choosing an ATS.'
+author: 'Orla-Hodnett'
+coverImage: '/images/shutterstock_175644863.jpg'
 ---
 
 An ATS is the go-to tool for recruiters. This is no coincidence, this is no fad, it is simply the easiest, most efficient way of making successful hires. Choosing an ATS is hard work, but worth it. But, what is it about an ATS that sets it apart?

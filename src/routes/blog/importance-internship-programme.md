@@ -1,13 +1,13 @@
 ---
-title: "The importance of an internship programme"
-date: "2018-05-04"
+title: 'The importance of an internship programme'
+date: '2018-05-04'
 categories:
-  - "recruiting-strategy"
-slug: "importance-internship-programme"
-seoTitle: "Internship programmes: an asset for your recruiting strategy | HireHive"
-seoDescription: "What exactly does an internship tell you about potential full-time hires? Learn why internship programmes are essential for your recruitment strategy."
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1454329001438-1752daa90420.jpg"
+  - 'recruiting-strategy'
+slug: 'importance-internship-programme'
+seoTitle: 'Internship programmes: an asset for your recruiting strategy | HireHive'
+seoDescription: 'What exactly does an internship tell you about potential full-time hires? Learn why internship programmes are essential for your recruitment strategy.'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1454329001438-1752daa90420.jpg'
 ---
 
 _Internships are an essential part of any recruitment strategy, but what exactly does an internship tell you about potential full-time hires?_

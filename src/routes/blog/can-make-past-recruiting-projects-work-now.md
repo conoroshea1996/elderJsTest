@@ -1,13 +1,13 @@
 ---
-title: "How can you make past recruiting projects work for you now?"
-date: "2017-08-11"
+title: 'How can you make past recruiting projects work for you now?'
+date: '2017-08-11'
 categories:
-  - "recruiting-strategy"
-slug: "can-make-past-recruiting-projects-work-now"
-seoTitle: "How can you make past recruiting projects work for you now?"
-seoDescription: "What can you do to save time and effort on recruiting? The clue may be in the past. See our 4 tips on making your past recruiting projects work for you now."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-277458.jpeg"
+  - 'recruiting-strategy'
+slug: 'can-make-past-recruiting-projects-work-now'
+seoTitle: 'How can you make past recruiting projects work for you now?'
+seoDescription: 'What can you do to save time and effort on recruiting? The clue may be in the past. See our 4 tips on making your past recruiting projects work for you now.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-277458.jpeg'
 ---
 
 _Recruiting software can make recruiting super efficient, but what else can you do to save time and effort? The clue may be in your past._

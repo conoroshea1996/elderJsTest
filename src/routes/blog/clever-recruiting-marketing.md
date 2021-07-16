@@ -1,17 +1,17 @@
 ---
-title: "Clever marketing for clever recruiting"
-date: "2016-10-03"
+title: 'Clever marketing for clever recruiting'
+date: '2016-10-03'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "marketing"
-  - "recruiting"
-  - "recruiting-marketing"
-slug: "clever-recruiting-marketing"
-seoTitle: "Clever marketing for clever recruiting I HireHive Recruiting Software"
-seoDescription: "Clever recruiting marketing can help an organisation create a name for itself. Along with your recruiting software, what can you do to find top candidates?"
-author: "Orla-Hodnett"
-coverImage: "/images/clever-marketing.jpeg"
+  - 'marketing'
+  - 'recruiting'
+  - 'recruiting-marketing'
+slug: 'clever-recruiting-marketing'
+seoTitle: 'Clever marketing for clever recruiting I HireHive Recruiting Software'
+seoDescription: 'Clever recruiting marketing can help an organisation create a name for itself. Along with your recruiting software, what can you do to find top candidates?'
+author: 'Orla-Hodnett'
+coverImage: '/images/clever-marketing.jpeg'
 ---
 
 It’s a truth universally acknowledged that smart-alecs make the best marketers. You should keep this at the forefront of your mind when conducting recruiting marketing activities.

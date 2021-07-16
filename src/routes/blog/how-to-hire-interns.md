@@ -1,13 +1,13 @@
 ---
-title: "How to hire interns"
-date: "2019-03-06"
+title: 'How to hire interns'
+date: '2019-03-06'
 categories:
-  - "how-to"
-slug: "how-to-hire-interns"
-seoTitle: "How to hire interns | HireHive Recruiting Software"
-seoDescription: "How to hire interns? There are many things to take into consideration when hiring interns, such as should I pay interns? How is it going to benefit me?"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/photo-1523050854058-8df90110c9f1.jpg"
+  - 'how-to'
+slug: 'how-to-hire-interns'
+seoTitle: 'How to hire interns | HireHive Recruiting Software'
+seoDescription: 'How to hire interns? There are many things to take into consideration when hiring interns, such as should I pay interns? How is it going to benefit me?'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/photo-1523050854058-8df90110c9f1.jpg'
 ---
 
 This blog post launches a new series of blog posts that we are delighted to present on the HireHive blog. This new ‘How to…’ series aims to help you with your recruiting tasks. The posts will be full of tips and resources to help you during your recruitment process.

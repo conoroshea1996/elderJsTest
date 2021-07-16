@@ -1,13 +1,13 @@
 ---
-title: "How to improve your company culture and retain staff"
-date: "2017-04-18"
+title: 'How to improve your company culture and retain staff'
+date: '2017-04-18'
 categories:
-  - "culture-branding"
-slug: "how-to-improve-your-company-culture-and-retain-staff"
-seoTitle: "How to improve company culture and retention rates"
-seoDescription: "Have a Company Culture strategy, but your Employee Retention Rates are bad? Learn how to improve on your Company Culture and keep your best staff."
-author: "Orla-Hodnett"
-coverImage: "/images/culture.jpg"
+  - 'culture-branding'
+slug: 'how-to-improve-your-company-culture-and-retain-staff'
+seoTitle: 'How to improve company culture and retention rates'
+seoDescription: 'Have a Company Culture strategy, but your Employee Retention Rates are bad? Learn how to improve on your Company Culture and keep your best staff.'
+author: 'Orla-Hodnett'
+coverImage: '/images/culture.jpg'
 ---
 
 So how important is company culture? You should not be asking that question. It is critical. With the high competition for talent, company culture may be your best chance to win and retain top talent. Your retention rates are going to be directly impacted by your culture. If your organisation is not what it claims to be, you will have a tough time holding onto hires.

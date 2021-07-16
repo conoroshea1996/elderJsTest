@@ -1,9 +1,9 @@
 ---
-title: "EU General Data Protection Regulation (GDPR)"
-description: "Find out more about what GDPR is all about and how HireHive is GDPR compliant."
-date: "2017 Oct 18"
-seoTitle: "EU General Data Protection Regulation (GDPR) | HireHive"
-seoDescription: "What is GDPR? In 2016, the European Commission approved and adopted the new General Data Protection Regulation (GDPR). It came into effect on May 25th."
+title: 'EU General Data Protection Regulation (GDPR)'
+description: 'Find out more about what GDPR is all about and how HireHive is GDPR compliant.'
+date: '2017 Oct 18'
+seoTitle: 'EU General Data Protection Regulation (GDPR) | HireHive'
+seoDescription: 'What is GDPR? In 2016, the European Commission approved and adopted the new General Data Protection Regulation (GDPR). It came into effect on May 25th.'
 ---
 
 ### **What is GDPR?**
@@ -20,7 +20,7 @@ We have implemented changes throughout the organisation to ensure that we remain
 
 Our compliance, data protection, and information security teams have prepared our services for GDPR. We reviewed our data processing activities to ensure full compliance with GDPR.
 
-![HierHive GDPR](/images//gdpr.png)
+![HierHive GDPR](/images/gdpr.png)
 
 ### **Here are some ways HireHive is enabling customers to become GDPR ready:**
 

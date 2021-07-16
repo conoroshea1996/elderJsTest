@@ -1,13 +1,13 @@
 ---
-title: "Why candidates ghost employers—and what you can do about it"
-date: "2020-04-27"
+title: 'Why candidates ghost employers—and what you can do about it'
+date: '2020-04-27'
 categories:
-  - "recruiting-strategy"
-slug: "why-candidates-ghost-employers"
-seoTitle: ""
-seoDescription: "At HireHive, some customers tell us that their biggest recruitment headaches come from candidates with poor etiquette. How can you deal with bad candidates?"
-author: "HireHive-Team"
-coverImage: "/images/11843368213_6c58b49694_b.jpg"
+  - 'recruiting-strategy'
+slug: 'why-candidates-ghost-employers'
+seoTitle: ''
+seoDescription: 'At HireHive, some customers tell us that their biggest recruitment headaches come from candidates with poor etiquette. How can you deal with bad candidates?'
+author: 'HireHive-Team'
+coverImage: '/images/11843368213_6c58b49694_b.jpg'
 ---
 
 At HireHive, some customers tell us that their biggest recruitment headaches come from bad candidates with poor etiquette—candidates who suddenly stop replying to emails, don't show up for interviews, and even new hires who accept an offer, yet fail to show up to their first day of work (a whopping 22% of job seekers in one [Indeed survey](http://blog.indeed.com/2019/08/26/ghosting-guide/)).

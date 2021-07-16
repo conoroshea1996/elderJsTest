@@ -1,15 +1,15 @@
 ---
-title: "What, why and how of workplace diversity"
-date: "2016-08-15"
+title: 'What, why and how of workplace diversity'
+date: '2016-08-15'
 categories:
-  - "compliance-and-data"
+  - 'compliance-and-data'
 tags:
-  - "online-recruiting"
-slug: "online-recruiting-workplace-diversity"
-seoTitle: "What, why and how of workplace diversity | Online recruiting"
-seoDescription: "Online recruiting software is certainly a great help when avoiding bias in your hiring. What can you do to improve diversity at your organisation?"
-author: "Orla-Hodnett"
-coverImage: "/images/online-recruiting.jpg"
+  - 'online-recruiting'
+slug: 'online-recruiting-workplace-diversity'
+seoTitle: 'What, why and how of workplace diversity | Online recruiting'
+seoDescription: 'Online recruiting software is certainly a great help when avoiding bias in your hiring. What can you do to improve diversity at your organisation?'
+author: 'Orla-Hodnett'
+coverImage: '/images/online-recruiting.jpg'
 ---
 
 The benefits of diversity in the workplace are numerous and diversity is constantly increasing. Diversity correlates with increased revenue and improved customer service.
@@ -22,7 +22,7 @@ Diversity in the workplace means seeing the immense value in difference, whether
 
 Improved diversity will introduce [a greater range of skills, education, languages and viewpoints](http://hirehive.io/avoiding-hiring-bias/). Achieving workplace diversity means hiring a broad range of people and those best qualified to do the job.
 
-This is part of our [Compliance & Data](http://hirehive.io/compliance-and-data/ "Security & Data") series
+This is part of our [Compliance & Data](http://hirehive.io/compliance-and-data/ 'Security & Data') series
 
 #### **Why?**
 

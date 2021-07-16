@@ -1,13 +1,13 @@
 ---
-title: "What are the benefits of recruiting events for your company?"
-date: "2017-10-13"
+title: 'What are the benefits of recruiting events for your company?'
+date: '2017-10-13'
 categories:
-  - "hr-events-and-people"
-slug: "benefits-recruiting-events-company"
-seoTitle: "What are the benefits of recruiting events for your company?"
-seoDescription: "Are recruiting events the way to go in your next phase of hiring? They can demonstrate your culture and work, as well as allowing you to show off your team."
-author: "Orla-Hodnett"
-coverImage: "/images/man-hands-holidays-looking.jpg"
+  - 'hr-events-and-people'
+slug: 'benefits-recruiting-events-company'
+seoTitle: 'What are the benefits of recruiting events for your company?'
+seoDescription: 'Are recruiting events the way to go in your next phase of hiring? They can demonstrate your culture and work, as well as allowing you to show off your team.'
+author: 'Orla-Hodnett'
+coverImage: '/images/man-hands-holidays-looking.jpg'
 ---
 
 _Are recruiting events the way to go in your next phase of hiring? They can demonstrate your culture and work, as well as allowing you to show off your team._

@@ -1,13 +1,13 @@
 ---
-title: "Candidate experience 101"
-date: "2016-12-03"
+title: 'Candidate experience 101'
+date: '2016-12-03'
 categories:
-  - "culture-branding"
-slug: "candidate-experience-101"
-seoTitle: "5 effortless ways your organisation can improve candidate experience"
+  - 'culture-branding'
+slug: 'candidate-experience-101'
+seoTitle: '5 effortless ways your organisation can improve candidate experience'
 seoDescription: "Up to 70% of Candidates don't even get an automated response when applying for jobs. Don't be a black sheep. Improve Candidate Experience with our 5 tips."
-author: "Orla-Hodnett"
-coverImage: "/images/candidate-experience.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/candidate-experience.jpg'
 ---
 
 No matter how long you have to recruit, no matter what tools you have, the most significant thing for your candidates is their experience with your organisation. If the recruiting process has not inspired confidence, a candidate will be reluctant to take up any offer you put forward.

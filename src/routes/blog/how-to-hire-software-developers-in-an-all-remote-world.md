@@ -1,13 +1,13 @@
 ---
-title: "How To Hire Software Developers In An All-Remote World"
-date: "2020-07-13"
+title: 'How To Hire Software Developers In An All-Remote World'
+date: '2020-07-13'
 categories:
-  - "how-to"
-slug: "how-to-hire-software-developers-in-an-all-remote-world"
-seoTitle: ""
-seoDescription: "Hiring remotely can be tough - our friends at Zartis.com share their top tips on how to hire software developers in an all-remote world."
-author: "Albena-Krasteva"
-coverImage: "/images/photo-1584213447128-7d708614348c-v2.jpg"
+  - 'how-to'
+slug: 'how-to-hire-software-developers-in-an-all-remote-world'
+seoTitle: ''
+seoDescription: 'Hiring remotely can be tough - our friends at Zartis.com share their top tips on how to hire software developers in an all-remote world.'
+author: 'albenakrasteva'
+coverImage: '/images/photo-1584213447128-7d708614348c-v2.jpg'
 ---
 
 While 2020 has made remote work an organizational necessity, rather than a strategic choice, it is by no means a new phenomenon in the tech world. Candidates have been asking for years for the possibility to work remotely, part-time or full time.

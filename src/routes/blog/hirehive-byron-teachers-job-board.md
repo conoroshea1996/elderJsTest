@@ -1,13 +1,13 @@
 ---
-title: "HireHive and Byron Recruitment announce new teachers job board"
-date: "2018-10-23"
+title: 'HireHive and Byron Recruitment announce new teachers job board'
+date: '2018-10-23'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-byron-teachers-job-board"
-seoTitle: "HireHive and Byron Recruitment - Teachers job board"
-seoDescription: "HireHive and Byron Recruitment partner to offer a brand new teachers job board for school hiring across Asia. Applicants can apply directly to a school."
-author: "HireHive-Team"
-coverImage: "/images/A-drip-herea-drop-there-conserve-water-with-care..png"
+  - 'hirehive-updates'
+slug: 'hirehive-byron-teachers-job-board'
+seoTitle: 'HireHive and Byron Recruitment - Teachers job board'
+seoDescription: 'HireHive and Byron Recruitment partner to offer a brand new teachers job board for school hiring across Asia. Applicants can apply directly to a school.'
+author: 'HireHive-Team'
+coverImage: '/images/A-drip-herea-drop-there-conserve-water-with-care..png'
 ---
 
 For us at HireHive partnerships are really important. We work with some amazing partners for various parts of our business from job boards, to assessment providers and lots in between.
@@ -24,7 +24,7 @@ Byron Recruitment has been a customer of HireHive since its establishment. We ar
 
 Through this partnership we have built a job board which allows schools to publish their teaching positions. This job board allows schools to reach a select audience of suitable candidates. The jobs on this job board are specific to each school which means that candidates are never shared so you have direct contact with the candidates that have applied for your job via HireHive.
 
-![Screenshot 2018-10-23 at 11.39.03 AM](/images/Screenshot-2018-10-23-at-11.39.03-AM-524x400.png)
+![screenshot 2018-10-23 at 11.39.03 am](/images/screenshot-2018-10-23-at-11.39.03-am-524x400.png)
 
 ‘Partnering with Jeff and Byron Recruitment will open up new markets for us.’ adds Siobhan Hasner, Managing Director of HireHive, ‘We already work with a number of schools and education providers in Europe and the US. Expanding into the Asia/Pacific market is something we are really excited about. The demand for teachers is growing every year and having a system like HireHive can really help a school gain a competitive advantage. It can help when posting jobs, setting up interviews and generally managing the recruitment process. Jeff also has great knowledge and insight into this market that will really help us move forward.’
 

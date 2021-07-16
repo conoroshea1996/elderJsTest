@@ -1,15 +1,15 @@
 ---
-title: "HR and Recruiting events this Autumn & Winter 2016"
-date: "2016-09-07"
+title: 'HR and Recruiting events this Autumn & Winter 2016'
+date: '2016-09-07'
 categories:
-  - "hr-events-and-people"
+  - 'hr-events-and-people'
 tags:
-  - "human-resource-management"
-slug: "human-resource-management-events-2016"
-seoTitle: "Human Resource Management and Recruiting Events 2016"
-seoDescription: "Get your thrills discussing passive candidates, Human Resource Management & social recruiting? Find like-minded people at some of 2016’s biggest HR events."
-author: "HireHive-Team"
-coverImage: "/images/hr-world.jpg"
+  - 'human-resource-management'
+slug: 'human-resource-management-events-2016'
+seoTitle: 'Human Resource Management and Recruiting Events 2016'
+seoDescription: 'Get your thrills discussing passive candidates, Human Resource Management & social recruiting? Find like-minded people at some of 2016’s biggest HR events.'
+author: 'HireHive-Team'
+coverImage: '/images/hr-world.jpg'
 ---
 
 Everybody loves nerding out over their niche interests. You’ve probably found yourself deep in conversations at the bar, about medieval history, makeup, Star Trek or even model building. You’ve probably also found it difficult to escape some of these very conversations when the enthusiast is in full flight.

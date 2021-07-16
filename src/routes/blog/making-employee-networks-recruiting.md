@@ -1,13 +1,13 @@
 ---
-title: "Making the most of your employee networks when recruiting"
-date: "2017-03-15"
+title: 'Making the most of your employee networks when recruiting'
+date: '2017-03-15'
 categories:
-  - "culture-branding"
-slug: "making-employee-networks-recruiting"
-seoTitle: "Making the most of your employee networks when recruiting"
-seoDescription: "Did you know that employee networks could bring your next great hire? Learn how to create an employee referrals program with recruiting software HireHive"
-author: "Orla-Hodnett"
-coverImage: "/images/network.jpg"
+  - 'culture-branding'
+slug: 'making-employee-networks-recruiting'
+seoTitle: 'Making the most of your employee networks when recruiting'
+seoDescription: 'Did you know that employee networks could bring your next great hire? Learn how to create an employee referrals program with recruiting software HireHive'
+author: 'Orla-Hodnett'
+coverImage: '/images/network.jpg'
 ---
 
 It’s not what you know, it's who you know. That old chestnut tends to come up pretty often. Extremely often if your grandma is the one offering the advice. Nowhere is this truer than in recruiting. [Employee referrals](http://hirehive.io/blog/is-an-employee-referrals-program-the-most-effective-way-to-recruit/) are a very effective way of hiring.

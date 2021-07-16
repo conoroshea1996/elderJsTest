@@ -1,20 +1,20 @@
 ---
-title: "Snapchat and Recruitment: A match made in heaven or not?"
-date: "2017-04-28"
+title: 'Snapchat and Recruitment: A match made in heaven or not?'
+date: '2017-04-28'
 categories:
-  - "social-recruiting"
-slug: "snapchat-recruitment"
-seoTitle: ""
-seoDescription: "While the thought of using Snapchat for recruitment might fill you with dread, this social media channel could be key in securing your future hires."
-author: "Rachel-Hill"
-coverImage: "/images/jigsaw.jpg"
+  - 'social-recruiting'
+slug: 'snapchat-recruitment'
+seoTitle: ''
+seoDescription: 'While the thought of using Snapchat for recruitment might fill you with dread, this social media channel could be key in securing your future hires.'
+author: 'Rachel-Hill'
+coverImage: '/images/jigsaw.jpg'
 ---
 
 Your potential wariness in using Snapchat is totally understandable, but it is growing in importance for recruiters everywhere. What started off as a slightly strange app where snaps and stories disappeared quickly, has evolved into a clever storytelling tool helpful to recruiters and marketers alike. It is an ideal recruiting tool in interactive areas such as sales, marketing and other creative fields.
 
 So how can Snapchat and recruitment work together? Are they a good match? Why not read the following points and decide if Snapchat is right for your recruitment strategy.
 
-\[caption id="attachment_9540" align="alignnone" width="340"\]![Snapchat](/images/Snapchat_Logo-e1470654503986.png) The Snapchat Logo\[/caption\]
+\[caption id="attachment_9540" align="alignnone" width="340"\]![snapchat](/images/snapchat_logo-e1470654503986.png) The Snapchat Logo\[/caption\]
 
 #### **Snapchat helps you reach millennials (and other groups!)**
 
@@ -24,11 +24,11 @@ However, these weren’t the only statistics picked up by Mediakix; Over 50% of 
 
 One company who used Snapchat to increase their number of applications was [AOL](http://www.adweek.com/digital/how-aol-used-snapchat-recruitment-tool-millennial-women-171803/). To achieve their goal of encouraging more female, millennial applications, AOL posted two 10-second clips in app's Discover section. While application intent increased by only 18%, the clips generated 17 million views, as well as a 40% increase in job views on Glassdoor. These statistics show that Snapchat can bring about powerful awareness of recruitment drives.
 
-[![Snapchat](/images/aol.jpg)](http://www.aol.ie/)
+[![snapchat](/images/aol.jpg)](http://www.aol.ie/)
 
 #### **You can show potential candidates your company culture**
 
-Probably the greatest thing about Snapchat is how personal and fun it can be. Before you even tell people you are hiring, share /images/ and videos promoting your company culture. This could involve showing your work environment, encouraging current employees to give testimonials or documenting your team’s latest charity run.
+Probably the greatest thing about Snapchat is how personal and fun it can be. Before you even tell people you are hiring, share images and videos promoting your company culture. This could involve showing your work environment, encouraging current employees to give testimonials or documenting your team’s latest charity run.
 
 Keep in mind that Snapchat is designed to be spontaneous and entertaining. While it is wise to have a rough idea of your social media calendar, don’t plan intently and allow for a lot of scope. If you are an organisation unwelcome to spontaneity and change, the app probably shouldn’t be part of your recruitment strategy.
 
@@ -48,7 +48,7 @@ If you want Snapchat to be an integral part of your hiring efforts, you could en
 
 The Shopify example above is a great example of how Snapchat can assess the practical skills of candidates. It makes people stand out from the piles of resumes and gives you a better sense of people’s personalities. As mentioned previously, this method works better in some sectors rather than others.
 
-[![Snapchat](/images/shopify.png)](https://www.shopify.com/)
+[![snapchat](/images/shopify.png)](https://www.shopify.com/)
 
 #### **You could increase your brand following**
 

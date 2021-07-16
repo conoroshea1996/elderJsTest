@@ -1,15 +1,15 @@
 ---
-title: "Checking it out: Reference checks are really important."
-date: "2015-11-09"
+title: 'Checking it out: Reference checks are really important.'
+date: '2015-11-09'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "candidate-tracking"
-slug: "reference-checks"
-seoTitle: "Reference checks are really important - HireHive Recruiting"
-seoDescription: "You hire people, not machines. Best you do reference checks before you make the offer. Failing to do so, could be costly and time consuming."
-author: "Pamela-Weaver"
-coverImage: "/images/Check.jpg"
+  - 'candidate-tracking'
+slug: 'reference-checks'
+seoTitle: 'Reference checks are really important - HireHive Recruiting'
+seoDescription: 'You hire people, not machines. Best you do reference checks before you make the offer. Failing to do so, could be costly and time consuming.'
+author: 'Pamela-Weaver'
+coverImage: '/images/Check.jpg'
 ---
 
 _You hire people, not machines. The candidate with the best technical skills could turn out to be a destructive team-wrecker. Best you do reference checks before you make the offer…_

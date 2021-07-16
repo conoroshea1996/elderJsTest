@@ -1,15 +1,15 @@
 ---
-title: "Are your social media efforts really paying off? Our top 5 analytic tools"
-date: "2016-08-16"
+title: 'Are your social media efforts really paying off? Our top 5 analytic tools'
+date: '2016-08-16'
 categories:
-  - "social-recruiting"
+  - 'social-recruiting'
 tags:
-  - "social-recruiting-tools"
-slug: "social-recruiting-tools"
-seoTitle: "Top 5 Social media analytic tools | Best Social recruiting tools | HireHive"
-seoDescription: "We show you some of the best social recruiting tools out there that will help make your social recruiting campaigns as effective as possible. Check out our top 5 social media analytics tools."
-author: "Chelsea-O-Connor"
-coverImage: "/images/social-recruiting-banner.jpg"
+  - 'social-recruiting-tools'
+slug: 'social-recruiting-tools'
+seoTitle: 'Top 5 Social media analytic tools | Best Social recruiting tools | HireHive'
+seoDescription: 'We show you some of the best social recruiting tools out there that will help make your social recruiting campaigns as effective as possible. Check out our top 5 social media analytics tools.'
+author: 'Chelsea-O-Connor'
+coverImage: '/images/social-recruiting-banner.jpg'
 ---
 
 Due to the growing amount of companies embracing this cultural shift to social sourcing, one must also be aware of how this type of recruiting is performing. There is no denying that this type of recruiting makes the recruitment process efficient, cost-effective and most importantly, faster. Social media allows companies to reach both active and passive candidates, as well as building a community of followers. Here are some useful social recruiting tools to find top talent.

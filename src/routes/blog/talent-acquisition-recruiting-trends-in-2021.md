@@ -1,15 +1,15 @@
 ---
-title: "Talent Acquisition and Recruiting Trends in 2021"
-date: "2021-01-31"
+title: 'Talent Acquisition and Recruiting Trends in 2021'
+date: '2021-01-31'
 categories:
-  - "hirehive-updates"
-  - "recruiting-strategy"
-  - "remote-hiring"
-slug: "talent-acquisition-recruiting-trends-in-2021"
-seoTitle: "12 Talent Acquisition and Recruiting Trends in 2021 | HireHive"
-seoDescription: "After such a complicated year in 2020, it’s no wonder that companies are changing their talent acquisition and recruiting strategies for 2021. Check out the current hiring trends as we explore 12 recruiting trends in 2021."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/2021-recruiting-trends.jpg"
+  - 'hirehive-updates'
+  - 'recruiting-strategy'
+  - 'remote-hiring'
+slug: 'talent-acquisition-recruiting-trends-in-2021'
+seoTitle: '12 Talent Acquisition and Recruiting Trends in 2021 | HireHive'
+seoDescription: 'After such a complicated year in 2020, it’s no wonder that companies are changing their talent acquisition and recruiting strategies for 2021. Check out the current hiring trends as we explore 12 recruiting trends in 2021.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/2021-recruiting-trends.jpg'
 ---
 
 After such a complicated year in 2020, it’s no wonder that businesses are reevaluating their talent acquisition and recruiting strategies for 2021. It hasn’t just been the pandemic that caused major changes in the marketplace, though that was a big contributing fact. Over the last decade, many advancements in technology were made that changed the entire landscape of recruiting.

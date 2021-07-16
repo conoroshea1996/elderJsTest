@@ -1,13 +1,13 @@
 ---
-title: "How to improve your employer brand"
-date: "2018-06-27"
+title: 'How to improve your employer brand'
+date: '2018-06-27'
 categories:
-  - "culture-branding"
-slug: "improving-employer-brand"
+  - 'culture-branding'
+slug: 'improving-employer-brand'
 seoTitle: "Employer Brand - why it's important and how you can improve it"
 seoDescription: "At HireHive we often get asked by customers how they can improve their employer brand. So what exactly is 'employer brand'?"
-author: "Siobhan-Hasner"
-coverImage: "/images/ashley-whitlatch-615530-unsplash-1.jpg"
+author: 'Siobhan-Hasner'
+coverImage: '/images/ashley-whitlatch-615530-unsplash-1.jpg'
 ---
 
 At HireHive the topic of ‘Employer Branding’ comes up a lot! We get asked by customers how they can improve their employer brand and we develop our product with our customer's employer brand in mind. But what exactly is ‘Employer Brand’?
@@ -24,7 +24,7 @@ Employer Branding is nothing new. Every brand has one but it may not necessarily
 
 We recently attended an event led by [Fiona Donnelly](https://www.linkedin.com/in/fionadonnelly/) from [Nexus Consulting](https://www.nexusconsulting.ie/). The event got us thinking and discussing Employer Branding in more detail.
 
-\[caption id="attachment_13497" align="alignnone" width="500"\]![Employer Brand Talk](/images/DSC_4741.jpg) Employer Brand Event\[/caption\]
+\[caption id="attachment_13497" align="alignnone" width="500"\]![employer brand talk](/images/dsc_4741.jpg) Employer Brand Event\[/caption\]
 
 Fiona spoke about the importance of your employer brand throughout the entire pipeline - from attracting candidates to engaging them and retaining them at your organisation.
 
@@ -82,7 +82,7 @@ Every organisation has a story. People are naturally drawn to these as they repr
 
 Know where your people are at. Is it Linkedin, Facebook, Twitter, Pinterest or Instagram? Find out where your ideal hires are and engage with people via those channels. This might involve sharing your content on this channel or answering questions that are asked. [McDonald's](http://fortune.com/2017/06/13/mcdonalds-snapchat-jobs-2/) do this using Snapchat where they target their junior recruits with targeted ads while [HootSuite](https://www.instagram.com/hootsuite/) uses Instagram to give an insight into their company culture.
 
-\[caption id="attachment_13498" align="alignnone" width="500"\]![HootSuite Employer Brand](/images/Capture.jpg) HootSuite Employer Brand\[/caption\]
+\[caption id="attachment_13498" align="alignnone" width="500"\]![hootsuite employer brand](/images/capture.jpg) HootSuite Employer Brand\[/caption\]
 
 #### **Tools we recommend**
 

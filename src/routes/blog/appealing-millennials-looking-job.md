@@ -1,15 +1,15 @@
 ---
-title: "Appealing to millennials: What are they looking for in a job?"
-date: "2017-08-03"
+title: 'Appealing to millennials: What are they looking for in a job?'
+date: '2017-08-03'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "millennials"
-slug: "appealing-millennials-looking-job"
-seoTitle: "Appealing to millennials: What are they looking for in a job?"
-seoDescription: "Millennials or Generation X are Notorious Job Hoppers. How can your Company Appeal to and Retain this Talent while also Standing Out from the Competition?"
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-346833.jpeg"
+  - 'millennials'
+slug: 'appealing-millennials-looking-job'
+seoTitle: 'Appealing to millennials: What are they looking for in a job?'
+seoDescription: 'Millennials or Generation X are Notorious Job Hoppers. How can your Company Appeal to and Retain this Talent while also Standing Out from the Competition?'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-346833.jpeg'
 ---
 
 _10/15 years ago, you could almost guarantee that a new employee would stay in their role for an extended period. Nowadays, Generation Y referred to as ‘millennials’ will often only remain in a role for 1 to 2 years maximum._

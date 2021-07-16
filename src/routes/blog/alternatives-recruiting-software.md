@@ -1,13 +1,13 @@
 ---
-title: "What alternatives are there to recruiting software?"
-date: "2016-10-10"
+title: 'What alternatives are there to recruiting software?'
+date: '2016-10-10'
 categories:
-  - "choosing-an-ats"
-slug: "alternatives-recruiting-software"
-seoTitle: ""
-seoDescription: "Here’s how you can make recruiting a trip down memory lane for some alternative to recruiting software."
-author: "Orla-Hodnett"
-coverImage: "/images/alternatives-recruiting-software.jpg"
+  - 'choosing-an-ats'
+slug: 'alternatives-recruiting-software'
+seoTitle: ''
+seoDescription: 'Here’s how you can make recruiting a trip down memory lane for some alternative to recruiting software.'
+author: 'Orla-Hodnett'
+coverImage: '/images/alternatives-recruiting-software.jpg'
 ---
 
 Recruiting software seems to be the go-to recruiting tool nowadays. You can manage applications, internal referrals and reporting all from one place. You can post advertisements to various jobs boards or even create a custom careers site. Communications and scheduling can also be dealt with from your ATS.
@@ -16,7 +16,7 @@ That is all well and good, but what is wrong with a bit of old-fashioned good wo
 
 If an ATS doesn’t sound like the kind of thing that would up your recruiting game, maybe a few of the following might help with your hiring efforts.
 
-![alternatives-recruiting-software-tinder](/images/alternatives-recruiting-software-tinder-1.jpg "https://www.flickr.com/photos/mikecogh/13300080005")
+![alternatives-recruiting-software-tinder](/images/alternatives-recruiting-software-tinder-1.jpg)
 
 Image by [Michael Coghlan](https://www.flickr.com/photos/mikecogh/ "Go to Michael Coghlan's photostream").
 

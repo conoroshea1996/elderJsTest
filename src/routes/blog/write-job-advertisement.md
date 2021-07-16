@@ -1,13 +1,13 @@
 ---
-title: "How to write a job advertisement"
-date: "2017-09-18"
+title: 'How to write a job advertisement'
+date: '2017-09-18'
 categories:
-  - "recruiting-strategy"
-slug: "write-job-advertisement"
-seoTitle: "How to write a job advertisement - HireHive"
-seoDescription: "Writing a job advertisement can be pretty challenging. How do you whittle the key traits of a top candidate down to just a few sentences?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-404976.jpeg"
+  - 'recruiting-strategy'
+slug: 'write-job-advertisement'
+seoTitle: 'How to write a job advertisement - HireHive'
+seoDescription: 'Writing a job advertisement can be pretty challenging. How do you whittle the key traits of a top candidate down to just a few sentences?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-404976.jpeg'
 ---
 
 _Writing a job advertisement can be pretty challenging. How do you whittle the key traits of a top candidate down to just a few sentences?_

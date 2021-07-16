@@ -1,13 +1,13 @@
 ---
-title: "What applicants need to know about Summer and seasonal hiring"
-date: "2018-06-06"
+title: 'What applicants need to know about Summer and seasonal hiring'
+date: '2018-06-06'
 categories:
-  - "recruiting-strategy"
-slug: "applicants-summer-jobs"
-seoTitle: "Summer jobs - What applicants need to know about seasonal jobs"
-seoDescription: "Finding seasonal jobs is no easy task for applicants. We have created a guide to help you find summer jobs - read our tips!"
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1459314079206-9970f36c7784.jpg"
+  - 'recruiting-strategy'
+slug: 'applicants-summer-jobs'
+seoTitle: 'Summer jobs - What applicants need to know about seasonal jobs'
+seoDescription: 'Finding seasonal jobs is no easy task for applicants. We have created a guide to help you find summer jobs - read our tips!'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1459314079206-9970f36c7784.jpg'
 ---
 
 _Summer can be a quiet season for recruiters, but that does not mean you cannot find the perfect temporary role or get your foot in the door as a graduate. Here is what you need to know to land great summer jobs._
@@ -28,7 +28,7 @@ As it is a quieter time of year, recruiters are more likely to have a little fre
 
 Building a good rapport with an organisation and understanding what they are looking for in a candidate will give you a good chance when a suitable role comes up. Again, you just need a little patience.
 
-\[caption id="attachment*13093" align="aligncenter" width="700"\]![Internship programme](/images/photo-1462536943532-57a629f6cc60-1.jpg) \_If you are a college student or graduate looking for experience, this could be a great opportunity!*\[/caption\]
+\[caption id="attachment*13093" align="aligncenter" width="700"\]![internship programme](/images/photo-1462536943532-57a629f6cc60-1.jpg) \_If you are a college student or graduate looking for experience, this could be a great opportunity!*\[/caption\]
 
 #### **Internships**
 

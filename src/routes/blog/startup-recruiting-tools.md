@@ -1,15 +1,15 @@
 ---
-title: "The startup recruiter’s toolbox"
-date: "2016-08-22"
+title: 'The startup recruiter’s toolbox'
+date: '2016-08-22'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruiting-tools"
-slug: "startup-recruiting-tools"
-seoTitle: "The startup recruiter’s toolbox | Recruiting tools"
+  - 'recruiting-tools'
+slug: 'startup-recruiting-tools'
+seoTitle: 'The startup recruiter’s toolbox | Recruiting tools'
 seoDescription: "As a startup recruiter don't neglect the universe of recruiting tools available. What multitasking and recruiting tools could help your startup scale up?"
-author: "Orla-Hodnett"
-coverImage: "/images/recruiting-tools.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/recruiting-tools.jpg'
 ---
 
 A bad tradesman blames his tools… but it's a clever entrepreneur who takes any help they can get. The number of resources and tools available to startups are innumerable, so it would be unwise to overlook them.
@@ -28,7 +28,7 @@ It's probably one of the most ubiquitous social media tools out there, but that'
 
 Visual marketing materials are always very attention grabbing and materials like infographics convey a huge amount of information in one glance. Canva is a free tool for the creation of graphics for recruiting marketing, which helps to create content for multiple platforms.
 
-This is part of our [Social Recruiting](http://hirehive.io/social-recruiting/ "Social Media ") series
+This is part of our [Social Recruiting](http://hirehive.io/social-recruiting/ 'Social Media ') series
 
 #### [Dropbox](https://www.dropbox.com/)
 
@@ -68,6 +68,6 @@ Project management tools are always useful, with a wide range of applications ac
 
 #### [HireHive](http://hirehive.io/)
 
-![](/images/Multilingual-Recruitment-Software-1.png)
+![](/images/multilingual-recruitment-software-1.png)
 
 One of the biggest challenges a startup can face is keeping up with the rate of growth. Keeping up the staffing levels required is tough.[Recruiting software](http://hirehive.io/why-recruiting-software-could-change-the-way-you-recruit/) allows you to advertise job postings to a number of platforms, receive applications and communicate with candidates. Collaboration with colleagues is made simple, too, through the use of an online recruiting system.

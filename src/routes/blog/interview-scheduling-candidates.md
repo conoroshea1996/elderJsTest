@@ -1,13 +1,13 @@
 ---
-title: "How interview scheduling helps you get the most out of your candidates"
-date: "2016-04-12"
+title: 'How interview scheduling helps you get the most out of your candidates'
+date: '2016-04-12'
 categories:
-  - "recruiting-strategy"
-slug: "interview-scheduling-candidates"
-seoTitle: "How interview scheduling helps you get the most out of your candidates"
-seoDescription: "Scheduling interviews is a fine art. Balancing your time, the time of your colleagues and the time of your candidates is no small task."
-author: "Orla-Hodnett"
-coverImage: "/images/Scheduling.jpg"
+  - 'recruiting-strategy'
+slug: 'interview-scheduling-candidates'
+seoTitle: 'How interview scheduling helps you get the most out of your candidates'
+seoDescription: 'Scheduling interviews is a fine art. Balancing your time, the time of your colleagues and the time of your candidates is no small task.'
+author: 'Orla-Hodnett'
+coverImage: '/images/Scheduling.jpg'
 ---
 
 No only do you have to get the time right, but you have to get the very best out of that short time with a potential new hire. At the interviewing stage, you are down to the top 10 or so candidates out of all applicants. Here’s a few tips for making sure that you and your candidates get the best out of an interview.

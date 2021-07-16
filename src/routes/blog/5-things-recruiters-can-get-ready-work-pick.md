@@ -1,13 +1,13 @@
 ---
-title: "5 Things Recruiters Can Do to Get Ready for Work to Pick Up Again"
-date: "2020-06-22"
+title: '5 Things Recruiters Can Do to Get Ready for Work to Pick Up Again'
+date: '2020-06-22'
 categories:
-  - "recruiting-strategy"
-slug: "5-things-recruiters-can-get-ready-work-pick"
-seoTitle: ""
-seoDescription: "It’s not surprising that recruitment is down across a broad spectrum of businesses right now. What can recruiters do now to be ready when hiring picks up?"
-author: "HireHive-Team"
-coverImage: "/images/2.jpg"
+  - 'recruiting-strategy'
+slug: '5-things-recruiters-can-get-ready-work-pick'
+seoTitle: ''
+seoDescription: 'It’s not surprising that recruitment is down across a broad spectrum of businesses right now. What can recruiters do now to be ready when hiring picks up?'
+author: 'HireHive-Team'
+coverImage: '/images/2.jpg'
 ---
 
 It’s not surprising that recruitment is down across a broad spectrum of businesses right now. With COVID-19 still impacting many countries around the world, recruiting professionals have been waiting in the wings for hiring to pick up. The trick is to be patient. The global economy will recover, though it may be slower in some places than others. What can you do as a recruiter if your company is on hold with hiring but you want to keep your skills fresh so you’re ready to hit the ground running? Let’s take a closer look.

@@ -1,13 +1,13 @@
 ---
-title: "Hiring made easy for global organisations with Cluster"
-date: "2018-02-09"
+title: 'Hiring made easy for global organisations with Cluster'
+date: '2018-02-09'
 categories:
-  - "recruiting-strategy"
-slug: "hiring-made-easy-global-organisations-cluster"
-seoTitle: "Cluster: Hiring made easy for global organisations | HireHive ATS"
-seoDescription: "Company growth is exciting and can provide new opportunities for your organisation. How can HireHive Cluster help you make great new hires?"
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1502920514313-52581002a659.jpg"
+  - 'recruiting-strategy'
+slug: 'hiring-made-easy-global-organisations-cluster'
+seoTitle: 'Cluster: Hiring made easy for global organisations | HireHive ATS'
+seoDescription: 'Company growth is exciting and can provide new opportunities for your organisation. How can HireHive Cluster help you make great new hires?'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1502920514313-52581002a659.jpg'
 ---
 
 _Company growth is exciting and can provide new opportunities for your organisation. Making great new hires will help your company's reach, but how can HireHive Cluster help you do this?_

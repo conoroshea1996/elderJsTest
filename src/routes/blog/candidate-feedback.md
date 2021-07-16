@@ -1,13 +1,13 @@
 ---
-title: "Candidate feedback: a quick guide"
-date: "2016-10-30"
+title: 'Candidate feedback: a quick guide'
+date: '2016-10-30'
 categories:
-  - "recruiting-strategy"
-slug: "candidate-feedback"
-seoTitle: "Candidate feedback: a quick guide | HireHive Recruiting Software"
-seoDescription: "Offering candidate feedback means a lot to them and gives a good understanding of what your company is about. Here are a few things to keep in mind!"
-author: "Orla-Hodnett"
-coverImage: "/images/Candidate-experience.jpg"
+  - 'recruiting-strategy'
+slug: 'candidate-feedback'
+seoTitle: 'Candidate feedback: a quick guide | HireHive Recruiting Software'
+seoDescription: 'Offering candidate feedback means a lot to them and gives a good understanding of what your company is about. Here are a few things to keep in mind!'
+author: 'Orla-Hodnett'
+coverImage: '/images/Candidate-experience.jpg'
 ---
 
 Interview feedback is considered a very important aspect of the interviewing process, which means it cannot be overlooked by the recruiter. It will ultimately impact how your company is perceived and what kind of culture you are understood to have. If you want your organisation to be accurately represented to candidates and the wider public, consider carefully how you deal with unsuccessful candidates.

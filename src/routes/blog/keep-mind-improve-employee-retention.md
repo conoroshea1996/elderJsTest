@@ -1,15 +1,15 @@
 ---
-title: "What to keep in mind to improve employee retention"
-date: "2016-07-11"
+title: 'What to keep in mind to improve employee retention'
+date: '2016-07-11'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "employee-tracking-software"
-slug: "keep-mind-improve-employee-retention"
-seoTitle: "Improving employee retention | HireHive Recruiting Software"
-seoDescription: "Struggling constantly with high employee turnover? Learn how to improve employee retention for the long term with our 4 great tips!"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-398532.jpeg"
+  - 'employee-tracking-software'
+slug: 'keep-mind-improve-employee-retention'
+seoTitle: 'Improving employee retention | HireHive Recruiting Software'
+seoDescription: 'Struggling constantly with high employee turnover? Learn how to improve employee retention for the long term with our 4 great tips!'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-398532.jpeg'
 ---
 
 Consideration for employee retention is really part of playing the long game. Statistics on employee turnover take years to collate and benefits schemes do not establish themselves overnight, but that doesn't mean improving employee retention is out of your hands. In fact, [keeping employees engaged](http://www.socialtalent.co/blog/the-7-key-elements-of-a-winning-employee-retention-strategy-infographic) can even start at the advertising stage.
@@ -38,4 +38,4 @@ Recent graduates like roles with some level of flexibility, and in some cases, 
 
 See our corresponding infographic below by Rachel:
 
-![employee retention](/images/4-WAYS-TO-IMPROVE-EMPLOYEE-RETENTION-800x2000.png)
+![employee retention](/images/4-ways-to-improve-employee-retention-800x2000.png)

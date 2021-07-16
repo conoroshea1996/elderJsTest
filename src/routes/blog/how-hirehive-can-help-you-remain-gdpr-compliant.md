@@ -1,13 +1,13 @@
 ---
-title: "How HireHive can help you remain GDPR compliant"
-date: "2018-02-16"
+title: 'How HireHive can help you remain GDPR compliant'
+date: '2018-02-16'
 categories:
-  - "compliance-and-data"
-slug: "how-hirehive-can-help-you-remain-gdpr-compliant"
-seoTitle: ""
-seoDescription: "GDPR changes are about to come into full force. HireHive can help you ensure your company remains GDPR compliant regarding your recruitment data."
-author: "Orla-Hodnett"
-coverImage: "/images/test21.jpg"
+  - 'compliance-and-data'
+slug: 'how-hirehive-can-help-you-remain-gdpr-compliant'
+seoTitle: ''
+seoDescription: 'GDPR changes are about to come into full force. HireHive can help you ensure your company remains GDPR compliant regarding your recruitment data.'
+author: 'Orla-Hodnett'
+coverImage: '/images/test21.jpg'
 ---
 
 _With the GDPR changes about to come into full force, how can HireHive ensure you remain compliant?_

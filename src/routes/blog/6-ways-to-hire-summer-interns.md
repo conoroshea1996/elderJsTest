@@ -1,13 +1,13 @@
 ---
-title: "6 ways you can change how you hire summer interns"
-date: "2016-05-09"
+title: '6 ways you can change how you hire summer interns'
+date: '2016-05-09'
 categories:
-  - "recruiting-strategy"
-slug: "6-ways-to-hire-summer-interns"
-seoTitle: ""
-seoDescription: "Internships are a key part of the recruiting process. 60% of interns go on to be full-time employees. See our tips to hire them!"
-author: "Orla-Hodnett"
-coverImage: "/images/coffeecups-e1464170447387.jpg"
+  - 'recruiting-strategy'
+slug: '6-ways-to-hire-summer-interns'
+seoTitle: ''
+seoDescription: 'Internships are a key part of the recruiting process. 60% of interns go on to be full-time employees. See our tips to hire them!'
+author: 'Orla-Hodnett'
+coverImage: '/images/coffeecups-e1464170447387.jpg'
 ---
 
 Internships: they're a key part of the recruiting process. [60% of interns](http://www.forbes.com/sites/susanadams/2012/07/25/odds-are-your-internship-will-get-you-a-job/#5bf5186b453f) or work experience candidates go on to be full-time employees. It's a unique way of recruiting, as it gives you the opportunity to fully vet a suitable candidate and give them training relevant to the day-to-day job, before offering a full time role. Interns often bring new technical skills and challenge existing processes, so this method of hiring is essential for making a good skills and culture match.

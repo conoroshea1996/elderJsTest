@@ -1,13 +1,13 @@
 ---
-title: "How to create an attractive careers page: our checklist"
-date: "2019-06-12"
+title: 'How to create an attractive careers page: our checklist'
+date: '2019-06-12'
 categories:
-  - "compliance-and-data"
-slug: "careers-page-checklist"
-seoTitle: ""
+  - 'compliance-and-data'
+slug: 'careers-page-checklist'
+seoTitle: ''
 seoDescription: "Careers page are essential to attract top talent. If you don't know where to start to build yours, here is our checklist!"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/welcome2.jpg"
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/welcome2.jpg'
 ---
 
 Careers pages are essential to attract talent to your company. If you are a well-known company or if you get a good amount of traffic to your website, you should seize this opportunity to convert visitors into applicants.
@@ -24,7 +24,7 @@ If your careers page requires candidates to create an account or to log in to be
 
 A strong employer brand is essential in asserting your organisation’s status in the marketplace. Your brand may be stronger and more effective than any recruiting campaign. Building an [employer brand](https://hirehive.com/building-your-employer-brand-for-recruiting/) is part of the long game and requires input from your whole team. Your careers page is the perfect place to show candidates what it is to work with you, as it is often the first place they will check if they are interested in working with your company.
 
-\[caption id="attachment*13842" align="aligncenter" width="750"\]![HireHive team at Web Summit](/images/12-750x313.jpg) \_The HireHive team at Web Summit - show your candidates what's happening in the company!*\[/caption\]
+\[caption id="attachment*13842" align="aligncenter" width="750"\]![hirehive team at web summit](/images/12-750x313.jpg) \_The HireHive team at Web Summit - show your candidates what's happening in the company!*\[/caption\]
 
 You need to check that the information about your company is authentic and representative. If a candidate responds well to your brand and your values, the likelihood of a good culture match is high.
 

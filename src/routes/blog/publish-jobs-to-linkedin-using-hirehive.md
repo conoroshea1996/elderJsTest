@@ -1,13 +1,13 @@
 ---
-title: "How to publish jobs to LinkedIn using HireHive"
-date: "2017-05-05"
+title: 'How to publish jobs to LinkedIn using HireHive'
+date: '2017-05-05'
 categories:
-  - "hirehive-updates"
-slug: "publish-jobs-to-linkedin-using-hirehive"
-seoTitle: "How to publish jobs to LinkedIn using HireHive Recruiting Software"
-seoDescription: "Want to post jobs to LinkedIn and use an ATS at the same time? Read this article to find out how you publish jobs to LinkedIn using HireHive software."
-author: "Rachel-Hill"
-coverImage: "/images/LinkedIn.png"
+  - 'hirehive-updates'
+slug: 'publish-jobs-to-linkedin-using-hirehive'
+seoTitle: 'How to publish jobs to LinkedIn using HireHive Recruiting Software'
+seoDescription: 'Want to post jobs to LinkedIn and use an ATS at the same time? Read this article to find out how you publish jobs to LinkedIn using HireHive software.'
+author: 'Rachel-Hill'
+coverImage: '/images/LinkedIn.png'
 ---
 
 #### **Why recruiters use LinkedIn**
@@ -30,7 +30,7 @@ Create your job post in HireHive and select ‘publish’.
 
 In the jobs overview page, you will see icons for LinkedIn, Facebook and Twitter. Click on the LinkedIn icon.
 
-![publish jobs to LinkedIn](/images/LinkedIn-sharing.png)
+![publish jobs to linkedin](/images/linkedin-sharing.png)
 
 **Step 3**
 
@@ -38,9 +38,9 @@ HireHive will ask for access to your LinkedIn page, allow access.
 
 **Step 4**
 
-A pop up screen will appear asking you for extra details. Use this opportunity to edit the job title, description and the additional update message if necessary. Also ensure you have a striking social media [image](http://hirehive.io/blog//images/-social-recruiting-strategy/).
+A pop up screen will appear asking you for extra details. Use this opportunity to edit the job title, description and the additional update message if necessary. Also ensure you have a striking social media [image](http://hirehive.io/blog/images-social-recruiting-strategy/).
 
-![publish jobs to LinkedIn](/images/linkedIn-window.png)
+![publish jobs to linkedin](/images/linkedin-window.png)
 
 **Step 5**
 
@@ -54,4 +54,4 @@ Once you publish your job, it will appear on your LinkedIn company page. People 
 
 While HireHive allows you to post jobs to LinkedIn organically, you can still use HireHive if you purchase job posts from LinkedIn. With your paid job posting, you continue to have the option to capture applications using the job link (below). This means all applications remain captured in one place and fully tracked.
 
-![Linkedin application option](/images/Linkedin-application-option.jpg)
+![linkedin application option](/images/linkedin-application-option.jpg)

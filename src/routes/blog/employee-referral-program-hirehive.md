@@ -1,13 +1,13 @@
 ---
-title: "Maintaining an employee referral program with HireHive"
-date: "2017-12-04"
+title: 'Maintaining an employee referral program with HireHive'
+date: '2017-12-04'
 categories:
-  - "hirehive-updates"
-slug: "employee-referral-program-hirehive"
-seoTitle: ""
-seoDescription: "There are so many moving parts in an employee referral program, it can be difficult to maintain. Want to know how HireHive can make referrals effortless?"
-author: "Orla-Hodnett"
-coverImage: "/images/dandelion-808255_960_720.jpg"
+  - 'hirehive-updates'
+slug: 'employee-referral-program-hirehive'
+seoTitle: ''
+seoDescription: 'There are so many moving parts in an employee referral program, it can be difficult to maintain. Want to know how HireHive can make referrals effortless?'
+author: 'Orla-Hodnett'
+coverImage: '/images/dandelion-808255_960_720.jpg'
 ---
 
 _There are so many moving parts in an employee referral program, it can be difficult to maintain. Not with [HireHive Recruitment Software](https://hirehive.com/). Want to know how your favourite recruiting software tool can make employee referrals effortless for you and your team?_
@@ -22,7 +22,7 @@ Referral programs can have a number of moving parts, so keeping track of applica
 
 Every detail is to hand for both employee and employer. Employers can add employees to the program and track all applications. Employees can get all the information they need to share with their networks and they can also get an overview of their contribution. Easy peasy.
 
-#### **![Android share](/images/Screenshot_2017-11-23-12-29-58-064_android-e1511451542474.png)**
+#### **![android share](/images/screenshot_2017-11-23-12-29-58-064_android-e1511451542474.png)**
 
 #### Sharing jobs
 

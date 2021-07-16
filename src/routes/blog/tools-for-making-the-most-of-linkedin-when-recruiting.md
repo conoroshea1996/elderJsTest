@@ -1,13 +1,13 @@
 ---
-title: "Tools for making the most of LinkedIn when recruiting"
-date: "2016-03-29"
+title: 'Tools for making the most of LinkedIn when recruiting'
+date: '2016-03-29'
 categories:
-  - "social-recruiting"
-slug: "tools-for-making-the-most-of-linkedin-when-recruiting"
-seoTitle: ""
-seoDescription: "LinkedIn is essential to most recruiters. Learn about 4 of the best tools for making the best use out of your LinkedIn recruiting efforts."
-author: "Orla-Hodnett"
-coverImage: "/images/Tools.jpg"
+  - 'social-recruiting'
+slug: 'tools-for-making-the-most-of-linkedin-when-recruiting'
+seoTitle: ''
+seoDescription: 'LinkedIn is essential to most recruiters. Learn about 4 of the best tools for making the best use out of your LinkedIn recruiting efforts.'
+author: 'Orla-Hodnett'
+coverImage: '/images/Tools.jpg'
 ---
 
 [87% of recruiters are using LinkedIn](http://www.adweek.com/socialtimes/survey-96-of-recruiters-use-social-media-to-find-high-quality-candidates/627040) and we can see why. The steadfast position that LinkedIn holds in the world of HR and recruiting means that it’s the yardstick - the resource that everything else is measuring up to.

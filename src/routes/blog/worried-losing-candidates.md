@@ -1,13 +1,13 @@
 ---
-title: "Worried you are losing candidates in your recruiting process?"
-date: "2017-02-04"
+title: 'Worried you are losing candidates in your recruiting process?'
+date: '2017-02-04'
 categories:
-  - "recruiting-strategy"
-slug: "worried-losing-candidates"
-seoTitle: "Worried you are losing candidates in your recruiting process?"
-seoDescription: "You may be losing candidates throughout your hiring process, so how do you prevent this? Check out our top 5 tips to retain dream candidates."
-author: "Orla-Hodnett"
-coverImage: "/images/candidate-software2.jpg"
+  - 'recruiting-strategy'
+slug: 'worried-losing-candidates'
+seoTitle: 'Worried you are losing candidates in your recruiting process?'
+seoDescription: 'You may be losing candidates throughout your hiring process, so how do you prevent this? Check out our top 5 tips to retain dream candidates.'
+author: 'Orla-Hodnett'
+coverImage: '/images/candidate-software2.jpg'
 ---
 
 I do not mean to alarm you, but you may be losing candidates. You may be posting your new roles and pursuing your preferred candidates with good results, but do you ever wonder what might have been? What if your dream candidate got frustrated halfway through the application process? Sigh.

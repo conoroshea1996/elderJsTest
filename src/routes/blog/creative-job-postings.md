@@ -1,13 +1,13 @@
 ---
-title: "Are creative job postings the key to sourcing top candidates?"
-date: "2016-03-01"
+title: 'Are creative job postings the key to sourcing top candidates?'
+date: '2016-03-01'
 categories:
-  - "recruiting-strategy"
-slug: "creative-job-postings"
-seoTitle: "Are creative job postings the key to sourcing top candidates?"
-seoDescription: "Creative job postings help your organisation to reach candidates. Your recruiting team can implement these by keeping a few things in mind:"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-256484.jpeg"
+  - 'recruiting-strategy'
+slug: 'creative-job-postings'
+seoTitle: 'Are creative job postings the key to sourcing top candidates?'
+seoDescription: 'Creative job postings help your organisation to reach candidates. Your recruiting team can implement these by keeping a few things in mind:'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-256484.jpeg'
 ---
 
 _Creative job postings help your organisation to reach candidates. Your recruiting team can implement these easily when hiring, by keeping a few things in mind._
@@ -24,7 +24,7 @@ Setting a task can be a preliminary filter or a way of assessing general skills.
 
 This graphic designer job advertisement hits the nail on the head here. If poor spelling and grammar rubs you up the wrong way, you won't be able to resist responding to this one.
 
-[![Ad1](/images/Ad1.jpg)](http://hirehive.io/wp-content/uploads/2016/03/Ad1.jpg)
+[![ad1](/images/ad1.jpg)](http://hirehive.io/wp-content/uploads/2016/03/Ad1.jpg)
 
 #### Read the room
 
@@ -40,13 +40,13 @@ Instagram, Twitter and Snapchat are not only fantastic ways of reaching the mill
 
 Lego get full marks for cuteness with these visual job advertisements from their [careers Twitter account.](https://twitter.com/LEGO_Careers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-[![LEGO AD](/images/LEGO-AD.jpg)](http://hirehive.io/wp-content/uploads/2016/03/LEGO-AD.jpg)
+[![lego ad](/images/lego-ad.jpg)](http://hirehive.io/wp-content/uploads/2016/03/LEGO-AD.jpg)
 
 Choose your platform: this is basically carefully [targeted advertising](http://www.eremedia.com/ere/creative-ways-to-distribute-your-job-postings/), but targeting based on stats doesn't have to be boring. Where you advertise is key to finding the right kind of candidates. Choosing your most [significant source of traffic](http://www.socialtalent.co/blog/how-recruiters-and-job-seekers-use-social-media-in-2015) will get you the greatest reach and greatest talent pool.
 
 Lyft took the whole “traffic” thing pretty literally and got very crafty with this billboard campaign. What better way to find drivers, than placing billboards on one of San Francisco’s busiest highways? 10/10 for creativity, Lyft.
 
-[![Lyft ad](/images/Lyft-ad.jpeg)](http://hirehive.io/wp-content/uploads/2016/03/Lyft-ad.jpeg)
+[![lyft ad](/images/lyft-ad.jpeg)](http://hirehive.io/wp-content/uploads/2016/03/Lyft-ad.jpeg)
 
 #### Vintage bonus tip
 

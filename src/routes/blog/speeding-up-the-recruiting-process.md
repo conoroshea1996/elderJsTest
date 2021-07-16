@@ -1,15 +1,15 @@
 ---
-title: "Speeding up the recruiting process"
-date: "2017-06-07"
+title: 'Speeding up the recruiting process'
+date: '2017-06-07'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "speeding-up-the-recruiting-process"
-slug: "speeding-up-the-recruiting-process"
-seoTitle: "Speeding up the recruiting process I HireHive Recruiting Software"
+  - 'speeding-up-the-recruiting-process'
+slug: 'speeding-up-the-recruiting-process'
+seoTitle: 'Speeding up the recruiting process I HireHive Recruiting Software'
 seoDescription: "Need help speeding up the recruiting process? Look no further than HireHive's 5 tips that will cut your recruiting time in half"
-author: "Orla-Hodnett"
-coverImage: "/images/traffic-car-vehicle-black.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/traffic-car-vehicle-black.jpg'
 ---
 
 Ready, set, go! So you have been told that there is a new opening in your organisation and the position needs to be filled soon… what are you waiting for? [To win the competition for talent](https://www.thebalance.com/tips-to-speed-up-hiring-1918325), speeding up the recruiting process is key. You will also need to work out a strategy - eat right, stretch and do the following:

@@ -1,13 +1,13 @@
 ---
-title: "Are your employees disengaged? And what can you do about it?"
-date: "2017-10-27"
+title: 'Are your employees disengaged? And what can you do about it?'
+date: '2017-10-27'
 categories:
-  - "culture-branding"
-slug: "disengaged-employees"
-seoTitle: "Do you have disengaged employees? What can you do?"
-seoDescription: "Disengaged employees can cost you. So what corrective measures can you take to ensure your employees feel involved and valued?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-14303.jpeg"
+  - 'culture-branding'
+slug: 'disengaged-employees'
+seoTitle: 'Do you have disengaged employees? What can you do?'
+seoDescription: 'Disengaged employees can cost you. So what corrective measures can you take to ensure your employees feel involved and valued?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-14303.jpeg'
 ---
 
 _Employee disengagement can cost you and your organisation. How can you take corrective measures to ensure your employees feel involved? And how can it impact your recruiting efforts?_

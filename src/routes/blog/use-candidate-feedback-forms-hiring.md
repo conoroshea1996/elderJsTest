@@ -1,13 +1,13 @@
 ---
-title: "Why you should use candidate feedback forms when hiring"
-date: "2017-02-06"
+title: 'Why you should use candidate feedback forms when hiring'
+date: '2017-02-06'
 categories:
-  - "recruiting-strategy"
-slug: "use-candidate-feedback-forms-hiring"
-seoTitle: "Feedback forms and why you should use them when hiring"
-seoDescription: "Learn about how candidate feedback forms can make your hiring process more collaborative and consistent while also finding you the best candidates"
-author: "Rachel-Hill"
-coverImage: "/images/feedback-2.png"
+  - 'recruiting-strategy'
+slug: 'use-candidate-feedback-forms-hiring'
+seoTitle: 'Feedback forms and why you should use them when hiring'
+seoDescription: 'Learn about how candidate feedback forms can make your hiring process more collaborative and consistent while also finding you the best candidates'
+author: 'Rachel-Hill'
+coverImage: '/images/feedback-2.png'
 ---
 
 #### **Collaboration**
@@ -28,7 +28,8 @@ As it is understandable that some roles may require particular skills or knowled
 
 The most important reason why you should use feedback forms is to evaluate everybody's thoughts on a candidate at each stage of the screening process. By keeping track of a candidate's strengths, weaknesses etc., there is no stone left unturned. Within [HireHive](http://HireHive.io), all feedback relating to a candidate is saved on their profile, meaning that all candidate information is available at any time.
 
-![Candidate feedback](/images/scorecard.gif "Candidate feedback")
+<img src="/images/scorecard.gif" alt="candidate feedback"/>
+
 
 It is also helpful to gather as many impressions as possible, as another team member may have noticed something about a candidate you didn't. Obtaining an external team member's perspective is also a good way of gaining more impressions. All of this ensures that you are making a well-informed decision about the candidate you choose to hire.
 

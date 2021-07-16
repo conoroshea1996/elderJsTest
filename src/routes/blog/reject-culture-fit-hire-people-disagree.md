@@ -1,13 +1,13 @@
 ---
-title: "Reject culture fit and hire people you disagree with"
-date: "2020-03-23"
+title: 'Reject culture fit and hire people you disagree with'
+date: '2020-03-23'
 categories:
-  - "recruiting-strategy"
-slug: "reject-culture-fit-hire-people-disagree"
-seoTitle: ""
-seoDescription: "More HR leaders are referencing this idea of culture add versus the more familiar concept of culture fit. Here are a few things you should know about it."
-author: "HireHive-Team"
-coverImage: "/images/photo-1519576122146-ccfda6b8693f.jpeg"
+  - 'recruiting-strategy'
+slug: 'reject-culture-fit-hire-people-disagree'
+seoTitle: ''
+seoDescription: 'More HR leaders are referencing this idea of culture add versus the more familiar concept of culture fit. Here are a few things you should know about it.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1519576122146-ccfda6b8693f.jpeg'
 ---
 
 Have you ever heard someone use the phrase _culture add_?

@@ -1,15 +1,15 @@
 ---
-title: "A quick to-do list on how to improve your bad careers page"
-date: "2016-06-07"
+title: 'A quick to-do list on how to improve your bad careers page'
+date: '2016-06-07'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "recruitment-management-system"
-slug: "careers-page-barely-hanging-can-fix"
-seoTitle: "How to fix your bad careers page I Recruitment management system"
+  - 'recruitment-management-system'
+slug: 'careers-page-barely-hanging-can-fix'
+seoTitle: 'How to fix your bad careers page I Recruitment management system'
 seoDescription: "A Bad Careers Page and Complicated application processes are the bane of any job hunter’s existence. Ensure that you're converting clicks into applicants."
-author: "Orla-Hodnett"
-coverImage: "/images/dilapidated.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/dilapidated.jpg'
 ---
 
 Career sites are rarely pretty and rarely functional. We've all had the frustration of having to fill out our job history, despite having uploaded a CV. We've also pressed submit on an application, only to be left wondering if the application was received or successful.
@@ -22,7 +22,7 @@ Your careers page should not look like this and you need to address this problem
 
 Mobile Internet use has surpassed desktop use, mobile internet searches have increased and mobile job applications make up a huge share of online job applications \*. If your careers site is [not mobile optimised](http://www.socialtalent.co/blog/mobile-job-search), you run a serious risk of deterring or losing candidates.
 
-![bad careers page](/images/Mobile-optimised.jpg)
+![bad careers page](/images/mobile-optimised.jpg)
 
 Candidates are increasingly likely to make job searches on mobile devices, so if they cannot follow through and make an application from their phone or tablet, you could be missing great candidates.
 
@@ -44,7 +44,7 @@ As stated already, online forms are the easiest means for a candidate to apply. 
 
 Avoid requesting the same information twice (i.e. Don't request employment history if a candidate has uploaded a CV) and ask brief questions to learn more about your candidates.
 
-![bad careers page](/images/Login-e1465291137712.jpg)
+![bad careers page](/images/login-e1465291137712.jpg)
 
 #### **Get Rid of The login hurdle**
 

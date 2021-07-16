@@ -1,13 +1,13 @@
 ---
-title: "January product update - Indeed, GDPR and more!"
-date: "2018-01-30"
+title: 'January product update - Indeed, GDPR and more!'
+date: '2018-01-30'
 categories:
-  - "hirehive-updates"
-slug: "january-product-update-indeed-gdpr-and-more"
-seoTitle: ""
-seoDescription: "What happened in the Hive during those past few weeks? Find out the changes we have made in the past few weeks in our January product update!"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/pexels-photo-529926.jpeg"
+  - 'hirehive-updates'
+slug: 'january-product-update-indeed-gdpr-and-more'
+seoTitle: ''
+seoDescription: 'What happened in the Hive during those past few weeks? Find out the changes we have made in the past few weeks in our January product update!'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/pexels-photo-529926.jpeg'
 ---
 
 What happened in the Hive during those past few weeks?
@@ -16,7 +16,7 @@ What happened in the Hive during those past few weeks?
 
 First of all, you can now sponsor your jobs on Indeed directly through HireHive: this had been one of our most requested features for years by our customers, and it's finally available!
 
-![Capture](/images/Capture-1.jpg)
+![capture](/images/capture-1.jpg)
 
 As you may already know, Indeed is the world’s #1 job site. Posting your jobs there can bring you a number of applications. But what we've noticed based on data from HireHive customers is that you will receive approximately 90% of the total number of applications within the first 5 days.  
 After that date, the number of applications you receive dramatically decreases. Why? Simply because more recent jobs have been posted on Indeed, and yours has been pushed to the third or fourth page of the jobs listing.
@@ -31,7 +31,7 @@ The second feature that we released during the past few weeks are restricted no
 
 #### And last but not least... GDPR!
 
-![HierHive GDPR](/images/gdpr.png)
+![hierhive gdpr](/images/gdpr.png)
 
 I feel like we talk about GDPR every single day...and it's not going to stop soon. At HireHive, it has been one of our main focuses during the past few months and we keep working on it as May 25th isn’t that far away anymore.
 

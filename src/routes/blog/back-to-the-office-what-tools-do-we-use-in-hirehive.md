@@ -1,13 +1,13 @@
 ---
-title: "Back to the office: What tools do we use in HireHive?"
-date: "2018-09-13"
+title: 'Back to the office: What tools do we use in HireHive?'
+date: '2018-09-13'
 categories:
-  - "hirehive-updates"
-slug: "back-to-the-office-what-tools-do-we-use-in-hirehive"
-seoTitle: ""
+  - 'hirehive-updates'
+slug: 'back-to-the-office-what-tools-do-we-use-in-hirehive'
+seoTitle: ''
 seoDescription: "It's time to go back to the office after the summer - it's the perfect time for us to share the tools we use every day here at HireHive with you!"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/toolpost.jpg"
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/toolpost.jpg'
 ---
 
 As it is now time to get back to work after the summer, we've decided to share with you a few tool recommendations. Here are the tools that we love to use in HireHive, and most of them are part of our daily routine in the office. Some of them are very popular tools, while others definitely deserve more popularity. We hope that our list will inspire you to use some of these tools. Let's get started!
@@ -18,7 +18,7 @@ As it is now time to get back to work after the summer, we've decided to share w
 
 The challenge we had here at HireHive was that we had a LOT of content on our blog, from years of building our content with different writers. But nobody was really seeing our content, because sharing it in different time zones manually is basically impossible. MeetEdgar has changed the way we handle our social media postings, and the views on our posts have increased dramatically since we’ve changed the way we are handling them.
 
-[![Mailchimp](/images/Mailchimp.jpg)](https://mailchimp.com/)
+[![mailchimp](/images/mailchimp.jpg)](https://mailchimp.com/)
 
 Yes, we have a blog, but we also have a newsletter, that we craft and send to our wonderful fans every month. [MailChimp](https://mailchimp.com/) is the tool we use to do this. We have created a custom template for the HireHive newsletter in Mailchimp that we customise every month to share our freshest blog posts with our readers and our customers.
 
@@ -36,9 +36,9 @@ Some of our team is working remotely, or sometimes working from home - which mea
 
 [![canva-logo-1](/images/canva-logo-1.jpg)](https://www.canva.com/)
 
-You've probably heard of this one already, but I couldn't help mentioning it because I’m in love with [Canva](https://www.canva.com/). Being in charge of social media, I know that certain platforms call for different formats, and being able to create /images/ for our social channels is super important. The problem is, I have very little knowledge of graphic design. That’s why Canva is so magical in my opinion: it’s such a simple tool to use, but it really allows you to make beautiful designs in no time. I use it mainly to create visuals for our Instagram account, where we share some recruiting inspiration and recruiting quotes weekly. If you have never used it, please go check it out now! I’m sure it will change your life. Oh, and go [follow us on Instagram](https://www.instagram.com/HireHive-Team/) too :)
+You've probably heard of this one already, but I couldn't help mentioning it because I’m in love with [Canva](https://www.canva.com/). Being in charge of social media, I know that certain platforms call for different formats, and being able to create images for our social channels is super important. The problem is, I have very little knowledge of graphic design. That’s why Canva is so magical in my opinion: it’s such a simple tool to use, but it really allows you to make beautiful designs in no time. I use it mainly to create visuals for our Instagram account, where we share some recruiting inspiration and recruiting quotes weekly. If you have never used it, please go check it out now! I’m sure it will change your life. Oh, and go [follow us on Instagram](https://www.instagram.com/hirehiveteam/) too :)
 
-[![Calendly](/images/Calendly.jpg)](https://calendly.com/)
+[![calendly](/images/calendly.jpg)](https://calendly.com/)
 
 [Calendly](https://calendly.com/) is the tool we use here to schedule our calls and demos with our leads and clients. As we are working with people living in different countries (and even different continents!) organising demos and calls through different time zones can be a bit tricky. You are never fully sure of the time zone the person you’re talking to lives in, and figuring out what it corresponds to in your own time can easily cause headaches. That’s a problem Calendly is solving for us, and it really helps us save time. It's super easy to set up, you just have to share a link and then wait for people to book calls and demos with you!
 

@@ -1,13 +1,13 @@
 ---
-title: "How to hire quickly in January"
-date: "2018-01-08"
+title: 'How to hire quickly in January'
+date: '2018-01-08'
 categories:
-  - "recruiting-strategy"
-slug: "how-to-hire-quickly-in-january"
-seoTitle: "How to hire quickly in January | HireHive Recruiting Tips"
-seoDescription: "So you need to hire quickly in January? Here are some tips on what you need to know to find some new talent in the new year."
-author: "Orla-Hodnett"
-coverImage: "/images/uros-jovicic-322314.jpg"
+  - 'recruiting-strategy'
+slug: 'how-to-hire-quickly-in-january'
+seoTitle: 'How to hire quickly in January | HireHive Recruiting Tips'
+seoDescription: 'So you need to hire quickly in January? Here are some tips on what you need to know to find some new talent in the new year.'
+author: 'Orla-Hodnett'
+coverImage: '/images/uros-jovicic-322314.jpg'
 ---
 
 _So you need to make some hires quickly this January? Here’s what you need to know to find some new talent in the new year._

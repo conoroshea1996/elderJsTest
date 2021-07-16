@@ -1,13 +1,13 @@
 ---
-title: "How to pitch to passive candidates"
-date: "2016-05-16"
+title: 'How to pitch to passive candidates'
+date: '2016-05-16'
 categories:
-  - "recruiting-strategy"
-slug: "sourcing-passive-candidates"
-seoTitle: "Passive candidates: How to pitch to them | HireHive ATS"
+  - 'recruiting-strategy'
+slug: 'sourcing-passive-candidates'
+seoTitle: 'Passive candidates: How to pitch to them | HireHive ATS'
 seoDescription: "We always want what we can't have. The best candidates seem unreachable, already settled in jobs. Here is how to pitch to passive candidates!"
-author: "Orla-Hodnett"
-coverImage: "/images/shutterstock_264369653-1.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/shutterstock_264369653-1.jpg'
 ---
 
 We always want what we can't have. Passive candidates are no different. The best candidates seem unreachable, already settled in jobs. So it takes a strong pitch and serious convincing to get someone to change. Already, the odds are stacked against you, with [¾ of potential qualified candidates](https://business.linkedin.com/talent-solutions/blog/2015/06/10-ideas-for-effectively-recruiting-passive-candidates) not even considering a change.

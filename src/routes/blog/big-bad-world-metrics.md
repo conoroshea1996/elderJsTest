@@ -1,13 +1,13 @@
 ---
-title: "How to handle the big, bad world of metrics"
-date: "2016-05-10"
+title: 'How to handle the big, bad world of metrics'
+date: '2016-05-10'
 categories:
-  - "compliance-and-data"
-slug: "big-bad-world-metrics"
-seoTitle: "How to handle the big, bad world of metrics and data"
-seoDescription: "Big data is a big deal and there’s no denying the impressive insight that metrics can offer on numerous topics. But how do you handle all that data?"
-author: "Orla-Hodnett"
-coverImage: "/images/bigdara.jpg"
+  - 'compliance-and-data'
+slug: 'big-bad-world-metrics'
+seoTitle: 'How to handle the big, bad world of metrics and data'
+seoDescription: 'Big data is a big deal and there’s no denying the impressive insight that metrics can offer on numerous topics. But how do you handle all that data?'
+author: 'Orla-Hodnett'
+coverImage: '/images/bigdara.jpg'
 ---
 
 _Big data is one of the greatest resources available to us and its uses in recruiting are innumerable. Rather than getting overwhelmed, work out how you’re going to use this tool. Here are a few things to keep in mind about recruitment metrics._

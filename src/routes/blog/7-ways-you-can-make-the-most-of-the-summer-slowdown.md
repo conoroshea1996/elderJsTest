@@ -1,19 +1,19 @@
 ---
-title: "7 ways you can make the most of the summer slowdown"
-date: "2017-07-07"
+title: '7 ways you can make the most of the summer slowdown'
+date: '2017-07-07'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "ats"
-  - "hiring"
-  - "recruiting"
-  - "recruiting-software"
-  - "summer-slowdown"
-slug: "7-ways-you-can-make-the-most-of-the-summer-slowdown"
-seoTitle: "7 ways you can make the most of the summer slowdown"
-seoDescription: "Have you hit the mid summer slowdown? Yes, us too. Find 7 ways you can make the most of the summer slowdown and get back on track!"
-author: "Orla-Hodnett"
-coverImage: "/images/summer-slowdown.jpg"
+  - 'ats'
+  - 'hiring'
+  - 'recruiting'
+  - 'recruiting-software'
+  - 'summer-slowdown'
+slug: '7-ways-you-can-make-the-most-of-the-summer-slowdown'
+seoTitle: '7 ways you can make the most of the summer slowdown'
+seoDescription: 'Have you hit the mid summer slowdown? Yes, us too. Find 7 ways you can make the most of the summer slowdown and get back on track!'
+author: 'Orla-Hodnett'
+coverImage: '/images/summer-slowdown.jpg'
 ---
 
 The temptation to down tools is real. The sun is shining, coffee shops are selling iced lattes and your inbox is empty. Though the summer slowdown has settled in, it is worth your while doing a little prep work to make the return to full hiring much easier. Recruiting software, planning and strategising may be the only ways to make the most of the summer slowdown.

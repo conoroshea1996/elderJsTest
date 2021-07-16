@@ -1,13 +1,13 @@
 ---
-title: "Hiring a diverse workforce"
-date: "2017-02-09"
+title: 'Hiring a diverse workforce'
+date: '2017-02-09'
 categories:
-  - "compliance-and-data"
-slug: "hiring-diverse-workforce"
-seoTitle: "Hiring a diverse workforce"
-seoDescription: "The benefits of a diverse workforce are too many to number. It improves collaboration and problem solving. It helps you to better understand customers."
-author: "Orla-Hodnett"
-coverImage: "/images/diversity.jpg"
+  - 'compliance-and-data'
+slug: 'hiring-diverse-workforce'
+seoTitle: 'Hiring a diverse workforce'
+seoDescription: 'The benefits of a diverse workforce are too many to number. It improves collaboration and problem solving. It helps you to better understand customers.'
+author: 'Orla-Hodnett'
+coverImage: '/images/diversity.jpg'
 ---
 
 The benefits of workplace diversity are numerous. It improves collaboration and problem solving, helps you to understand customers and their needs, makes your organisation appeal to candidates and innovation in a diverse organisation is much greater. Best of all, you can improve diversity through good strategy and with the help of recruiting software.

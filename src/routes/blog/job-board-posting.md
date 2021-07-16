@@ -1,13 +1,13 @@
 ---
-title: "Job Board Posting with HireHive"
-date: "2018-01-09"
+title: 'Job Board Posting with HireHive'
+date: '2018-01-09'
 categories:
-  - "hirehive-updates"
-slug: "job-board-posting"
-seoTitle: "Job board posting with HireHive Recruiting Software"
-seoDescription: "Job board posting with HireHive. Almost all job boards offer application processes allowing you to fully track applications within your recruiting software."
-author: "Siobhan-Hasner"
-coverImage: "/images/note-2527442_960_720.jpg"
+  - 'hirehive-updates'
+slug: 'job-board-posting'
+seoTitle: 'Job board posting with HireHive Recruiting Software'
+seoDescription: 'Job board posting with HireHive. Almost all job boards offer application processes allowing you to fully track applications within your recruiting software.'
+author: 'Siobhan-Hasner'
+coverImage: '/images/note-2527442_960_720.jpg'
 ---
 
 Job boards are plentiful - there seems to be one for every industry, every job type and of course, every location. They often get a bad rap but with 200 million people visiting job boards like Indeed.com each month\*, job board posting certainly has its place in recruitment.
@@ -30,7 +30,7 @@ You will still benefit from the job boards reach but capturing applications in H
 
 Examples of job boards that have a URL/link application option:
 
-![job boards](/images/Capture.jpg)
+![job boards](/images/capture.jpg)
 
 - [Reed.co.uk](https://www.reed.co.uk/)
 - [Github Jobs](https://jobs.github.com/)

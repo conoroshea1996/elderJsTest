@@ -1,15 +1,15 @@
 ---
-title: "Creative job descriptions get more candidates"
-date: "2015-09-17"
+title: 'Creative job descriptions get more candidates'
+date: '2015-09-17'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "job-posting-software"
-slug: "creative-job-descriptions-get-more-candidates"
-seoTitle: "Creative job descriptions get more candidates | Job posting software"
-seoDescription: "Creative job descriptions can go a long way to make your company become an employer of choice. Here are a few tips on how to create a compelling one."
-author: "HireHive-Team"
-coverImage: "/images/Wizard.jpg"
+  - 'job-posting-software'
+slug: 'creative-job-descriptions-get-more-candidates'
+seoTitle: 'Creative job descriptions get more candidates | Job posting software'
+seoDescription: 'Creative job descriptions can go a long way to make your company become an employer of choice. Here are a few tips on how to create a compelling one.'
+author: 'HireHive-Team'
+coverImage: '/images/Wizard.jpg'
 ---
 
 In a world where highly skilled workers are in demand, making your company stand out among the crowd can dramatically increase the number of job views, social media shares and ultimately applicants.

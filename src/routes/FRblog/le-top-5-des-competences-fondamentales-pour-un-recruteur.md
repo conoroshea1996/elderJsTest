@@ -1,13 +1,13 @@
 ---
-title: "Le top 5 des compétences fondamentales pour un recruteur"
-date: "2017-07-25"
+title: 'Le top 5 des compétences fondamentales pour un recruteur'
+date: '2017-07-25'
 categories:
-  - "strategies-de-recrutement"
-slug: "le-top-5-des-competences-fondamentales-pour-un-recruteur"
-seoTitle: ""
-seoDescription: ""
-author: "Maëlle-De-Francesco"
-coverImage: "/fr/images/pexels-photo-262438-623x416.jpeg"
+  - 'strategies-de-recrutement'
+slug: 'le-top-5-des-competences-fondamentales-pour-un-recruteur'
+seoTitle: ''
+seoDescription: ''
+author: 'Maëlle-De-Francesco'
+coverImage: '/fr/images/pexels-photo-262438-623x416.jpeg'
 ---
 
 #### Souhaitez-vous devenir recruteur ? Ou vous demandez-vous simplement si vous avez ce qu’il faut pour le devenir ?
@@ -20,7 +20,7 @@ Et pour trouver ces supers employés, les recruteurs sont également responsable
 
 La capacité d’écoute est essentielle pour tout bon recruteur. Plus vous écoutez les autres membres de votre équipe ou les clients à propos des exigences du poste, meilleures seront vos descriptions de poste et vos stratégies de sourcing. Plus vous écoutez les candidats, plus vous saurez si le poste est fait pour eux. Écouter dès le départ vous assurera que le candidat sélectionné et l’entreprise auront des affinités. Et écouter avec attention vous permet de construire des relations plus fortes lors des étapes de screening et d’entretiens. Personne ne veut entendre quelqu’un décrire inlassablement à quel point une entreprise est géniale, donc faites en sorte que ce soit le candidat qui parle davantage.
 
-![gif-2](/fr/images/gif-2.gif)
+<img src="/fr/images/gif-2.gif" alt="gif-2"/>
 
 #### **Garder votre cible en tête (être tenace)**
 
@@ -28,7 +28,7 @@ Le recrutement ressemble beaucoup à la vente, ce qui signifie que vous devez ê
 
 Lorsque vous sourcez des candidats, soyez acharné. Pensez à tous les différents outils que vous pouvez utiliser. Bien sûr, LinkedIn a son importance, mais qu’en est-il des autres réseaux sociaux ? Et du démarchage téléphonique ? Des recherches booléennes ? Des cooptations ? Des anciens candidats ? Etre persévérant dans ces différents domaines vous aidera à trouver de bons candidats et à atteindre vos objectifs.
 
-![gif-3](/fr/images/gif-3.gif)
+<img src="/fr/images/gif-3.gif" alt="gif-3"/>
 
 #### **Capacité de communication**
 
@@ -36,7 +36,7 @@ Un recruteur doit être un communicant complet. Vous devez bien communiquer avec
 
 Communiquer de façon appropriée avec les candidats signifie également traiter les candidats rejetés et les candidats sélectionnés avec le même respect. Alors que les candidats sélectionnés reçoivent un appel ou un mail de félicitations, souvent les candidats non retenus ne reçoivent même pas un mail les informant que leur candidature n’a pas été retenue. Pour s’assurer d’avoir une relation positive avec tous les candidats, donnez aux candidats non retenus un feedback qui les aidera à s’améliorer. Il y a de grandes chances que ces candidats apprécient de recevoir un feedback et parlent ensuite de votre entreprise en positif.
 
-![how-i-1](/fr/images/how-i-1.gif)
+<img src="/fr/images/how-i-1.gif" alt="how-i-1"/>
 
 #### **Patience**
 
@@ -46,7 +46,7 @@ Effectuer un recrutement, c’est avoir une vision sur le long terme; beaucoup c
 
 Oui, vous avez des échéances à respecter et des objectifs à atteindre, mais il est beaucoup plus contre-productif d’embaucher quelqu’un qui ne correspond qu’à moitié à l’offre d’emploi, plutôt que d’attendre un peu plus pour trouver le bon candidat. Les managers apprécieront votre patience sur le long terme.
 
-![gif-5](/fr/images/gif-5.gif)
+<img src="/fr/images/gif-5.gif" alt="gif-5"/>
 
 #### **Compétences informatiques**
 
@@ -54,6 +54,6 @@ Avec la technologie moderne qui facilite les besoins quotidiens des recruteurs, 
 
 En utilisant un ATS tel que HireHive, il est facile de savoir quelles plateformes génèrent le meilleur retour sur investissement. HireHive vous permet de générer un certain nombre de rapports statistiques qui vous aident pour vos prochains recrutements. Les décisions basées sur des données sont en train de devenir de plus en plus importantes car elles améliorent votre processus de recrutement général et vous aident à justifier vos décisions auprès de vos supérieurs.
 
-![gif-6](/fr/images/gif-6.gif)
+<img src="/fr/images/gif-6.gif" alt="gif-6"/>
 
 _Pour lire l’article original (en anglais), [cliquez ici](https://hirehive.com/blog/top-5-recruiter-skills/)_

@@ -1,13 +1,13 @@
 ---
-title: "Customer Story: Ben and Katie from Dataspace"
-date: "2019-09-17"
+title: 'Customer Story: Ben and Katie from Dataspace'
+date: '2019-09-17'
 categories:
-  - "hirehive-updates"
-slug: "customer-story-ben-and-katie-from-dataspace"
-seoTitle: ""
-seoDescription: "Ben and Katie from Dataspace share with us their experience of HireHive. Learn more about how HireHive helped them grow & why they love the software."
-author: "John-Dennehy"
-coverImage: "/images/Ben-4.jpg"
+  - 'hirehive-updates'
+slug: 'customer-story-ben-and-katie-from-dataspace'
+seoTitle: ''
+seoDescription: 'Ben and Katie from Dataspace share with us their experience of HireHive. Learn more about how HireHive helped them grow & why they love the software.'
+author: 'johnd'
+coverImage: '/images/Ben-4.jpg'
 ---
 
 We’re always interested in listening to how HireHive customers use our product. Recently, we caught up Benjamin Taub, CEO; and Katie Mcgill, recruiter, at [Dataspace](http://dataspace.com) to learn from their experience. Here is what they said about HireHive:

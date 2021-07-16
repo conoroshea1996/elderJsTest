@@ -26,7 +26,7 @@ Ces nouvelles fonctions recouvrent trois aspects clés des données de recruteme
 
 **Suppression des données** : supprimez automatiquement les données lorsqu’elles ne vous sont plus nécessaires
 
-![gdpr](/fr/images/gdpr.jpg)
+![gdpr](/fr/images/GDPR.jpg)
 
 Vous trouverez un article détaillé sur chacune de ces nouvelles fonctionnalités [ici](https://hirehive.com/support/data-and-support/gdpr-features-hirehive/).
 

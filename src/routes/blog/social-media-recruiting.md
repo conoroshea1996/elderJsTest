@@ -1,15 +1,15 @@
 ---
-title: "Social media recruiting: Are you missing out on discovering the Adele of your industry?"
-date: "2016-08-08"
+title: 'Social media recruiting: Are you missing out on discovering the Adele of your industry?'
+date: '2016-08-08'
 categories:
-  - "social-recruiting"
+  - 'social-recruiting'
 tags:
-  - "social-media-recruiting"
-slug: "social-media-recruiting"
-seoTitle: "Social media recruiting | Missing out on the Adele of your industry?"
-seoDescription: "Social media recruiting should be of top priority when it comes to finding potential candidates. We look at tips on improving your social media strategy."
-author: "Chelsea-O-Connor"
-coverImage: "/images/Adele-and-Social-recruiting-software.jpg"
+  - 'social-media-recruiting'
+slug: 'social-media-recruiting'
+seoTitle: 'Social media recruiting | Missing out on the Adele of your industry?'
+seoDescription: 'Social media recruiting should be of top priority when it comes to finding potential candidates. We look at tips on improving your social media strategy.'
+author: 'Chelsea-O-Connor'
+coverImage: '/images/Adele-and-Social-recruiting-software.jpg'
 ---
 
 It is critical that recruiters adopt social media recruiting.
@@ -22,7 +22,7 @@ If you are putting in a lot of effort, but not seeing the desired results, then 
 
 Adele was discovered through social media. If not for these channels, she might not have reached such a wide audience so quickly. Obviously, her talent would have shined through in the end, but it might have taken longer for her to become a star. So are you missing out on discovering the [Adele](https://www.youtube.com/watch?v=fNS3ryzMd_g) of your industry?
 
-![Linkedin and Social recruiting software](/images/Linkedin-Logo-e1470654219576.png "Linkedin and Social recruiting software")
+![linkedin and social recruiting software](/images/linkedin-logo-e1470654219576.png)
 
 #### **LinkedIn**
 
@@ -30,9 +30,9 @@ It's no surprise that LinkedIn is the most used platform in [social media job 
 
 This allows you to search beyond the usual job title and company names and search for talent based on their demographic, school and nonprofit interests. After your initial list, look a little deeper. Look for other potential candidates by viewing the “people also viewed” bar on candidates pages. This allows you to find candidates which you may not have considered initially.
 
-This is part of our [Social Recruiting](http://hirehive.io/social-recruiting/ "Social Media ") series
+This is part of our [Social Recruiting](http://hirehive.io/social-recruiting/ 'Social Media ') series
 
-![Twitter and Social recruiting software](/images/Twitter.png "Twitter and Social recruiting software")
+![twitter and social recruiting software](/images/twitter.png)
 
 #### **Twitter**
 
@@ -43,9 +43,9 @@ A company must create a reason for candidates to follow and engage with your com
 - Making top jobs apparent
 - Sharing interesting facts about the company
 - Tweeting interesting and engaging content
-- Sharing /images/ to increase passive candidates interest
+- Sharing images to increase passive candidates interest
 
-![instagram and Social recruiting software](/images/instagram-e1470654313273.jpeg "Instagram and Social recruiting software")
+![instagram and social recruiting software](/images/instagram-e1470654313273.jpeg)
 
 #### **Instagram**
 
@@ -55,7 +55,7 @@ It takes a lot of effort and time to stand out from the crowd, as well as a lot 
 
 Use unique and related hashtags to reach a wider pool of candidates, research the top hashtags being used in your industry and most importantly what other companies are using to reach candidates.
 
-![Snapchat and Social recruiting software](/images/Snapchat_Logo-e1470654503986.png "Snapchat and Social recruiting software")
+![snapchat and social recruiting software](/images/snapchat_logo-e1470654503986.png)
 
 #### **Snapchat**
 

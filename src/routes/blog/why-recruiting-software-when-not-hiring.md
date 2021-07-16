@@ -1,13 +1,13 @@
 ---
 title: "Why you need recruiting software when you're not hiring"
-date: "2017-03-24"
+date: '2017-03-24'
 categories:
-  - "choosing-an-ats"
-slug: "why-recruiting-software-when-not-hiring"
+  - 'choosing-an-ats'
+slug: 'why-recruiting-software-when-not-hiring'
 seoTitle: "Why you need recruiting software when you're not hiring"
 seoDescription: "Think you don't need recruiting software because you're not hiring? Wrong! Find out why you always need recruiting software in this article"
-author: "Orla-Hodnett"
-coverImage: "/images/alone.png"
+author: 'Orla-Hodnett'
+coverImage: '/images/alone.png'
 ---
 
 We all know how recruiting software works, right? It takes care of applications and job ads for you. If you have to hire candidates immediately, you can generate application forms and resources for interviewing. Great!

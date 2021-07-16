@@ -1,13 +1,13 @@
 ---
-title: "Employee engagement pays"
-date: "2015-11-23"
+title: 'Employee engagement pays'
+date: '2015-11-23'
 categories:
-  - "culture-branding"
-slug: "recruiting-employee-engagement-pays"
-seoTitle: "Employee engagement pays | Social recruiting software"
-seoDescription: "Are your employees asleep at the wheel? Employee Engagement is costing your company more than you might think. We find out how to remedy this."
-author: "Pamela-Weaver"
-coverImage: "/images/cats.jpg"
+  - 'culture-branding'
+slug: 'recruiting-employee-engagement-pays'
+seoTitle: 'Employee engagement pays | Social recruiting software'
+seoDescription: 'Are your employees asleep at the wheel? Employee Engagement is costing your company more than you might think. We find out how to remedy this.'
+author: 'Pamela-Weaver'
+coverImage: '/images/cats.jpg'
 ---
 
 Less than a third of Americans were engaged in their jobs last year.\* Almost one-in-five were ‘actively disengaged’. Add it up and there's a lot of people bored, distracted and fed up employees. According to Gallup, employee engagement is a $550bn problem in the U.S. alone.

@@ -70,6 +70,10 @@
     content: none !important;
   }
 
+  picture img {
+    @apply w-full;
+  }
+
   @tailwind utilities;
 
   @layer components {

@@ -1,25 +1,25 @@
 ---
-title: "HireHive versus the competition"
-date: "2018-01-02"
+title: 'HireHive versus the competition'
+date: '2018-01-02'
 categories:
-  - "choosing-an-ats"
+  - 'choosing-an-ats'
 tags:
-  - "applicant-tracking-software"
-  - "ats"
-  - "ats-comparison"
-  - "candidate-tracking"
-  - "competition"
-  - "hirehive"
-  - "hiring"
-  - "hiring-software-pricing"
-  - "human-resource-management"
-  - "online-recruitment-software"
-  - "recruiting"
-slug: "hirehive-versus-the-competition"
-seoTitle: ""
-seoDescription: "HireHive is a simple recruiting software tool that could make a huge difference to your recruiting efforts. What sets it apart from the competition?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-260024.jpeg"
+  - 'applicant-tracking-software'
+  - 'ats'
+  - 'ats-comparison'
+  - 'candidate-tracking'
+  - 'competition'
+  - 'hirehive'
+  - 'hiring'
+  - 'hiring-software-pricing'
+  - 'human-resource-management'
+  - 'online-recruitment-software'
+  - 'recruiting'
+slug: 'hirehive-versus-the-competition'
+seoTitle: ''
+seoDescription: 'HireHive is a simple recruiting software tool that could make a huge difference to your recruiting efforts. What sets it apart from the competition?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-260024.jpeg'
 ---
 
 _HireHive is a simple, comprehensive recruiting software tool that could make a huge difference to your recruiting efforts. What sets HireHive apart from the competition?_

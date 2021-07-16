@@ -1,15 +1,15 @@
 ---
-title: "To grow your team, you must grow your recruiting team"
-date: "2016-08-03"
+title: 'To grow your team, you must grow your recruiting team'
+date: '2016-08-03'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruiting-system"
-slug: "grow-recruiting-team"
-seoTitle: "Grow your recruiting team | Recruiting system"
-seoDescription: "Online recruiting system helps you grow your team. Here are some more recruiting tips to help you hire great talent for your organisation."
-author: "Orla-Hodnett"
-coverImage: "/images/Online-Recruiting-System-Strategy.jpg"
+  - 'recruiting-system'
+slug: 'grow-recruiting-team'
+seoTitle: 'Grow your recruiting team | Recruiting system'
+seoDescription: 'Online recruiting system helps you grow your team. Here are some more recruiting tips to help you hire great talent for your organisation.'
+author: 'Orla-Hodnett'
+coverImage: '/images/Online-Recruiting-System-Strategy.jpg'
 ---
 
 Keeping growth of your recruitment team up with the rate of growth of the rest of the organisation can pose a challenge. Growth is dependent on sufficient staffing, but first you have to hire a recruiting team. Recruiting should ideally be integrated with every department in your organisation. Recruiting and general operations are co-dependent. Keeping recruiting up with growth can be achieved by some planning and organisation.

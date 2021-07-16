@@ -1,13 +1,13 @@
 ---
-title: "A Recruiter’s Guide to Candidate Prescreening"
-date: "2020-08-12"
+title: 'A Recruiter’s Guide to Candidate Prescreening'
+date: '2020-08-12'
 categories:
-  - "how-to"
-slug: "a-recruiters-guide-to-candidate-prescreening"
-seoTitle: "Candidate Prescreening - A Recruiter’s Guide | HireHive"
-seoDescription: "As a recruiter, what do you need to know about the prescreening process to be a full hiring partner for your clients and what pre-screening interview questions should you be asking? Let’s take a closer look."
-author: "HireHive-Team"
-coverImage: "/images/photo-1498230870289-7561110a6e69.jpg"
+  - 'how-to'
+slug: 'a-recruiters-guide-to-candidate-prescreening'
+seoTitle: 'Candidate Prescreening - A Recruiter’s Guide | HireHive'
+seoDescription: 'As a recruiter, what do you need to know about the prescreening process to be a full hiring partner for your clients and what pre-screening interview questions should you be asking? Let’s take a closer look.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1498230870289-7561110a6e69.jpg'
 ---
 
 ### What is candidate prescreening?

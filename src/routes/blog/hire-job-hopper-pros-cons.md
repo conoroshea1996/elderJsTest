@@ -1,13 +1,13 @@
 ---
-title: "Should you hire a job hopper & the pros and cons"
-date: "2017-09-04"
+title: 'Should you hire a job hopper & the pros and cons'
+date: '2017-09-04'
 categories:
-  - "recruiting-strategy"
-slug: "hire-job-hopper-pros-cons"
-seoTitle: "Job Hopping Pros & Cons | Should you hire a job hopper? | HireHive"
-seoDescription: "Do you like seeing a candidate with a large breadth of experience or does job hopping completely turn you off? In this post we evaluate the pros and cons of job hopppers."
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-372166.jpeg"
+  - 'recruiting-strategy'
+slug: 'hire-job-hopper-pros-cons'
+seoTitle: 'Job Hopping Pros & Cons | Should you hire a job hopper? | HireHive'
+seoDescription: 'Do you like seeing a candidate with a large breadth of experience or does job hopping completely turn you off? In this post we evaluate the pros and cons of job hopppers.'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-372166.jpeg'
 ---
 
 _Until a few years back, job hopping was thoroughly frowned upon._

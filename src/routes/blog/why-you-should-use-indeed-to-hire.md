@@ -1,13 +1,13 @@
 ---
-title: "Why you should use Indeed to hire"
-date: "2017-04-06"
+title: 'Why you should use Indeed to hire'
+date: '2017-04-06'
 categories:
-  - "social-recruiting"
-slug: "why-you-should-use-indeed-to-hire"
-seoTitle: "Indeed - why you should use it to hire today by HireHive"
-seoDescription: "Did You Know That 200 million People Visit Indeed Every Month? This Powerful Job Board Could Be Key To Your Next Successful Hire. Find Out Why:"
-author: "Rachel-Hill"
-coverImage: "/images/shutterstock_132759020-e1481262798579.jpg"
+  - 'social-recruiting'
+slug: 'why-you-should-use-indeed-to-hire'
+seoTitle: 'Indeed - why you should use it to hire today by HireHive'
+seoDescription: 'Did You Know That 200 million People Visit Indeed Every Month? This Powerful Job Board Could Be Key To Your Next Successful Hire. Find Out Why:'
+author: 'Rachel-Hill'
+coverImage: '/images/shutterstock_132759020-e1481262798579.jpg'
 ---
 
 Indeed has undoubtedly become the go-to-point for many employers and recruiters, as well as many job seekers. ‘Many’ is an understatement, with [200 million](https://ie.indeed.com/hire) people visiting the site every month. So what does Indeed offer that so many other job boards don’t and why should you be using it? Read on to find out!

@@ -1,13 +1,13 @@
 ---
-title: "5 free tool recommendations for a small recruiting team"
-date: "2018-03-23"
+title: '5 free tool recommendations for a small recruiting team'
+date: '2018-03-23'
 categories:
-  - "recruiting-strategy"
-slug: "free-tools-for-small-recruiting-teams"
-seoTitle: "Free tools for small recruiting teams | HireHive ATS"
-seoDescription: "Small HR teams manage numerous tasks at once, so they need all the support they can get. Here is a list of 5 free tools for small recruiting teams."
-author: "Orla-Hodnett"
-coverImage: "/images/keys-workshop-mechanic-tools-162553.jpeg"
+  - 'recruiting-strategy'
+slug: 'free-tools-for-small-recruiting-teams'
+seoTitle: 'Free tools for small recruiting teams | HireHive ATS'
+seoDescription: 'Small HR teams manage numerous tasks at once, so they need all the support they can get. Here is a list of 5 free tools for small recruiting teams.'
+author: 'Orla-Hodnett'
+coverImage: '/images/keys-workshop-mechanic-tools-162553.jpeg'
 ---
 
 _Recruiting software should be the first tool in any recruiter’s arsenal, but what other tools can help you make effective hires?_

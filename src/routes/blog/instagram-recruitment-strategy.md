@@ -1,13 +1,13 @@
 ---
-title: "How to use Instagram as part of your recruitment strategy"
-date: "2017-02-28"
+title: 'How to use Instagram as part of your recruitment strategy'
+date: '2017-02-28'
 categories:
-  - "social-recruiting"
-slug: "instagram-recruitment-strategy"
-seoTitle: "Instagram Recruiting | Using Instagram for your Recruiting strategy | HireHive"
-seoDescription: "Using Instagram for recruitment may seem like an odd fit, but there has been a big increase in the number of businesses using Instagram for just that. We explore how to use Instagram for your recruitment strategy."
-author: "Rachel-Hill"
-coverImage: "/images/instaa.jpg"
+  - 'social-recruiting'
+slug: 'instagram-recruitment-strategy'
+seoTitle: 'Instagram Recruiting | Using Instagram for your Recruiting strategy | HireHive'
+seoDescription: 'Using Instagram for recruitment may seem like an odd fit, but there has been a big increase in the number of businesses using Instagram for just that. We explore how to use Instagram for your recruitment strategy.'
+author: 'Rachel-Hill'
+coverImage: '/images/instaa.jpg'
 ---
 
 While businesses and recruiters commonly use [Facebook](https://www.facebook.com/), [Twitter](https://twitter.com/?lang=en) and [LinkedIn](https://www.linkedin.com/) to promote vacancies, you could be missing out on great candidates by not utilising the power of Instagram. Believe it or not, Instagram’s visual appeal could help you attract both passive and active candidates and help with your employer branding.
@@ -28,7 +28,7 @@ You’re probably wondering why you need to do any of this when you just want to
 
 An example of a business who shows off their company culture in a great way is the [Happy Pear](https://thehappypear.ie/). The food business based in Greystones have built up a fantastic presence on Instagram showing pictures of Sunday swims, delicious food and the scenery of their local area. Their attractive company culture no doubt helps with their recruitment needs!
 
-![Instagram ](/images/The-Happy-Pear.png)
+![instagram ](/images/the-happy-pear.png)
 
 ## **Decide on what hashtags to use**
 
@@ -40,7 +40,7 @@ If you decide to actively search for candidates, you must think of what hashtags
 
 One company that uses great recruitment hashtags is [Cisco](http://www.cisco.com/). Their multiple hashtags target both active and passive candidates, as well as incorporating their brand beliefs and location. With the option to add as many hashtags as you like, make use of them!
 
-![Instagram](/images/Cisco.png)
+![instagram](/images/cisco.png)
 
 ## **Getting employees involved on Instagram**
 

@@ -1,16 +1,16 @@
 ---
-title: "Hiring for the long road: Getting the fit right from day one"
-date: "2016-06-07"
+title: 'Hiring for the long road: Getting the fit right from day one'
+date: '2016-06-07'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "online-recruitment-software"
-  - "recruiting-strategy"
-slug: "getting-the-fit-right-from-day-one"
-seoTitle: "Getting the fit right from day one | Online recruitment software"
-seoDescription: "Companies with a good hiring culture understand that it’s always “an employee’s market” – and go out of their way to attract and retain the best candidates."
-author: "Pamela-Weaver"
-coverImage: "/images/Soyuz.jpg"
+  - 'online-recruitment-software'
+  - 'recruiting-strategy'
+slug: 'getting-the-fit-right-from-day-one'
+seoTitle: 'Getting the fit right from day one | Online recruitment software'
+seoDescription: 'Companies with a good hiring culture understand that it’s always “an employee’s market” – and go out of their way to attract and retain the best candidates.'
+author: 'Pamela-Weaver'
+coverImage: '/images/Soyuz.jpg'
 ---
 
 While some hiring managers are clinging to the belief that “The Skills Shortage” is to blame for their challenges, companies with a good hiring culture understand that it’s always “an employee’s market” – and go out of their way to attract and retain the best candidates.

@@ -1,18 +1,18 @@
 ---
-title: "Benefits of Facebook job posting in your recruiting process"
-date: "2017-02-22"
+title: 'Benefits of Facebook job posting in your recruiting process'
+date: '2017-02-22'
 categories:
-  - "social-recruiting"
-slug: "benefits-facebook-job-posting"
-seoTitle: "Benefits of Facebook job posting for recruiting | HireHive"
-seoDescription: "Read about the benefits of using Facebook job posting in your recruiting process. Spoiler alert: there may be one glitch!"
-author: "Rachel-Hill"
-coverImage: "/images/candidates.jpg"
+  - 'social-recruiting'
+slug: 'benefits-facebook-job-posting'
+seoTitle: 'Benefits of Facebook job posting for recruiting | HireHive'
+seoDescription: 'Read about the benefits of using Facebook job posting in your recruiting process. Spoiler alert: there may be one glitch!'
+author: 'Rachel-Hill'
+coverImage: '/images/candidates.jpg'
 ---
 
 This feature is available to US and Canadian businesses in the next few weeks and is expected to be released in other countries too. So how can Facebook, who has dominated in the social networking space compete with the likes of LinkedIn and other job dedicated sites? More importantly, how can Facebook job posting help your recruiting process?
 
-[![Facebook job posting](/images/facebook-2.png)](https://www.facebook.com/)
+[![facebook job posting](/images/facebook-2.png)](https://www.facebook.com/)
 
 ## **1\. A simple** experience
 
@@ -26,7 +26,7 @@ It is no secret that Facebook attracts a large number of users every day - [1.86
 
 Not only can Facebook help you reach a wider audience, it can also target those who are already fans of your brand. If someone likes your company page, your job listings will appear on their news feed. So by using Facebook's new feature, you are attracting candidates who already have greater brand loyalty towards you than cold candidates.
 
-[![Facebook job posting](/images/facebook.png)](https://www.facebook.com/)
+[![facebook job posting](/images/facebook.png)](https://www.facebook.com/)
 
 ## **3.** Facebook **job posting is free...for now**
 

@@ -1,13 +1,13 @@
 ---
-title: "What to include in a job ad"
-date: "2018-03-16"
+title: 'What to include in a job ad'
+date: '2018-03-16'
 categories:
-  - "recruiting-strategy"
-slug: "what-to-include-job-ad"
-seoTitle: "What to include in a job ad | HireHive Recruiting Software"
-seoDescription: "Job ads can be challenging to write. At HireHive we have listed a few tips to make that task a whole lot easier. Learn how to write a killer job ad with us!"
-author: "Orla-Hodnett"
-coverImage: "/images/woman-hand-smartphone-desk.jpg"
+  - 'recruiting-strategy'
+slug: 'what-to-include-job-ad'
+seoTitle: 'What to include in a job ad | HireHive Recruiting Software'
+seoDescription: 'Job ads can be challenging to write. At HireHive we have listed a few tips to make that task a whole lot easier. Learn how to write a killer job ad with us!'
+author: 'Orla-Hodnett'
+coverImage: '/images/woman-hand-smartphone-desk.jpg'
 ---
 
 _Job ads can be challenging to write. Here's a few tips on what to include in a job ad to make that task a whole lot easier._

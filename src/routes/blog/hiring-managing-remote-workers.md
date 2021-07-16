@@ -1,13 +1,13 @@
 ---
-title: "Hiring and managing remote workers"
-date: "2017-02-27"
+title: 'Hiring and managing remote workers'
+date: '2017-02-27'
 categories:
-  - "recruiting-strategy"
-slug: "hiring-managing-remote-workers"
-seoTitle: "Hiring and managing remote workers"
-seoDescription: "Learn how to best hire and manage remote workers within your organisation with the help of recruitment software HireHive"
-author: "Orla-Hodnett"
-coverImage: "/images/remote.png"
+  - 'recruiting-strategy'
+slug: 'hiring-managing-remote-workers'
+seoTitle: 'Hiring and managing remote workers'
+seoDescription: 'Learn how to best hire and manage remote workers within your organisation with the help of recruitment software HireHive'
+author: 'Orla-Hodnett'
+coverImage: '/images/remote.png'
 ---
 
 The same thing can often be seen with recruiting. With the increasing competition for talent, sometimes the most qualified person for the job is at a geographical remove from your office.

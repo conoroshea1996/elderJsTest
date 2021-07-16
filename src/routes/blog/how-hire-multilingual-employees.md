@@ -1,15 +1,15 @@
 ---
-title: "How to hire the multilingual employees that you need"
-date: "2016-04-18"
+title: 'How to hire the multilingual employees that you need'
+date: '2016-04-18'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "multilingual-employees"
-slug: "how-hire-multilingual-employees"
-seoTitle: "How to hire the multilingual employees that you need"
-seoDescription: "How can you find the right multilingual employees for the job, when the competition for recruiting talent is so high? See our 7 tips."
-author: "Orla-Hodnett"
-coverImage: "/images/shutterstock_238145182.jpg"
+  - 'multilingual-employees'
+slug: 'how-hire-multilingual-employees'
+seoTitle: 'How to hire the multilingual employees that you need'
+seoDescription: 'How can you find the right multilingual employees for the job, when the competition for recruiting talent is so high? See our 7 tips.'
+author: 'Orla-Hodnett'
+coverImage: '/images/shutterstock_238145182.jpg'
 ---
 
 _Hiring multilingual employees is the key to reaching new markets and developing your business. But how can you find the right candidates for the job, when the competition for recruiting talent is so high?_

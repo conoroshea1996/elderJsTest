@@ -1,13 +1,13 @@
 ---
-title: "How small companies can win the competition for talent"
-date: "2017-05-26"
+title: 'How small companies can win the competition for talent'
+date: '2017-05-26'
 categories:
-  - "recruiting-strategy"
-slug: "small-companies-can-win-competition-for-talent"
-seoTitle: "How small companies can win the competition for talent"
+  - 'recruiting-strategy'
+slug: 'small-companies-can-win-competition-for-talent'
+seoTitle: 'How small companies can win the competition for talent'
 seoDescription: "Small company struggling in the competition for talent? While you don't have large company resources, there are a few tricks you can use:"
-author: "Orla-Hodnett"
-coverImage: "/images/black-and-white-people-bar-men.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/black-and-white-people-bar-men.jpg'
 ---
 
 There has been a significant shift in the expectations of employees. Candidates actively avoid high-pressure, inflexible work environments, even if that means a lower wage. Those seeking new opportunities are interested in a greater work-life balance and meaning in their work. But what does this mean for a smaller company's recruiting efforts in the competition for talent?

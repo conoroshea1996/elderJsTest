@@ -1,13 +1,13 @@
 ---
-title: "The High Cost of a Bad Hire"
-date: "2019-11-13"
+title: 'The High Cost of a Bad Hire'
+date: '2019-11-13'
 categories:
-  - "social-recruiting"
-slug: "high-cost-of-bad-hire"
-seoTitle: ""
+  - 'social-recruiting'
+slug: 'high-cost-of-bad-hire'
+seoTitle: ''
 seoDescription: "A bad hire can cost a lot to your company: time, money and it can even have an effect on employees' morale...So how do you avoid a bad hire?"
-author: "HireHive-Team"
-coverImage: "/images/adult-art-conceptual-dark-278312.jpg"
+author: 'HireHive-Team'
+coverImage: '/images/adult-art-conceptual-dark-278312.jpg'
 ---
 
 #### Did you know you can expect to spend between $25,000 and $50,000 for every bad hiring decision in your company? 

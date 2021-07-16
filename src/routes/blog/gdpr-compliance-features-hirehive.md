@@ -1,13 +1,13 @@
 ---
-title: "GDPR Compliance Features"
-date: "2018-04-26"
+title: 'GDPR Compliance Features'
+date: '2018-04-26'
 categories:
-  - "hirehive-updates"
-slug: "gdpr-compliance-features-hirehive"
-seoTitle: "GDPR Compliance Features - HireHive Recruiting Software"
-seoDescription: "HireHive has launched a set of GDPR compliance features that will help your company effectively manage your recruitment data."
-author: "HireHive-Team"
-coverImage: "/images/pexels-photo-113885.jpeg"
+  - 'hirehive-updates'
+slug: 'gdpr-compliance-features-hirehive'
+seoTitle: 'GDPR Compliance Features - HireHive Recruiting Software'
+seoDescription: 'HireHive has launched a set of GDPR compliance features that will help your company effectively manage your recruitment data.'
+author: 'HireHive-Team'
+coverImage: '/images/pexels-photo-113885.jpeg'
 ---
 
 When we first started researching GDPR at HireHive over 12 months ago we decided that we wanted to help our customers with GDPR compliance for their recruitment data as much as possible. GDPR is not going away - in fact, it’s coming ever closer (May 25th!)

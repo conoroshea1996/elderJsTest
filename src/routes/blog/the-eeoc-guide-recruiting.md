@@ -1,15 +1,15 @@
 ---
-title: "The EEOC Guide"
-date: "2016-01-02"
+title: 'The EEOC Guide'
+date: '2016-01-02'
 categories:
-  - "compliance-and-data"
+  - 'compliance-and-data'
 tags:
-  - "eeoc-recruiting"
-slug: "the-eeoc-guide-recruiting"
-seoTitle: "EEOC Guide | EEOC recruiting"
-seoDescription: "Diversity improves morale in the workplace and helps to define your company brand. Simply put, it can make a huge impact to your organisation."
-author: "HireHive-Team"
-coverImage: "/images/diversity.jpg"
+  - 'eeoc-recruiting'
+slug: 'the-eeoc-guide-recruiting'
+seoTitle: 'EEOC Guide | EEOC recruiting'
+seoDescription: 'Diversity improves morale in the workplace and helps to define your company brand. Simply put, it can make a huge impact to your organisation.'
+author: 'HireHive-Team'
+coverImage: '/images/diversity.jpg'
 ---
 
 With this in mind, you have probably worked to put together a diverse team and hire individuals from varying backgrounds, each bringing an entirely different approach. The importance of a diverse workforce is not just a good idea or recruitment best practice - it is required by law.

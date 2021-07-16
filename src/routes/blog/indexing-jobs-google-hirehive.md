@@ -1,13 +1,13 @@
 ---
-title: "Indexing jobs on Google with HireHive"
-date: "2018-01-16"
+title: 'Indexing jobs on Google with HireHive'
+date: '2018-01-16'
 categories:
-  - "hirehive-updates"
-slug: "indexing-jobs-google-hirehive"
-seoTitle: "Indexing jobs on Google with HireHive | HireHive ATS"
-seoDescription: "Using PDF job descriptions on your careers page isn’t the best way to get candidates to apply for your open vacancies. Indexing jobs on Google is important."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/24.jpg"
+  - 'hirehive-updates'
+slug: 'indexing-jobs-google-hirehive'
+seoTitle: 'Indexing jobs on Google with HireHive | HireHive ATS'
+seoDescription: 'Using PDF job descriptions on your careers page isn’t the best way to get candidates to apply for your open vacancies. Indexing jobs on Google is important.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/24.jpg'
 ---
 
 Using PDF job descriptions on your careers page isn’t the best way to get candidates to apply for your open vacancies. Here we explain why these jobs can be hard to find for candidates on search engines like Google, resulting in less applications.
@@ -24,7 +24,7 @@ When you add PDF documents to your careers page, Google doesn’t pick up on th
 
 #### **Here's an example of what you shouldn’t do:**
 
-\[caption id="attachment_12550" align="alignnone" width="1479"\]![](/images/Test-PDF.png "PDF job application") PDF job application\[/caption\]
+\[caption id="attachment_12550" align="alignnone" width="1479"\]![](/images/test-pdf.png) PDF job application\[/caption\]
 
 Having a [careers page](https://hirehive.com/recruiting-features/custom-careers-site/) with a job listing helps you get your job descriptions out there on Google. An ATS/recruiting software, when integrated with your careers page, will display your job listing in real time. With HireHive, once you integrate it to your careers page, the system will automatically update the listing on your website whenever you open or close a role. These jobs will then be indexed within Google and will be found easily by potential candidates.
 
@@ -32,6 +32,6 @@ Having a [careers page](https://hirehive.com/recruiting-features/custom-careers-
 
 - **Use an ATS.** This allows you to create a careers page and to gather all data of applications.
 
-\[caption id="attachment*12588" align="aligncenter" width="588"\]![](/images/Untitled-7-1.png "HireHive job description") \_An example of a job description made with HireHive*\[/caption\]
+\[caption id="attachment*12588" align="aligncenter" width="588"\]![](/images/untitled-7-1.png) \_An example of a job description made with HireHive*\[/caption\]
 
 - **Use a [WordPress plugin](https://wordpress.org/plugins/zartis-job-plugin/)** to create your corporate careers page . Your jobs will then be indexed on Google.

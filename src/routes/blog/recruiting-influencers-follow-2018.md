@@ -1,13 +1,13 @@
 ---
-title: "LinkedIn: HR and recruiting influencers to follow in 2018"
-date: "2018-01-26"
+title: 'LinkedIn: HR and recruiting influencers to follow in 2018'
+date: '2018-01-26'
 categories:
-  - "hr-events-and-people"
-slug: "recruiting-influencers-follow-2018"
-seoTitle: ""
+  - 'hr-events-and-people'
+slug: 'recruiting-influencers-follow-2018'
+seoTitle: ''
 seoDescription: "LinkedIn is the social media platform for recruiting in HR and recruiting. Here's our list of the HR and recruiting influencers to follow in 2018!"
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1503428593586-e225b39bddfe.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1503428593586-e225b39bddfe.jpg'
 ---
 
 _LinkedIn is_ **the** _social media platform for recruiting in HR and recruiting. Who are the cool kids you should be following in 2018?_
@@ -26,13 +26,13 @@ Yes _the_ Laszlo Bock. The former Senior Vice President of People Operations at 
 
 Meghan Biro is founder of TalentCulture, creator of the #WorkTrends podcast and regular contributor to Forbes on HR. She is frequently cited as a major social media HR influencers. What she does not know, is not worth knowing.
 
-![AAIABADGAAwAAQAAAAAAAArxAAAAJGE0NmM0YzI1LTQ4NWUtNDg0MS1hYWRlLWQxMDM0YTMwZGY2Mg](/images/AAIABADGAAwAAQAAAAAAAArxAAAAJGE0NmM0YzI1LTQ4NWUtNDg0MS1hYWRlLWQxMDM0YTMwZGY2Mg.jpg)
+![aaiabadgaawaaqaaaaaaaarxaaaajge0nmm0yzi1ltq4nwutndg0ms1hywrllwqxmdm0ytmwzgy2mg](/images/aaiabadgaawaaqaaaaaaaarxaaaajge0nmm0yzi1ltq4nwutndg0ms1hywrllwqxmdm0ytmwzgy2mg.jpg)
 
 [**Josh Bersin**](https://www.linkedin.com/in/bersin/)
 
 Founder of Bersin by Deloitte, Josh Bersin is a long-time HR influencer. His company’s research and studies will let you know anything you want to know about the recruiting and human resources industries. He also regularly writes for publications like Forbes, sharing his insights. He is certainly worth a follow.
 
-![AAEAAQAAAAAAAAUqAAAAJGRkZDdjNGM5LTQzMGYtNGRmYS1hYTViLWIzZmU0NDA2ZWY5OA](/images/AAEAAQAAAAAAAAUqAAAAJGRkZDdjNGM5LTQzMGYtNGRmYS1hYTViLWIzZmU0NDA2ZWY5OA.jpg)[**Adam Grant**](https://www.linkedin.com/in/adammgrant/)  
+![aaeaaqaaaaaaaauqaaaajgrkzddjngm5ltqzmgytngrmys1hytvilwizzmu0nda2zwy5oa](/images/aaeaaqaaaaaaaauqaaaajgrkzddjngm5ltqzmgytngrmys1hytvilwizzmu0nda2zwy5oa.jpg)[**Adam Grant**](https://www.linkedin.com/in/adammgrant/)  
 34 year old best-selling author and highly-rated Wharton lecturer Adam Grant is somewhat of a organisational psychology wunderkind. He has published several enormously successful book, including Originals and Give and Take. His insights have been sought by organisations like Facebook, Google, the NBA, Merck, Goldman Sachs, Pixar, the U.S. Army and Navy, and the World Economic Forum.
 
 ![3052c5f](/images/3052c5f.jpg)
@@ -47,7 +47,7 @@ Helping you get the best out of literally all of your employees, Susan Cain’s 
 
 The brain behind/founder of [Workshape.io](http://workshape.io), Hung Lee is quickly becoming a big name in the world of tech recruiting. His blog, recruitingbrainfood.com, is a fantastic source of his musings on all things HR.
 
-![AAEAAQAAAAAAAANEAAAAJDU1NmEyYTU2LTcyM2UtNDMwZS05MTdhLTM2Nzg2ZjA1MTc5ZA](/images/AAEAAQAAAAAAAANEAAAAJDU1NmEyYTU2LTcyM2UtNDMwZS05MTdhLTM2Nzg2ZjA1MTc5ZA.jpg)
+![aaeaaqaaaaaaaaneaaaajdu1nmeyytu2ltcym2utndmwzs05mtdhltm2nzg2zja1mtc5za](/images/aaeaaqaaaaaaaaneaaaajdu1nmeyytu2ltcym2utndmwzs05mtdhltm2nzg2zja1mtc5za.jpg)
 
 **[**Whitney Johnson**](https://www.linkedin.com/in/whitneyjohnson/)**
 

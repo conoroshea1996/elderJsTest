@@ -1,13 +1,13 @@
 ---
-title: "HireHive and Indeed partner to offer free in-depth candidate screening tools"
-date: "2018-10-02"
+title: 'HireHive and Indeed partner to offer free in-depth candidate screening tools'
+date: '2018-10-02'
 categories:
-  - "hirehive-updates"
-slug: "hirehive_indeed-assessments"
-seoTitle: "HireHive partner with Indeed Assessments - Recruiting Software"
+  - 'hirehive-updates'
+slug: 'hirehive_indeed-assessments'
+seoTitle: 'HireHive partner with Indeed Assessments - Recruiting Software'
 seoDescription: "Today we're excited to announce that we are the first European recruitment software provider to partner with Indeed to offer Indeed Assessments."
-author: "Siobhan-Hasner"
-coverImage: "/images/VisitngNew-York-1.png"
+author: 'Siobhan-Hasner'
+coverImage: '/images/VisitngNew-York-1.png'
 ---
 
 We have always been proud to be an [Indeed](http://indeed.com) job board partner and we have worked with Indeed for many years. Indeed were in fact one of our first partners. Indeed's job board has allowed us to reach a huge pool of candidates worldwide. Today we are excited to announce that we are the first European recruitment software providers to partner with Indeed to offer [Indeed Assessments](https://www.indeed.com/assessments).
