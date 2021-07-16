@@ -54,7 +54,7 @@
 
   const search = (e) => {
     if (e.key === 'Enter') {
-      window.location.href = `https://youthful-mccarthy-ab0370.netlify.app/recruiting-blog?search=${e.target.value}`;
+      window.location = `${window.location.origin}/recruiting-blog?search=${e.target.value}`;
     }
   };
 </script>

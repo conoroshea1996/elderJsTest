@@ -7,6 +7,7 @@ const elder = new Elder({ context: 'server', ...config });
 module.exports = async function renderElderPage(permalink, extraData) {
   await elder.bootstrap();
   const request = elder.serverLookupObject['/recruiting-blog/'];
+  console.log(request, 'REQUEST');
   // console.log('elder locations', elder.settings.locations);
 
   const route = elder.routes['recruitingBlog'];
@@ -48,6 +49,8 @@ module.exports = async function renderElderPage(permalink, extraData) {
     request,
     route,
   });
+
+  console.log(page, 'Page');
 
   return await page.html();
 };
