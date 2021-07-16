@@ -42,5 +42,5 @@ module.exports = {
     //   //   //writeLocation: './report.json', // if you want to write a report of errors
     //   // },
   },
-  shortcodes: { closePattern: '}}', openPattern: '{{' },
+  shortcodes: { closePattern: '@@', openPattern: '@@' },
 };
