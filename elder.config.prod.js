@@ -1,7 +1,8 @@
 require('dotenv').config();
 const path = require('path');
 const markdownPlugin = require('@elderjs/plugin-markdown');
-console.log(markdownPlugin);
+const imagePlugin = require('@elderjs/plugin-images');
+console.log(imagePlugin)
 
 module.exports = {
   origin: '', // TODO: update this.

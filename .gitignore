@@ -8,3 +8,4 @@
 /netlify/functions/getBlogs/___ELDER___
 /netlify/functions/getBlogs/public/*
 /netlify/functions/getBlogs/src
+/netlify/functions/getBlogs/images/sizes/*
