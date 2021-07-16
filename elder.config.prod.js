@@ -2,6 +2,7 @@ require('dotenv').config();
 const path = require('path');
 const markdownPlugin = require('@elderjs/plugin-markdown');
 const imagePlugin = require('@elderjs/plugin-images');
+const fetch = require('node-fetch');
 
 module.exports = {
   origin: '', // TODO: update this.
@@ -31,11 +32,13 @@ module.exports = {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
     },
     '@elderjs/plugin-images': {
-      debug: false,
-      cssString: false,
-      imageManifest: '/images/ejs-image-manifest.json',
+      imageManifest: async () => {
+        const url1 = 'https://raw.githubusercontent.com/conoroshea1996/elderJsTest/main/images/ejs-image-manifest.json';
+        const response = await fetch(url1);
+        const imageJsonManifest = await response.json();
+        return imageJsonManifest;
+      },
       addVanillaLazy: true, // if you want to disable the lazyload plugin and add your own.
-      widths: [1280, 768, 576, 400], // Sizes the images will be resized to.
     },
     //   // '@elderjs/plugin-seo-check': {
     //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
