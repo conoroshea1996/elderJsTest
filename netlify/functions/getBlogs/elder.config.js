@@ -1,7 +1,9 @@
 require('dotenv').config();
 const path = require('path');
 const markdownPlugin = require('@elderjs/plugin-markdown');
-console.log(markdownPlugin);
+const imagePlugin = require('@elderjs/plugin-images');
+const fetch = require('node-fetch');
+console.log(imagePlugin);
 
 module.exports = {
   origin: '', // TODO: update this.
@@ -31,24 +33,7 @@ module.exports = {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
     },
     '@elderjs/plugin-images': {
-      debug: false,
-      cssString: false,
-      folders: [
-        {
-          src: 'assets/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-          output: 'images/', // where files should be put within the distDir defined in your elder.config.js.
-        },
-        {
-          src: 'assets/fr/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-          output: 'fr/images/', // where files should be put within the distDir defined in your elder.config.js.
-        },
-        {
-          src: 'assets/customers/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-          output: 'customers/images/', // where files should be put within the distDir defined in your elder.config.js.
-        },
-      ],
-      addVanillaLazy: true, // if you want to disable the lazyload plugin and add your own.
-      widths: [1280, 768, 576, 400], // Sizes the images will be resized to.
+      imageManifest: "/images/ejs-image-manifest.json";
     },
     //   // '@elderjs/plugin-seo-check': {
     //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
