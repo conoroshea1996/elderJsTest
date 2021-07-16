@@ -6,7 +6,7 @@ const elder = new Elder({ context: 'server', ...config });
 
 module.exports = async function renderElderPage(permalink, extraData) {
   await elder.bootstrap();
-  const request = elder.serverLookupObject['/recruiting-blog/'];
+  let request = elder.serverLookupObject['/recruiting-blog/'];
   console.log(request, 'REQUEST');
   // console.log('elder locations', elder.settings.locations);
 
@@ -44,6 +44,21 @@ module.exports = async function renderElderPage(permalink, extraData) {
 
   elder.hooks.push(dataHook);
 
+  request = {
+    slug: 'recruiting-blog/',
+    postStart: 10,
+    postEnd: 20,
+    lastPage: 29,
+    hasPrevious: false,
+    hasNext: true,
+    page: 2,
+    nextPage: { slug: `recruiting-blog/2?search=${extraData.search}` },
+    template: 'recruitingBlog',
+    route: 'recruitingBlog',
+    type: 'server',
+    permalink: '/recruiting-blog/'
+  }
+  
   const page = new Page({
     ...elder,
     request,
