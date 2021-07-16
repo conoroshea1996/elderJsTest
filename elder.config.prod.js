@@ -33,12 +33,7 @@ module.exports = {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
     },
     '@elderjs/plugin-images': {
-      imageManifest: async () => {
-        const url1 = 'https://raw.githubusercontent.com/conoroshea1996/elderJsTest/main/images/ejs-image-manifest.json';
-        const response = await fetch(url1);
-        const imageJsonManifest = await response.json();
-        return imageJsonManifest;
-      },
+      imageManifest: "/images/ejs-image-manifest.json";
     },
     //   // '@elderjs/plugin-seo-check': {
     //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
