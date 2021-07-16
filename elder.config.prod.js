@@ -31,15 +31,6 @@ module.exports = {
     '@elderjs/plugin-markdown': {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
     },
-    '@elderjs/plugin-images': {
-      imageManifest: async () => {
-        const url1 = 'https://raw.githubusercontent.com/conoroshea1996/elderJsTest/main/images/ejs-image-manifest.json';
-        const response = await fetch(url1);
-        const imageJsonManifest = await response.json();
-        return imageJsonManifest;
-      },
-      addVanillaLazy: true, // if you want to disable the lazyload plugin and add your own.
-    },
     //   // '@elderjs/plugin-seo-check': {
     //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
     //   //   //writeLocation: './report.json', // if you want to write a report of errors
