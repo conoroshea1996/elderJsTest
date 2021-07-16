@@ -1,19 +1,19 @@
 <script>
   import BlogNavigation from '../../components/BlogNavigation.svelte';
   import BlogPagination from '../../components/BlogPagination.svelte';
-  import ImageWrapper from "../../components/ImageWrapper.svelte";
+  import ImageWrapper from '../../components/ImageWrapper.svelte';
   export let data, request, helpers;
   let blogPost = data.blogs.slice(request.postStart, request.postEnd);
 </script>
 
-<BlogNavigation activeCategory={data.category} />
+<BlogNavigation hydrate-client={{ activeCategory: data.category }} />
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
   {#each blogPost as { frontmatter, slug }, i}
     {#if i % data.pageSize === 0}
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-           <ImageWrapper imageSrc={frontmatter.coverImage}/>
+            <ImageWrapper imageSrc={frontmatter.coverImage} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -33,8 +33,7 @@
       <div class="relative col-span-1 lg:col-span-3 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-56 overflow-hidden rounded-lg">
-
-            <ImageWrapper imageSrc={frontmatter.coverImage}/>
+            <ImageWrapper imageSrc={frontmatter.coverImage} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -55,7 +54,7 @@
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-48 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage}/>
+            <ImageWrapper imageSrc={frontmatter.coverImage} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -76,7 +75,7 @@
       <div class="relative col-span-1 lg:col-span-4 rounded-md h-80">
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage}/>
+            <ImageWrapper imageSrc={frontmatter.coverImage} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -96,7 +95,7 @@
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-48 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage}/>
+            <ImageWrapper imageSrc={frontmatter.coverImage} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -117,7 +116,7 @@
       <div class="relative col-span-1 lg:col-span-2  rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-48 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage}/>
+            <ImageWrapper imageSrc={frontmatter.coverImage} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
