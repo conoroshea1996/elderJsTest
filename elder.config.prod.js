@@ -1,9 +1,6 @@
 require('dotenv').config();
 const path = require('path');
 const markdownPlugin = require('@elderjs/plugin-markdown');
-const imagePlugin = require('@elderjs/plugin-images');
-const fetch = require('node-fetch');
-console.log(imagePlugin);
 
 module.exports = {
   origin: '', // TODO: update this.
@@ -31,9 +28,6 @@ module.exports = {
   plugins: {
     '@elderjs/plugin-markdown': {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
-    },
-    '@elderjs/plugin-images': {
-      imageManifest: "/images/ejs-image-manifest.json";
     },
     //   // '@elderjs/plugin-seo-check': {
     //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
