@@ -1,15 +1,15 @@
 ---
-title: "Candidate appreciation: good perks that will win you top candidates"
-date: "2016-07-26"
+title: 'Candidate appreciation: good perks that will win you top candidates'
+date: '2016-07-26'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "recruitment-online"
-slug: "appreciation-perks-win-candidates"
-seoTitle: "Good perks that will win you top candidates | HireHive"
-seoDescription: "An occasional free lunch or extra time off means a world to candidates. What good perks will convince people to join your organisation?"
-author: "Orla-Hodnett"
-coverImage: "/images/perks.jpg"
+  - 'recruitment-online'
+slug: 'appreciation-perks-win-candidates'
+seoTitle: 'Good perks that will win you top candidates | HireHive'
+seoDescription: 'An occasional free lunch or extra time off means a world to candidates. What good perks will convince people to join your organisation?'
+author: 'Orla-Hodnett'
+coverImage: '/images/perks.jpg'
 ---
 
 Perks are often a deciding factor for potential employees. Free snacks and unlimited time off are becoming more and more common in the workplace. Some do not even view these as perks, but essentials in the workplace.

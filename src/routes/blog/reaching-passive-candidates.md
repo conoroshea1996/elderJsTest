@@ -1,13 +1,13 @@
 ---
-title: "Reaching passive candidates"
-date: "2018-04-20"
+title: 'Reaching passive candidates'
+date: '2018-04-20'
 categories:
-  - "recruiting-strategy"
-slug: "reaching-passive-candidates"
-seoTitle: "Passive candidates and how to reach them | HireHive ATS"
-seoDescription: "Passive candidates are the impossible dream of the recruiting world. Or are they? How can you reach the passive candidates you want to hire? Read our tips!"
-author: "Orla-Hodnett"
-coverImage: "/images/balloons.jpg"
+  - 'recruiting-strategy'
+slug: 'reaching-passive-candidates'
+seoTitle: 'Passive candidates and how to reach them | HireHive ATS'
+seoDescription: 'Passive candidates are the impossible dream of the recruiting world. Or are they? How can you reach the passive candidates you want to hire? Read our tips!'
+author: 'Orla-Hodnett'
+coverImage: '/images/balloons.jpg'
 ---
 
 _Passive candidates are the impossible dream of the recruiting world. Or are they? How can you reach the passive candidates you want to hire?_

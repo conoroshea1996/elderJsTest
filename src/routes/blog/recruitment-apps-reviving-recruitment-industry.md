@@ -1,13 +1,13 @@
 ---
-title: "Best Recruitment apps reviving the recruitment industry"
-date: "2017-09-28"
+title: 'Best Recruitment apps reviving the recruitment industry'
+date: '2017-09-28'
 categories:
-  - "social-recruiting"
-slug: "recruitment-apps-reviving-recruitment-industry"
-seoTitle: "Top 5 Recruitment apps reviving the recruitment industry | HireHive"
-seoDescription: "Need to enliven your stale recruitment process? Modern recruitment apps may be able to help. See our top best 5 hiring apps where we explore each recruiting app in detail."
-author: "Rachel-Hill"
-coverImage: "/images/yellow-spring-flower-closeup-6447.jpg"
+  - 'social-recruiting'
+slug: 'recruitment-apps-reviving-recruitment-industry'
+seoTitle: 'Top 5 Recruitment apps reviving the recruitment industry | HireHive'
+seoDescription: 'Need to enliven your stale recruitment process? Modern recruitment apps may be able to help. See our top best 5 hiring apps where we explore each recruiting app in detail.'
+author: 'Rachel-Hill'
+coverImage: '/images/yellow-spring-flower-closeup-6447.jpg'
 ---
 
 _Need to enliven your stale recruitment process? Modern recruitment apps may be able to help._
@@ -32,7 +32,7 @@ While there are many recruitment apps available to reignite your recruitment pro
 
 Once you download the app, all you need to do is fill in your bio and just like Tinder, swipe right to accept and left to reject new connections. This process alleviates any unsolicited requests and helps you match with up to 10-15 profiles a day based on your criteria.
 
-![best recruitment apps](/images/Shapr-Professional-Networking-App-1-e1506527746136.jpg)
+![best recruitment apps](/images/shapr-professional-networking-app-1-e1506527746136.jpg)
 
 ### 2\. ProSky
 

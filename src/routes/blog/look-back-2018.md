@@ -1,13 +1,13 @@
 ---
-title: "Our look back 2018"
-date: "2018-12-19"
+title: 'Our look back 2018'
+date: '2018-12-19'
 categories:
-  - "hirehive-updates"
-slug: "look-back-2018"
-seoTitle: "Our look back on 2018 | HireHive Recruitment Software"
-seoDescription: "2018 was a super busy year for the HireHive team. Here is our look back of the year, and the changes that happened in the Hive!"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/photo-1467810563316-b5476525c0f9.jpg"
+  - 'hirehive-updates'
+slug: 'look-back-2018'
+seoTitle: 'Our look back on 2018 | HireHive Recruitment Software'
+seoDescription: '2018 was a super busy year for the HireHive team. Here is our look back of the year, and the changes that happened in the Hive!'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/photo-1467810563316-b5476525c0f9.jpg'
 ---
 
 2018 was a very busy year for the HireHive team as we had a lot of changes happening in the Hive. With the year coming to an end, it’s time for our look back of the year!

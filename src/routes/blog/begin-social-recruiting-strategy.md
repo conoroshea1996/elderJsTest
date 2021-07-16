@@ -1,16 +1,16 @@
 ---
-title: "Where to begin with your social recruiting strategy"
-date: "2016-02-16"
+title: 'Where to begin with your social recruiting strategy'
+date: '2016-02-16'
 categories:
-  - "social-recruiting"
+  - 'social-recruiting'
 tags:
-  - "social-media"
-  - "social-recruiting"
-slug: "begin-social-recruiting-strategy"
-seoTitle: "Where to begin with your social recruiting strategy | HireHive Recruiting"
+  - 'social-media'
+  - 'social-recruiting'
+slug: 'begin-social-recruiting-strategy'
+seoTitle: 'Where to begin with your social recruiting strategy | HireHive Recruiting'
 seoDescription: "Want to use Social Media for recruiting, but don't know where to start with your social recruiting strategy? Check out our tips for best practice"
-author: "Orla-Hodnett"
-coverImage: "/images/Tokyo.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/Tokyo.jpg'
 ---
 
 From branding to posting jobs, to sourcing candidates, social media is a recruiter's best friend. If you don't already have a social recruiting strategy, it can be difficult to know where to start. Here's our guide to help you on your way.
@@ -35,7 +35,7 @@ Getting your colleagues in HR and other employees involved is a great way of let
 
 The creation of relevant content is essential for building your brand and getting your job postings out there. Focused, relevant and interesting hashtags are essential across a number of platforms for increasing your reach. Targeting that content is essential in getting [seen by the right people](http://www.eremedia.com/ere/a-recruiters-guide-to-social-targeting).
 
-Posting frequently, using a variety of media, whether it be infographics, /images/, video, is the key to bringing people to you. By posting informative content, whether it be blogs, webinars or white papers, you're setting your company out as an impressive entity to your potential candidates.
+Posting frequently, using a variety of media, whether it be infographics, images, video, is the key to bringing people to you. By posting informative content, whether it be blogs, webinars or white papers, you're setting your company out as an impressive entity to your potential candidates.
 
 #### **Measure your results**
 

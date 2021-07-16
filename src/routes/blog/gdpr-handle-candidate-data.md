@@ -1,13 +1,13 @@
 ---
-title: "How will the GDPR impact the way we handle candidate data?"
-date: "2017-11-06"
+title: 'How will the GDPR impact the way we handle candidate data?'
+date: '2017-11-06'
 categories:
-  - "compliance-and-data"
-slug: "gdpr-handle-candidate-data"
-seoTitle: "How will the GDPR impact the way we handle candidate data?"
-seoDescription: "The GDPR will ring in significant changes in how we handle personal data. But will using an ATS limit the impact on your organisation?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-113885.jpeg"
+  - 'compliance-and-data'
+slug: 'gdpr-handle-candidate-data'
+seoTitle: 'How will the GDPR impact the way we handle candidate data?'
+seoDescription: 'The GDPR will ring in significant changes in how we handle personal data. But will using an ATS limit the impact on your organisation?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-113885.jpeg'
 ---
 
 _The GDPR will ring in significant changes in how we handle personal data. But will using an ATS limit the impact on your organisation?_

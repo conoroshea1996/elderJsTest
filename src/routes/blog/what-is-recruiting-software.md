@@ -1,13 +1,13 @@
 ---
-title: "So what exactly is Recruiting Software?"
-date: "2015-07-04"
+title: 'So what exactly is Recruiting Software?'
+date: '2015-07-04'
 categories:
-  - "choosing-an-ats"
-slug: "what-is-recruiting-software"
-seoTitle: ""
-seoDescription: "Any company that is hiring can derive significant value from recruiting software. Recruiting software allows you to manage your recruiting process from start to finish."
-author: "Siobhan-Hasner"
-coverImage: "/images/The-Z-Team.jpg"
+  - 'choosing-an-ats'
+slug: 'what-is-recruiting-software'
+seoTitle: ''
+seoDescription: 'Any company that is hiring can derive significant value from recruiting software. Recruiting software allows you to manage your recruiting process from start to finish.'
+author: 'Siobhan-Hasner'
+coverImage: '/images/The-Z-Team.jpg'
 ---
 
 You can post all your jobs, manage applications, collaborate with your team and track all applications in one place. It is now part of the recruiting process that relationships with candidates need to be built over a 3 to 6 month period before a hire takes place. Without an effective way of tracking this relationship, companies can end up paying significant money in recruitment advertising/fees to hire new employees.

@@ -1,15 +1,15 @@
 ---
-title: "When are the best times to hire within your startup?"
-date: "2017-08-28"
+title: 'When are the best times to hire within your startup?'
+date: '2017-08-28'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "startup"
-slug: "when-are-the-best-times-to-hire-within-your-startup"
-seoTitle: "When are the best times to hire within your startup?"
-seoDescription: "Hiring in a startup is tough with intense competition for talent and limited resources. See our top 3 tips for when to hire and who you should hire."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-121734-2.jpeg"
+  - 'startup'
+slug: 'when-are-the-best-times-to-hire-within-your-startup'
+seoTitle: 'When are the best times to hire within your startup?'
+seoDescription: 'Hiring in a startup is tough with intense competition for talent and limited resources. See our top 3 tips for when to hire and who you should hire.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-121734-2.jpeg'
 ---
 
 _Resources can be pretty limited in a startup and competition for talent is as intense as ever. With those challenges in mind, when is the right time to hire in a startup?_

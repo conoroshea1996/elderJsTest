@@ -1,13 +1,13 @@
 ---
-title: "Happy Halloween: 7 recruiting tales to scare you to your very core"
-date: "2016-10-24"
+title: 'Happy Halloween: 7 recruiting tales to scare you to your very core'
+date: '2016-10-24'
 categories:
-  - "culture-branding"
-slug: "halloween-scary-recruiting-tales"
-seoTitle: "7 recruiting tales to scare you to your very core - Recruiting solutions"
-seoDescription: "Prepare to scare yourself silly with our 7 terrifying tales. Featuring: a haunted hotel and recruiting solutions that develops independent thought. Spooky!"
-author: "Orla-Hodnett"
-coverImage: "/images/hiring-software-halloween.jpg"
+  - 'culture-branding'
+slug: 'halloween-scary-recruiting-tales'
+seoTitle: '7 recruiting tales to scare you to your very core - Recruiting solutions'
+seoDescription: 'Prepare to scare yourself silly with our 7 terrifying tales. Featuring: a haunted hotel and recruiting solutions that develops independent thought. Spooky!'
+author: 'Orla-Hodnett'
+coverImage: '/images/hiring-software-halloween.jpg'
 ---
 
 In honour of Halloween, we’ve gathered together some of the creepiest recruiting tales we have ever heard.

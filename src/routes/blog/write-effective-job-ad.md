@@ -1,15 +1,15 @@
 ---
-title: "How to write an effective job ad"
-date: "2016-05-23"
+title: 'How to write an effective job ad'
+date: '2016-05-23'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "job-posting"
-slug: "write-effective-job-ad"
-seoTitle: "How to write an effective job ad | Job posting"
-seoDescription: "It’s the first contact you’ll have with a potential hire – your job ad. How do you pique their interest and convert those views into candidates?"
-author: "Orla-Hodnett"
-coverImage: "/images/a-16.14.10.jpg"
+  - 'job-posting'
+slug: 'write-effective-job-ad'
+seoTitle: 'How to write an effective job ad | Job posting'
+seoDescription: 'It’s the first contact you’ll have with a potential hire – your job ad. How do you pique their interest and convert those views into candidates?'
+author: 'Orla-Hodnett'
+coverImage: '/images/a-16.14.10.jpg'
 ---
 
 Job advertisements can be tough to get right. You want to reflect what kind of organisation you are, while maintaining a professional look. You want to seem fun, without resorting to the word ‘awesome.’ You want to attract high-calibre candidates, without alienating candidates with a list of requirements as long as the Nile. It's tough. Here's what you need to consider when drafting a killer job ad.
@@ -26,11 +26,11 @@ Keeping tuned in to the jobs specific to your industry will also give you an edg
 
 How you pitch to potential candidates is obviously essential to winning top candidates. Reaching passive candidates is twice the struggle, as you have to make an offer tempting enough to prompt change. The best way to do this is craft a brief, succinct advert, to grasp and keep the reader's attention. Get benefits and compensation in there, where possible, as such information is what's needed to convince passive candidates. You can also try and be as minimalist as possible.
 
-![Twitter-Card](/images/Twitter-Card.jpg)
+![twitter-card](/images/twitter-card.jpg)
 
 Advertising via social media ups the stakes even further. If using Instagram or Twitter, you potentially only have 140 characters to grab someone's attention. The visual element of social media offers further opportunity to engage candidates, as imagery is proven to be the best way of engaging readers.
 
-![Malwarebytes twitter card](/images/Malwarebytes-twitter-card.png)
+![malwarebytes twitter card](/images/malwarebytes-twitter-card.png)
 
 Getting to the point quickly and making a compelling argument is key. Why not try something like Twitter cards to advertise?
 
@@ -44,6 +44,6 @@ Always send out a confirmation email that the application was received. This is 
 
 Layout is pretty significant. As stated already, getting to the point quickly is very important when posting jobs. A top heavy approach, where you get your main points out in the open early on is a good idea. Obviously enough, this gets the attention of relevant candidates pretty early on, but also significant is the way we process written content from a screen. These things are worth considering when structuring your posting.
 
-![SAP](/images/SAP.jpg)
+![sap](/images/sap.jpg)
 
 Aesthetics are always important. Your advertising, whether on a jobs board or a social media platform should be visually striking and professional looking. Any communication from your company will reflect either negatively or positively on a reader's impressions, so make sure it's the latter.

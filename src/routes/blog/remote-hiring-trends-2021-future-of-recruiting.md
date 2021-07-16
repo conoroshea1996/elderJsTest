@@ -1,16 +1,16 @@
 ---
-title: "Remote Hiring Trends 2021: The Future of Recruiting"
-date: "2021-02-09"
+title: 'Remote Hiring Trends 2021: The Future of Recruiting'
+date: '2021-02-09'
 categories:
-  - "hirehive-updates"
-  - "recruiting-strategy"
-  - "remote-hiring"
-  - "social-recruiting"
-slug: "remote-hiring-trends-2021-future-of-recruiting"
-seoTitle: "Remote Hiring Trends in 2021 | The Future of Recruiting | HireHive"
-seoDescription: "With the increased demand for work-from-home arrangements by employees, companies will need to adapt or lose out on top talent. This is why looking at the remote hiring trends for 2021 and the future of recruiting."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/2021-remote-hiring-trends.jpg"
+  - 'hirehive-updates'
+  - 'recruiting-strategy'
+  - 'remote-hiring'
+  - 'social-recruiting'
+slug: 'remote-hiring-trends-2021-future-of-recruiting'
+seoTitle: 'Remote Hiring Trends in 2021 | The Future of Recruiting | HireHive'
+seoDescription: 'With the increased demand for work-from-home arrangements by employees, companies will need to adapt or lose out on top talent. This is why looking at the remote hiring trends for 2021 and the future of recruiting.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/2021-remote-hiring-trends.jpg'
 ---
 
 The [future of recruiting](https://business.linkedin.com/talent-solutions/blog/future-of-recruiting/2020/future-of-recruiting) has always held the promise of more remote work for companies and the employees who work for them. The [gig economy](https://www.cnbc.com/2020/02/04/gig-economy-grows-15percent-over-past-decade-adp-report.html) was already growing over the last several years, contract and contingent work becoming more popular, and freelancers were taking charge of their employment. Many organizations, especially in the tech industry, were already working remotely with teams all over the world.

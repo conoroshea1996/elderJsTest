@@ -1,13 +1,13 @@
 ---
-title: "10 Must-Read Books to Help Improve and Standardized Your Recruitment Process"
-date: "2020-04-06"
+title: '10 Must-Read Books to Help Improve and Standardized Your Recruitment Process'
+date: '2020-04-06'
 categories:
-  - "hr-events-and-people"
-slug: "10-must-read-books"
-seoTitle: ""
-seoDescription: "The HireHive Team picked their top 10 must-read books to help recruiters improve and standardize their recruitment process."
-author: "HireHive-Team"
-coverImage: "/images/photo-1474366521946-c3d4b507abf2.jpeg"
+  - 'hr-events-and-people'
+slug: '10-must-read-books'
+seoTitle: ''
+seoDescription: 'The HireHive Team picked their top 10 must-read books to help recruiters improve and standardize their recruitment process.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1474366521946-c3d4b507abf2.jpeg'
 ---
 
 As the world takes a step back trying to wrap its collective head around the current global health crisis, the economy everywhere is facing a new reality. Some companies aren’t engaging in business at all, but when things return to normal the upswing in new hires will be fast and furious. There’s no better time than now to turn inward for learning recruitment ideas and techniques that you can bring back to the table when business resumes. What are the top 10 must-read books for standardizing your recruitment process? Let’s take a closer look.

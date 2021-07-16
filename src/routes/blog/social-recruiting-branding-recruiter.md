@@ -1,15 +1,15 @@
 ---
-title: "Social media and branding: what to consider as a recruiter?"
-date: "2016-07-04"
+title: 'Social media and branding: what to consider as a recruiter?'
+date: '2016-07-04'
 categories:
-  - "social-recruiting"
+  - 'social-recruiting'
 tags:
-  - "social-recruiting"
-slug: "social-recruiting-branding-recruiter"
-seoTitle: "Social recruiting: what to consider as a recruiter? | HireHive"
+  - 'social-recruiting'
+slug: 'social-recruiting-branding-recruiter'
+seoTitle: 'Social recruiting: what to consider as a recruiter? | HireHive'
 seoDescription: "It's about social recruiting. Social media platforms are some of the strongest tools you can leverage in recruiting. What do you need to consider?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-398919.jpeg"
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-398919.jpeg'
 ---
 
 Social media is the quickest way to tell anyone interested in your organisation what you’re all about. Social media + recruiting (social recruiting) is also a great way to tell potential candidates about your organisation. It is the [quickest and easiest](http://hirehive.io/resources/guides/guide-to-social-recruiting/) way of reaching out to these candidates, as well as convincing them of why they should work for you.

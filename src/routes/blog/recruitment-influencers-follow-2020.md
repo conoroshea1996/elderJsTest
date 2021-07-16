@@ -1,13 +1,13 @@
 ---
-title: "Recruitment Influencers to Follow in 2020"
-date: "2020-01-06"
+title: 'Recruitment Influencers to Follow in 2020'
+date: '2020-01-06'
 categories:
-  - "hr-events-and-people"
-slug: "recruitment-influencers-follow-2020"
-seoTitle: ""
-seoDescription: ""
-author: "HireHive-Team"
-coverImage: "/images/photo-1557840343-364332b5469a.jpg"
+  - 'hr-events-and-people'
+slug: 'recruitment-influencers-follow-2020'
+seoTitle: ''
+seoDescription: ''
+author: 'HireHive-Team'
+coverImage: '/images/photo-1557840343-364332b5469a.jpg'
 ---
 
 As we continue to reflect and look back on the previous years, we decided to [take another look at people to follow on twitter](https://hirehive.com/recruiting-accounts-to-follow-twitter/) and other social media platforms. As with many aspects of the industry, some names may be the same and others have emerged as important experts to follow in recruitment and HR. Here are the top influencers we suggest you follow in 2020.

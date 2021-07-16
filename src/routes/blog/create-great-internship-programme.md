@@ -1,13 +1,13 @@
 ---
-title: "How to create a great internship programme"
-date: "2018-04-03"
+title: 'How to create a great internship programme'
+date: '2018-04-03'
 categories:
-  - "culture-branding"
-slug: "create-great-internship-programme"
-seoTitle: "Internship programme: how to create the best programme"
-seoDescription: "Getting the internship experience right is essential. We have compiled a list of things to keep in mind when putting together an internship programme."
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1462536943532-57a629f6cc60-1.jpg"
+  - 'culture-branding'
+slug: 'create-great-internship-programme'
+seoTitle: 'Internship programme: how to create the best programme'
+seoDescription: 'Getting the internship experience right is essential. We have compiled a list of things to keep in mind when putting together an internship programme.'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1462536943532-57a629f6cc60-1.jpg'
 ---
 
 _An internship program could be an indispensable part of your recruiting strategy. How can you easily implement an internship programme?_

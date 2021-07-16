@@ -1,13 +1,13 @@
 ---
-title: "The importance of PR to recruiting"
-date: "2017-12-08"
+title: 'The importance of PR to recruiting'
+date: '2017-12-08'
 categories:
-  - "recruiting-strategy"
-slug: "importance-pr-recruiting"
-seoTitle: "PR and its importance to recruiting | HireHive Recruiting Software"
-seoDescription: "A strong public image could do half your recruiting work for you. So how do you build a strong PR profile? HireHive is always here to help, read our tips!"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-518543.jpeg"
+  - 'recruiting-strategy'
+slug: 'importance-pr-recruiting'
+seoTitle: 'PR and its importance to recruiting | HireHive Recruiting Software'
+seoDescription: 'A strong public image could do half your recruiting work for you. So how do you build a strong PR profile? HireHive is always here to help, read our tips!'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-518543.jpeg'
 ---
 
 _A strong public image could do half your recruiting work for you. So how do you build a strong PR profile?_

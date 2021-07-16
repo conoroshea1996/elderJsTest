@@ -1,16 +1,16 @@
 ---
-title: "Tips for building a great team from Patrick Collison of Stripe"
-date: "2015-08-03"
+title: 'Tips for building a great team from Patrick Collison of Stripe'
+date: '2015-08-03'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruiting-team-software"
-  - "stripe"
-slug: "building-a-great-team-patrick-collison-of-stripe"
-seoTitle: "Tips for building a great team from Patrick Collison of Stripe"
-seoDescription: "Stripe CEO, Patrick Collison recently sat down to talk with Khosla investment partner Keith Rabois about culture and recruiting."
-author: "alangg"
-coverImage: "/images/Patrick-Collison.jpg"
+  - 'recruiting-team-software'
+  - 'stripe'
+slug: 'building-a-great-team-patrick-collison-of-stripe'
+seoTitle: 'Tips for building a great team from Patrick Collison of Stripe'
+seoDescription: 'Stripe CEO, Patrick Collison recently sat down to talk with Khosla investment partner Keith Rabois about culture and recruiting.'
+author: 'alangg'
+coverImage: '/images/Patrick-Collison.jpg'
 ---
 
 The interview focuses on the recruitment decisions Stripe have made in the 5 years since their founding, with a lot of focus on the first 10 employees. They are doing a lot right if recent valuations are anything to go by. See: ‘[Stripe to Land $5BN Valuation in New Investment](http://recode.net/2015/05/20/stripe-to-land-5-billion-valuation-in-new-investment/).’

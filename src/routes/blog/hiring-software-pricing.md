@@ -1,15 +1,15 @@
 ---
-title: "Is the price right?"
-date: "2016-08-10"
+title: 'Is the price right?'
+date: '2016-08-10'
 categories:
-  - "choosing-an-ats"
+  - 'choosing-an-ats'
 tags:
-  - "hiring-software-pricing"
-slug: "hiring-software-pricing"
-seoTitle: "Are you paying too much for hiring software | Hiring software pricing"
-seoDescription: "Our research of Hiring Software pricing showed that many providers are not transparent about their price. So we looked into why this is the case?"
-author: "Siobhan-Hasner"
-coverImage: "/images/gas-pumps.jpg"
+  - 'hiring-software-pricing'
+slug: 'hiring-software-pricing'
+seoTitle: 'Are you paying too much for hiring software | Hiring software pricing'
+seoDescription: 'Our research of Hiring Software pricing showed that many providers are not transparent about their price. So we looked into why this is the case?'
+author: 'Siobhan-Hasner'
+coverImage: '/images/gas-pumps.jpg'
 ---
 
 We’re often asked about [hiring software pricing](https://hirehive.com/pricing-plans/) here at HireHive. Many new customers comment that the competitive price was a contributing factor when they signed up for a free trial.

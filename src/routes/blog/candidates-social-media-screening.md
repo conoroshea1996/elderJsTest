@@ -1,13 +1,13 @@
 ---
 title: "Should a candidate's social media preferences affect their application?"
-date: "2017-10-19"
+date: '2017-10-19'
 categories:
-  - "social-recruiting"
-slug: "candidates-social-media-screening"
+  - 'social-recruiting'
+slug: 'candidates-social-media-screening'
 seoTitle: "Should a candidate's social media preferences affect their application?"
-seoDescription: "We all share views on social media, but should a potential candidate be judged for their social media usage? Is social media screening ethical?"
-author: "Rachel-Hill"
-coverImage: "/images/twitter-facebook-together-exchange-of-information-147413.jpeg"
+seoDescription: 'We all share views on social media, but should a potential candidate be judged for their social media usage? Is social media screening ethical?'
+author: 'Rachel-Hill'
+coverImage: '/images/twitter-facebook-together-exchange-of-information-147413.jpeg'
 ---
 
 _We are all partial to expressing our views and beliefs on social media, some more often than others. But should you judge a candidate on their social media habits? Is social media screening even ethical?_

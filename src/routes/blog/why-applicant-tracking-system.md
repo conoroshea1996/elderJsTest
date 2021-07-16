@@ -1,13 +1,13 @@
 ---
-title: "Why you should be using an Applicant Tracking System"
-date: "2016-09-27"
+title: 'Why you should be using an Applicant Tracking System'
+date: '2016-09-27'
 categories:
-  - "choosing-an-ats"
-slug: "why-applicant-tracking-system"
-seoTitle: ""
+  - 'choosing-an-ats'
+slug: 'why-applicant-tracking-system'
+seoTitle: ''
 seoDescription: "Why should you use an Applicant Tracking System? It makes like easier, and let's you sort through potential candidates far easier than with email and Excel."
-author: "ciara"
-coverImage: "/images/faces.jpg"
+author: 'ciara'
+coverImage: '/images/faces.jpg'
 ---
 
 These days everyone is looking for different ways to speed up and simplify processes in everyday life – from online shopping, to video calling someone on the other side of the world, to high speed broadband being commonplace.

@@ -1,13 +1,13 @@
 ---
-title: "Answers to five of the biggest questions about hiring remote workers"
-date: "2016-10-17"
+title: 'Answers to five of the biggest questions about hiring remote workers'
+date: '2016-10-17'
 categories:
-  - "recruiting-strategy"
-slug: "hiring-remote-workers"
-seoTitle: "Answers to five of the biggest questions about remote hiring"
-seoDescription: "The hires you need might be out of reach geographically, but don’t let that stop you! Hiring remotely can pose some challenges, but the risk is worth it."
-author: "Orla-Hodnett"
-coverImage: "/images/astronaut-remote-hiring-e1476698116768.jpg"
+  - 'recruiting-strategy'
+slug: 'hiring-remote-workers'
+seoTitle: 'Answers to five of the biggest questions about remote hiring'
+seoDescription: 'The hires you need might be out of reach geographically, but don’t let that stop you! Hiring remotely can pose some challenges, but the risk is worth it.'
+author: 'Orla-Hodnett'
+coverImage: '/images/astronaut-remote-hiring-e1476698116768.jpg'
 ---
 
 Remote workers are becoming more and more prevalent in the workforce. With improved access to quality internet access and tools, it has become very easy to set up office in your own home. More and more professionals are seeking improved work-life balance, so the quality of remote workers is always growing.

@@ -1,13 +1,13 @@
 ---
-title: "What we learned about modern recruitment at the Dublin Tech Summit"
-date: "2017-02-17"
+title: 'What we learned about modern recruitment at the Dublin Tech Summit'
+date: '2017-02-17'
 categories:
-  - "hr-events-and-people"
-slug: "modern-recruitment-dublin-tech-summit"
-seoTitle: "What we learned about modern recruitment at the Dublin Tech Summit"
-seoDescription: "Read about what HireHive learned about startup success, startup recruitment and talent retention at the Dublin Tech Summit!"
-author: "Rachel-Hill"
-coverImage: "/images/dts-dublin.jpg"
+  - 'hr-events-and-people'
+slug: 'modern-recruitment-dublin-tech-summit'
+seoTitle: 'What we learned about modern recruitment at the Dublin Tech Summit'
+seoDescription: 'Read about what HireHive learned about startup success, startup recruitment and talent retention at the Dublin Tech Summit!'
+author: 'Rachel-Hill'
+coverImage: '/images/dts-dublin.jpg'
 ---
 
 Set in the Convention Centre, Dublin Tech Summit brought together a mix of startups and more seasoned companies to discuss the technology of tomorrow. As a recruitment software company, HireHive was naturally drawn to the startup and recruitment discussions that took place throughout day one.
@@ -24,7 +24,7 @@ Listening to Michael's story, it is clear that there is no set route in becoming
 
 Driven by dreams of eternal financial stability, unlimited vacation time, the opportunity to work from anywhere and hiring his dream team, Michael honestly reveals that hiring his dream team has been his main success. He reiterated that those primarily driven by financial gain should not build a startup. This shows that a passion for what you do is far more important than dreams of material success in entrepreneurship.
 
-![Dublin Tech Summit](/images/Michael-Hurnaus.jpg)
+![dublin tech summit](/images/michael-hurnaus.jpg)
 
 #### **3\. Hire the right people**
 
@@ -46,7 +46,7 @@ In general, employees are no longer happy to work 9-5 in the same city, within t
 
 With sites like Glassdoor offering employees the opportunity to air their views publicly, organisations are more under the spotlight than ever. However, this is not necessarily a bad thing for organisations. As Diarmuid explains, organisations should look at Glassdoor reviews as opportunities to become better places to work.
 
-![Dublin tech summit](/images/Diarmuid-Russell-e1487332910905.jpg)
+![dublin tech summit](/images/diarmuid-russell-e1487332910905.jpg)
 
 #### **3\. Employees are your real brand advocates**
 

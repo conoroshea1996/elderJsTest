@@ -1,16 +1,16 @@
 ---
-title: "We need to talk about employee retention rates"
-date: "2017-06-26"
+title: 'We need to talk about employee retention rates'
+date: '2017-06-26'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "employee-retention-rate"
-  - "employee-retention-rates"
-slug: "we-need-to-talk-about-employee-retention-rates"
-seoTitle: "We need to talk about employee retention rates | HireHive Recruiting"
-seoDescription: "Your employee retention rates could be making an impact on your recruiting efforts. Here is how you make sure that impact is positive."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-207950.jpeg"
+  - 'employee-retention-rate'
+  - 'employee-retention-rates'
+slug: 'we-need-to-talk-about-employee-retention-rates'
+seoTitle: 'We need to talk about employee retention rates | HireHive Recruiting'
+seoDescription: 'Your employee retention rates could be making an impact on your recruiting efforts. Here is how you make sure that impact is positive.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-207950.jpeg'
 ---
 
 Employee retention rates are more significant than first meets the eye. Good employee retention rates are key to your employer brand and recruitment marketing. If your company is perceived to have a high employee turnover rate, it is by news.

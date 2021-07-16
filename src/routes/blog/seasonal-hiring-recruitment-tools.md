@@ -1,18 +1,18 @@
 ---
-title: "Ramping up your seasonal hiring"
-date: "2016-11-28"
+title: 'Ramping up your seasonal hiring'
+date: '2016-11-28'
 categories:
-  - "recruiting-strategy"
-slug: "seasonal-hiring-recruitment-tools"
-seoTitle: "Ramping up your seasonal hiring | Recruitment tools"
-seoDescription: "If your workplace requirements are about to hit their peak, you probably are looking to hire some temporary staff. Recruitment tools."
-author: "Orla-Hodnett"
-coverImage: "/images/recruitment-tools.jpg"
+  - 'recruiting-strategy'
+slug: 'seasonal-hiring-recruitment-tools'
+seoTitle: 'Ramping up your seasonal hiring | Recruitment tools'
+seoDescription: 'If your workplace requirements are about to hit their peak, you probably are looking to hire some temporary staff. Recruitment tools.'
+author: 'Orla-Hodnett'
+coverImage: '/images/recruitment-tools.jpg'
 ---
 
 With the holiday season fast approaching, it may be time to start hiring temporary staff to meet the seasonal increase in business. It is no small feat to hire a team of seasonal staff, train them, deal with onboarding, integrate into your existing team and meet workplace needs.
 
-This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ "Recruiting Strategy") series
+This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ 'Recruiting Strategy') series
 
 It has to be said, there is no easy way to plan for your fluctuating needs, but with a bit of planning, you can recruit a seasonal team that will knock it out of the park. Seasonal recruiting needs a bit of a different approach, with a few extra considerations. Here are a few tips to help you with your seasonal recruiting drive.
 

@@ -1,13 +1,13 @@
 ---
-title: "Are boomerang employees the answer to your hiring conundrums?"
-date: "2017-08-29"
+title: 'Are boomerang employees the answer to your hiring conundrums?'
+date: '2017-08-29'
 categories:
-  - "culture-branding"
-slug: "boomerang-employees-answer-hiring-conundrums"
-seoTitle: "Are boomerang employees the answer to your hiring conundrums?"
-seoDescription: "Struggling to find new hires and lower turnover rates? Boomerang employees or former hires may be the next best solution to solving hiring conundrums."
-author: "Rachel-Hill"
-coverImage: "/images/Boomerang.png"
+  - 'culture-branding'
+slug: 'boomerang-employees-answer-hiring-conundrums'
+seoTitle: 'Are boomerang employees the answer to your hiring conundrums?'
+seoDescription: 'Struggling to find new hires and lower turnover rates? Boomerang employees or former hires may be the next best solution to solving hiring conundrums.'
+author: 'Rachel-Hill'
+coverImage: '/images/Boomerang.png'
 ---
 
 _Struggling to find a hire with suitable skills? Worried about your yearly turnover rate? Reflecting on whether new employees will fit into the company culture?_
@@ -44,7 +44,7 @@ Before welcoming back an ex employee, ensure a return won’t invigorate any **p
 
 Of course, the biggest disadvantage of boomerang employees is the chance they **may leave again**. They already left once, so who is to say they won’t leave in another 3 months? If you decide like many that the pros outweigh the cons, it is essential to have a fully developed strategy in place.
 
-![boomerang employees](/images/Time-To-Say-Goodbye-.jpg)
+![boomerang employees](/images/time-to-say-goodbye-.jpg)
 
 #### **Putting a strategy in place for promising boomerangs**
 

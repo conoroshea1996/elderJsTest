@@ -1,13 +1,13 @@
 ---
 title: "The what, why and how of hiring a 'Director of Happiness'"
-date: "2017-11-12"
+date: '2017-11-12'
 categories:
-  - "culture-branding"
-slug: "the-what-why-and-how-of-hiring-director-of-happiness"
+  - 'culture-branding'
+slug: 'the-what-why-and-how-of-hiring-director-of-happiness'
 seoTitle: "The what, why and how of hiring a 'Director of Happiness'"
-seoDescription: "Recently, I came across the job title Director of Happiness and I was puzzled. What is that? Is that someone whose job is to improve employee happiness?"
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-214574.jpg"
+seoDescription: 'Recently, I came across the job title Director of Happiness and I was puzzled. What is that? Is that someone whose job is to improve employee happiness?'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-214574.jpg'
 ---
 
 _Recently, I came across the job title Director of Happiness and I was puzzled._
@@ -22,7 +22,7 @@ First of all, it is not their job to keep people happy 24/7. Frankly, it is impo
 
 Kiera Lawlor, Director of Happiness at [Social Chain](http://metro.co.uk/2017/09/27/firm-hires-a-director-of-happiness-to-retain-the-specialness-of-millennial-employees-6960594/), supports the above points and adds that it is her duty to create a fun and enjoyable workplace for staff. She also enforces celebrating all staff achievements, both personal and professional, no matter how big or small. Other important aspects of her job include organising group activities, arranging classes on valuable life skills and creating welcoming spaces that encourage creativity.
 
-\[caption id="attachment_12308" align="aligncenter" width="620"\]![Director of Happiness](/images/steve.png) Social Chain strive to create happiness in the workplace.\[/caption\]
+\[caption id="attachment_12308" align="aligncenter" width="620"\]![director of happiness](/images/steve.png) Social Chain strive to create happiness in the workplace.\[/caption\]
 
 #### **Why is there a need for CHOs?**
 

@@ -1,13 +1,13 @@
 ---
-title: "What is recruitment software and why would you use it?"
-date: "2019-05-07"
+title: 'What is recruitment software and why would you use it?'
+date: '2019-05-07'
 categories:
-  - "choosing-an-ats"
-slug: "what-is-recruitment-software"
-seoTitle: ""
+  - 'choosing-an-ats'
+slug: 'what-is-recruitment-software'
+seoTitle: ''
 seoDescription: "HireHive's Founder discusses what is recruiting software. Find out why and when you should use an Applicant Tracking System such as HireHive."
-author: "John-Dennehy"
-coverImage: "/images/photo-1519389950473-47ba0277781c.jpg"
+author: 'johnd'
+coverImage: '/images/photo-1519389950473-47ba0277781c.jpg'
 ---
 
 I was hiring people in startups for over 15 years before I ever used any recruitment software. Most of my experience was in startups so I didn’t have exposure to the tools large enterprises use. In fact, the first recruitment software I ever used was HireHive. Most founders and small business owners don’t have a lot of recruitment experience and are often unaware of how and when to use recruitment software.

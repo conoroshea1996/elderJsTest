@@ -1,13 +1,13 @@
 ---
-title: "5 tips for recruiting graduates during the summer season"
-date: "2017-07-13"
+title: '5 tips for recruiting graduates during the summer season'
+date: '2017-07-13'
 categories:
-  - "recruiting-strategy"
-slug: "5-tips-recruiting-graduates-summer-season"
-seoTitle: "5 tips for recruiting graduates during the summer season"
+  - 'recruiting-strategy'
+slug: '5-tips-recruiting-graduates-summer-season'
+seoTitle: '5 tips for recruiting graduates during the summer season'
 seoDescription: "School's out, graduates are free, so recruiters need to strike while the iron is hot. See our 5 tips for recruiting graduates during the summer."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-267885.jpeg"
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-267885.jpeg'
 ---
 
 _Summer is great time to kick-start your graduate recruiting. What will help you set yourself apart from the competition?_
@@ -20,7 +20,7 @@ A good working relationship with colleges could ensure a steady stream of gradua
 
 This sort of relationship can be beneficial in the long term, ensuring you have a constant source of well qualified new hires. Colleges also often have several recruiting events every year, which are a fantastic way of recruiting graduates.
 
-![recruiting graduates](/images/UCC-e1499938070831.jpg)
+![recruiting graduates](/images/ucc-e1499938070831.jpg)
 
 Image: UCC often hold recruiting events where companies can meet promising graduates
 
@@ -56,6 +56,6 @@ The days of advertising jobs in the newspaper are long gone, but when hiring mil
 
 Dedicated careers social media accounts are often a point of call for graduates and many will follow industry related accounts. By engaging with potential candidates, you may easily build up a talent pool to refer to when hiring.
 
-![recruiting graduates](/images/EY.jpg)
+![recruiting graduates](/images/ey.jpg)
 
 Image: Ernst and Young advertise their graduate opportunities via dedicated Twitter accounts

@@ -1,14 +1,14 @@
 ---
-title: "Top 10 interview questions in 2021"
-date: "2021-02-14"
+title: 'Top 10 interview questions in 2021'
+date: '2021-02-14'
 categories:
-  - "how-to"
-  - "recruiting-strategy"
-slug: "top-10-interview-questions"
-seoTitle: "Top 10 Interview Questions | Best Recruiter Questions | HireHive"
-seoDescription: "What are the top 10 job interview questions to ask candidates as you make your hiring decisions this year? We explore the best questions for recruiters to ask at interviews."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/top-10-interview-questions-for-recruiters.png"
+  - 'how-to'
+  - 'recruiting-strategy'
+slug: 'top-10-interview-questions'
+seoTitle: 'Top 10 Interview Questions | Best Recruiter Questions | HireHive'
+seoDescription: 'What are the top 10 job interview questions to ask candidates as you make your hiring decisions this year? We explore the best questions for recruiters to ask at interviews.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/top-10-interview-questions-for-recruiters.png'
 ---
 
 Even with all of the technology intended to help narrow job candidates down to only the top choices, interviewing is still a key part of the process. While [artificial intelligence](https://www.forbes.com/sites/falonfatemi/2019/10/31/how-ai-is-uprooting-recruiting/?sh=3dee9c4046ce) can reduce the time a recruiter or hiring manager spends on the process, it doesn’t replace the real-life assessment present in interviews. Asking your finalists the top interview questions will always be the best way to determine if they’ll be a good long-term fit for the job and your company.

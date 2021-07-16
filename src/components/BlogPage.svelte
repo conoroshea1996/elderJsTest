@@ -3,7 +3,6 @@
 
   import { tweened } from 'svelte/motion';
   import BlogNavigation from './BlogNavigation.svelte';
-  export let helpers;
 
   // grab page number from layout
   let pageNumber = 1;
@@ -41,16 +40,12 @@
 <BlogNavigation {activeCategory} />
 <!-- Current: "ring-2 ring-offset-2 ring-indigo-500", Default: "focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500" -->
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
-  {#each blogsToShow as { frontmatter, slug }, i}
+  {#each blogs as { frontmatter, slug }, i}
     {#if i % pageSize === 0}
-      <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
+      <div class="relative col-span-1 lg:col-span-3 rounded-md h-80" class:hidden={blogsToShow.length - 1 < i}>
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <img
-              loading="lazy"
-              class="absoulte inset-0 h-full w-full object-cover"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={slug} />
+            {@html frontmatter.coverImage}
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -67,14 +62,11 @@
         </a>
       </div>
     {:else if i % pageSize === 1}
-      <div class="relative col-span-1 lg:col-span-3 rounded-md">
+      <div class="relative col-span-1 lg:col-span-3 rounded-md" class:hidden={blogsToShow.length - 1 < i}>
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="flex-shrink-0">
-            <img
-              loading="lazy"
-              class="h-56 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={slug} />
+          <div class="relative h-56 overflow-hidden rounded-lg">
+            {@html frontmatter.coverImage}
+            <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -91,14 +83,11 @@
         </a>
       </div>
     {:else if i % pageSize === 2 || i % pageSize === 3 || i % pageSize === 4}
-      <div class="relative col-span-1 lg:col-span-2 rounded-md">
+      <div class="relative col-span-1 lg:col-span-2 rounded-md" class:hidden={blogsToShow.length - 1 < i}>
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="flex-shrink-0">
-            <img
-              loading="lazy"
-              class="h-48 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
-              alt={slug} />
+          <div class="relative h-48 overflow-hidden rounded-lg">
+            {@html frontmatter.coverImage}
+            <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -115,14 +104,10 @@
         </a>
       </div>
     {:else if i % pageSize === 5}
-      <div class="relative col-span-1 lg:col-span-4 rounded-md h-80">
+      <div class="relative col-span-1 lg:col-span-4 rounded-md h-80" class:hidden={blogsToShow.length - 1 < i}>
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <img
-              loading="lazy"
-              class="absoulte inset-0 h-full w-full object-cover"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={slug} />
+            {@html frontmatter.coverImage}
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -139,14 +124,11 @@
         </a>
       </div>
     {:else if i % pageSize === 6}
-      <div class="relative col-span-1 lg:col-span-2 rounded-md">
+      <div class="relative col-span-1 lg:col-span-2 rounded-md" class:hidden={blogsToShow.length - 1 < i}>
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="flex-shrink-0">
-            <img
-              loading="lazy"
-              class="h-48 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
-              alt={slug} />
+          <div class="relative h-48 overflow-hidden rounded-lg">
+            {@html frontmatter.coverImage}
+            <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -163,14 +145,11 @@
         </a>
       </div>
     {:else if i % pageSize === 7 || i % pageSize === 8 || i % pageSize === 9}
-      <div class="relative col-span-1 lg:col-span-2  rounded-md">
+      <div class="relative col-span-1 lg:col-span-2  rounded-md" class:hidden={blogsToShow.length - 1 < i}>
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="flex-shrink-0">
-            <img
-              loading="lazy"
-              class="h-48 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
-              alt={slug} />
+          <div class="relative h-48 overflow-hidden rounded-lg">
+            {@html frontmatter.coverImage}
+            <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">

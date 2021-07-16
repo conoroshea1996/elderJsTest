@@ -1,15 +1,15 @@
 ---
-title: "A recruiter abroad: how to hire multilingual candidates globally"
-date: "2016-07-18"
+title: 'A recruiter abroad: how to hire multilingual candidates globally'
+date: '2016-07-18'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "ats-recruitment"
-slug: "hire-candidates-globally"
-seoTitle: "How to hire multilingual candidates globally | ATS recruitment"
-seoDescription: "An occasional free lunch or extra time off means a world to candidates. What employee perks will convince prospective to join your organisation?"
-author: "Orla-Hodnett"
-coverImage: "/images/Global-Village.jpg"
+  - 'ats-recruitment'
+slug: 'hire-candidates-globally'
+seoTitle: 'How to hire multilingual candidates globally | ATS recruitment'
+seoDescription: 'An occasional free lunch or extra time off means a world to candidates. What employee perks will convince prospective to join your organisation?'
+author: 'Orla-Hodnett'
+coverImage: '/images/Global-Village.jpg'
 ---
 
 The trouble with talented, qualified multilingual employees, is that they can be notoriously difficult to find. You may have an urgent need to hire, so you can cater for your global market, but it is unlikely that you are the only one doing this. Competition is stiff.

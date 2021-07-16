@@ -1,15 +1,15 @@
 ---
-title: "Best practices for rejecting candidates"
-date: "2017-05-18"
+title: 'Best practices for rejecting candidates'
+date: '2017-05-18'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "rejecting-candidates"
-slug: "best-practices-for-rejecting-candidates"
-seoTitle: "Best practices for rejecting candidates I HireHive Recruiting"
+  - 'rejecting-candidates'
+slug: 'best-practices-for-rejecting-candidates'
+seoTitle: 'Best practices for rejecting candidates I HireHive Recruiting'
 seoDescription: "Rejecting candidates isn't a nice job. By Following our 5 Do's and Don'ts, you can part on Good Terms with Candidates and Protect your Employer Brand."
-author: "Orla-Hodnett"
-coverImage: "/images/rejection.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/rejection.jpg'
 ---
 
 Rejecting candidates is horrible. You will have built a good relationship with candidates through the recruiting process, so rejecting them is tough. Letting them down easy and giving them feedback is the best way of ensuring a continued good relationship and is essential for your [employer brand](https://hirehive.com/building-employer-brand-recruiting/).

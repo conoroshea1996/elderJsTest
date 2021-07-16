@@ -1,15 +1,15 @@
 ---
-title: "Your guide to interviewing"
-date: "2015-08-02"
+title: 'Your guide to interviewing'
+date: '2015-08-02'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "interview-schedule-software"
-slug: "interview-techniques"
-seoTitle: "Interview techniques: Your complete interviewing guide | HireHive"
+  - 'interview-schedule-software'
+slug: 'interview-techniques'
+seoTitle: 'Interview techniques: Your complete interviewing guide | HireHive'
 seoDescription: "Interviewing candidates isn't easy. We have compiled a guide to interviewing, gathering some interview techniques and tips."
-author: "HireHive-Team"
-coverImage: "/images/Candidate-experience.jpg"
+author: 'HireHive-Team'
+coverImage: '/images/Candidate-experience.jpg'
 ---
 
 Interview time is precious. It’s that brief window of time, where you get the opportunity to speak to a candidate and assess if they do cut the mustard. Here are some interview techniques!

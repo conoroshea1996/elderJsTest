@@ -1,13 +1,13 @@
 ---
-title: "Christmas recruiting tips"
-date: "2016-12-15"
+title: 'Christmas recruiting tips'
+date: '2016-12-15'
 categories:
-  - "recruiting-strategy"
-slug: "christmas-recruiting-tips"
-seoTitle: "Christmas recruiting tips | HireHive Recruiting Software"
-seoDescription: "Utilize all of your recruiting tools, from your recruiting software to your approach to marketing for Christmas. Here are our Christmas recruiting tips!"
-author: "Orla-Hodnett"
-coverImage: "/images/recruiting-christmas.jpg"
+  - 'recruiting-strategy'
+slug: 'christmas-recruiting-tips'
+seoTitle: 'Christmas recruiting tips | HireHive Recruiting Software'
+seoDescription: 'Utilize all of your recruiting tools, from your recruiting software to your approach to marketing for Christmas. Here are our Christmas recruiting tips!'
+author: 'Orla-Hodnett'
+coverImage: '/images/recruiting-christmas.jpg'
 ---
 
 Christmas is the season of how-tos and festive domestic tips. You cannot turn your head without reading a guide on how to make a homemade wreath, or how to deep-fry a turkey. This are things no-one realistically has the time or inclination to do, but they will bookmark the webpage, with the conviction that they will in fact do thas at some point.

@@ -1,13 +1,13 @@
 ---
-title: "Is Twitter still relevant for recruiting?"
-date: "2017-11-02"
+title: 'Is Twitter still relevant for recruiting?'
+date: '2017-11-02'
 categories:
-  - "social-recruiting"
-slug: "twitter-still-relevant-recruiting"
-seoTitle: "Is Twitter still relevant for recruiting? | HireHive Recruiting Software"
-seoDescription: "While LinkedIn seems to be the modern social recruiting platform of choice, does Twitter still hold any relevance in the recruiting world?"
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-262543.jpeg"
+  - 'social-recruiting'
+slug: 'twitter-still-relevant-recruiting'
+seoTitle: 'Is Twitter still relevant for recruiting? | HireHive Recruiting Software'
+seoDescription: 'While LinkedIn seems to be the modern social recruiting platform of choice, does Twitter still hold any relevance in the recruiting world?'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-262543.jpeg'
 ---
 
 _While LinkedIn seems to be the modern social recruiting platform of choice, does Twitter still hold any relevance in the recruiting world?_
@@ -24,7 +24,7 @@ As a recruiter, it’s important to know where there’s a large audience, but a
 
 If you decide that your talent pool is worth pursuing on Twitter, please ensure you have a complete and professional profile - this means including a profile picture and bio. Without these, people are unlikely to follow you back. Unlike LinkedIn, you can make your profile far more lighthearted, so don’t forget to show your social side in your bio and even profile picture. Also ensure that your profile is open, so your talent pool can easily follow you.
 
-\[caption id="attachment_12274" align="aligncenter" width="1310"\]![Twitter](/images/stacy-1.png) Example of a good recruiter Twitter profile.\[/caption\]
+\[caption id="attachment_12274" align="aligncenter" width="1310"\]![twitter](/images/stacy-1.png) Example of a good recruiter Twitter profile.\[/caption\]
 
 #### **You can build up a steady following**
 

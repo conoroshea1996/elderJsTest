@@ -1,13 +1,13 @@
 ---
-title: "Everything you need to know about onboarding"
-date: "2018-07-30"
+title: 'Everything you need to know about onboarding'
+date: '2018-07-30'
 categories:
-  - "culture-branding"
-slug: "onboarding-processes"
-seoTitle: "Onboarding | Guide to onboarding employees & the process | HireHive"
-seoDescription: "Onboarding processes are something we know quite well here at HireHive. And we want to share our experience on onboarding new users but also new employees!"
-author: "Maëlle-De-Francesco"
-coverImage: "/images/hellophotosmall.jpeg"
+  - 'culture-branding'
+slug: 'onboarding-processes'
+seoTitle: 'Onboarding | Guide to onboarding employees & the process | HireHive'
+seoDescription: 'Onboarding processes are something we know quite well here at HireHive. And we want to share our experience on onboarding new users but also new employees!'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/hellophotosmall.jpeg'
 ---
 
 _Onboarding new users or new employees is essential._ _In this post, we wanted to talk about two kinds of onboarding that we have experienced in HireHive: the onboarding of the users of our software but also the onboarding of new employees. We wanted to share our experience and to give you some insights on why we recently revamped our in-app onboarding process. We also have a few tips on how to onboard new employees in your company. Let's get started!_
@@ -22,7 +22,7 @@ We spent a few days thinking about the reason why people might not use the platf
 
 As software users, we ourselves have tried a good number of onboarding processes. From in-app ones to emails, we have seen a lot of different sorts of onboarding processes. This helped us understand what we wanted to do within our own software. So, what were our criteria when revamping our onboarding process? Well, we wanted to make sure that people signing up for our free trial knew how to take the most important steps to see the value HireHive could bring them. We identified four steps that seemed important for a recruiter starting to use a new ATS.
 
-![onboarding employees with HireHive](/images/Onboarding-cropped.png)
+![onboarding employees with hirehive](/images/onboarding-cropped.png)
 
 ## The new HireHive onboarding process:
 

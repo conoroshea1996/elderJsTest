@@ -1,13 +1,13 @@
 ---
-title: "Recruiting software for small businesses"
-date: "2016-06-27"
+title: 'Recruiting software for small businesses'
+date: '2016-06-27'
 categories:
-  - "choosing-an-ats"
-slug: "recruiting-software-small-businesses"
-seoTitle: ""
-seoDescription: "Your small business needs a big performance from your recruiting software. How can recruiting software help you grow your organisation?"
-author: "Orla-Hodnett"
-coverImage: "/images/small-business-owner.jpg"
+  - 'choosing-an-ats'
+slug: 'recruiting-software-small-businesses'
+seoTitle: ''
+seoDescription: 'Your small business needs a big performance from your recruiting software. How can recruiting software help you grow your organisation?'
+author: 'Orla-Hodnett'
+coverImage: '/images/small-business-owner.jpg'
 ---
 
 Your organisation may be small, but that doesn’t mean it cannot benefit from candidate management or recruiting software. The analytics, communications and sourcing capabilities of recruiting software are fully scalable, so if you’re anticipating a period of intense hiring, your software will be capable of keeping up with the pace.
@@ -18,7 +18,7 @@ Recruiting software takes much of the time-consuming work involved in recruiting
 
 If you’re running a small business, you’re unlikely to need extensive data on performance review or human resource management. Smaller businesses need only stick to a number of core metrics, like sourcing channels and time to hire.
 
-![Rerports charts](/images/Rerports-charts.png)
+![rerports charts](/images/rerports-charts.png)
 
 HireHive allows you to monitor where your candidates are coming from and which sources are bringing you the candidates you need. This knowledge will help you to determine which jobs boards, social media platforms or other sources are giving you the best ROI, which will in turn help you to direct your budget to it.
 
@@ -34,7 +34,7 @@ When choosing recruiting software, you will want a filtering tool. Not only that
 
 Communication is key in keeping candidates engaged. When choosing recruiting software, you’ll need something that fosters two-way communication between you and your candidates. You’ll also need a means of sharing this with your candidates to optimise collaboration with your colleagues or your HR team, so that there are no lapses in contact.
 
-![Communications](/images/Communications.jpg)
+![communications](/images/communications.jpg)
 
 For a smaller organisation, a means of maintaining communication and keeping a comprehensive record of all correspondence takes much of the work off a stretched team. HireHive offers this, with control over who has access to what.
 

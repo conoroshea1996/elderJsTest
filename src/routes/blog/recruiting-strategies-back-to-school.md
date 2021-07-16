@@ -1,15 +1,15 @@
 ---
-title: "Back to school for recruiters"
-date: "2016-08-22"
+title: 'Back to school for recruiters'
+date: '2016-08-22'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruiting-strategies"
-slug: "recruiting-strategies-back-to-school"
-seoTitle: "Back to school for recruiters | Recruiting strategies"
-seoDescription: "Class is in session. Recruiters are heading back to work. From online recruiting software to recruiting strategies, here are a few lessons for the new term."
-author: "Orla-Hodnett"
-coverImage: "/images/Grease2.jpg"
+  - 'recruiting-strategies'
+slug: 'recruiting-strategies-back-to-school'
+seoTitle: 'Back to school for recruiters | Recruiting strategies'
+seoDescription: 'Class is in session. Recruiters are heading back to work. From online recruiting software to recruiting strategies, here are a few lessons for the new term.'
+author: 'Orla-Hodnett'
+coverImage: '/images/Grease2.jpg'
 ---
 
 For the recruiter, the summer months were all fun and games. Recruiting scaled down. Graduate recruiting was done and dusted. Key decision makers were on a yacht in the riviera somewhere. It was all a bit [Danny and Sandy](https://www.youtube.com/watch?v=7oKPYe53h78), without the cramps.

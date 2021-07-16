@@ -1,13 +1,13 @@
 ---
-title: "The what, why and how of mobile recruiting"
-date: "2017-03-28"
+title: 'The what, why and how of mobile recruiting'
+date: '2017-03-28'
 categories:
-  - "recruiting-strategy"
-slug: "the-what-why-and-how-of-mobile-recruiting"
-seoTitle: "The what, why and how of mobile recruiting"
-seoDescription: "Just when you got to grips with social media recruiting, along comes another trend to disrupt your process: mobile recruiting."
-author: "Rachel-Hill"
-coverImage: "/images/mobile-recruitment.jpg"
+  - 'recruiting-strategy'
+slug: 'the-what-why-and-how-of-mobile-recruiting'
+seoTitle: 'The what, why and how of mobile recruiting'
+seoDescription: 'Just when you got to grips with social media recruiting, along comes another trend to disrupt your process: mobile recruiting.'
+author: 'Rachel-Hill'
+coverImage: '/images/mobile-recruitment.jpg'
 ---
 
 ### **What?**

@@ -1,13 +1,13 @@
 ---
-title: "How To Source candidates with recruiting software"
-date: "2016-11-22"
+title: 'How To Source candidates with recruiting software'
+date: '2016-11-22'
 categories:
-  - "choosing-an-ats"
-slug: "sourcing-candidates-recruiting-software"
-seoTitle: "How to Source Candidates | Sourcing Candidates | HireHive"
-seoDescription: "You are the Indiana Jones of recruiting and you are seeking the holy grail of candidates. So how do recruiters find candidates? We explore how to source candidates with recruiting software."
-author: "Orla-Hodnett"
-coverImage: "/images/sourcing-candidates-recruiting-software.jpg"
+  - 'choosing-an-ats'
+slug: 'sourcing-candidates-recruiting-software'
+seoTitle: 'How to Source Candidates | Sourcing Candidates | HireHive'
+seoDescription: 'You are the Indiana Jones of recruiting and you are seeking the holy grail of candidates. So how do recruiters find candidates? We explore how to source candidates with recruiting software.'
+author: 'Orla-Hodnett'
+coverImage: '/images/sourcing-candidates-recruiting-software.jpg'
 ---
 
 The root of the job for any recruiter is sourcing candidates. Without candidates, the job of recruiting would be fairly pointless… in fact it would not be a job. The concept of a job would probably not exist. Finding those with the relevant skills can pose a significant challenge and requires a clearly defined strategy, as well as a little help from an effective recruiting software solution.

@@ -1,15 +1,15 @@
 ---
 title: "HireHive is tops in Capterra's Top 20 Most User-Friendly ATS report"
-date: "2016-06-04"
+date: '2016-06-04'
 categories:
-  - "hirehive-updates"
+  - 'hirehive-updates'
 tags:
-  - "applicant-tracking-software"
-slug: "hirehive-capterra-top-20-ats"
-seoTitle: ""
+  - 'applicant-tracking-software'
+slug: 'hirehive-capterra-top-20-ats'
+seoTitle: ''
 seoDescription: "We are delighted to announce that HireHive has earned the number 6 spot on Capterra's Top 20 Most User-Friendly Applicant Tracking Software (ATS) report."
-author: "HireHive-Team"
-coverImage: "/images/Capterra-Award.jpg"
+author: 'HireHive-Team'
+coverImage: '/images/Capterra-Award.jpg'
 ---
 
 The report is based on a number of key factors and was conducted by the Capterra team following extensive research.

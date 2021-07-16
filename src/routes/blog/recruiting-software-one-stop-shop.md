@@ -1,13 +1,13 @@
 ---
-title: "Why recruiting software is your one-stop shop"
-date: "2017-07-27"
+title: 'Why recruiting software is your one-stop shop'
+date: '2017-07-27'
 categories:
-  - "choosing-an-ats"
-slug: "recruiting-software-one-stop-shop"
-seoTitle: "Why recruiting software is your one-stop shop - HireHive"
-seoDescription: "Are you still using email and spreadsheets to manage hiring? Why not make life easier and use recruiting software instead."
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-492755.jpeg"
+  - 'choosing-an-ats'
+slug: 'recruiting-software-one-stop-shop'
+seoTitle: 'Why recruiting software is your one-stop shop - HireHive'
+seoDescription: 'Are you still using email and spreadsheets to manage hiring? Why not make life easier and use recruiting software instead.'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-492755.jpeg'
 ---
 
 _Recruiting software often resembles a one stop shop i.e. somewhere you can get everything you need in one place._
@@ -48,7 +48,7 @@ With GDPR and other data protection laws looming in the background, compliance i
 
 Recruiting software is also great for holding feedback on candidates. If an unsuccessful candidate believes you unfairly disqualified them, they may want detailed feedback. Using feedback forms in recruitment software means you can easily transport this data.
 
-![recruiting software](/images/scorecard-e1501154932277.gif)
+<img src="/images/scorecard-e1501154932277.gif" alt="recruiting software">
 
 #### **5\. It keeps a neat candidate database**
 

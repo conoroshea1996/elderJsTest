@@ -1,13 +1,13 @@
 ---
-title: "Recruitment in the Age of COVID-19: Hiring for Newly Remote Jobs"
-date: "2020-05-18"
+title: 'Recruitment in the Age of COVID-19: Hiring for Newly Remote Jobs'
+date: '2020-05-18'
 categories:
-  - "recruiting-strategy"
-slug: "recruitment-in-the-age-of-covid"
-seoTitle: ""
-seoDescription: "As the COVID-19 crisis sweeps around the globe, businesses need to rethink how they manage employees, work from home & hire new team members."
-author: "HireHive-Team"
-coverImage: "/images/photo-1584907797015-7554cd315667.jpeg"
+  - 'recruiting-strategy'
+slug: 'recruitment-in-the-age-of-covid'
+seoTitle: ''
+seoDescription: 'As the COVID-19 crisis sweeps around the globe, businesses need to rethink how they manage employees, work from home & hire new team members.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1584907797015-7554cd315667.jpeg'
 ---
 
 As the COVID-19 crisis sweeps around the globe, businesses all over the world need to rethink how they manage employees, work from home, and hire new team members. Jobs that weren’t remote before are now being handled from home, and hiring managers need to pivot to ensure they’re still bringing on top talent when necessary. While it may have taken a little while to get into the grove of remote working, most employees are working well under very stressful conditions. This means conditions can be easily replicated in the best of times. What can companies do to recruit for these newly remote positions? Let’s take a closer look.

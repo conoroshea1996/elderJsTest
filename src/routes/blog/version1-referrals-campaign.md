@@ -1,13 +1,13 @@
 ---
-title: "Version1 successul referrals campaign"
-date: "2015-09-20"
+title: 'Version1 successul referrals campaign'
+date: '2015-09-20'
 categories:
-  - "culture-branding"
-slug: "version1-referrals-campaign"
-seoTitle: "Version1 successul referrals campaign | HireHive ATS"
-seoDescription: "Version1 have been using HireHive to run and manage Referrals Campaigns across their company. Have a look at the results they got!"
-author: "HireHive-Team"
-coverImage: "/images/referrals-campaign-1.jpg"
+  - 'culture-branding'
+slug: 'version1-referrals-campaign'
+seoTitle: 'Version1 successul referrals campaign | HireHive ATS'
+seoDescription: 'Version1 have been using HireHive to run and manage Referrals Campaigns across their company. Have a look at the results they got!'
+author: 'HireHive-Team'
+coverImage: '/images/referrals-campaign-1.jpg'
 ---
 
 They have had huge success in the number of referred candidates they are receiving and in the conversion of these candidates to hires at the company.
@@ -16,4 +16,4 @@ Setting up a referral campaign is easy and the positive results are well documen
 
 We've created an infographic to show you Version 1s success in numbers.
 
-![Referrals Campaign](/images/Version1-Referrals-Campaign.png)
+![referrals campaign](/images/version1-referrals-campaign.png)

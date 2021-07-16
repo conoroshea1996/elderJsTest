@@ -1,15 +1,15 @@
 ---
-title: "How to maintain efficiency at the busiest time of the year"
-date: "2016-09-01"
+title: 'How to maintain efficiency at the busiest time of the year'
+date: '2016-09-01'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruitment-tools"
-slug: "recruitment-tools-efficiency"
-seoTitle: "How to maintain efficiency at the busiest time of the year"
-seoDescription: "Maintaining efficiency and productivity at the busiest time of the year is daunting. Your recruitment tools are there to help!"
-author: "Orla-Hodnett"
-coverImage: "/images/recruitment-tools.jpg"
+  - 'recruitment-tools'
+slug: 'recruitment-tools-efficiency'
+seoTitle: 'How to maintain efficiency at the busiest time of the year'
+seoDescription: 'Maintaining efficiency and productivity at the busiest time of the year is daunting. Your recruitment tools are there to help!'
+author: 'Orla-Hodnett'
+coverImage: '/images/recruitment-tools.jpg'
 ---
 
 Maintaining efficiency and productivity at the busiest time of the year is daunting. For many of us doing the big shop or making small talk in a lift is daunting, so filling dozens of hard-to-fill positions in a very short window of time is no joke.
@@ -24,7 +24,7 @@ When you are busy, even when you are tremendously busy, it can be difficult to r
 
 Furthermore, each member of your team, no matter how junior or senior, will have a [contribution to make in the recruiting process](http://hirehive.io/blog/employer-brand-created-by-employees-job-applicants/). Collaboration can be made effortless, through the use of various tools. Messaging tools like slack, or even tools like Dropbox or Google Docs, which facilitate easy collaboration on projects, can be used to great effect here.
 
-This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ "Recruiting Strategy") series
+This is part of our [Recruiting Strategy](http://hirehive.io/recruiting-strategy/ 'Recruiting Strategy') series
 
 #### Setting goals
 

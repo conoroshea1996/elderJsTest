@@ -1,13 +1,13 @@
 ---
-title: "How to leverage social media to become a social recruiting expert"
-date: "2018-11-21"
+title: 'How to leverage social media to become a social recruiting expert'
+date: '2018-11-21'
 categories:
-  - "social-recruiting"
-slug: "social-recruiting-expert"
-seoTitle: ""
-seoDescription: "Social recruiting is a great way to attract new talent to your company. By leveraging your social media pages you can reach the best talent. Here is how."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/hashtag1.jpg"
+  - 'social-recruiting'
+slug: 'social-recruiting-expert'
+seoTitle: ''
+seoDescription: 'Social recruiting is a great way to attract new talent to your company. By leveraging your social media pages you can reach the best talent. Here is how.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/hashtag1.jpg'
 ---
 
 #### **What does social recruiting mean?**
@@ -18,7 +18,7 @@ Social recruiting simply means recruiting using social platforms. This includes 
 
 Social media is a great place to showcase your employer brand. It’s not a secret that candidates tend to want to work with companies that they know before applying for a job. But if you’re not the likes of Nike or Google, you may not attract as many potential candidates to your company’s website as you would want to. Our first piece of advice is: If you don’t have a company page on [Glassdoor](https://www.glassdoor.ie), go create one now!
 
-\[caption id="attachment*13774" align="aligncenter" width="789"\]![HHglassdoor](/images/HHglassdoor-1-789x500.png) \_Our very own Glassdoor page*\[/caption\]
+\[caption id="attachment*13774" align="aligncenter" width="789"\]![hhglassdoor](/images/hhglassdoor-1-789x500.png) \_Our very own Glassdoor page*\[/caption\]
 
 Nowadays, it’s super easy to find information about a company. Chances are, before applying for a role, candidates are going to Google your company. They want to know as many things as possible about your company. You have to make sure that the information they are going to find is accurate, up-to-date and if possible, positive. By having a Glassdoor company page, you can gather employees reviews. Most of them would be happy to share their review so don't be afraid to ask! It's also important to respond to negative reviews and maybe keep a list of any negative feedback that comes up - it may be constructive and something that can be addressed. If you are responding, it shows that you are open to engaging with people.
 
@@ -34,7 +34,7 @@ Your social media platforms give you the perfect opportunity to do this. Don't f
 
 LinkedIn is probably the first social platform you think of when talking about social recruiting. As an international social network, LinkedIn can definitely help you reach new talent, so you don’t want to neglect it when implementing a social recruiting strategy. A lot of job seekers use the platform to network with people in the industry they’d like to find jobs in and to share their CV with professionals from their industry. That’s why LinkedIn is a great platform to share your jobs.
 
-\[caption id="attachment*13775" align="aligncenter" width="468"\]![Fidzup, some of our French customers, leveraging LinkedIn to recruit!](/images/fidzup-linkedin-468x500.png) *[Fidzup](https://www.fidzup.com/), some of our French customers, leveraging LinkedIn to recruit!\_\[/caption\]
+\[caption id="attachment*13775" align="aligncenter" width="468"\]![fidzup, some of our french customers, leveraging linkedin to recruit!](/images/fidzup-linkedin-468x500.png) *[Fidzup](https://www.fidzup.com/), some of our French customers, leveraging LinkedIn to recruit!\_\[/caption\]
 
 You actually have two options when sharing your jobs on Linkedin: publish it as a job (which is a paid option), or on your own profile/company page (for free!). When posting your jobs on your personal profile, they are automatically shared with your network, and every 'Like' or share helps you increase the reach of the job offer. LinkedIn is also a great platform to network - our advice is to work on building and growing your network, as this could help you reach more and more candidates!
 
@@ -42,11 +42,11 @@ You actually have two options when sharing your jobs on Linkedin: publish it as 
 
 Over the years, we’ve come across many companies who have a great strategy when it comes to sharing their jobs on social media. People might think that Instagram isn’t the best platform to share job opportunities as the main goal of Instagram is to share photos, but bear in mind that Instagram is now the fastest-growing social media platform! Of course, it might not suit all types of jobs and positions, but it is definitely worth a shot.
 
-The most used hashtags on Instagram to promote open vacancies are **#hiringnow #werehiring #workwithus** (we made a full list of hashtags that can be used on Instagram and Twitter down below!). As Instagram is more a visual platform, that’s how you should go about promoting your jobs. If you don’t have a designer that can create stunning visuals in the blink of an eye, don’t worry! There are plenty of great tools out there that don’t need any design skills to create beautiful branded /images/. Here at HireHive we love using [Canva](https://www.canva.com/), but just do a quick Google search and you will find plenty of alternatives. That is the first way of sharing your jobs on Instagram.
+The most used hashtags on Instagram to promote open vacancies are **#hiringnow #werehiring #workwithus** (we made a full list of hashtags that can be used on Instagram and Twitter down below!). As Instagram is more a visual platform, that’s how you should go about promoting your jobs. If you don’t have a designer that can create stunning visuals in the blink of an eye, don’t worry! There are plenty of great tools out there that don’t need any design skills to create beautiful branded images. Here at HireHive we love using [Canva](https://www.canva.com/), but just do a quick Google search and you will find plenty of alternatives. That is the first way of sharing your jobs on Instagram.
 
 #### ![linguatrip 3](/images/linguatrip-3-1-275x500.png)Instagram recruiting best practice
 
-The second way, that our lovely customers Linguatrip completely master, is to share your jobs in your Instagram stories. For those who may not be too familiar with this term, Instagram stories are /images/ or short videos that you can share for people to see during 24 hours only. This requires a decent audience on your Instagram page as stories do not appear when searching Instagram for hashtags.
+The second way, that our lovely customers Linguatrip completely master, is to share your jobs in your Instagram stories. For those who may not be too familiar with this term, Instagram stories are images or short videos that you can share for people to see during 24 hours only. This requires a decent audience on your Instagram page as stories do not appear when searching Instagram for hashtags.
 
 Why should you use Instagram stories instead of Instagram regular posts? Simply because they get a lot more reactions and shares than regular posts. You might be wondering how you could share your jobs this way? Well, [Linguatrip](https://linguatrip.com/en/?gclid=EAIaIQobChMI7O-JlYHj3gIV5b3tCh18-AhMEAAYASAAEgIcXfD_BwE) record short videos of one of their team members describing the role, and candidates can just swipe up to have access to the application form and submit their CVs. Easy peasy! Instagram Stories can also be added as ‘Highlights’, which means that instead of disappearing after 24 hours, these stories will be saved on your Instagram profile, above your regular posts.
 

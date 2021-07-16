@@ -1,13 +1,13 @@
 ---
 title: "Recruitment shouldn't cost the earth"
-date: "2019-04-29"
+date: '2019-04-29'
 categories:
-  - "hirehive-updates"
-slug: "recruitment-shouldnt-cost-earth"
+  - 'hirehive-updates'
+slug: 'recruitment-shouldnt-cost-earth'
 seoTitle: "Recruitment shouldn't cost the earth | HireHive"
-seoDescription: "At HireHive, we want to get to a point where recruitment doesn’t cost the earth. Here is our question to Microsoft to help us in this journey."
-author: "John-Dennehy"
-coverImage: "/images/photo-1552799446-159ba9523315.jpg"
+seoDescription: 'At HireHive, we want to get to a point where recruitment doesn’t cost the earth. Here is our question to Microsoft to help us in this journey.'
+author: 'johnd'
+coverImage: '/images/photo-1552799446-159ba9523315.jpg'
 ---
 
 Online recruitment software means less paper is wasted by candidates and companies. That’s good news.

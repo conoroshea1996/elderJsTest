@@ -1,13 +1,13 @@
 ---
-title: "What types of questions should you ask in onsite interviews?"
-date: "2017-10-13"
+title: 'What types of questions should you ask in onsite interviews?'
+date: '2017-10-13'
 categories:
-  - "recruiting-strategy"
-slug: "types-questions-ask-onsite-interviews"
-seoTitle: "What types of questions should you ask in onsite interviews?"
-seoDescription: "Onsite interviews are one of the most useful parts of the recruiting process. How do you make the most of interviews with potential candidates?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-356079.jpeg"
+  - 'recruiting-strategy'
+slug: 'types-questions-ask-onsite-interviews'
+seoTitle: 'What types of questions should you ask in onsite interviews?'
+seoDescription: 'Onsite interviews are one of the most useful parts of the recruiting process. How do you make the most of interviews with potential candidates?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-356079.jpeg'
 ---
 
 _Onsite interviews are one of the most useful parts of the recruiting process. So how do you make the most of interviews with potential candidates?_

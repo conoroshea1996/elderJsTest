@@ -1,13 +1,13 @@
 ---
-title: "How to use appropriate recruiting language during the recruitment process"
-date: "2017-08-10"
+title: 'How to use appropriate recruiting language during the recruitment process'
+date: '2017-08-10'
 categories:
-  - "compliance-and-data"
-slug: "recruiting-language"
-seoTitle: "How to use appropriate recruiting language to recruit"
-seoDescription: "Have you thought how recruiting language impacts your recruitment process? See our 4 tips to ensure best language use and success in recruitment:"
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-256798.jpeg"
+  - 'compliance-and-data'
+slug: 'recruiting-language'
+seoTitle: 'How to use appropriate recruiting language to recruit'
+seoDescription: 'Have you thought how recruiting language impacts your recruitment process? See our 4 tips to ensure best language use and success in recruitment:'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-256798.jpeg'
 ---
 
 _Recruiters take many things into consideration during the recruitment process: sourcing strategies, promoting ads and interviewing candidates... Something that is almost forgotten throughout this whole process is the recruiting language used._

@@ -1,13 +1,13 @@
 ---
-title: "HireHive is all grown up - from .io to dotcom"
-date: "2017-05-12"
+title: 'HireHive is all grown up - from .io to dotcom'
+date: '2017-05-12'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-grown-io-dotcom"
-seoTitle: "HireHive is all grown up - from hirehive.io to hirehive.com"
-seoDescription: "Moving from hirehive.io to hirehive.com is something we wanted for years. Recently, this dream became a reality: read our story here"
-author: "Siobhan-Hasner"
-coverImage: "/images/dotcomblog-e1494599786205.png"
+  - 'hirehive-updates'
+slug: 'hirehive-grown-io-dotcom'
+seoTitle: 'HireHive is all grown up - from hirehive.io to hirehive.com'
+seoDescription: 'Moving from hirehive.io to hirehive.com is something we wanted for years. Recently, this dream became a reality: read our story here'
+author: 'Siobhan-Hasner'
+coverImage: '/images/dotcomblog-e1494599786205.png'
 ---
 
 Negotiations for the domain have taken almost two years, but now [hirehive.com](https://hirehive.com/) is active after years of being dormant. It is always something that has been on our minds - .io resonates with tech people and the start up community, but is not as widely known in other industries.

@@ -1,13 +1,13 @@
 ---
-title: "Interviewing using behavioural questions"
-date: "2017-06-16"
+title: 'Interviewing using behavioural questions'
+date: '2017-06-16'
 categories:
-  - "recruiting-strategy"
-slug: "interviewing-using-behavioural-questions"
-seoTitle: "Interviewing using behavioural questions I HireHive Recruiting Software"
-seoDescription: "Behavioural questions in interviews can give great insights into candidates. But how do you incorporate them into your recruiting process?"
-author: "Orla-Hodnett"
-coverImage: "/images/peacock-close-up-plumage-bird-158808.jpeg"
+  - 'recruiting-strategy'
+slug: 'interviewing-using-behavioural-questions'
+seoTitle: 'Interviewing using behavioural questions I HireHive Recruiting Software'
+seoDescription: 'Behavioural questions in interviews can give great insights into candidates. But how do you incorporate them into your recruiting process?'
+author: 'Orla-Hodnett'
+coverImage: '/images/peacock-close-up-plumage-bird-158808.jpeg'
 ---
 
 What is the best indicator of how a potential candidate will behave in the role? The greatest insight into their past performance? What can tell you how they might react in a high-pressure situation? One simple way of finding all of this out is by including [behavioural questions](https://www.thebalance.com/use-a-behavioral-interview-to-select-the-best-employees-1918485) in your interview process.

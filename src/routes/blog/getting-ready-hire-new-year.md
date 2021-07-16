@@ -1,13 +1,13 @@
 ---
-title: "Getting ready to hire in the New Year"
-date: "2017-12-08"
+title: 'Getting ready to hire in the New Year'
+date: '2017-12-08'
 categories:
-  - "recruiting-strategy"
-slug: "getting-ready-hire-new-year"
-seoTitle: "Preparing for Q1 2018 hiring"
+  - 'recruiting-strategy'
+slug: 'getting-ready-hire-new-year'
+seoTitle: 'Preparing for Q1 2018 hiring'
 seoDescription: "There's nothing more overwhelming than coming back to work in January with a huge volume of work to do. HireHive can help you to prepare for 2018 hiring."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-259698.jpeg"
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-259698.jpeg'
 ---
 
 _There is nothing more overwhelming than coming back in January with a huge volume of work to do. A little planning and a little help from your recruiting software could give you the advantage in Q1 of the New Year hiring._

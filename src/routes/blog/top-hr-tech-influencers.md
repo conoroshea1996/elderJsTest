@@ -1,20 +1,20 @@
 ---
-title: "Our top HR Tech Influencers"
-date: "2015-10-20"
+title: 'Our top HR Tech Influencers'
+date: '2015-10-20'
 categories:
-  - "hr-events-and-people"
+  - 'hr-events-and-people'
 tags:
-  - "hr-software"
-slug: "top-hr-tech-influencers"
-seoTitle: "Top tech influencers | HireHive Recruiting Software"
-seoDescription: "Here for your bookmarking and Twitter listing pleasure, are some of the best Human Resources experts to follow for #HRTechConf 2015."
-author: "HireHive-Team"
-coverImage: "/images/Twitter-Banner-e1446464060904.png"
+  - 'hr-software'
+slug: 'top-hr-tech-influencers'
+seoTitle: 'Top tech influencers | HireHive Recruiting Software'
+seoDescription: 'Here for your bookmarking and Twitter listing pleasure, are some of the best Human Resources experts to follow for #HRTechConf 2015.'
+author: 'HireHive-Team'
+coverImage: '/images/Twitter-Banner-e1446464060904.png'
 ---
 
 #### Steve Boese
 
-![@Kris_Dunn](/images/@Kris_Dunn.jpeg)
+![@kris_dunn](/images/@kris_dunn.jpeg)
 
 Steve Boese is the Chair of the HR Technology Conference. He has more than 20 years of experience in human resources. Steve created and hosts the [HR Happy Hour](http://www.blogtalkradio.com/steve-boese) show on Blog Talk Radio. He writes for the “[Inside HR Tech](http://www.hreonline.com/HRE/browse/Inside%20HR%20Tech%20Column.jhtml)” columns on [HREonline.com](http://HREonline.com) and you can [read his blog](http://steveboese.squarespace.com/), where he shares HR tech news and answers employee questions.
 
@@ -30,7 +30,7 @@ Matt is executive editor of [Recruiting Blogs](http://recruitingdaily.com/). He
 
 #### Robin Schooling
 
-![@RobinSchooling](/images/@RobinSchooling.jpeg)
+![@robinschooling](/images/@robinschooling.jpeg)
 
 Robin is a HR industry leader, VP of HR, strategist, writer, and speaker with a great ability for simplifying complex topics.
 
@@ -38,7 +38,7 @@ Robin is a HR industry leader, VP of HR, strategist, writer, and speaker with a 
 
 #### Jennifer McClure
 
-![@JenniferMcClure](/images/@JenniferMcClure.jpeg)
+![@jennifermcclure](/images/@jennifermcclure.jpeg)
 
 Jennifer is the founder of [Unbridled Talent](http://unbridledtalent.com/) and the CEO of [Disrupt HR](http://disrupthr.co/) a series of recruiting events. She has over 25 years of experience leading human resources and talent acquisition efforts and has spoken at over 200 industry-related conferences and events.
 
@@ -46,7 +46,7 @@ Jennifer is the founder of [Unbridled Talent](http://unbridledtalent.com/) and t
 
 #### Kris Dunn
 
-![KrisDunn](/images/KrisDunn.jpeg)
+![krisdunn](/images/krisdunn.jpeg)
 
 Kris is the founder of [Fistful of Talent](http://fistfuloftalent.com/) and [HRCapitalist](http://www.hrcapitalist.com/) blog. He is a VP of HR who has experience of working with Fortune 500 companies as well as startups
 

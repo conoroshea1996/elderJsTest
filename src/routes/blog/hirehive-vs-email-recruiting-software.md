@@ -1,15 +1,15 @@
 ---
-title: "HireHive vs. Email: How recruiting software outperforms your email hiring process"
-date: "2016-02-15"
+title: 'HireHive vs. Email: How recruiting software outperforms your email hiring process'
+date: '2016-02-15'
 categories:
-  - "hirehive-updates"
+  - 'hirehive-updates'
 tags:
-  - "recruiting-management-software"
-slug: "hirehive-vs-email-recruiting-software"
-seoTitle: "HireHive vs. Email: How recruiting software outperforms email hiring"
-seoDescription: "Recruiting software, like HireHive offers more effective and uncomplicated means of communicating with candidates than email."
-author: "HireHive-Team"
-coverImage: "/images/photo-1491592558635-f4cc68beb2e9.jpg"
+  - 'recruiting-management-software'
+slug: 'hirehive-vs-email-recruiting-software'
+seoTitle: 'HireHive vs. Email: How recruiting software outperforms email hiring'
+seoDescription: 'Recruiting software, like HireHive offers more effective and uncomplicated means of communicating with candidates than email.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1491592558635-f4cc68beb2e9.jpg'
 ---
 
 _Email has long been established as the primary tool for managing job postings and applications, but could we do better? Recruiting software, like HireHive offers more effective and uncomplicated means of communicating with candidates._

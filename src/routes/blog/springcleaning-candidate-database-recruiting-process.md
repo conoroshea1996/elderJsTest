@@ -1,13 +1,13 @@
 ---
-title: "Springcleaning your candidate database and recruiting process"
-date: "2017-02-20"
+title: 'Springcleaning your candidate database and recruiting process'
+date: '2017-02-20'
 categories:
-  - "recruiting-strategy"
-slug: "springcleaning-candidate-database-recruiting-process"
-seoTitle: "Springcleaning your candidate database and recruiting process"
-seoDescription: "Spring is in the air, there are daffodils in the park, lambs in the field...and it is time to do a thorough springclean of your recruiting process."
-author: "Orla-Hodnett"
-coverImage: "/images/cleaning.jpg"
+  - 'recruiting-strategy'
+slug: 'springcleaning-candidate-database-recruiting-process'
+seoTitle: 'Springcleaning your candidate database and recruiting process'
+seoDescription: 'Spring is in the air, there are daffodils in the park, lambs in the field...and it is time to do a thorough springclean of your recruiting process.'
+author: 'Orla-Hodnett'
+coverImage: '/images/cleaning.jpg'
 ---
 
 Spring is in the air, there are daffodils in the park, lambs in the field...and it is time to do a thorough springclean of your recruiting process. If you have a recruiting software solution, your job is that bit easier, with all necessary tools and resources at your disposal.

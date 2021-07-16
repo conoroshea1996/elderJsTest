@@ -1,13 +1,13 @@
 ---
-title: "How much does recruitment software cost?"
-date: "2019-04-04"
+title: 'How much does recruitment software cost?'
+date: '2019-04-04'
 categories:
-  - "choosing-an-ats"
-slug: "how-much-does-recruitment-software-cost"
-seoTitle: "How much does recruitment software cost: Comparison | HireHive"
+  - 'choosing-an-ats'
+slug: 'how-much-does-recruitment-software-cost'
+seoTitle: 'How much does recruitment software cost: Comparison | HireHive'
 seoDescription: "Recruitment software can cost anything from free to seven figures. Here's a list of companies to help you figure out and compare the cost of recruitment software."
-author: "John-Dennehy"
-coverImage: "/images/photo-1538356390198-964cc56764d5.jpg"
+author: 'johnd'
+coverImage: '/images/photo-1538356390198-964cc56764d5.jpg'
 ---
 
 If you have ever been looking to implement an ATS, one of your first questions probably was "how much does recruitment software cost?".
@@ -55,5 +55,5 @@ Lever is a very nicely designed piece of software with a top shelf price. A rece
 _**  
 PS: We also wanted to mention that HireHive has been named Most Affordable ATS in Capterra's [Top 20 Most Affordable ATS 2018](https://www.capterra.com/applicant-tracking-software/#affordable)!**_
 
-[![most affordable ATS](/images/capterra-AF-ATS-badge-2018.png)  
+[![most affordable ats](/images/capterra-af-ats-badge-2018.png)  
 ](https://www.capterra.com/applicant-tracking-software/#affordable)Besides transparent pricing, we also believe it's best for customers to “try before you buy". For a free trial of HireHive you can sign up [here](https://my.hirehive.io/register?utm_source=Blog%20Post%20Recruitment%20Software%20Cost&utm_campaign=Register%20%7C%20Recruitment%20Software%20Cost) anytime.

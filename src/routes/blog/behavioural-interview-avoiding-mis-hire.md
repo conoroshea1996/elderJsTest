@@ -1,15 +1,15 @@
 ---
-title: "Behavioural questions: the key to avoiding bad hires?"
-date: "2016-06-20"
+title: 'Behavioural questions: the key to avoiding bad hires?'
+date: '2016-06-20'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruitment-tracker"
-slug: "behavioural-interview-avoiding-mis-hire"
-seoTitle: "Behavioural questions: avoiding bad hires? | HireHive ATS"
-seoDescription: "Behavioural questions can be a source of intrigue for candidates and those outside the recruiting industry. How can you avoid bad hires?"
-author: "Orla-Hodnett"
-coverImage: "/images/Brain.jpg"
+  - 'recruitment-tracker'
+slug: 'behavioural-interview-avoiding-mis-hire'
+seoTitle: 'Behavioural questions: avoiding bad hires? | HireHive ATS'
+seoDescription: 'Behavioural questions can be a source of intrigue for candidates and those outside the recruiting industry. How can you avoid bad hires?'
+author: 'Orla-Hodnett'
+coverImage: '/images/Brain.jpg'
 ---
 
 Interviews are a necessary and highly informative part of the hiring process. The few minutes you get with a candidate will give you a very strong indication of whether they match your organisational culture, meet your requirements as a business or share your long-term goals. Interviewing needs to involve a varied approach to make sure you're getting all necessary information from your candidates.
@@ -28,7 +28,7 @@ Communication skills are essential in most careers. Whether the job requires dir
 
 Using a line of questioning to establish their favour means of communication, or asking for anecdotal evidence of an incidence where they had to convince colleagues of a new way of doing things, will very quickly let you know if they’re capable of open communication.
 
-![Photo by Tomasz Stasiuk](/images/Problem-solving.jpg)
+![photo by tomasz stasiuk](/images/problem-solving.jpg)
 
 Image by [Tomasz Stasiuk](https://www.flickr.com/photos/zstasiuk/5650719702).
 

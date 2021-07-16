@@ -1,13 +1,13 @@
 ---
-title: "How crucial is candidate experience in making a successful hire?"
-date: "2016-06-28"
+title: 'How crucial is candidate experience in making a successful hire?'
+date: '2016-06-28'
 categories:
-  - "culture-branding"
-slug: "candidate-experience-successful-hire"
-seoTitle: "How crucial is candidate experience in making a successful hire?"
-seoDescription: "When caught up in recruiting, it can be easy to forget the obvious - candidate experience. What recruiting strategies can you use to improve the process for your candidates?"
-author: "Orla-Hodnett"
-coverImage: "/images/youth-active-jump-happy-40815.jpeg"
+  - 'culture-branding'
+slug: 'candidate-experience-successful-hire'
+seoTitle: 'How crucial is candidate experience in making a successful hire?'
+seoDescription: 'When caught up in recruiting, it can be easy to forget the obvious - candidate experience. What recruiting strategies can you use to improve the process for your candidates?'
+author: 'Orla-Hodnett'
+coverImage: '/images/youth-active-jump-happy-40815.jpeg'
 ---
 
 Candidate experience during the recruiting process is make or break for securing the right hire. An individual judges your company by this process and it’s very hard to shake a bad first impression. Negative experiences can put off sought-after candidates. Plus, if a candidate has a bad experience in the hiring process, they will share this experience with friends. Here are a few candidate experience essentials you should bear in mind when recruiting:

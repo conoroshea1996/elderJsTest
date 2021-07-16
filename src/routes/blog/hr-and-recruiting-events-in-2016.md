@@ -1,13 +1,13 @@
 ---
-title: "HR and recruiting events in 2016"
-date: "2016-02-22"
+title: 'HR and recruiting events in 2016'
+date: '2016-02-22'
 categories:
-  - "hr-events-and-people"
-slug: "hr-and-recruiting-events-in-2016"
-seoTitle: ""
+  - 'hr-events-and-people'
+slug: 'hr-and-recruiting-events-in-2016'
+seoTitle: ''
 seoDescription: "Networking events and conferences are the best way to keep up to date with the world of recruiting and HR. Here's a few of the best events 2016."
-author: "Orla-Hodnett"
-coverImage: "/images/HR-Conference-Banner.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/HR-Conference-Banner.jpg'
 ---
 
 Want to meet up with other recruiting and HR professionals to discuss the challenges of recruiting where there's a skills gap? Or to find out about new products and technologies for use in the hiring process? You could try dialling 1800-HR-PROS, to chat with recruiters in your area, but I think you would have a better chance attending one of the variety of recruiting events coming up in 2016.
@@ -19,7 +19,7 @@ Here's a few European recruiting events, coming up in the next few months, looki
 **Location:** Dublin, London and Manchester  
 **Dates:** February - September
 
-[![Talent-Leaders-Connect](/images/Talent-Leaders-Connect.jpg)](http://hirehive.io/wp-content/uploads/2016/02/Talent-Leaders-Connect.jpg)
+[![talent-leaders-connect](/images/talent-leaders-connect.jpg)](http://hirehive.io/wp-content/uploads/2016/02/Talent-Leaders-Connect.jpg)
 
 Talent leaders connect is held over a number of dates, in a number of locations in the UK and Ireland, so there’s really no excuses for missing it. The event is designed for senior HR staff and takes the form of half conference, half networking event. Talks come from industry experts and participants are encouraged to take part in Masterclass Roundtables on relevant topics.
 
@@ -41,7 +41,7 @@ Speakers include Peter Hinssen, Chairman & Co-Founder at Nexxworks and Renowned 
 **Location:** London  
 **Dates:** May 10th - 11th
 
-[![HR-&-Workforce-Analytics-Innovation-Summit](/images/HR-Workforce-Analytics-Innovation-Summit.jpg)](http://hirehive.io/wp-content/uploads/2016/02/HR-Workforce-Analytics-Innovation-Summit.jpg)
+[![hr-&-workforce-analytics-innovation-summit](/images/hr-workforce-analytics-innovation-summit.jpg)](http://hirehive.io/wp-content/uploads/2016/02/HR-Workforce-Analytics-Innovation-Summit.jpg)
 
 The only HR and Workforce analytics conference in the UK, this event is exactly what it says on the tin - it’s focus is the use of analytics for planning, strategy and operations in your HR department. speakers advocate the establishment of HR analytics departments within your company and the implementation of metrics, while all the time keeping the human part of HR in mind and improving employee experience.
 

@@ -1,13 +1,13 @@
 ---
-title: "The ultimate recruiting software shopping list"
-date: "2016-10-03"
+title: 'The ultimate recruiting software shopping list'
+date: '2016-10-03'
 categories:
-  - "choosing-an-ats"
-slug: "choosing-recruiting-software"
-seoTitle: "Choosing Recruiting Software: Recruiting Software Shopping List"
-seoDescription: "Choosing recruiting software can be a little bit overwhelming. There is so much to consider, it can be difficult to know where to start."
-author: "Orla-Hodnett"
-coverImage: "/images/shopping.jpg"
+  - 'choosing-an-ats'
+slug: 'choosing-recruiting-software'
+seoTitle: 'Choosing Recruiting Software: Recruiting Software Shopping List'
+seoDescription: 'Choosing recruiting software can be a little bit overwhelming. There is so much to consider, it can be difficult to know where to start.'
+author: 'Orla-Hodnett'
+coverImage: '/images/shopping.jpg'
 ---
 
 Choosing recruiting software that meets your needs is tough. It should be universally easy to use – you don't want something that takes more time to learn, than it takes to hire. It should be affordable and not overwhelm you with flabby features. Here's a quick shopping list of what you need in your recruiting software:

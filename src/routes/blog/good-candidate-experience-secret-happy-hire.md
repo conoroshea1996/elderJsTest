@@ -1,13 +1,13 @@
 ---
-title: "Good candidate experience is the secret to a happy hire"
-date: "2016-06-15"
+title: 'Good candidate experience is the secret to a happy hire'
+date: '2016-06-15'
 categories:
-  - "culture-branding"
-slug: "good-candidate-experience-secret-happy-hire"
-seoTitle: "Good candidate experience is the secret to a happy hire"
-seoDescription: "Many recruiters and HR people do not provide good candidate experience, which causes candidates to walk away. Learn how to improve candidate experience."
-author: "Pamela-Weaver"
-coverImage: "/images/pexels-photo-57851.jpeg"
+  - 'culture-branding'
+slug: 'good-candidate-experience-secret-happy-hire'
+seoTitle: 'Good candidate experience is the secret to a happy hire'
+seoDescription: 'Many recruiters and HR people do not provide good candidate experience, which causes candidates to walk away. Learn how to improve candidate experience.'
+author: 'Pamela-Weaver'
+coverImage: '/images/pexels-photo-57851.jpeg'
 ---
 
 It takes a lot of skill and experience to hire the best candidates for your company. However, many recruiters and HR managers don't provide a good candidate experience, which causes candidates to walk away.

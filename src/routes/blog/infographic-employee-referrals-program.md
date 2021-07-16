@@ -1,13 +1,13 @@
 ---
-title: "Infographics: 5 things to consider when setting up an employee referrals program"
-date: "2017-08-15"
+title: 'Infographics: 5 things to consider when setting up an employee referrals program'
+date: '2017-08-15'
 categories:
-  - "infographics"
-slug: "infographic-employee-referrals-program"
-seoTitle: "5 things to consider when setting up an employee referrals program"
-seoDescription: "Are you thinking about implementing an employee referrals program and rewards system? Why not check out our infographic first for 5 tips:"
-author: "Rachel-Hill"
-coverImage: "/images/christmas-xmas-gifts-presents.jpg"
+  - 'infographics'
+slug: 'infographic-employee-referrals-program'
+seoTitle: '5 things to consider when setting up an employee referrals program'
+seoDescription: 'Are you thinking about implementing an employee referrals program and rewards system? Why not check out our infographic first for 5 tips:'
+author: 'Rachel-Hill'
+coverImage: '/images/christmas-xmas-gifts-presents.jpg'
 ---
 
 _If you are thinking of implementing an employee referrals program, you also need to think about a rewards system._

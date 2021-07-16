@@ -1,13 +1,13 @@
 ---
-title: "If candidates were to give feedback: 3 things to keep in mind"
-date: "2016-05-23"
+title: 'If candidates were to give feedback: 3 things to keep in mind'
+date: '2016-05-23'
 categories:
-  - "recruiting-strategy"
-slug: "candidates-give-feedback"
-seoTitle: "If candidates were to give feedback: 3 things to keep in mind"
-seoDescription: "Candidate experience is significant in recruiting, but we rarely get feedback on their experience. What would candidates tell you if the tables were turned?"
-author: "Orla-Hodnett"
-coverImage: "/images/feedback.jpeg"
+  - 'recruiting-strategy'
+slug: 'candidates-give-feedback'
+seoTitle: 'If candidates were to give feedback: 3 things to keep in mind'
+seoDescription: 'Candidate experience is significant in recruiting, but we rarely get feedback on their experience. What would candidates tell you if the tables were turned?'
+author: 'Orla-Hodnett'
+coverImage: '/images/feedback.jpeg'
 ---
 
 Recruiting is a bit like a one way mirror, or a valve, or one of those turnstile things in the supermarket. In other words, recruiting can be one-sided. You may exchange emails with candidates, speak to them at interview stage, or they might request feedback on their application, but that’s it.
@@ -30,7 +30,7 @@ This post is part of our [Recruiting Strategy](http://hirehive.io/category/recru
 
 Again, this one is easy to empathise with. A convoluted process of application will only frustrate candidates. Up to 60% of candidates state that they would abandon a challenging job application. The application process should be straightforward, mobile optimised and accept alternative means of providing a CV (i.e. LinkedIn compatible). A brief, simple means of getting particular information from an applicant is all you need.
 
-![Mobile-optimised](/images/Mobile-optimised.jpg)
+![mobile-optimised](/images/mobile-optimised.jpg)
 
 Even a short visual or video guide helping an applicant through the process will encourage them to follow through on the application process. Understanding the process will make someone more likely to participate in it. Recruiting software like HireHive can parse CVs, so there’s no need to ask candidates to enter the same information more than once.
 

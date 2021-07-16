@@ -31,21 +31,33 @@ module.exports = {
       port: 8080,
       reload: false, // if you are having issues with reloading not working, change to true.
     },
-    // '@elderjs/plugin-images': {
-    //   debug: true,
-    //   folders: [
-    //     {
-    //       src: '/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-    //       output: '/images/', // where files should be put within the distDir defined in your elder.config.js.
-    //     },
-    //   ],
-    // },
+    '@elderjs/plugin-images': {
+      debug: false,
+      cssString: false,
+      folders: [
+        {
+          src: 'assets/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+          output: 'images/', // where files should be put within the distDir defined in your elder.config.js.
+        },
+        {
+          src: 'assets/fr/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+          output: 'fr/images/', // where files should be put within the distDir defined in your elder.config.js.
+        },
+        {
+          src: 'assets/customers/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+          output: 'customers/images/', // where files should be put within the distDir defined in your elder.config.js.
+        },
+      ],
+      addVanillaLazy: true, // if you want to disable the lazyload plugin and add your own.
+      widths: [1280, 768, 576, 400], // Sizes the images will be resized to.
+    },
     '@elderjs/plugin-sitemap': {
       origin: 'https://youthful-mccarthy-ab0370.netlify.app',
       exclude: [], // an array of permalinks or permalink prefixes. So you can do ['500'] and it will match /500**
       routeDetails: {},
       lastUpdate: {}, // configurable last update for each route type.
     },
+
     // '@elderjs/plugin-seo-check': {
     //   display: ['errors'], // If the errors are too verbose remove 'warnings'
     //   //writeLocation: './report.json', // if you want to write a report of errors

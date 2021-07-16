@@ -1,13 +1,13 @@
 ---
-title: "12 days of recruiting Christmas"
-date: "2016-12-06"
+title: '12 days of recruiting Christmas'
+date: '2016-12-06'
 categories:
-  - "culture-branding"
-slug: "12-days-recruiting-christmas"
-seoTitle: "12 days of recruiting Christmas | HireHive Software"
-seoDescription: "The festive season is upon us. Excitement is building and as always, the recruiting world is getting itself into the spirit."
-author: "HireHive-Team"
-coverImage: "/images/36482965-christmas-pictures-e1481034978179.jpg"
+  - 'culture-branding'
+slug: '12-days-recruiting-christmas'
+seoTitle: '12 days of recruiting Christmas | HireHive Software'
+seoDescription: 'The festive season is upon us. Excitement is building and as always, the recruiting world is getting itself into the spirit.'
+author: 'HireHive-Team'
+coverImage: '/images/36482965-christmas-pictures-e1481034978179.jpg'
 ---
 
 The festive season is upon us. Excitement is building and as always, the recruiting world is getting itself into the spirit. It would surprise you what you could make Christmassy.

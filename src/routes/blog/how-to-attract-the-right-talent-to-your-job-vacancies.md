@@ -1,13 +1,13 @@
 ---
-title: "How to Attract the Right Talent to Your Job Vacancies"
-date: "2020-02-17"
+title: 'How to Attract the Right Talent to Your Job Vacancies'
+date: '2020-02-17'
 categories:
-  - "how-to"
-slug: "how-to-attract-the-right-talent-to-your-job-vacancies"
-seoTitle: "Attracting Talent | How To Attract The Right Talent | HireHive"
-seoDescription: "Attracting talent to your vacancies is tough, attracting the best talent is even more challenging. Find out our top tips to attracting the right candidates to your company."
-author: "HireHive-Team"
-coverImage: "/images/photo-1484981138541-3d074aa97716.jpg"
+  - 'how-to'
+slug: 'how-to-attract-the-right-talent-to-your-job-vacancies'
+seoTitle: 'Attracting Talent | How To Attract The Right Talent | HireHive'
+seoDescription: 'Attracting talent to your vacancies is tough, attracting the best talent is even more challenging. Find out our top tips to attracting the right candidates to your company.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1484981138541-3d074aa97716.jpg'
 ---
 
 Imagine a world without failed searches. Dreamy, right?

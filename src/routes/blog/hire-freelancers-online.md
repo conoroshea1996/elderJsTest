@@ -1,13 +1,13 @@
 ---
-title: "Some quick tips for hiring your first freelancers online"
-date: "2017-09-15"
+title: 'Some quick tips for hiring your first freelancers online'
+date: '2017-09-15'
 categories:
-  - "recruiting-strategy"
-slug: "hire-freelancers-online"
-seoTitle: "How to hire freelancers online - HireHive Recruiting Software"
-seoDescription: "Need help with some additional work or are you a startup who wants to dip into the talent pool gradually? See our tips on how to hire freelancers online!"
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-296878.jpeg"
+  - 'recruiting-strategy'
+slug: 'hire-freelancers-online'
+seoTitle: 'How to hire freelancers online - HireHive Recruiting Software'
+seoDescription: 'Need help with some additional work or are you a startup who wants to dip into the talent pool gradually? See our tips on how to hire freelancers online!'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-296878.jpeg'
 ---
 
 _Do you need some additional help at your workplace but not a full-time employee? Hiring freelancers could be a great option for you._
@@ -16,7 +16,7 @@ Freelancers are independent contractors who can work or complete projects for yo
 
 Freelancers are also a great option for startups who don’t have the initial capital to pay the salaries of a whole host of employees, along with vacation time and health benefits. Hiring freelancers offers an ideal way for startup companies to dip their toes in the [talent pool](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/autumnadeigbo/2017/04/16/7-steps-to-successfully-hiring-your-first-freelancer/&refURL=&referrer=#2a4dbd0252a8), without inducing huge costs. Incorrect hires are often quoted as the biggest expense for companies, so freelancers are certainly a cost effective way of finding out what hires you really need.
 
-\[caption id="attachment_12078" align="aligncenter" width="400"\][![freelancers](/images/Autumn-Adeigbo_avatar_1463679856-400x400.jpg)](https://autumnadeigbo.com/) Autumn Adeigbo successful hired freelancers for her ethical startup.\[/caption\]
+\[caption id="attachment_12078" align="aligncenter" width="400"\][![freelancers](/images/autumn-adeigbo_avatar_1463679856-400x400.jpg)](https://autumnadeigbo.com/) Autumn Adeigbo successful hired freelancers for her ethical startup.\[/caption\]
 
 Of course freelancers are not suitable for every type of role, but if you require services in web development, graphic design or administration for example, they are perfect. This is because these types of services are web-based and can be performed from almost anywhere with an internet connection. So once you have outlined the exact services you need, you can begin to hire your first freelancer. Before you do, check out our tips first:
 

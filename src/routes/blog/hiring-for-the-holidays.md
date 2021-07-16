@@ -1,13 +1,13 @@
 ---
-title: "Hiring for the holidays"
-date: "2015-12-03"
+title: 'Hiring for the holidays'
+date: '2015-12-03'
 categories:
-  - "recruiting-strategy"
-slug: "hiring-for-the-holidays"
-seoTitle: "Hiring for the holidays | HireHive Recruiting Software"
-seoDescription: "It’s the most wonderful time of the year... but also the busiest! Christmas season is upon us and hundreds of staff will be hired for seasonal work."
-author: "HireHive-Team"
-coverImage: "/images/Happy-Holidays.jpg"
+  - 'recruiting-strategy'
+slug: 'hiring-for-the-holidays'
+seoTitle: 'Hiring for the holidays | HireHive Recruiting Software'
+seoDescription: 'It’s the most wonderful time of the year... but also the busiest! Christmas season is upon us and hundreds of staff will be hired for seasonal work.'
+author: 'HireHive-Team'
+coverImage: '/images/Happy-Holidays.jpg'
 ---
 
 Preparations are also getting under way for permanent hires to be made in the new year. But don’t worry, we’ve got you covered so that you can enjoy the Christmas season and even get your Christmas shopping done in time.

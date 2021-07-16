@@ -1,15 +1,15 @@
 ---
-title: "HireHive vs. iCIMS and Taleo"
-date: "2016-03-15"
+title: 'HireHive vs. iCIMS and Taleo'
+date: '2016-03-15'
 categories:
-  - "hirehive-updates"
+  - 'hirehive-updates'
 tags:
-  - "taleo-alternatives"
-slug: "hirehive-vs-icims-and-taleo-alternative"
-seoTitle: "HireHive vs. iCIMS and Taleo | Taleo alternative"
-seoDescription: "Taleo alternative HireHive can give you a more simplified, unified overview for the purpose of recruiting than human capital management software."
-author: "HireHive-Team"
-coverImage: "/images/HCM-v-HireHive.png"
+  - 'taleo-alternatives'
+slug: 'hirehive-vs-icims-and-taleo-alternative'
+seoTitle: 'HireHive vs. iCIMS and Taleo | Taleo alternative'
+seoDescription: 'Taleo alternative HireHive can give you a more simplified, unified overview for the purpose of recruiting than human capital management software.'
+author: 'HireHive-Team'
+coverImage: '/images/HCM-v-HireHive.png'
 ---
 
 Data analytics are essential to all variety of recruiting software and human resource management solutions. Human Capital Management software is widely used by larger organisations to manage recruitment, onboarding and employee performance. While these sort of suites of solutions can be useful, for recruiting, things need to maintain the personal touch.

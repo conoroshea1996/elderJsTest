@@ -1,15 +1,15 @@
 ---
-title: "What is Talent Sourcing & The Best Candidate Sourcing Strategies"
-date: "2021-01-17"
+title: 'What is Talent Sourcing & The Best Candidate Sourcing Strategies'
+date: '2021-01-17'
 categories:
-  - "how-to"
-  - "recruiting-strategy"
-  - "social-recruiting"
-slug: "what-is-talent-sourcing-strategies-explained"
-seoTitle: "What is Talent Sourcing? | Best Candidate Sourcing Strategies | HireHive"
-seoDescription: "There are a lot of aspects to sourcing talent for your business. In this post we explore everything you need to know about what talent sourcing is and the best candidate sourcing strategy to help your hiring process."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/talent-sourcing-strategy.png"
+  - 'how-to'
+  - 'recruiting-strategy'
+  - 'social-recruiting'
+slug: 'what-is-talent-sourcing-strategies-explained'
+seoTitle: 'What is Talent Sourcing? | Best Candidate Sourcing Strategies | HireHive'
+seoDescription: 'There are a lot of aspects to sourcing talent for your business. In this post we explore everything you need to know about what talent sourcing is and the best candidate sourcing strategy to help your hiring process.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/talent-sourcing-strategy.png'
 ---
 
 Employees are the backbone of any company. While some business owners think that customers are the primary VIPs, without top-notch employees the customer [experience](https://hirehive.com/candidate-experience-successful-hire/) would be lacking. Hiring the right people for your company is an intense process that begins well before you see resumes and interviews.

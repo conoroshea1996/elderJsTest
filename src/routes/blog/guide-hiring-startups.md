@@ -1,13 +1,13 @@
 ---
-title: "Your guide to hiring in a startup"
-date: "2017-02-10"
+title: 'Your guide to hiring in a startup'
+date: '2017-02-10'
 categories:
-  - "recruiting-strategy"
-slug: "guide-hiring-startups"
-seoTitle: "Your guide to hiring in a startup"
-seoDescription: "Love your startup but hate hiring? Fear no more, HireHive is here to help! Read our simple tips on how to hire for all kinds of startups."
-author: "Rachel-Hill"
-coverImage: "/images/writing.jpg"
+  - 'recruiting-strategy'
+slug: 'guide-hiring-startups'
+seoTitle: 'Your guide to hiring in a startup'
+seoDescription: 'Love your startup but hate hiring? Fear no more, HireHive is here to help! Read our simple tips on how to hire for all kinds of startups.'
+author: 'Rachel-Hill'
+coverImage: '/images/writing.jpg'
 ---
 
 Why? Well for a number of reasons. One being the lack of development in the field of startup recruiting and another being that few startup founders have a HR background. To help the many startups out there, we have compiled this short guide of tips on hiring.
@@ -30,7 +30,7 @@ To give an example, [D4H Technologies](https://www.d4htechnologies.com/) recentl
 
 In addition to being different, startups still need to provide real benefits to retain employees. These may include offering food, travel, technology or health plan benefits. By standing out from the crowd while also providing decent benefits, your startup stands a better chance of attracting great talent.
 
-\[caption id="attachment_10341" align="alignnone" width="685"\]![Lighthouse startups office](/images/Baily-Lighthouse.jpg) Credit: Giuseppe Milo [http://www.pixael.com/en](http://www.pixael.com/en)\[/caption\]
+\[caption id="attachment_10341" align="alignnone" width="685"\]![lighthouse startups office](/images/baily-lighthouse.jpg) Credit: Giuseppe Milo [http://www.pixael.com/en](http://www.pixael.com/en)\[/caption\]
 
 #### **Follow your dream candidates**
 

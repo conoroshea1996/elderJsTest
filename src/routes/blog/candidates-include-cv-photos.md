@@ -1,13 +1,13 @@
 ---
-title: "Should candidates include a profile picture in their CVs?"
-date: "2017-11-18"
+title: 'Should candidates include a profile picture in their CVs?'
+date: '2017-11-18'
 categories:
-  - "recruiting-strategy"
-slug: "candidates-include-cv-photos"
-seoTitle: "CV photos: Should candidates include a picture in their CVs?"
+  - 'recruiting-strategy'
+slug: 'candidates-include-cv-photos'
+seoTitle: 'CV photos: Should candidates include a picture in their CVs?'
 seoDescription: "The matter of including photos in CVs is a conscientious one around the world - some like it some don't. But should CV photos become more normal?"
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-133070.jpg"
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-133070.jpg'
 ---
 
 _Recruiting is undeniably a tough job without even considering the inclusion of CV photos._

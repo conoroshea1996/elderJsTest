@@ -1,13 +1,13 @@
 ---
-title: "GDPR checklist for recruiters"
-date: "2018-03-12"
+title: 'GDPR checklist for recruiters'
+date: '2018-03-12'
 categories:
-  - "compliance-and-data"
-slug: "gdpr-checklist-recruiters"
-seoTitle: "Recruiters GDPR checklist | HireHive GDPR compliant recruiting software"
-seoDescription: "At HireHive, GDPR compliant recruiting software we created a checklist for recruiters to help them make the necessary changes to their recruiting strategy."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-113885.jpeg"
+  - 'compliance-and-data'
+slug: 'gdpr-checklist-recruiters'
+seoTitle: 'Recruiters GDPR checklist | HireHive GDPR compliant recruiting software'
+seoDescription: 'At HireHive, GDPR compliant recruiting software we created a checklist for recruiters to help them make the necessary changes to their recruiting strategy.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-113885.jpeg'
 ---
 
 _With the range of changes that GDPR brings about, it can be hard to focus your attention. HireHive is GDPR compliant recruiting software so we put together a quick GDPR checklist for recruiters, to help you make the necessary changes to your recruiting strategy._
@@ -52,6 +52,6 @@ Retaining any data securely is essential. As stated already, you now have a duty
 
 The rights of the individual have been greatly strengthened by this new regulation. Ensure that you have the correct permissions from any candidate and that you are using their data in the way they permitted.
 
-![Banner test3](/images/Banner-test3.png)
+![banner test3](/images/banner-test3.png)
 
 > See how HireHive is helping customers become [GDPR ready](https://hirehive.com/how-is-hirehive-helping-customers-become-gdpr-ready/)

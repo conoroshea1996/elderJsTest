@@ -1,13 +1,13 @@
 ---
-title: "Using candidate scorecards"
-date: "2017-01-27"
+title: 'Using candidate scorecards'
+date: '2017-01-27'
 categories:
-  - "recruiting-strategy"
-slug: "candidate-scorecards"
-seoTitle: "Candidate Scorecards | Guide to scorecards for recruiting | Hirehive"
-seoDescription: "Candidate scorecards are a simple way of assessing candidates… recruiting software might be the easiest way of implementing them in your hiring process."
-author: "Orla-Hodnett"
-coverImage: "/images/finding-candidates-apple.jpg"
+  - 'recruiting-strategy'
+slug: 'candidate-scorecards'
+seoTitle: 'Candidate Scorecards | Guide to scorecards for recruiting | Hirehive'
+seoDescription: 'Candidate scorecards are a simple way of assessing candidates… recruiting software might be the easiest way of implementing them in your hiring process.'
+author: 'Orla-Hodnett'
+coverImage: '/images/finding-candidates-apple.jpg'
 ---
 
 **You - 1, bad recruiting practises - 0:**

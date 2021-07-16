@@ -1,16 +1,16 @@
 ---
-title: "How to help your employees career path development"
-date: "2017-12-01"
+title: 'How to help your employees career path development'
+date: '2017-12-01'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "career-path"
-  - "employee-development"
-slug: "employees-career-path"
-seoTitle: "Guide to career path development & career progression | HireHive"
-seoDescription: "Career progression is something you must foster in your team to attract and retain talent. What can you do to help your employees develop their career path?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-596126.jpeg"
+  - 'career-path'
+  - 'employee-development'
+slug: 'employees-career-path'
+seoTitle: 'Guide to career path development & career progression | HireHive'
+seoDescription: 'Career progression is something you must foster in your team to attract and retain talent. What can you do to help your employees develop their career path?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-596126.jpeg'
 ---
 
 _Career progression is something you must foster in your team to retain key talent and attract new talent. What can you do to help your employees develop their career path?_

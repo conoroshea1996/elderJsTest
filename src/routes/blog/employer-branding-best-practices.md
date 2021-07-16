@@ -1,13 +1,13 @@
 ---
-title: "Employer branding best practices"
-date: "2018-04-13"
+title: 'Employer branding best practices'
+date: '2018-04-13'
 categories:
-  - "culture-branding"
-slug: "employer-branding-best-practices"
-seoTitle: "Employer branding best practices | HireHive Recruiting Software"
-seoDescription: "A powerful employer brand can do your recruiting for you. How to effectively work and communicate around employer branding?"
-author: "Orla-Hodnett"
-coverImage: "/images/23.jpg"
+  - 'culture-branding'
+slug: 'employer-branding-best-practices'
+seoTitle: 'Employer branding best practices | HireHive Recruiting Software'
+seoDescription: 'A powerful employer brand can do your recruiting for you. How to effectively work and communicate around employer branding?'
+author: 'Orla-Hodnett'
+coverImage: '/images/23.jpg'
 ---
 
 _A powerful employer brand can do your recruiting for you. How do you effectively establish and communicate your employer brand?_

@@ -1,13 +1,13 @@
 ---
-title: "Store on the side of caution"
-date: "2016-03-06"
+title: 'Store on the side of caution'
+date: '2016-03-06'
 categories:
-  - "compliance-and-data"
-slug: "store-on-the-side-of-caution"
-seoTitle: ""
-seoDescription: "Ongoing confusion around EU-US data transfer agreements and privacy protection don’t have to impact on your company’s ability to hire and grow your candidate pool."
-author: "Pamela-Weaver"
-coverImage: "/images/Security.jpg"
+  - 'compliance-and-data'
+slug: 'store-on-the-side-of-caution'
+seoTitle: ''
+seoDescription: 'Ongoing confusion around EU-US data transfer agreements and privacy protection don’t have to impact on your company’s ability to hire and grow your candidate pool.'
+author: 'Pamela-Weaver'
+coverImage: '/images/Security.jpg'
 ---
 
 Last Monday, the European Commission and US Department of Justice released the text of their new “Privacy Shield” agreement. Designed to replace the [recently rejected](http://hirehive.io/any-port-in-a-storm-eu-data-privacy-in-a-post-safe-harbour-world/) Safe Harbour framework, it’s already under fire from critics claiming that it offers even less protection than its’ predecessor.
@@ -18,7 +18,7 @@ With no clear safeguards against bulk surveillance and usage of private data –
 
 If you’re wondering what that ECJ requirement is, it’s that any law permitting public authorities to have general access to the content of electronic communications “must be regarded as compromising the essence of the fundamental right to respect for private life.”
 
-This is part of our [Compliance & Data](http://hirehive.io/compliance-and-data/ "Security & Data") series
+This is part of our [Compliance & Data](http://hirehive.io/compliance-and-data/ 'Security & Data') series
 
 #### Now what?
 

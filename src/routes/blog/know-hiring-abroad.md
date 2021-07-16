@@ -1,13 +1,13 @@
 ---
-title: "What to know when hiring abroad"
-date: "2017-09-22"
+title: 'What to know when hiring abroad'
+date: '2017-09-22'
 categories:
-  - "recruiting-strategy"
-slug: "know-hiring-abroad"
-seoTitle: "What to know when hiring abroad - HireHive Recruiting Software"
+  - 'recruiting-strategy'
+slug: 'know-hiring-abroad'
+seoTitle: 'What to know when hiring abroad - HireHive Recruiting Software'
 seoDescription: "Hiring abroad presents you with a whole host of new recruiting opportunities. Here's how you can make the most of your international recruiting projects:"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-248797.jpeg"
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-248797.jpeg'
 ---
 
 _Hiring abroad presents your organisation with a whole host of new recruiting opportunities. Here's how you can make the most of your international recruiting projects:_

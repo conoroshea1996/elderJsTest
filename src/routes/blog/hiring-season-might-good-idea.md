@@ -1,15 +1,15 @@
 ---
-title: "Why hiring in down season might be a good idea"
-date: "2016-05-30"
+title: 'Why hiring in down season might be a good idea'
+date: '2016-05-30'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "hiring-strategy"
-slug: "hiring-season-might-good-idea"
-seoTitle: "Why hiring in down season might be a good idea | Hiring strategy"
-seoDescription: "When summer hits, it can be hard to focus on the job of hiring, but summer recruiting might be the way to go."
-author: "Orla-Hodnett"
-coverImage: "/images/empty-office.jpg"
+  - 'hiring-strategy'
+slug: 'hiring-season-might-good-idea'
+seoTitle: 'Why hiring in down season might be a good idea | Hiring strategy'
+seoDescription: 'When summer hits, it can be hard to focus on the job of hiring, but summer recruiting might be the way to go.'
+author: 'Orla-Hodnett'
+coverImage: '/images/empty-office.jpg'
 ---
 
 With summer and holidays fast approaching, it may not seem like the time to be undertaking any new projects at work, but doing a little during down season may give you the edge over the competition. While there may not be any intense hiring going on it may still be an opportunity to engage with high-quality candidates. Here’s a few things to consider putting in motion before you board that plane.

@@ -1,13 +1,13 @@
 ---
-title: "The new Google Hire tool: Thoughts"
-date: "2017-06-07"
+title: 'The new Google Hire tool: Thoughts'
+date: '2017-06-07'
 categories:
-  - "social-recruiting"
-slug: "the-new-google-hire-tool-thoughts"
-seoTitle: "The new Google Hire tool: Thoughts"
+  - 'social-recruiting'
+slug: 'the-new-google-hire-tool-thoughts'
+seoTitle: 'The new Google Hire tool: Thoughts'
 seoDescription: "Google recently launched an ATS and job search tool called Google Hire. As a pure ATS provider, what do we think of Google's latest venture?"
-author: "Rachel-Hill"
-coverImage: "/images/google-hire-2.jpeg"
+author: 'Rachel-Hill'
+coverImage: '/images/google-hire-2.jpeg'
 ---
 
 In case you haven’t heard, the global tech giant Google released a new job application service called [Google Hire](https://hire.withgoogle.com/sign-in?next=%2F). Similar to LinkedIn, Google Hire will allow employers to create job ads and manage applications through the product. It will also allow job seekers to search and apply for jobs.

@@ -1,13 +1,13 @@
 ---
-title: "HR Webinars to add to your recruiting calendar"
-date: "2015-07-24"
+title: 'HR Webinars to add to your recruiting calendar'
+date: '2015-07-24'
 categories:
-  - "hr-events-and-people"
-slug: "hr-recruiting-webinars"
-seoTitle: "HR Webinars to add to your recruiting calendar | HireHive ATS"
+  - 'hr-events-and-people'
+slug: 'hr-recruiting-webinars'
+seoTitle: 'HR Webinars to add to your recruiting calendar | HireHive ATS'
 seoDescription: "Webinars allow you to receive the latest information, follow today's newest trends and learn best practices without having to leave the office."
-author: "Siobhan-Hasner"
-coverImage: "/images/Laptop-and-coffee.jpg"
+author: 'Siobhan-Hasner'
+coverImage: '/images/Laptop-and-coffee.jpg'
 ---
 
 Although webinars are a great way to learn, you don't want to waste your valuable time. There's no point blankly watching a boring webinar that talks about what you already know or that is irrelevant. Here are three webinars that we think are worth checking out.
@@ -32,4 +32,4 @@ Offer both free and paid for courses covering topics like tech recruiting trends
 
 Visit: [learning.blogging4jobs.com/lms](http://learning.blogging4jobs.com/lms/)
 
-Are there any webinars that you think need to be on the list? [Let us know](mailto:hi@hirehive.io?subject=HireHive%20feedback "Let us know").
+Are there any webinars that you think need to be on the list? [Let us know](mailto:hi@hirehive.io?subject=HireHive%20feedback 'Let us know').

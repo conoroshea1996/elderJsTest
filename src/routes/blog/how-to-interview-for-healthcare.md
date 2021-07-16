@@ -1,13 +1,13 @@
 ---
-title: "Asking the Right Questions: How to Interview for Healthcare Talent in 2020"
-date: "2020-02-24"
+title: 'Asking the Right Questions: How to Interview for Healthcare Talent in 2020'
+date: '2020-02-24'
 categories:
-  - "recruiting-strategy"
-slug: "how-to-interview-for-healthcare"
-seoTitle: ""
-seoDescription: "Interviewing is as much an art as it is a science. How do you interview for top healthcare talent in 2020? Let’s take a closer look."
-author: "HireHive-Team"
-coverImage: "/images/pexels-photo-1311518.jpeg"
+  - 'recruiting-strategy'
+slug: 'how-to-interview-for-healthcare'
+seoTitle: ''
+seoDescription: 'Interviewing is as much an art as it is a science. How do you interview for top healthcare talent in 2020? Let’s take a closer look.'
+author: 'HireHive-Team'
+coverImage: '/images/pexels-photo-1311518.jpeg'
 ---
 
 Interviewing is as much an art as it is a science. Throughout the process, you’re determining if the candidate is a match for your open healthcare job based on their skills, background, credentials, and personality. But we’re deep into the 21st century now and the process of interviewing has changed dramatically over the years for companies all over the world. You have to know that you’re asking the right questions and hiring the right candidates the first time. How do you interview for top healthcare talent in 2020? Let’s take a closer look.

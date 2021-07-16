@@ -1,22 +1,22 @@
 ---
-title: "How to increase productivity among employees in the workplace"
-date: "2017-09-06"
+title: 'How to increase productivity among employees in the workplace'
+date: '2017-09-06'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "productivity"
-slug: "increase-productivity-workplace"
-seoTitle: "Increase productivity in the workplace | Workplace Productivity | HireHive"
-seoDescription: "Noticed a dip in productivity at your workplace? Sensing some negative vibes? Why not check out our 5 tips to help increase employee productivity in the workplace."
-author: "Rachel-Hill"
-coverImage: "/images/wild-flowers-flowers-plant-macro-40797.jpeg"
+  - 'productivity'
+slug: 'increase-productivity-workplace'
+seoTitle: 'Increase productivity in the workplace | Workplace Productivity | HireHive'
+seoDescription: 'Noticed a dip in productivity at your workplace? Sensing some negative vibes? Why not check out our 5 tips to help increase employee productivity in the workplace.'
+author: 'Rachel-Hill'
+coverImage: '/images/wild-flowers-flowers-plant-macro-40797.jpeg'
 ---
 
 _Noticed a dip in productivity in your workplace? Sensing some negative vibes? Here is a few advice on how to increase productivity in the workplace._
 
 Productivity is something needed for a healthy and successful business; it involves employees placing their best foot forward and doing the best job possible for their employer. When productivity dwindles, it has a huge domino effect on the entire organisation. This in turn affects employee wellbeing, business profitability and retention rates. For an SME, the effects of productivity dips can be detrimental.
 
-![how to increase productivity in the workplace](/images/Domino-Effect.png)
+![how to increase productivity in the workplace](/images/domino-effect.png)
 
 Dips in productivity can happen for a number of reasons:
 

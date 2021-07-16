@@ -1,13 +1,13 @@
 ---
-title: "Cultivating and Retaining Current Talent"
-date: "2020-09-28"
+title: 'Cultivating and Retaining Current Talent'
+date: '2020-09-28'
 categories:
-  - "culture-branding"
-slug: "cultivating-and-retaining-current-talent"
-seoTitle: ""
-seoDescription: "With many businesses working remotely, cultivating internal talent and encouraging in-house mobility might now be a better solution than hiring externally."
-author: "HireHive-Team"
-coverImage: "/images/25.jpg"
+  - 'culture-branding'
+slug: 'cultivating-and-retaining-current-talent'
+seoTitle: ''
+seoDescription: 'With many businesses working remotely, cultivating internal talent and encouraging in-house mobility might now be a better solution than hiring externally.'
+author: 'HireHive-Team'
+coverImage: '/images/25.jpg'
 ---
 
 This year, companies around the globe shifted their processes to protect workers from the high rates of infection from the novel coronavirus. Throughout that experience, many are learning that employee retention is more important than ever in the age of COVID-19. With many businesses working remotely, onboarding and training new team members becomes more difficult. It’s easier to nurture internal talent and encourage in-house mobility than hire externally. What can organizations do to cultivate their internal talent? Here are a few tips for retention and employee development.

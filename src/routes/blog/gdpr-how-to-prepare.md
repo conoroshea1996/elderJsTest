@@ -1,15 +1,15 @@
 ---
-title: "GDPR - What will change, How to prepare, Opportunity or threat"
-date: "2017-06-29"
+title: 'GDPR - What will change, How to prepare, Opportunity or threat'
+date: '2017-06-29'
 categories:
-  - "compliance-and-data"
+  - 'compliance-and-data'
 tags:
-  - "gdpr"
-slug: "gdpr-how-to-prepare"
-seoTitle: "GDPR - What will change, How to prepare, Opportunity or threat"
-seoDescription: "Learn how GDPR will change current data protection laws, how to prepare for GDPR - now! And is GDPR an opportunity or threat? You decide."
-author: "Rachel-Hill"
-coverImage: "/images/eu.jpg"
+  - 'gdpr'
+slug: 'gdpr-how-to-prepare'
+seoTitle: 'GDPR - What will change, How to prepare, Opportunity or threat'
+seoDescription: 'Learn how GDPR will change current data protection laws, how to prepare for GDPR - now! And is GDPR an opportunity or threat? You decide.'
+author: 'Rachel-Hill'
+coverImage: '/images/eu.jpg'
 ---
 
 First of all, [GDPR](http://www.eugdpr.org/) stands for General Data Protection Regulation. The publication was in preparation for 4 years, before its official approval on the 14th April 2016. However, GDPR will be officially enforced on the 25th May 2018 - meaning you now have 324 days to prepare!
@@ -55,7 +55,7 @@ An internal DPO should meet the following requirements:
 
 ### **How to prepare for GDPR - Now**
 
-![GDPR](/images/GDPR-1.jpg)
+![gdpr](/images/gdpr-1.jpg)
 
 #### **1\. Prepare a data audit**
 

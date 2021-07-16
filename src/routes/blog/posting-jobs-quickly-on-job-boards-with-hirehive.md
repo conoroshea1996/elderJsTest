@@ -1,13 +1,13 @@
 ---
-title: "Posting jobs quickly on job boards with HireHive"
-date: "2019-01-23"
+title: 'Posting jobs quickly on job boards with HireHive'
+date: '2019-01-23'
 categories:
-  - "recruiting-strategy"
-slug: "posting-jobs-quickly-on-job-boards-with-hirehive"
-seoTitle: ""
-seoDescription: "Posting jobs on job boards is time-consuming and can be daunting. HireHive can help you share your jobs quickly on job boards."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/photo-1520241179382-8c5761e4bab7.jpg"
+  - 'recruiting-strategy'
+slug: 'posting-jobs-quickly-on-job-boards-with-hirehive'
+seoTitle: ''
+seoDescription: 'Posting jobs on job boards is time-consuming and can be daunting. HireHive can help you share your jobs quickly on job boards.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/photo-1520241179382-8c5761e4bab7.jpg'
 ---
 
 Here at the Hive one of the most common questions we get is about job boards. The questions are often about how exactly to post effectively on those platforms. We know that job boards are an important part of the recruitment process of most companies. Job boards allow recruiters to reach a much wider candidate audience. We also know how daunting it can be to manually share your jobs on several different job boards. With HireHive, you can automatically share your jobs on a number of job boards very quickly.
@@ -56,7 +56,7 @@ We decided to include LinkedIn in this article as it's a platform we often have 
 
 When it comes to LinkedIn, you have two different options to share your jobs. The first one is free, and it’s simply sharing your jobs on your LinkedIn company page or your own LinkedIn profile. If you have built a wide network with a high number of connections, this can be a great solution. As every time someone likes or comments on the post it is shared with their own network. This is a great way to reach a lot of people. It also gives the opportunity to other people from your company to share the job posting with their own network. You could receive applications really quickly, without spending anything! Here is an example of how one of our customers do just that with their French network on Linkedin.
 
-\[caption id="attachment_13775" align="alignleft" width="561"\]![Fidzup, some of our French customers, leveraging LinkedIn to recruit!](/images/fidzup-linkedin-561x600.png) Fidzup, one of our French customers, leveraging LinkedIn to recruit!\[/caption\]
+\[caption id="attachment_13775" align="alignleft" width="561"\]![fidzup, some of our french customers, leveraging linkedin to recruit!](/images/fidzup-linkedin-561x600.png) Fidzup, one of our French customers, leveraging LinkedIn to recruit!\[/caption\]
 
 #### Post a paid job on LinkedIn
 

@@ -1,20 +1,20 @@
 ---
 title: "Who to 'Follow' at the HR Tech World Congress in London"
-date: "2016-03-07"
+date: '2016-03-07'
 categories:
-  - "hr-events-and-people"
-slug: "who-to-follow-at-the-hr-tech-world-congress-in-london"
-seoTitle: ""
+  - 'hr-events-and-people'
+slug: 'who-to-follow-at-the-hr-tech-world-congress-in-london'
+seoTitle: ''
 seoDescription: "Who to 'Follow' at the HR Tech World Congress in London. Here’s a few HR and recruiting experts you really should be following on social media."
-author: "Orla-Hodnett"
-coverImage: "/images/Penguins.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/Penguins.jpg'
 ---
 
 We all know the general feeling of smugness or superiority, when you catch onto a TV series, band or website before it gets popular. Nothing beats it. Why leave that enjoyment for the world outside of work? We’ve picked a few speakers from this year’s [HR Tech Congress](https://twitter.com/HRTechWorld) event in London for you to follow on Twitter and LinkedIn, so you can be well prepared for some HR anorak-ing.
 
 #### [Simon Sinek
 
-![Simon_Sinek](/images/Simon_Sinek.jpg)
+![simon_sinek](/images/simon_sinek.jpg)
 
 ](https://twitter.com/simonsinek)
 
@@ -30,7 +30,7 @@ Social media evangelist, Euan Semple introduced social media tools to a number o
 
 #### [Martha Lane Fox
 
-![Marthalanefox](/images/Marthalanefox.jpg)
+![marthalanefox](/images/marthalanefox.jpg)
 
 ](https://twitter.com/Marthalanefox)
 

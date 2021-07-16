@@ -1,13 +1,13 @@
 ---
-title: "Thinking of changing recruiting software?"
-date: "2016-10-11"
+title: 'Thinking of changing recruiting software?'
+date: '2016-10-11'
 categories:
-  - "choosing-an-ats"
-slug: "changing-recruiting-software-solution"
-seoTitle: "Thinking of changing recruiting software? | HireHive ATS"
-seoDescription: "Like a worn out old car it can be hard to let go of an ATS. Thinking of changing your recruiting software solution? You’re probably right."
-author: "Orla-Hodnett"
-coverImage: "/images/recruiting-software-solution.jpg"
+  - 'choosing-an-ats'
+slug: 'changing-recruiting-software-solution'
+seoTitle: 'Thinking of changing recruiting software? | HireHive ATS'
+seoDescription: 'Like a worn out old car it can be hard to let go of an ATS. Thinking of changing your recruiting software solution? You’re probably right.'
+author: 'Orla-Hodnett'
+coverImage: '/images/recruiting-software-solution.jpg'
 ---
 
 _Like a worn out old car that you’ve grown disproportionately attached to, it can be hard to let go of recruiting software that is past its sell-by-date. Thinking of changing this recruiting software solution? You’re probably right._

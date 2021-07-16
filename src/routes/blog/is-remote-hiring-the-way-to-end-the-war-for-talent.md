@@ -1,13 +1,13 @@
 ---
-title: "Is remote hiring the way to end the war for talent?"
-date: "2016-03-21"
+title: 'Is remote hiring the way to end the war for talent?'
+date: '2016-03-21'
 categories:
-  - "recruiting-strategy"
-slug: "is-remote-hiring-the-way-to-end-the-war-for-talent"
-seoTitle: "Is remote hiring the way to end the war for talent?"
+  - 'recruiting-strategy'
+slug: 'is-remote-hiring-the-way-to-end-the-war-for-talent'
+seoTitle: 'Is remote hiring the way to end the war for talent?'
 seoDescription: "Could remote hiring give your HR team the edge over the competition when seeking candidates with skills in short supply? Let's find out:"
-author: "Orla-Hodnett"
-coverImage: "/images/Lighthouse-FLock.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/Lighthouse-FLock.jpg'
 ---
 
 _Could adopting a new approach to hiring give your HR team a competitive edge when seeking candidates with skills in short supply? Remote hiring could offer unique appeal to candidates._

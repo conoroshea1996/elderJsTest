@@ -1,19 +1,19 @@
 ---
-title: "Why remote work is becoming more popular"
-date: "2017-06-20"
+title: 'Why remote work is becoming more popular'
+date: '2017-06-20'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "canva"
-  - "hotjar"
-  - "remote"
-  - "remote-work"
-  - "trello"
-slug: "why-remote-work-is-becoming-more-popular"
-seoTitle: "Why remote work is becoming more popular? | HireHive"
-seoDescription: "Remote work has been a gradual trend the last few years. But why is it becoming more and more popular? Check out our 3 reasons companies are using remote work."
-author: "Rachel-Hill"
-coverImage: "/images/pexels-photo-297642.jpeg"
+  - 'canva'
+  - 'hotjar'
+  - 'remote'
+  - 'remote-work'
+  - 'trello'
+slug: 'why-remote-work-is-becoming-more-popular'
+seoTitle: 'Why remote work is becoming more popular? | HireHive'
+seoDescription: 'Remote work has been a gradual trend the last few years. But why is it becoming more and more popular? Check out our 3 reasons companies are using remote work.'
+author: 'Rachel-Hill'
+coverImage: '/images/pexels-photo-297642.jpeg'
 ---
 
 The 9-5, 40 hour week still exists in many companies, but more and more companies are moving towards a remote work policy. Usually, this gives employees the option to work remotely and from the office, when it suits them best. While the remote work trend does not suit every business, it does suit those in tech-reliant sectors.

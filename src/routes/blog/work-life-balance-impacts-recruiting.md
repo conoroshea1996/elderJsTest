@@ -1,13 +1,13 @@
 ---
-title: "How work-life balance/flexibility impacts recruiting"
-date: "2018-04-10"
+title: 'How work-life balance/flexibility impacts recruiting'
+date: '2018-04-10'
 categories:
-  - "culture-branding"
-slug: "work-life-balance-impacts-recruiting"
-seoTitle: "Work-life balance: how it impacts recruiting | HireHive ATS"
-seoDescription: "Achieving work-life balance in your organisation is essential if you want to attract top talent. Here is how work-life balance impacts the way you recruit."
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1448242021390-c6933dbe0919.jpg"
+  - 'culture-branding'
+slug: 'work-life-balance-impacts-recruiting'
+seoTitle: 'Work-life balance: how it impacts recruiting | HireHive ATS'
+seoDescription: 'Achieving work-life balance in your organisation is essential if you want to attract top talent. Here is how work-life balance impacts the way you recruit.'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1448242021390-c6933dbe0919.jpg'
 ---
 
 _Achieving work-life balance in your organisation is essential if you want to attract top talent. Flexibility and policies that support work-life balance can totally change the way you recruit._

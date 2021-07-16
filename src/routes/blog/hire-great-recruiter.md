@@ -1,13 +1,13 @@
 ---
-title: "How to hire a great recruiter"
-date: "2017-05-12"
+title: 'How to hire a great recruiter'
+date: '2017-05-12'
 categories:
-  - "recruiting-strategy"
-slug: "hire-great-recruiter"
-seoTitle: "How to hire a great recruiter I HireHive Recruiting Software"
-seoDescription: "Need some help hiring a recruiter? HireHive is here to help! Follow our 4 key steps and hire your newest recruiter today!"
-author: "Orla-Hodnett"
-coverImage: "/images/hiring-a-recruiter.jpg"
+  - 'recruiting-strategy'
+slug: 'hire-great-recruiter'
+seoTitle: 'How to hire a great recruiter I HireHive Recruiting Software'
+seoDescription: 'Need some help hiring a recruiter? HireHive is here to help! Follow our 4 key steps and hire your newest recruiter today!'
+author: 'Orla-Hodnett'
+coverImage: '/images/hiring-a-recruiter.jpg'
 ---
 
 Hiring a recruiter feels a little strange. Like doing things back to front or upside down. But hiring a recruiter is a highly significant task and you will hire an individual who forms a core part of your team. Making use of all your tools at your disposal, from your previous recruiting projects to your recruiting software, the task is that little bit easier.

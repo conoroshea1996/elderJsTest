@@ -1,13 +1,13 @@
 ---
-title: "HR events to attend in 2018"
-date: "2018-01-15"
+title: 'HR events to attend in 2018'
+date: '2018-01-15'
 categories:
-  - "hr-events-and-people"
-slug: "hr-events-attend-2018"
-seoTitle: "HR events to attend in 2018 | HireHive Recruiting Software"
-seoDescription: "With so many HR and recruiting events going on in 2018, it may be tough to pick which ones to attend. Here are a few picks of the top HR events in 2018."
-author: "Orla-Hodnett"
-coverImage: "/images/photo-1506485338023-6ce5f36692df.jpg"
+  - 'hr-events-and-people'
+slug: 'hr-events-attend-2018'
+seoTitle: 'HR events to attend in 2018 | HireHive Recruiting Software'
+seoDescription: 'With so many HR and recruiting events going on in 2018, it may be tough to pick which ones to attend. Here are a few picks of the top HR events in 2018.'
+author: 'Orla-Hodnett'
+coverImage: '/images/photo-1506485338023-6ce5f36692df.jpg'
 ---
 
 _With so many HR and recruiting events going on in 2018, it may be tough to pick which ones to attend. Here's a quick shortlist of global events addressing the world of work in 2018._

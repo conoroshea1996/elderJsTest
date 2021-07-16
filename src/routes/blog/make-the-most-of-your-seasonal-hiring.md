@@ -1,13 +1,13 @@
 ---
-title: "Make the Most of Your Seasonal Hiring"
-date: "2019-12-02"
+title: 'Make the Most of Your Seasonal Hiring'
+date: '2019-12-02'
 categories:
-  - "social-recruiting"
-slug: "make-the-most-of-your-seasonal-hiring"
-seoTitle: ""
-seoDescription: "Seasonal hiring can be hard to wrap your head around. We gathered a few tips to help you hire seasonal employees in this holiday season."
-author: "HireHive-Team"
-coverImage: "/images/photo-1512389142860-9c449e58a543.jpg"
+  - 'social-recruiting'
+slug: 'make-the-most-of-your-seasonal-hiring'
+seoTitle: ''
+seoDescription: 'Seasonal hiring can be hard to wrap your head around. We gathered a few tips to help you hire seasonal employees in this holiday season.'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1512389142860-9c449e58a543.jpg'
 ---
 
 Whether it’s winter in the northern hemisphere or summer in the southern, seasonal hiring may be on your mind. Seasonal hiring isn’t only related to just the holidays, though that can be a big time for many businesses. Any time you need a boost to your workforce based on increased production; you can consider seasonal help to get you through. In whatever capacity you need, hiring for seasonal employees generally means short-term, contingent workers. Can you increase your seasonal workforce efficiency through the use of technology?

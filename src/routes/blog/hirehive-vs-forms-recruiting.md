@@ -1,13 +1,13 @@
 ---
-title: "HireHive versus Forms for recruiting"
-date: "2016-11-22"
+title: 'HireHive versus Forms for recruiting'
+date: '2016-11-22'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-vs-forms-recruiting"
-seoTitle: "Alternative to forms for recruiting | HireHive Recruiting Software"
-seoDescription: "Forms can be a messy means of receiving applications.Worse, they are often a nuisance to prospective candidates. HireHive is a great alternative to forms!"
-author: "Orla-Hodnett"
-coverImage: "/images/Current-openings.jpg"
+  - 'hirehive-updates'
+slug: 'hirehive-vs-forms-recruiting'
+seoTitle: 'Alternative to forms for recruiting | HireHive Recruiting Software'
+seoDescription: 'Forms can be a messy means of receiving applications.Worse, they are often a nuisance to prospective candidates. HireHive is a great alternative to forms!'
+author: 'Orla-Hodnett'
+coverImage: '/images/Current-openings.jpg'
 ---
 
 Forms are not particularly popular with candidates, if we are to be honest. There is nothing more frustrating than having to fill out the same kind of personal data, again and again… and then not even get an automatic response. With the breadth of tools and options offered to us through constantly improving technology, I ask: why? Why, why, oh why?

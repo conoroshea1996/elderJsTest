@@ -1,13 +1,13 @@
 ---
-title: "Why work-life balance is important"
-date: "2017-11-25"
+title: 'Why work-life balance is important'
+date: '2017-11-25'
 categories:
-  - "culture-branding"
-slug: "work-life-balance-importance"
-seoTitle: "Work-life balance and its importance - HireHive Recruiting"
-seoDescription: "Work-life balance refers to an employee’s ability to maintain an equilibrium between work and personal life. Learn about work life balance & its importance!"
-author: "Rachel-Hill"
-coverImage: "/images/8642273025_e54ea82f4a_k.jpg"
+  - 'culture-branding'
+slug: 'work-life-balance-importance'
+seoTitle: 'Work-life balance and its importance - HireHive Recruiting'
+seoDescription: 'Work-life balance refers to an employee’s ability to maintain an equilibrium between work and personal life. Learn about work life balance & its importance!'
+author: 'Rachel-Hill'
+coverImage: '/images/8642273025_e54ea82f4a_k.jpg'
 ---
 
 _A [work-life balance](http://www.unicornhro.com/blog/importance-of-work-life-balance) refers to an employee’s ability to maintain a healthy equilibrium between work, personal and family life._

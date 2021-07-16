@@ -1,13 +1,13 @@
 ---
-title: "Who Uses Recruitment Software?"
-date: "2019-05-14"
+title: 'Who Uses Recruitment Software?'
+date: '2019-05-14'
 categories:
-  - "choosing-an-ats"
-slug: "who-uses-recruitment-software"
-seoTitle: ""
-seoDescription: "At HireHive we have very different types of customers. If you think that only big companies use an ATS, find out about our most unexpected sign-ups."
-author: "John-Dennehy"
-coverImage: "/images/photo-1473308822086-710304d7d30c.jpg"
+  - 'choosing-an-ats'
+slug: 'who-uses-recruitment-software'
+seoTitle: ''
+seoDescription: 'At HireHive we have very different types of customers. If you think that only big companies use an ATS, find out about our most unexpected sign-ups.'
+author: 'johnd'
+coverImage: '/images/photo-1473308822086-710304d7d30c.jpg'
 ---
 
 Like any business, it’s essential for us to know who our customers are. When we first launched HireHive we thought that most customers would be software companies based in Ireland, the UK and the US.

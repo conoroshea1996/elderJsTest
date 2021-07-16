@@ -1,15 +1,15 @@
 ---
-title: "Are employee referral programs the most effective way to recruit?"
-date: "2016-02-15"
+title: 'Are employee referral programs the most effective way to recruit?'
+date: '2016-02-15'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "employee-referral-scheme"
-slug: "employee-referral-programs-most-effective"
-seoTitle: "Are employee referral programs the most effective way to recruit?"
-seoDescription: "Successful recruiting can be greatly helped along by employee referrals. How can you implement employee referral programs?"
-author: "Orla-Hodnett"
-coverImage: "/images/Referrals-Lego.jpg"
+  - 'employee-referral-scheme'
+slug: 'employee-referral-programs-most-effective'
+seoTitle: 'Are employee referral programs the most effective way to recruit?'
+seoDescription: 'Successful recruiting can be greatly helped along by employee referrals. How can you implement employee referral programs?'
+author: 'Orla-Hodnett'
+coverImage: '/images/Referrals-Lego.jpg'
 ---
 
 How do you identify favourable traits in candidates? How do you identify those skills or characteristics that set a candidate apart? Employee referral programs could help.

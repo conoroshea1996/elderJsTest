@@ -1,15 +1,15 @@
 ---
-title: "Our Top #WebSummit Influencers"
-date: "2015-11-03"
+title: 'Our Top #WebSummit Influencers'
+date: '2015-11-03'
 categories:
-  - "hr-events-and-people"
+  - 'hr-events-and-people'
 tags:
-  - "tech-recruiting-software"
-slug: "our-top-websummit-influencers"
-seoTitle: "Our Top #WebSummit Influencers | Tech recruiting software"
-seoDescription: "From the innovators, designers, developers and founders within the worldwide tech scene, here are our top industry people you really should be following."
-author: "HireHive-Team"
-coverImage: "/images/Web-Summit-2015.jpg"
+  - 'tech-recruiting-software'
+slug: 'our-top-websummit-influencers'
+seoTitle: 'Our Top #WebSummit Influencers | Tech recruiting software'
+seoDescription: 'From the innovators, designers, developers and founders within the worldwide tech scene, here are our top industry people you really should be following.'
+author: 'HireHive-Team'
+coverImage: '/images/Web-Summit-2015.jpg'
 ---
 
 **Paddy Cosgrave  
@@ -36,7 +36,7 @@ Adrian is tech editor with the Irish Independent. He writes about tech, trends a
 **Rachel Arthur  
 **[@rachel_arthur](https://twitter.com/rachel_arthur)
 
-[![Rachel Arthur](/images/Rachel-Arthur.jpeg)](http://hirehive.io/wp-content/uploads/sites/1/2015/11/Rachel-Arthur.jpeg)
+[![rachel arthur](/images/rachel-arthur.jpeg)](http://hirehive.io/wp-content/uploads/sites/1/2015/11/Rachel-Arthur.jpeg)
 
 Rachel is an award-winning fashion, business and technology journalist. She is founder of **[fashionandmash.com](http://fashionandmash.com/).**
 

@@ -1,15 +1,15 @@
 ---
-title: "HireHive vs.The Filing Cabinet"
-date: "2016-03-17"
+title: 'HireHive vs.The Filing Cabinet'
+date: '2016-03-17'
 categories:
-  - "hirehive-updates"
+  - 'hirehive-updates'
 tags:
-  - "icims-alternatives"
-slug: "hirehive-vs-the-filing-cabinet-icims-alternative"
-seoTitle: "HireHive vs.The Filing Cabinet | iCims alternative"
-seoDescription: "Here’s a few reasons why you might want to ditch the filing cabinet for recruiting software, like HireHive. Check out our iCims alternative."
-author: "HireHive-Team"
-coverImage: "/images/Filling-Cabinet-v-HH.jpg"
+  - 'icims-alternatives'
+slug: 'hirehive-vs-the-filing-cabinet-icims-alternative'
+seoTitle: 'HireHive vs.The Filing Cabinet | iCims alternative'
+seoDescription: 'Here’s a few reasons why you might want to ditch the filing cabinet for recruiting software, like HireHive. Check out our iCims alternative.'
+author: 'HireHive-Team'
+coverImage: '/images/Filling-Cabinet-v-HH.jpg'
 ---
 
 We always consider human intuition superior to technology. We’re sceptical of artificial, computer intelligence, despite the overwhelming amount of scientific and statistical evidence that tells us otherwise. We’re a stubborn lot, make no mistake.

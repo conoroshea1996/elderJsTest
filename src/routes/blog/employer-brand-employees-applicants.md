@@ -1,25 +1,25 @@
 ---
-title: "Employer brand is created by your employees AND your job applicants"
-date: "2015-12-08"
+title: 'Employer brand is created by your employees AND your job applicants'
+date: '2015-12-08'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "applicants"
-  - "employer-brand"
-slug: "employer-brand-employees-applicants"
-seoTitle: "Employer brand is created by your employees AND your job applicants"
-seoDescription: "Everyone knows by now that employees affect employer brand. But have you though about how job applicants affect your employer brand?"
-author: "Siobhan-Hasner"
-coverImage: "/images/smilies-bank-sit-rest-160739.jpeg"
+  - 'applicants'
+  - 'employer-brand'
+slug: 'employer-brand-employees-applicants'
+seoTitle: 'Employer brand is created by your employees AND your job applicants'
+seoDescription: 'Everyone knows by now that employees affect employer brand. But have you though about how job applicants affect your employer brand?'
+author: 'Siobhan-Hasner'
+coverImage: '/images/smilies-bank-sit-rest-160739.jpeg'
 ---
 
 Another group that contributes to your employer brand that is often overlooked, is your job applicants.
 
-Candidate experience will contribute significantly to how your brand is portrayed and perceived by that person - 95% of job seekers tell others about a poor interview process. Candidate application experience is something a lot of companies want to get right; after all, each applicant that comes in has spent time and energy creating an application because they want to be part of your company. Large sums of money go on creatives for the website, /images/ of football tables and bean bags.
+Candidate experience will contribute significantly to how your brand is portrayed and perceived by that person - 95% of job seekers tell others about a poor interview process. Candidate application experience is something a lot of companies want to get right; after all, each applicant that comes in has spent time and energy creating an application because they want to be part of your company. Large sums of money go on creatives for the website, images of football tables and bean bags.
 
 However, many organisations are not treating applicants as potential brand ambassadors.
 
-[![employer brand](/images/Old-Style-telephone.jpg)](http://hirehive.io/wp-content/uploads/sites/1/2015/12/Old-Style-telephone.jpg)
+[![employer brand](/images/old-style-telephone.jpg)](http://hirehive.io/wp-content/uploads/sites/1/2015/12/Old-Style-telephone.jpg)
 
 Most applicants will understand if they don’t get a role at your company for valid reasons - maybe it’s an issue of experience or cultural fit. This shouldn’t reflect badly on your brand and some of these applicants may even apply again in the future and become valuable members of the company. So how do you ensure that an unsuccessful applicant can remain somewhat of a brand ambassador for your company?
 

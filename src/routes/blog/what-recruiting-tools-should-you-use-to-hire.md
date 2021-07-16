@@ -1,13 +1,13 @@
 ---
-title: "What recruiting tools should you use to hire?"
-date: "2017-04-28"
+title: 'What recruiting tools should you use to hire?'
+date: '2017-04-28'
 categories:
-  - "recruiting-strategy"
-slug: "what-recruiting-tools-should-you-use-to-hire"
-seoTitle: "What recruiting tools should you use to hire? I HireHive Recruiting"
-seoDescription: "Everybody loves shortcuts in life. But what is out there for recruiters? Check out the top 5 recruiting tools that will make hiring easier"
-author: "Orla-Hodnett"
-coverImage: "/images/toools.jpg"
+  - 'recruiting-strategy'
+slug: 'what-recruiting-tools-should-you-use-to-hire'
+seoTitle: 'What recruiting tools should you use to hire? I HireHive Recruiting'
+seoDescription: 'Everybody loves shortcuts in life. But what is out there for recruiters? Check out the top 5 recruiting tools that will make hiring easier'
+author: 'Orla-Hodnett'
+coverImage: '/images/toools.jpg'
 ---
 
 We will look for any means of cutting corners in life. It is human nature to try to find a hack or a shortcut and the same goes for recruiting. There are a variety of recruiting tools that can make our job easier and here are just a few:
@@ -18,7 +18,7 @@ We will look for any means of cutting corners in life. It is human nature to try
 
 In a world where big data is everything, you can also generate reports on any data gathered by recruiting software. Plus, you can manage your employee referrals scheme, as well as setting up a careers site.
 
-\[caption id="attachment_9360" align="alignnone" width="500"\]![recruiting tools](/images/Social-Recruiting-Software-Jobboards.png) HireHive Recruiting Software\[/caption\]
+\[caption id="attachment_9360" align="alignnone" width="500"\]![recruiting tools](/images/social-recruiting-software-jobboards.png) HireHive Recruiting Software\[/caption\]
 
 #### **Communications**
 
@@ -34,7 +34,7 @@ You are nothing without a [social media](https://hirehive.io/blog/begin-social-r
 
 Your recruiting software will help you share job postings to social media. If you want to develop some dedicated careers content for your social media accounts, then consider a tool like Buffer to schedule your content posting.
 
-![recruiting tools](/images/Twitter.png)
+![recruiting tools](/images/twitter.png)
 
 #### **Project management tools**
 

@@ -1,16 +1,16 @@
 ---
-title: "The five biggest ATS myths busted"
-date: "2016-07-13"
+title: 'The five biggest ATS myths busted'
+date: '2016-07-13'
 categories:
-  - "choosing-an-ats"
+  - 'choosing-an-ats'
 tags:
-  - "ats-system"
-  - "ats-systems"
-slug: "the-five-biggest-ats-myths-busted"
-seoTitle: "The five biggest ATS myths busted | ATS systems"
+  - 'ats-system'
+  - 'ats-systems'
+slug: 'the-five-biggest-ats-myths-busted'
+seoTitle: 'The five biggest ATS myths busted | ATS systems'
 seoDescription: "Reluctance to implement an ATS in today's modern world is primarily due to companies hesitation to whether the software will live up to their expectations."
-author: "Chelsea-O-Connor"
-coverImage: "/images/Bartolomeo_di_Giovanni_-_The_Myth_of_Io_-_Walters_37421-1.jpg"
+author: 'Chelsea-O-Connor'
+coverImage: '/images/Bartolomeo_di_Giovanni_-_The_Myth_of_Io_-_Walters_37421-1.jpg'
 ---
 
 Companies tend to hold on to the familiarity of their traditional recruitment processes and systems. Technology is advancing at a rapid pace, as businesses grow it is essential that companies see the true advantages of implementing recruitment software and the true benefits it will bring to their firm. Here are some of the myths that arise over and over again with ATS systems.

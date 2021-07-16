@@ -1,13 +1,13 @@
 ---
-title: "HireHive API: New job integration option"
-date: "2018-05-29"
+title: 'HireHive API: New job integration option'
+date: '2018-05-29'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-api-new-job-integration-option"
-seoTitle: "HireHive API: New job integration option | HireHive"
-seoDescription: "HireHive has different job integration options. The most flexible option is our new API, as it is fully customizable to match your branding."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/95cdfeef.jpg"
+  - 'hirehive-updates'
+slug: 'hirehive-api-new-job-integration-option'
+seoTitle: 'HireHive API: New job integration option | HireHive'
+seoDescription: 'HireHive has different job integration options. The most flexible option is our new API, as it is fully customizable to match your branding.'
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/95cdfeef.jpg'
 ---
 
 HireHive has different jobs integration options so that you can post jobs directly to your own website. Last week, we released our brand new API, our 'Expert' option that allows you to customise how your jobs are displayed.
@@ -18,7 +18,7 @@ Basically, an API allows you to request something from us at HireHive to be abl
 
 The HireHive API allows you to display your jobs on your own website in different, customised ways. This is a great option when creating a careers page that matches your branding. Once the careers page is designed and the API has been installed, everything is done automatically: your jobs will be automatically updated on your site when you publish, edit or close them within your HireHive account.
 
-![API2](/images/API2.png)
+![api2](/images/api2.png)
 
 #### **How does it work?**
 

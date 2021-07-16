@@ -1,15 +1,15 @@
 ---
-title: "Why company branding and recruiting go hand in hand"
-date: "2016-02-29"
+title: 'Why company branding and recruiting go hand in hand'
+date: '2016-02-29'
 categories:
-  - "culture-branding"
+  - 'culture-branding'
 tags:
-  - "hiring-tools"
-slug: "why-company-branding-recruiting-hand-in-hand"
-seoTitle: "Why company branding and recruiting go hand in hand | HireHive"
-seoDescription: "It’s no coincidence that Google regularly get anything up to 50,000 CVs in one week. It’s down to these two words: company branding."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-281845.jpeg"
+  - 'hiring-tools'
+slug: 'why-company-branding-recruiting-hand-in-hand'
+seoTitle: 'Why company branding and recruiting go hand in hand | HireHive'
+seoDescription: 'It’s no coincidence that Google regularly get anything up to 50,000 CVs in one week. It’s down to these two words: company branding.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-281845.jpeg'
 ---
 
 Right, we know they’ve got being the biggest technology company in the world on their side when recruiting, but that could mean that they are a soulless, corporate monolith.

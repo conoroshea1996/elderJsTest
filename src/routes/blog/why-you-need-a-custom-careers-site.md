@@ -1,13 +1,13 @@
 ---
-title: "Why you need a custom careers site"
-date: "2018-01-19"
+title: 'Why you need a custom careers site'
+date: '2018-01-19'
 categories:
-  - "culture-branding"
-slug: "why-you-need-a-custom-careers-site"
-seoTitle: "Custom careers site, why do you need one? | HireHive"
-seoDescription: "With HireHive a custom careers site is easy to set up. Here are just a few of the reasons you should set up a custom careers site."
-author: "Orla-Hodnett"
-coverImage: "/images/1.jpg"
+  - 'culture-branding'
+slug: 'why-you-need-a-custom-careers-site'
+seoTitle: 'Custom careers site, why do you need one? | HireHive'
+seoDescription: 'With HireHive a custom careers site is easy to set up. Here are just a few of the reasons you should set up a custom careers site.'
+author: 'Orla-Hodnett'
+coverImage: '/images/1.jpg'
 ---
 
 _With HireHive a custom careers site is easy to set up. Here are just a few of the reasons you should set up a custom careers site._

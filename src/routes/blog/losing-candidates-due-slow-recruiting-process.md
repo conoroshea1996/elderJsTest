@@ -1,13 +1,13 @@
 ---
-title: "Are you losing candidates due to a slow recruiting process?"
-date: "2017-08-21"
+title: 'Are you losing candidates due to a slow recruiting process?'
+date: '2017-08-21'
 categories:
-  - "recruiting-strategy"
-slug: "losing-candidates-due-slow-recruiting-process"
-seoTitle: "Are you losing candidates due to a slow recruiting process?"
-seoDescription: "All good things take time, but what if you are losing candidates as a result? See our 3 tips for reducing inefficiencies in the recruiting process."
-author: "Orla-Hodnett"
-coverImage: "/images/hourglass-time-hours-sand-39396.jpeg"
+  - 'recruiting-strategy'
+slug: 'losing-candidates-due-slow-recruiting-process'
+seoTitle: 'Are you losing candidates due to a slow recruiting process?'
+seoDescription: 'All good things take time, but what if you are losing candidates as a result? See our 3 tips for reducing inefficiencies in the recruiting process.'
+author: 'Orla-Hodnett'
+coverImage: '/images/hourglass-time-hours-sand-39396.jpeg'
 ---
 
 _All good things take time in recruiting, but what if you are losing candidates as a result? Recruiting software might be the key to introducing efficiencies._

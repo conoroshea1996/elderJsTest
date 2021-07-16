@@ -1,13 +1,13 @@
 ---
-title: "Widening your talent pool"
-date: "2017-12-15"
+title: 'Widening your talent pool'
+date: '2017-12-15'
 categories:
-  - "recruiting-strategy"
-slug: "widening-your-talent-pool"
-seoTitle: "Talent pool: How to widen your candidate database?"
-seoDescription: "Building an effective talent pool is central to an efficient recruiting process. Your recruiting software is here to help you build it."
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-261185.jpeg"
+  - 'recruiting-strategy'
+slug: 'widening-your-talent-pool'
+seoTitle: 'Talent pool: How to widen your candidate database?'
+seoDescription: 'Building an effective talent pool is central to an efficient recruiting process. Your recruiting software is here to help you build it.'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-261185.jpeg'
 ---
 
 _Nothing worse than not having a Phillips screwdriver in your toolbox when you need one. Having a wide talent pool and access to recruiting software means you never have to suffer this when recruiting._

@@ -1,13 +1,13 @@
 ---
 title: "Why creating a content strategy isn't that easy..."
-date: "2018-08-30"
+date: '2018-08-30'
 categories:
-  - "hirehive-updates"
-slug: "content-strategy"
+  - 'hirehive-updates'
+slug: 'content-strategy'
 seoTitle: "Why creating a content strategy isn't that easy... | HireHive"
 seoDescription: "At HireHive we have recently decided to revamp our content strategy, & it wasn't that easy! We decided to talk about our struggles and share our experience."
-author: "Maëlle-De-Francesco"
-coverImage: "/images/photo-1527507631895-7cb2a9968c74.jpg"
+author: 'Maëlle-De-Francesco'
+coverImage: '/images/photo-1527507631895-7cb2a9968c74.jpg'
 ---
 
 _Here at HireHive, we have always wanted to have a blog to help the people we work with - recruiters, business owners or simply people who need to recruit but whose job isn’t focusing on Human Resources and Recruitment. We wanted to give them our tips on how they could recruit and share industry news. But creating a content strategy is no easy task, and the mistakes we've made along the way helped us improve and continue to perfect. If you want to learn a bit more about us and our experience with recruiting content, keep reading!_
@@ -40,7 +40,7 @@ Back then, we thought that having two new posts a week was the best strategy fo
 
 ### Auditing our blog
 
-We kept this strategy going for a while until we realised that no, this wasn't working for us anymore. A few months ago the HireHive marketing team decided to sit down and to go through our blog. And we noticed a few things: first, we have a LOT of content on our blog, which isn't being used at all. To remedy this, we starting sharing our posts more and more on social media. If you're not following us there already, we're posting on [LinkedIn,](https://www.linkedin.com/company/hirehive-io/) [Twitter](https://twitter.com/HireHive), [Facebook](https://www.facebook.com/HireHiveATS) and [Instagram](https://www.instagram.com/HireHive-Team/)! Second, we realised that we had plenty of duplicate posts: we have at least four different posts on employer branding on our blog, and at least three of them have very similar content. Not really useful for people looking for answers on that topic, right?
+We kept this strategy going for a while until we realised that no, this wasn't working for us anymore. A few months ago the HireHive marketing team decided to sit down and to go through our blog. And we noticed a few things: first, we have a LOT of content on our blog, which isn't being used at all. To remedy this, we starting sharing our posts more and more on social media. If you're not following us there already, we're posting on [LinkedIn,](https://www.linkedin.com/company/hirehive-io/) [Twitter](https://twitter.com/HireHive), [Facebook](https://www.facebook.com/HireHiveATS) and [Instagram](https://www.instagram.com/hirehiveteam/)! Second, we realised that we had plenty of duplicate posts: we have at least four different posts on employer branding on our blog, and at least three of them have very similar content. Not really useful for people looking for answers on that topic, right?
 
 And lastly, we noticed that we didn't have a voice. That was the biggest realisation when going through our blog. We had put so much effort into changing our branding and showing our voice on our website and different channels, but none of our blog posts were written with the HireHive voice! Funny enough as writing in your company's voice is one of the things we encourage people to do to improve their employer branding... How could we have forgotten that?!
 

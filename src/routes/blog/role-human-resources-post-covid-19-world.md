@@ -1,13 +1,13 @@
 ---
-title: "The Role of Human Resources in a Post-COVID-19 World"
-date: "2020-07-06"
+title: 'The Role of Human Resources in a Post-COVID-19 World'
+date: '2020-07-06'
 categories:
-  - "social-recruiting"
-slug: "role-human-resources-post-covid-19-world"
-seoTitle: ""
-seoDescription: "How has the novel coronavirus changed the role of HR? And what does the role of HR look like in a post-COVID-19 world?"
-author: "HireHive-Team"
-coverImage: "/images/photo-1580408377065-1da9909a26ba.jpg"
+  - 'social-recruiting'
+slug: 'role-human-resources-post-covid-19-world'
+seoTitle: ''
+seoDescription: 'How has the novel coronavirus changed the role of HR? And what does the role of HR look like in a post-COVID-19 world?'
+author: 'HireHive-Team'
+coverImage: '/images/photo-1580408377065-1da9909a26ba.jpg'
 ---
 
 COVID-19 has changed the world and we won’t see what we consider normal for a long time, if ever. While some countries are in recovery, others are still struggling with rising cases. Businesses had to pivot, often without any preparation, to keep their employees safe and working from home. So how has the novel coronavirus changed the role of HR? And what does the role of HR look like in a post-COVID-19 world?

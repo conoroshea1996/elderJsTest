@@ -1,13 +1,13 @@
 ---
-title: "GDPR: does this affect the recruiting industry?"
-date: "2017-07-28"
+title: 'GDPR: does this affect the recruiting industry?'
+date: '2017-07-28'
 categories:
-  - "compliance-and-data"
-slug: "gdpr-affect-recruiting-industry"
-seoTitle: "Will GDPR affect the recruiting industry? | HireHive Recruiting"
-seoDescription: "How will GDPR affect your recruiting efforts and recruiting software usage? Check out 5 things to consider before May 2018"
-author: "Orla-Hodnett"
-coverImage: "/images/eu.jpg"
+  - 'compliance-and-data'
+slug: 'gdpr-affect-recruiting-industry'
+seoTitle: 'Will GDPR affect the recruiting industry? | HireHive Recruiting'
+seoDescription: 'How will GDPR affect your recruiting efforts and recruiting software usage? Check out 5 things to consider before May 2018'
+author: 'Orla-Hodnett'
+coverImage: '/images/eu.jpg'
 ---
 
 _Curious about how GDPR will impact your recruiting practises and recruiting software usage?_
@@ -16,7 +16,7 @@ You may have heard about the [GDPR directives](https://hirehive.com/gdpr-how-to-
 
 But how might these new rules affect the recruiting and HR industry? And how might you need to change your practises? Might this change how you use recruiting software and tools? Here are five things to consider ahead of the roll-out in May 2018.
 
-![GDPR](/images/eu-e1501238936608.jpg)
+![gdpr](/images/eu-e1501238936608.jpg)
 
 > GDPR directs that you should be able to fully trace where you gathered any data from applicants
 

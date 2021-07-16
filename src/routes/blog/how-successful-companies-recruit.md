@@ -1,15 +1,15 @@
 ---
-title: "How successful companies recruit"
-date: "2016-09-19"
+title: 'How successful companies recruit'
+date: '2016-09-19'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "finding-candidates"
-slug: "how-successful-companies-recruit"
-seoTitle: "How successful companies recruit | HireHive Recruiting Software"
-seoDescription: "Success is inspirational and aspirational. How do top companies go about finding candidates that will bring their company more success."
-author: "Orla-Hodnett"
-coverImage: "/images/finding-candidates-1-e1474279563342.jpg"
+  - 'finding-candidates'
+slug: 'how-successful-companies-recruit'
+seoTitle: 'How successful companies recruit | HireHive Recruiting Software'
+seoDescription: 'Success is inspirational and aspirational. How do top companies go about finding candidates that will bring their company more success.'
+author: 'Orla-Hodnett'
+coverImage: '/images/finding-candidates-1-e1474279563342.jpg'
 ---
 
 The titans of industry, Fortune 500 companies offer huge inspiration to leaders, entrepreneurs and even recruiters. Instantly recognisable Silicon Valley stalwarts and consultancy giants attract astounding talent. But, how exactly do they achieve this? Here’s a few of the techniques employed by these organisations.
@@ -48,7 +48,7 @@ Lego recently held the Brick Factor to pluck the next great brick builder from o
 
 Jealousy is always a good motivator. It gives you a goal to work towards. Salesforce have leveraged that very fact in their recruiting strategy. Developing an employer brand is a worthwhile exercise, which can attract wonderful candidates to your organisation. Salesforce have not gone for subtlety in this case.
 
-Their branding strategy is simple: post /images/ of their job highlights and perks to social media (particularly Instagram), with the hashtag #dreamjob. No nuance or slight of hand here, just bringing out the primal jealousy in people, so that they apply for a job. Hey, if it ain’t broke…
+Their branding strategy is simple: post images of their job highlights and perks to social media (particularly Instagram), with the hashtag #dreamjob. No nuance or slight of hand here, just bringing out the primal jealousy in people, so that they apply for a job. Hey, if it ain’t broke…
 
 #### LinkedIn
 

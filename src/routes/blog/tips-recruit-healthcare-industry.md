@@ -1,13 +1,13 @@
 ---
-title: "From Turnover to Retention: Tips to Recruit for the Healthcare Industry in 2020"
-date: "2020-01-27"
+title: 'From Turnover to Retention: Tips to Recruit for the Healthcare Industry in 2020'
+date: '2020-01-27'
 categories:
-  - "recruiting-strategy"
-slug: "tips-recruit-healthcare-industry"
-seoTitle: ""
-seoDescription: "Healthcare turnover is a worldwide issue: if organizations aren’t addressing it, the challenge to find & keep top talent will only continue to rise."
-author: "HireHive-Team"
-coverImage: "/images/healthcare2.jpg"
+  - 'recruiting-strategy'
+slug: 'tips-recruit-healthcare-industry'
+seoTitle: ''
+seoDescription: 'Healthcare turnover is a worldwide issue: if organizations aren’t addressing it, the challenge to find & keep top talent will only continue to rise.'
+author: 'HireHive-Team'
+coverImage: '/images/healthcare2.jpg'
 ---
 
 [A study of over 11,000 healthcare employers in the United States](https://www.beckershospitalreview.com/finance/will-2018-be-the-year-healthcare-addresses-its-turnover-problem.html) in 2017 found that the average turnover for healthcare employees was over 20%. This is a significant leap from over 15% in 2010. The critical nature of healthcare turnover is a worldwide issue and if organizations aren’t addressing it, the challenge to find and keep top talent will only continue to rise. When your facility begins losing healthcare employees, such as nursing staff, it’s important to switch gears and focus on retention. What you may not realize is that retention begins with the hiring process, not after.

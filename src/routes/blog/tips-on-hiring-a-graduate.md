@@ -1,13 +1,13 @@
 ---
-title: "What’s a millennial and how do I hire one? Tips on hiring a graduate"
-date: "2016-04-27"
+title: 'What’s a millennial and how do I hire one? Tips on hiring a graduate'
+date: '2016-04-27'
 categories:
-  - "recruiting-strategy"
-slug: "tips-on-hiring-a-graduate"
-seoTitle: "Millennial: What is it and how do I hire one? Tips on hiring a graduate"
+  - 'recruiting-strategy'
+slug: 'tips-on-hiring-a-graduate'
+seoTitle: 'Millennial: What is it and how do I hire one? Tips on hiring a graduate'
 seoDescription: "Whether you're into using the vague term ‘millennials’ or good, old-fashioned ‘graduates,’ you're likely to be targeting this group as a recruiter."
-author: "Orla-Hodnett"
-coverImage: "/images/Millenial.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/Millenial.jpg'
 ---
 
 Whether you're into using the vague (and possibly pejorative) term ‘[millennials](https://en.wikipedia.org/wiki/Millennials)’ or good, old-fashioned ‘graduates,’ you're likely to be targeting this group as a recruiter.
@@ -20,7 +20,7 @@ The supposed challenge with recruiting recent grads is knowing how to communicat
 
 Recent grads are digital natives. They never knew a world without Internet access or mobile phones. They are often early adopters to new technologies. When advertising to graduates, you really have to keep this at the forefront of your mind. Graduates and students will exclusively search job postings online, so online job boards is the safest way to go.
 
-[![Millenial-Couple](/images/Millenial-Couple.jpg)](http://hirehive.io/wp-content/uploads/2016/04/Millenial-Couple.jpg)
+[![millenial-couple](/images/millenial-couple.jpg)](http://hirehive.io/wp-content/uploads/2016/04/Millenial-Couple.jpg)
 
 Any job sites or application processes have to be mobile optimised, to ensure you're reaching them on their favoured medium. As stated already, recent grads are digital natives and they expect some level of sophistication in the job application process. As always, make sure that your job application process is straightforward and efficient.
 

@@ -1,13 +1,13 @@
 ---
 title: "HireHive is in Recruiting Daily's top 100+ HR Tools to watch in 2017!"
-date: "2017-03-15"
+date: '2017-03-15'
 categories:
-  - "hirehive-updates"
-slug: "hirehive-recruiting-daily-top-100-hr-tools"
+  - 'hirehive-updates'
+slug: 'hirehive-recruiting-daily-top-100-hr-tools'
 seoTitle: "HireHive is in Recruiting Daily's top HR Tools to watch in 2017!"
 seoDescription: "HireHive was delighted to feature in Recruiting Daily's top 100+ HR and Recruiting Technologies to watch in Q1 of 2017 back in February."
-author: "HireHive-Team"
-coverImage: "/images/balloons.jpg"
+author: 'HireHive-Team'
+coverImage: '/images/balloons.jpg'
 ---
 
 The article by [William Tincup](https://twitter.com/williamtincup?lang=en) in [Recruiting Daily](http://recruitingdaily.com/) outlines how it is an exciting time to be involved in the recruiting and HR technology sectors, with a number of new startups and solutions emerging in those areas.

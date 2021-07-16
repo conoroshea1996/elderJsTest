@@ -1,16 +1,16 @@
 ---
 title: "Time to ditch your 'old' online recruitment software, it sucks"
-date: "2015-07-07"
+date: '2015-07-07'
 categories:
-  - "choosing-an-ats"
+  - 'choosing-an-ats'
 tags:
-  - "online-hiring-software"
-  - "online-recruitment-software"
-slug: "time-to-ditch-your-online-recruiting-system"
-seoTitle: "Time to ditch your old recruiting software | Online recruitment software"
+  - 'online-hiring-software'
+  - 'online-recruitment-software'
+slug: 'time-to-ditch-your-online-recruiting-system'
+seoTitle: 'Time to ditch your old recruiting software | Online recruitment software'
 seoDescription: "I have seen my fair share of many a Online recruitment software and they're not pretty. Here we discuss the options and alternatives for recruiting."
-author: "alangg"
-coverImage: "/images/Taleo-Keypunch.jpg"
+author: 'alangg'
+coverImage: '/images/Taleo-Keypunch.jpg'
 ---
 
 In this article I outline some of the things your company should look out for when determining which online recruitment software to use.

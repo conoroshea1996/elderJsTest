@@ -1,13 +1,13 @@
 ---
-title: "How existing employees can help you hire"
-date: "2017-06-30"
+title: 'How existing employees can help you hire'
+date: '2017-06-30'
 categories:
-  - "culture-branding"
-slug: "how-existing-employees-can-help-you-hire"
-seoTitle: "How existing employees can help you hire"
-seoDescription: "Who knows your company better than existing employees? Then why not let them help with hiring? See our 5 tips to make this happen:"
-author: "Orla-Hodnett"
-coverImage: "/images/team-motivation-teamwork-together-53958.jpeg"
+  - 'culture-branding'
+slug: 'how-existing-employees-can-help-you-hire'
+seoTitle: 'How existing employees can help you hire'
+seoDescription: 'Who knows your company better than existing employees? Then why not let them help with hiring? See our 5 tips to make this happen:'
+author: 'Orla-Hodnett'
+coverImage: '/images/team-motivation-teamwork-together-53958.jpeg'
 ---
 
 Nobody understands the requirements of your company better than your existing employees. Tools like recruiting software certainly help your efforts, but engaging with your employees gives a great starting point. They know the strengths and weaknesses in the team, so they will certainly know the right candidate for the job when they see them.

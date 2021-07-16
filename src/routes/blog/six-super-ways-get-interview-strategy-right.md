@@ -1,13 +1,13 @@
 ---
-title: "The Six Super ways to get your interview strategy right"
-date: "2017-08-04"
+title: 'The Six Super ways to get your interview strategy right'
+date: '2017-08-04'
 categories:
-  - "recruiting-strategy"
-slug: "six-super-ways-get-interview-strategy-right"
-seoTitle: "The Six Super ways to get your interview strategy right"
-seoDescription: "Your interview strategy can make or break a recruiting project. How can you set your interview experience apart from the competition and win top candidates?"
-author: "Orla-Hodnett"
-coverImage: "/images/pexels-photo-355948-2.jpeg"
+  - 'recruiting-strategy'
+slug: 'six-super-ways-get-interview-strategy-right'
+seoTitle: 'The Six Super ways to get your interview strategy right'
+seoDescription: 'Your interview strategy can make or break a recruiting project. How can you set your interview experience apart from the competition and win top candidates?'
+author: 'Orla-Hodnett'
+coverImage: '/images/pexels-photo-355948-2.jpeg'
 ---
 
 _Your interview strategy can make or break a recruiting project. How can you set your interview experience apart from the competition and win top candidates? And how can your recruiting software help?_

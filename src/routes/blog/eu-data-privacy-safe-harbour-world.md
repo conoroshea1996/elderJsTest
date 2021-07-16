@@ -1,13 +1,13 @@
 ---
-title: "Any port in a storm? EU data privacy in a post Safe Harbour world"
-date: "2016-02-19"
+title: 'Any port in a storm? EU data privacy in a post Safe Harbour world'
+date: '2016-02-19'
 categories:
-  - "compliance-and-data"
-slug: "eu-data-privacy-safe-harbour-world"
-seoTitle: ""
-seoDescription: "Safe Harbour’s ship has sailed. But if your recruiting and canidate data is stored and staying put in the EU, you don’t need to lose sleep over it."
-author: "Pamela-Weaver"
-coverImage: "/images/Lighthouse.jpg"
+  - 'compliance-and-data'
+slug: 'eu-data-privacy-safe-harbour-world'
+seoTitle: ''
+seoDescription: 'Safe Harbour’s ship has sailed. But if your recruiting and canidate data is stored and staying put in the EU, you don’t need to lose sleep over it.'
+author: 'Pamela-Weaver'
+coverImage: '/images/Lighthouse.jpg'
 ---
 
 In Part One of a two part post, we take a look at how we arrived at the current position and what it means. Part Two will explain why storing data in Ireland is good for privacy, regardless of where your company is based.

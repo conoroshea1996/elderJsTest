@@ -8,6 +8,13 @@
   to = "/.netlify/functions/getBlogs/?search=:search"
   force=true
   status = 200
+
+[[redirects]]
+  from = "/recruiting-blog/:page"
+  query = {search = ":search"} # apply this rule for /old-path?search=example
+  to = "/.netlify/functions/getBlogs/?search=:search"
+  force=true
+  status = 200
   
 [[headers]]
   for = "/_elderjs/*"

@@ -1,13 +1,13 @@
 ---
-title: "Building your employer brand for recruiting"
-date: "2017-05-05"
+title: 'Building your employer brand for recruiting'
+date: '2017-05-05'
 categories:
-  - "culture-branding"
-slug: "building-employer-brand-recruiting"
-seoTitle: "Employer brand and how to build it for recruiting I HireHive"
-seoDescription: "Want to build your employer brand, but unsure how? This post outlines 5 ways you can optimise your employer brand for recruiting today."
-author: "Orla-Hodnett"
-coverImage: "/images/Untitled-design.png"
+  - 'culture-branding'
+slug: 'building-employer-brand-recruiting'
+seoTitle: 'Employer brand and how to build it for recruiting I HireHive'
+seoDescription: 'Want to build your employer brand, but unsure how? This post outlines 5 ways you can optimise your employer brand for recruiting today.'
+author: 'Orla-Hodnett'
+coverImage: '/images/Untitled-design.png'
 ---
 
 Employer brand is everything. With ever increasing competition for top talent, you need to set yourself apart from the rest. What makes your company different to work for? Demonstrating your employer brand will help you appeal to candidates; with tools like recruiting software at your disposal, this is easily done.

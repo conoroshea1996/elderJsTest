@@ -1,16 +1,16 @@
 ---
-title: "Forgotten how to write a job ad? Get back into full-scale recruiting"
-date: "2016-09-12"
+title: 'Forgotten how to write a job ad? Get back into full-scale recruiting'
+date: '2016-09-12'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "full-scale-recruiting"
-  - "recruiting-solutions"
-slug: "back-to-full-scale-recruiting-solutions"
-seoTitle: "Get back into full-scale recruiting | Recruiting solutions"
-seoDescription: "Getting back to full-scale recruiting and into recruiting solutions might seem like scaling a cliff face, but here’s a few things to keep in mind."
-author: "Orla-Hodnett"
-coverImage: "/images/recruiting-solutions.jpg"
+  - 'full-scale-recruiting'
+  - 'recruiting-solutions'
+slug: 'back-to-full-scale-recruiting-solutions'
+seoTitle: 'Get back into full-scale recruiting | Recruiting solutions'
+seoDescription: 'Getting back to full-scale recruiting and into recruiting solutions might seem like scaling a cliff face, but here’s a few things to keep in mind.'
+author: 'Orla-Hodnett'
+coverImage: '/images/recruiting-solutions.jpg'
 ---
 
 It’s approaching the busiest time of the year. You may say you’re always up the walls, but seriously, this is the busiest time of the year for recruiting. Graduate recruiting is beginning, you’re into the the last quarter of the year, so projects need to be finished and budget is being freed up.

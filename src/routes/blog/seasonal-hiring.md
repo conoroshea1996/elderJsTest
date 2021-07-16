@@ -1,13 +1,13 @@
 ---
-title: "How to hire seasonal workers"
-date: "2018-12-05"
+title: 'How to hire seasonal workers'
+date: '2018-12-05'
 categories:
-  - "recruiting-strategy"
-slug: "seasonal-hiring"
-seoTitle: "Seasonal Hiring | HireHive Recruiting Software for seasonal workers"
-seoDescription: "For some industries, hiring needs vary from season to season. Seasonal hiring needs some consideration to make sure that you find the best candidates."
-author: "HireHive-Team"
-coverImage: "/images/Screenshot-2018-12-05-at-4.58.27-PM.png"
+  - 'recruiting-strategy'
+slug: 'seasonal-hiring'
+seoTitle: 'Seasonal Hiring | HireHive Recruiting Software for seasonal workers'
+seoDescription: 'For some industries, hiring needs vary from season to season. Seasonal hiring needs some consideration to make sure that you find the best candidates.'
+author: 'HireHive-Team'
+coverImage: '/images/Screenshot-2018-12-05-at-4.58.27-PM.png'
 ---
 
 For some industries, hiring needs vary from season to season. For example in the retail and hospitality industry seasonal employees are a key part of recruitment. Even at HireHive we notice that certain parts of the year are extra busy - companies are ramping up hiring and need an ATS. One such time for us is November/December because we know that companies are getting ready to have their ATS set up for a busy January.

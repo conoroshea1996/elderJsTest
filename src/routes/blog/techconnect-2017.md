@@ -1,13 +1,13 @@
 ---
-title: "TechConnect Live 2017: Findings on Sales, Marketing and Recruitment"
-date: "2017-06-02"
+title: 'TechConnect Live 2017: Findings on Sales, Marketing and Recruitment'
+date: '2017-06-02'
 categories:
-  - "hr-events-and-people"
-slug: "techconnect-2017"
-seoTitle: "TechConnect Live 2017: Findings on Sales, Marketing and Recruitment"
-seoDescription: "HireHive attended TechConnect Live on 31st May and loved it! Find out what we learned about sales, marketing and recruitment."
-author: "Rachel-Hill"
-coverImage: "/images/tech-connect.jpg"
+  - 'hr-events-and-people'
+slug: 'techconnect-2017'
+seoTitle: 'TechConnect Live 2017: Findings on Sales, Marketing and Recruitment'
+seoDescription: 'HireHive attended TechConnect Live on 31st May and loved it! Find out what we learned about sales, marketing and recruitment.'
+author: 'Rachel-Hill'
+coverImage: '/images/tech-connect.jpg'
 ---
 
 [TechConnect Live](http://techconnect-live.com/), held in the RDS, featured a number of presentations, seminars and exhibitions focused on sales and marketing, recruitment, business, data and finance. This was a real ‘mixed bag’ event with every type of company attending and sharing their insights.
@@ -18,7 +18,7 @@ At HireHive, our focus at TechConnect Live was on attending a large number of ta
 
 Moira Ní Ghallachóir of [MNG](http://mng.ie/) gave an interesting insight into sales in her seminar ‘5 Ways to Inspire Your Way to More Clients, Customers and Profits – Without Being Salesy or Pushy’. She believes that any type of business has the potential to create more sales. But where did Moira’s fervent belief and passion stem from?
 
-![TechConnect](/images/MNG.jpg)
+![techconnect](/images/mng.jpg)
 
 Her own story is an inspiring one: a few years ago Moira lived the so - called ‘perfect’ life. Perfect life equalling great job, living in a big city (London) and attending parties. However, approach 36 Moira felt unfulfilled and took a huge leap of faith by packing in her job and returning to her native Donegal after 18 years.
 
@@ -44,7 +44,7 @@ Moira emphasises the importance of focusing on the exciting outcomes for clients
 
 Mark Stewart, Founder of [Digital Chief](https://digitalchief.ie/) shared his advice on ‘getting intimate with email marketing’ at TechConnect Live. With advertising tools on Google and Facebook becoming increasingly expensive, email, in particular newsletters, are regarded as a cost-effective marketing tool. They also gives you more control over your own database of contacts than other platforms.
 
-![TechConnect](/images/mark-stewart.jpg)
+![techconnect](/images/mark-stewart.jpg)
 
 However, email marketing is not always easy and requires a long-term effort. But once you get it right, you can build up long-term relationships with contacts and make more profits. Email marketing through newsletters can also help grow engagement and brand authority.
 
@@ -74,7 +74,7 @@ As I said at the beginning, email marketing is a long - term effort that will no
 
 Lastly, we learned a thing or 2 about ‘hiring great IT candidates’ from [Next Generation](https://www.nextgeneration.ie/)’s Associate Director IT & Finance - Jennifer Brennan at TechConnect Live. Jennifer has spent 11 years working in the sector, specialising in sourcing IT candidates. She emphasises the importance of providing of a positive candidate experience and even points out that ‘83% of candidates won’t go to a 2nd round interview if they've had an initial bad experience with a company’.
 
-![TechConnect](/images/Jennifer-Brennan.jpg)
+![techconnect](/images/jennifer-brennan.jpg)
 
 So what did we learn about sourcing great IT candidates from Jennifer?
 

@@ -1,14 +1,14 @@
 ---
-title: "Multilingual Hiring Tips for 2019"
-date: "2019-01-08"
+title: 'Multilingual Hiring Tips for 2019'
+date: '2019-01-08'
 categories:
-  - "recruiting-strategy"
-  - "social-recruiting"
-slug: "multilingual-hiring-tips-2019"
-seoTitle: "Multilingual hiring and how your recruitment software can help"
-seoDescription: "Multilingual hiring is hard! But we are noticing more and more companies having to do this especially throughout Europe. Here are some tips on"
-author: "HireHive-Team"
-coverImage: "/images/Untitled-design.png"
+  - 'recruiting-strategy'
+  - 'social-recruiting'
+slug: 'multilingual-hiring-tips-2019'
+seoTitle: 'Multilingual hiring and how your recruitment software can help'
+seoDescription: 'Multilingual hiring is hard! But we are noticing more and more companies having to do this especially throughout Europe. Here are some tips on'
+author: 'HireHive-Team'
+coverImage: '/images/Untitled-design.png'
 ---
 
 Multilingual hiring can be hard! But we are noticing more and more companies having to do it, especially throughout Europe. Companies are setting up hubs for development/sales/customer support and need to hire for different cultures and languages.
@@ -49,7 +49,7 @@ When hiring for another language it can be difficult to test the candidates prof
 
 Finally candidate management from the start of the hiring process to the end is really important. Having an application form for the job you are hiring for in the required language is a really great start. This allows the candidate to apply through their native language. Following on from this, it is really important to be clear with the candidate how the process will continue. Will the communication language change? Many companies will hire in English for a specific location but the language requirement is actually different. It is always helpful to outline this clearly in the job description. If your application form is in one language you should also ensure that at least the first communication sent to the candidate is also in that language. HireHive can help here with customised email response options that are automatically sent to the candidate on application.
 
-![Multilingual Hiring - HireHive](/images/Screenshot-2019-01-08-at-11.15.49-AM-624x400.png)
+![multilingual hiring - hirehive](/images/screenshot-2019-01-08-at-11.15.49-am-624x400.png)
 
 HireHive is the leading European recruitment software for companies that are hiring multilingual talent. If you are looking for a system to help you manage your hiring take a look and get started today with our easy set up and free trial.
 

@@ -1,15 +1,15 @@
 ---
-title: "5 unusual recruiting tools to update your recruiting strategy"
-date: "2016-04-11"
+title: '5 unusual recruiting tools to update your recruiting strategy'
+date: '2016-04-11'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "recruiting-tools"
-slug: "recruiting-tools-recruiting-strategy"
-seoTitle: "5 recruiting tools to update your recruiting strategy | Recruiting tools"
+  - 'recruiting-tools'
+slug: 'recruiting-tools-recruiting-strategy'
+seoTitle: '5 recruiting tools to update your recruiting strategy | Recruiting tools'
 seoDescription: "Keeping the edge over the competition for top talent requires constant innovation. Here's recruiting tools to help you find your next successful hire."
-author: "Orla-Hodnett"
-coverImage: "/images/Unusual-Tools-e1460364760182.jpg"
+author: 'Orla-Hodnett'
+coverImage: '/images/Unusual-Tools-e1460364760182.jpg'
 ---
 
 The level of competition for top talent is obvious and it's the job of the recruiter to modify their hiring strategy and innovate wherever possible, keep cost or time to hire as low as possible,  and keep all requirements, as well as regulation, at the forefront of your mind.

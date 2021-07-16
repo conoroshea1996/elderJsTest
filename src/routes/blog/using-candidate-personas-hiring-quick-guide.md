@@ -1,13 +1,13 @@
 ---
-title: "Using candidate personas for hiring: Your quick guide"
-date: "2017-07-12"
+title: 'Using candidate personas for hiring: Your quick guide'
+date: '2017-07-12'
 categories:
-  - "recruiting-strategy"
-slug: "using-candidate-personas-hiring-quick-guide"
-seoTitle: "Using candidate personas for hiring: Your quick guide"
-seoDescription: "Do you struggle to hire and retain the right staff? Well research-driven candidate personas may be the best way forward - see our guide"
-author: "Rachel-Hill"
-coverImage: "/images/mario-luigi-yoschi-figures-163036.jpeg"
+  - 'recruiting-strategy'
+slug: 'using-candidate-personas-hiring-quick-guide'
+seoTitle: 'Using candidate personas for hiring: Your quick guide'
+seoDescription: 'Do you struggle to hire and retain the right staff? Well research-driven candidate personas may be the best way forward - see our guide'
+author: 'Rachel-Hill'
+coverImage: '/images/mario-luigi-yoschi-figures-163036.jpeg'
 ---
 
 _Ever wondered what your ideal candidate would look like?_
@@ -46,7 +46,7 @@ Once you have decided how many personas you need, take a look back on the top pe
 
 Once you have collated all your research, sit down with the rest of the sourcing team and discuss what you found. You can then work on making the candidate personas readily available to anyone within sourcing by using a collaborative platform like Google Drive. While you’re at it, why not print them off and hang them on the wall?
 
-![candidate personas](/images/Candidate-persona-1-1.png)
+![candidate personas](/images/candidate-persona-1-1.png)
 
 ### **The advantages of candidate personas**
 

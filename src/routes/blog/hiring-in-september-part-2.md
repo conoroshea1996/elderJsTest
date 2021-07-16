@@ -1,15 +1,15 @@
 ---
-title: "Best practice for hiring in September: Part 2"
-date: "2017-09-07"
+title: 'Best practice for hiring in September: Part 2'
+date: '2017-09-07'
 categories:
-  - "recruiting-strategy"
+  - 'recruiting-strategy'
 tags:
-  - "september"
-slug: "hiring-in-september-part-2"
-seoTitle: "Best practice for hiring in September: Part 2 | HireHive"
-seoDescription: "We are in the midst of peak recruiting season. What can you do to gain an edge over the competition? Find out more about hiring in September:"
-author: "Orla-Hodnett"
-coverImage: "/images/fall-autumn-red-season.jpg"
+  - 'september'
+slug: 'hiring-in-september-part-2'
+seoTitle: 'Best practice for hiring in September: Part 2 | HireHive'
+seoDescription: 'We are in the midst of peak recruiting season. What can you do to gain an edge over the competition? Find out more about hiring in September:'
+author: 'Orla-Hodnett'
+coverImage: '/images/fall-autumn-red-season.jpg'
 ---
 
 _We are in the midst of the peak recruiting season. What will edge you ahead of the competition? It may well be your recruiting software._

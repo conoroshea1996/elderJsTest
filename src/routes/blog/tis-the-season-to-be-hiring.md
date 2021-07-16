@@ -1,13 +1,13 @@
 ---
-title: "‘Tis the season to be hiring…"
-date: "2015-12-18"
+title: '‘Tis the season to be hiring…'
+date: '2015-12-18'
 categories:
-  - "recruiting-strategy"
-slug: "tis-the-season-to-be-hiring"
+  - 'recruiting-strategy'
+slug: 'tis-the-season-to-be-hiring'
 seoTitle: "Christmas hires: 'tis the season to be hiring... | HireHive ATS"
-seoDescription: "Unless you’re looking for Santa’s little helpers, Christmas isn’t viewed as a time for hiring. Maybe you’re missing a trick to make some Christmas hires."
-author: "Pamela-Weaver"
-coverImage: "/images/Elves-Xmas-2015.jpg"
+seoDescription: 'Unless you’re looking for Santa’s little helpers, Christmas isn’t viewed as a time for hiring. Maybe you’re missing a trick to make some Christmas hires.'
+author: 'Pamela-Weaver'
+coverImage: '/images/Elves-Xmas-2015.jpg'
 ---
 
 It’s holiday time. Candidates figure you’re too busy trying to clear your desk and get out the door to risk submitting an application that will end up buried under 10 days’ worth of email.
