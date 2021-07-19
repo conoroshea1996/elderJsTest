@@ -32,7 +32,6 @@ module.exports = {
     },
     '@elderjs/plugin-images': {
       imageManifest: '/images/ejs-image-manifest.json',
-      addVanillaLazy: true, // if you want to disable the lazyload plugin and add your own.
     },
   },
   shortcodes: { closePattern: '@@', openPattern: '@@' },
