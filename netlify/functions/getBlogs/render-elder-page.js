@@ -55,9 +55,9 @@ module.exports = async function renderElderPage(permalink, extraData) {
     template: 'recruitingBlog',
     route: 'recruitingBlog',
     type: 'server',
-    permalink: '/recruiting-blog/'
-  }
-  
+    permalink: '/recruiting-blog/',
+  };
+
   const page = new Page({
     ...elder,
     request,
