@@ -10,7 +10,7 @@ module.exports = async function renderElderPage(permalink, extraData) {
   // console.log('elder locations', elder.settings.locations);
 
   const route = elder.routes['recruitingBlog'];
-
+  
   const dataHook = {
     hook: 'data',
     name: 'addSomethingToData',
@@ -21,7 +21,7 @@ module.exports = async function renderElderPage(permalink, extraData) {
         return {
           slug: c.slug,
           frontmatter: {
-            coverImage: c.frontmatter.coverImage,
+            coverImage: c.frontmatter.coverImage.toLowerCase(),
             categories: c.frontmatter.categories,
             title: c.frontmatter.title,
           },
