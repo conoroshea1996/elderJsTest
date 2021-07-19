@@ -32,6 +32,7 @@ module.exports = {
     },
     '@elderjs/plugin-images': {
       imageManifest: '/images/ejs-image-manifest.json',
+      folders: [],
     },
   },
   shortcodes: { closePattern: '@@', openPattern: '@@' },
