@@ -1,4 +1,3 @@
-require('dotenv').config();
 const renderElderPage = require('./render-elder-page');
 
 exports.handler = async (event) => {
