@@ -30,9 +30,6 @@ module.exports = {
     '@elderjs/plugin-markdown': {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
     },
-    '@elderjs/plugin-images': {
-      imageManifest: '/images/ejs-image-manifest.json',
-    },
   },
   shortcodes: { closePattern: '@@', openPattern: '@@' },
 };

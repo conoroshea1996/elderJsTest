@@ -4,7 +4,6 @@
 /build/
 .DS_Store
 
-/netlify/functions/getBlogs/node_modules
 /netlify/functions/getBlogs/___ELDER___
 /netlify/functions/getBlogs/public/*
 /netlify/functions/getBlogs/src
