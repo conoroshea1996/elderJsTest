@@ -2,7 +2,6 @@ require('dotenv').config();
 const path = require('path');
 const markdownPlugin = require('@elderjs/plugin-markdown');
 const imagePlugin = require('@elderjs/plugin-images');
-const fetch = require('node-fetch');
 
 module.exports = {
   origin: '', // TODO: update this.
@@ -31,10 +30,9 @@ module.exports = {
     '@elderjs/plugin-markdown': {
       routes: ['blog', 'textPages', 'FRblog', 'customer'],
     },
-    //   // '@elderjs/plugin-seo-check': {
-    //   //   display: ['errors'], // If the errors are too verbose remove 'warnings'
-    //   //   //writeLocation: './report.json', // if you want to write a report of errors
-    //   // },
+    '@elderjs/plugin-images': {
+      imageManifest: '/images/ejs-image-manifest.json',
+    },
   },
   shortcodes: { closePattern: '@@', openPattern: '@@' },
 };

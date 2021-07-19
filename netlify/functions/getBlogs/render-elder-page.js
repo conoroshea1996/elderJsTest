@@ -1,5 +1,4 @@
 const { Elder, Page, getConfig } = require('@elderjs/elderjs');
-const { xlink_attr } = require('svelte/internal');
 const config = require('./elder.config');
 
 const elder = new Elder({ context: 'server', ...config });
