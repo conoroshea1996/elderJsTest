@@ -10,3 +10,5 @@
 /netlify/functions/getBlogs/images/sizes/*
 # Local Netlify folder
 .netlify
+
+/netlify/functions/getBlogs/node_modules
