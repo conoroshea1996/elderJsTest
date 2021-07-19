@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "@elderjs/elderjs": "^1.5.5",
-    "@elderjs/plugin-markdown": "^0.1.37",
+    "@elderjs/plugin-markdown": "^0.1.37"
   }
 }
