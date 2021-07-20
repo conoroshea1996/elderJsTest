@@ -23,7 +23,8 @@ exports.handler = async (event) => {
     pageToRender,
     {
       search: event.queryStringParameters['search'],
-      page: page,
+      // zero based pagination so 1 should be two
+      page: page - 1,
     },
     isFrenchBlog,
   );
