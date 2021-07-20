@@ -7,7 +7,7 @@ module.exports = async function renderElderPage(permalink, extraData, isFrenchBl
   await elder.bootstrap();
   let request = elder.serverLookupObject[permalink];
 
-  const template = isFrenchBlog ? 'recruitingBlog' : 'FRrecruitingBlog';
+  const template = isFrenchBlog ? 'FRrecruitingBlog' : 'recruitingBlog';
   const route = elder.routes[template];
 
   const postPerPage = 10;

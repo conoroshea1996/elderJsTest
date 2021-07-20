@@ -4,7 +4,7 @@ exports.handler = async (event) => {
   console.log(event, 'EVENT');
 
   const isFrenchBlog = event.path.includes('/fr');
-  let page = 1;
+  let page = 0;
   const path = event.path.split('/');
 
   if (isFrenchBlog) {
