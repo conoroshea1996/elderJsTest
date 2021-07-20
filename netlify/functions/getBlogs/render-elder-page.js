@@ -61,7 +61,7 @@ module.exports = async function renderElderPage(permalink, extraData, isFrenchBl
 
   elder.hooks.push(dataHook);
 
-  const slug = isFrenchBlog ? 'fr/blog/' : 'recruiting-blog/';
+  const slug = isFrenchBlog ? 'fr/blog' : 'recruiting-blog';
   request = {
     slug: slug,
     postStart: extraData.page * postPerPage,
