@@ -16,6 +16,20 @@
   force=true
   status = 200
   
+[[redirects]]
+  from = "/fr/blog"
+  query = {search = ":search"} # apply this rule for /old-path?search=example
+  to = "/.netlify/functions/getBlogs/?search=:search"
+  force=true
+  status = 200
+
+[[redirects]]
+  from = "/fr/blog/:page"
+  query = {search = ":search"} # apply this rule for /old-path?search=example
+  to = "/.netlify/functions/getBlogs/?search=:search"
+  force=true
+  status = 200
+  
 [[headers]]
   for = "/_elderjs/*"
   [headers.values]

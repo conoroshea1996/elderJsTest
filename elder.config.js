@@ -35,20 +35,20 @@ module.exports = {
       // debug: false,
       // cssString: false,
       // //comonent out when deploying to netlify so it doesn't make the images again takes ages
-      folders: [
-        {
-          src: 'assets/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-          output: 'images/', // where files should be put within the distDir defined in your elder.config.js.
-        },
-        {
-          src: 'assets/fr/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-          output: 'fr/images/', // where files should be put within the distDir defined in your elder.config.js.
-        },
-        {
-          src: 'assets/customers/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
-          output: 'customers/images/', // where files should be put within the distDir defined in your elder.config.js.
-        },
-      ],
+      // folders: [
+      //   {
+      //     src: 'assets/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+      //     output: 'images/', // where files should be put within the distDir defined in your elder.config.js.
+      //   },
+      //   {
+      //     src: 'assets/fr/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+      //     output: 'fr/images/', // where files should be put within the distDir defined in your elder.config.js.
+      //   },
+      //   {
+      //     src: 'assets/customers/images/*', // glob of where your original images are. Relative to rootDir/process.cwd() defined in your elder.config.js. Careful with **.
+      //     output: 'customers/images/', // where files should be put within the distDir defined in your elder.config.js.
+      //   },
+      // ],
       imageManifest: '/images/ejs-image-manifest.json',
       addVanillaLazy: true, // if you want to disable the lazyload plugin and add your own.
       widths: [1280, 768, 576, 400], // Sizes the images will be resized to.

@@ -3,18 +3,30 @@ const renderElderPage = require('./render-elder-page');
 exports.handler = async (event) => {
   console.log(event, 'EVENT');
 
+  const isFrenchBlog = event.path.includes('/fr');
+  let page = 1;
   const path = event.path.split('/');
-  let page;
-  if (path[2]) {
-    page = Number.parseInt(path[2]);
+
+  if (isFrenchBlog) {
+    if (path[3]) {
+      page = Number.parseInt(path[3]);
+    }
   } else {
-    page = 0;
+    if (path[2]) {
+      page = Number.parseInt(path[2]);
+    }
   }
 
-  const html = await renderElderPage('/recruiting-blog/', {
-    search: event.queryStringParameters['search'],
-    page: page,
-  });
+  const pageToRender = isFrenchBlog ? '/fr/blog' : '/recruiting-blog/';
+
+  const html = await renderElderPage(
+    pageToRender,
+    {
+      search: event.queryStringParameters['search'],
+      page: page,
+    },
+    isFrenchBlog,
+  );
 
   return {
     statusCode: 200,

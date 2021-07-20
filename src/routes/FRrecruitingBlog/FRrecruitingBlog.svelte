@@ -1,5 +1,5 @@
 <script>
-  import BlogNavigation from '../../components/FRBlogNavigation.svelte';
+  import FRBlogNavigation from '../../components/FRBlogNavigation.svelte';
   import BlogPagination from '../../components/BlogPagination.svelte';
   import ImageWrapper from '../../components/ImageWrapper.svelte';
 
@@ -7,7 +7,7 @@
   let blogPost = data.blogs.slice(request.postStart, request.postEnd);
 </script>
 
-<BlogNavigation activeCategory={data.category} />
+<FRBlogNavigation hydrate-client={{ activeCategory: data.category }} />
 
 <div class="grid grid-cols-1 gap-x-4 gap-y-8 sm:gap-x-6 lg:grid-cols-6 xl:gap-x-8 my-8 max-w-7xl mx-auto px-6">
   {#each blogPost as { frontmatter, slug }, i}
