@@ -9,6 +9,12 @@ module.exports = {
     data.hookInterface = hookInterface;
     data.hookEntityDefinitions = hookEntityDefinitions;
 
+    const customerStoryIndex = data.markdown.customer.findIndex((c) => c.slug === request.slug);
+    console.log(customerStoryIndex);
+
+    data.previousStory = data.markdown.customer[customerStoryIndex - 1];
+    data.nextStory = data.markdown.customer[customerStoryIndex + 1];
+
     return {
       data,
     };
