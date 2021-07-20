@@ -94,7 +94,8 @@
             class="relative rounded-md shadow-sm float-right {$widthBarSearch ? '-right-6' : ''}"
             style="width:{$widthBarSearch}px;">
             <div
-              class="absolute inset-y-0 left-0 flex items-center cursor-pointer"
+              class="absolute inset-y-0 flex items-center cursor-pointer"
+              style="left:{$widthBarSearch > 0 ? -18 : 0}px;"
               on:click={() => widthBarSearch.set(320)}>
               <svg
                 class="h-5 w-5 text-gray-900"
