@@ -68,7 +68,7 @@ module.exports = async function renderElderPage(permalink, extraData, isFrenchBl
     postEnd: extraData.page * postPerPage + postPerPage,
     isLastPage: extraData.page === allPagesCount - 1,
     hasPrevious: extraData.page > 0,
-    hasNext: extraData.page !== allPagesCount - 1,
+    hasNext: extraData.page < allPagesCount - 1,
     page: extraData.page,
     previousPage: { slug: `${slug}/${extraData.page - 1}?search=${extraData.search}` },
     nextPage: { slug: `${slug}/${extraData.page === 0 ? 2 : extraData.page + 1}?search=${extraData.search}` },
