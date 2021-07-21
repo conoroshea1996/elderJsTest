@@ -16,7 +16,7 @@
             <img
               loading="lazy"
               class="absoulte inset-0 h-full w-full object-cover"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
               alt={frontmatter.slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
@@ -40,7 +40,7 @@
             <img
               loading="lazy"
               class="h-56 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=250&h=250"
               alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -64,7 +64,7 @@
             <img
               loading="lazy"
               class="h-48 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=200&h=200"
               alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -88,7 +88,7 @@
             <img
               loading="lazy"
               class="absoulte inset-0 h-full w-full object-cover"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h="
               alt={frontmatter.slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
@@ -136,7 +136,7 @@
             <img
               loading="lazy"
               class="h-48 w-full object-cover rounded-lg"
-              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=200&h=200"
               alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
