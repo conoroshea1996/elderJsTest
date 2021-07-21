@@ -13,7 +13,11 @@
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
+            <img
+              loading="lazy"
+              class="absoulte inset-0 h-full w-full object-cover"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              alt={frontmatter.slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -32,9 +36,12 @@
     {:else if i % data.pageSize === 1}
       <div class="relative col-span-1 lg:col-span-3 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="relative h-56 overflow-hidden rounded-lg">
-            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
-            <div class="absolute inset-0" />
+          <div class="flex-shrink-0">
+            <img
+              loading="lazy"
+              class="h-56 w-full object-cover rounded-lg"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -53,9 +60,12 @@
     {:else if i % data.pageSize === 2 || i % data.pageSize === 3 || i % data.pageSize === 4}
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="relative h-48 overflow-hidden rounded-lg">
-            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
-            <div class="absolute inset-0" />
+          <div class="flex-shrink-0">
+            <img
+              loading="lazy"
+              class="h-48 w-full object-cover rounded-lg"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
+              alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -75,7 +85,11 @@
       <div class="relative col-span-1 lg:col-span-4 rounded-md h-80">
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
+            <img
+              loading="lazy"
+              class="absoulte inset-0 h-full w-full object-cover"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              alt={frontmatter.slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -94,9 +108,12 @@
     {:else if i % data.pageSize === 6}
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="relative h-48 overflow-hidden rounded-lg">
-            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
-            <div class="absolute inset-0" />
+          <div class="flex-shrink-0">
+            <img
+              loading="lazy"
+              class="h-48 w-full object-cover rounded-lg"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=350&h=350"
+              alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -115,9 +132,12 @@
     {:else if i % data.pageSize === 7 || i % data.pageSize === 8 || i % data.pageSize === 9}
       <div class="relative col-span-1 lg:col-span-2  rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
-          <div class="relative h-48 overflow-hidden rounded-lg">
-            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
-            <div class="absolute inset-0" />
+          <div class="flex-shrink-0">
+            <img
+              loading="lazy"
+              class="h-48 w-full object-cover rounded-lg"
+              src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350"
+              alt={frontmatter.slug} />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
