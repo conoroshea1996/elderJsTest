@@ -13,7 +13,7 @@
       <div class="relative col-span-1 lg:col-span-3 rounded-md h-80">
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage} />
+            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -33,7 +33,7 @@
       <div class="relative col-span-1 lg:col-span-3 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-56 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage} />
+            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -54,7 +54,7 @@
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-48 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage} />
+            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -75,7 +75,7 @@
       <div class="relative col-span-1 lg:col-span-4 rounded-md h-80">
         <a href="/{slug}">
           <div class="relative h-full overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage} />
+            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-700 opacity-80" />
           </div>
 
@@ -95,7 +95,7 @@
       <div class="relative col-span-1 lg:col-span-2 rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-48 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage} />
+            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -116,7 +116,7 @@
       <div class="relative col-span-1 lg:col-span-2  rounded-md">
         <a href="/{slug}" class="flex flex-col overflow-hidden">
           <div class="relative h-48 overflow-hidden rounded-lg">
-            <ImageWrapper imageSrc={frontmatter.coverImage} />
+            <img loading="lazy" src="{frontmatter.coverImage}?nf_resize=fit&w=450&h=350" alt={frontmatter.slug} />
             <div class="absolute inset-0" />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
